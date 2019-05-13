@@ -1,0 +1,1381 @@
+Cosmoglotta A 078 (sep-oct 1931)
+================================
+
+\
+
+::: {#displaycontent}
+COSMOGLOTTA
+
+ 
+
+Oficial organ bimensual del Occidental-Union
+
+ 
+
+Consacrat al developation, propaganda e aplication de
+
+ 
+
+LINGUE INTERNATIONAL OCCIDENTAL
+
+ 
+
+\-\-\-\--
+
+ 
+
+ 
+
+REDACTION (manuscrites, printates de exchange e por recension) : 
+
+A. Z. RAMSTEDT, Villagatun 25, Helsingfors, Finland. 
+
+ADMINISTRATION (abonnamentes, subventiones, expedition de Cosmoglotta)
+: 
+
+J. A. KAJS, Wilsonova Il, Brno X Il, Tchecoslovacia. 
+
+ 
+
+Annu X N:o 5 Sep-Oct 1931 (Numeró 78)
+
+ 
+
+ 
+
+ 
+
+CONTENE: Esque Latino sine flexione es apt quam lingue international? de
+Dr. C. W. von Sydow, Lund, pag. 73. Versus interlinguistica, de A.Z.R.,
+pag. 80. Complet Grammatica, de K. Janotta, pag. 83. M. Pirro, de
+A.Z.R., pag. 86. Esque Ido es vermen logic? de Prof. Ric BErger, Morges,
+pag. 90. Cronica, pag. 91. Anuncies, pag. 96.
+
+ 
+
+ESQUE LATINO SINE FLEXIONE ES APT QUAM LINGUE INTERNATIONAL?
+
+ 
+
+In Cosmoglotta 1931 Nr 1 esset publicat \"Quelc paroles concernent
+Latino sine flexione\", un excerpte es un articul pri li Lingue
+International, scrit de me por un sved publication. Ti articul ne esset
+originalmen intentet por un international publica. Si yo vell har scrit
+direct por Cosmoglotta, yo vell har expresset mi opiniones in un altri
+maniere. Un replica, un poc arogant, in Schola et Vita, de su redactor
+Sr Nicola Mastropaolo instiga me a un nov, un poc plu precis
+clarification de mi position in relation a Latino sine flexione e li
+question del Lingue International in general.
+
+ 
+
+Li postulationes concernent un ver Lingue international.
+
+ 
+
+Yo ne have nequel crede, que li question del lingue auxiliari va esser
+soluet per decrete del Liga de Nationes o por altri decretes statal,
+antequam li idé essentialmen e principialmen ja ha victoriat per su
+propri urgentie. Ti urgentie es dependent del fort beson far li
+international relationes plu facil por tal homes, queles besona les, e
+del beson far tal relationes plu neutral. Li postulationes queles on
+deve posir
+
+ 
+
+ 
+
+-74-
+
+ 
+
+concernent un interlingue, depende essentialmen del natura del
+international relationes aspirat.
+
+ 
+
+Si it vell acter se solmen pri comercial e ocasional conectiones inter
+europanes e asiates o polinesianes - in ti casu un pidgin-lingue posse
+esser usat e it vell suficer. Anc por viages in Europa un pidgin, quel
+omni viageant posse far se por su propri usation, vell esser passabilmen
+bon por usation in hoteles e stationes de ferrovias. Por tal besones
+null interlinguistic movement es necessi.
+
+ 
+
+Expressivitá, facilitá.
+
+ 
+
+In contrari, si it acte se pri un interlingue por li diferentissim
+cultural relationes inter li civilisat nationes, p. ex. por scientific
+congresses e dissertationes - in ti casu omni pidgin-lingues es ínapt.
+Tande on deve postular un lingue, quel posse expresser omni nuancies del
+pensa e formar un scientificmen satisfatori terminologie. 1) Ultra tal
+qualificationes on deve postular ne solmen que omni nuancies del
+interlingue deve esser immediatmen comprendet de omni educat persones,
+ma anc que li lingue deve esser tam facilmen aprensibil e tam facilmen
+usabil, quam possibil, sin que su immediat comprensibilitá e su
+possibilitás de nuanciation es diminuet. Ti postulationes es evident por
+omni interlingue, ma ili es absolut ínevitabil, si li interlingue aspira
+a general usation anc sin intervention del states.
+
+ 
+
+Internationalitá de vocabularium, derivation, flexion e sintaxe.
+
+ 
+
+Li postulationes, queles yo mentionat ci, have quam axiomatic corolarie
+li postulationes pri maxim grand internationalitá possibil concernent
+vocabularium, derivation, flexion e sintaxe. Si on vole verificar li
+aptitá de un interlingue, on deve comparar su derivates con li
+international vocabularium del europan lingues. Ma on deve ne obliviar
+comparar anc li morfologie e li sintaxe, queles deve coresponder a lu
+medial del europan lingues. Un altri maniere controlar li aptitá de un
+interlingue es constatar, esque su paroles adapta se por esser pruntat
+in li national lingues. Tal parolformationes quam \"malsanulejo\" de
+Esperanto o \"institucuro\" de Ido ne existe in
+
+ 
+
+1\) Li terminologie folkloric in li articul \"De fabula populare\" de sr
+J. Honti in Schola et Vita 1931 1-3 es totalmen impossibil quam
+international scientific terminologie.
+
+ 
+
+-75-
+
+ 
+
+li lexicos del vivent lingues e ne es apt por esser incorporat quam
+pruntat paroles, proque null europan lingue es parat usar les. Ili es
+contrari al international derivation. Li interlingue deve sequer ti via,
+quel li comun tendentie del europan lingues indica.
+
+ 
+
+\"Bellsonantie\".
+
+ 
+
+Sovente on audi postulationes pri \"bellsonantie\" (eufonie). Un tal
+postulation ne deve esser negliget, ma anc ne exagerat. It es
+exageration, si on rejecte un ver international parol e substitue it per
+un minu international, solmen pro que li ultim forsan \"sona plu bell\".
+Si li italian lingue es opinet quam tre eufonic pro su sonori
+parol-finales -o e -a, on ne deve arbitrarimen aglutinar -o e -a al
+paroles por far les \"plu bell\". Li resultate va esser caricatura e
+ridicul pompositá.
+
+ 
+
+ 
+
+Caricaturat simplification.
+
+ 
+
+Li estetic postulationes merite atention anc de un altri vidpunctu.
+Chascun save, que un ínnatural deviation del customari lingual usu in
+quelcunc lingue es sentit quam alquo tre repugnant, deformi, de ti
+homes, por queles it es lor matrin lingue. Quande un foreno, qui solmen
+ínperfectmen ha aprendet un lingue, prova parlar it, li resultate es un
+sort de pidgin: ínflectet paroles e primitiv ínnuanciat sintax, quam p.
+ex. che li verbes present témpore in vice de preterite, null modal
+formes, etc. Un tal pidgin ocasionalmen posse servir quam
+intercomunicatori medie, ma it resta despreciat quam caricatura del
+lingue visat. Li experientie ha instructet me, quam ínagreabil un tal
+pidgin es, es it fortia me postular, que li interlingue ne deve esser un
+pidgin, in li sense de caricatura de un altri lingue. It ne deve esser
+un pidgin-anglés quam Uniti Langue, o un pidgin-latin quam Latino sine
+flexione. Li interlingue deve esser un índependent, autonom lingue, ne
+un pidgin de un altri, vivent o mort.
+
+ 
+
+Fals principies.
+
+ 
+
+Ultra li postulationes, queles yo mentionat supra e queles in general es
+acceptat de modern interlinguistes, on sovente ancor vide cert special
+\"principies\" presentat: Chascun son - un signe, chascun signe - un
+son! Null duplic consonantes!
+
+ 
+
+ 
+
+-76-
+
+ 
+
+Null flexion! Li flexion deve esser substituet totalmen per auxiliari
+particules, sintactic órdine, etc. E prof. Peano have su principie: Null
+grammatica!
+
+ 
+
+Omni ti principies es pur arbitraritás.
+
+ 
+
+Ili nequande posse esser perductet sin exceptiones. Ili fa li lingue plu
+desfacil a comprender e usar. Ili adporta absolut null profite, ma grand
+detrimentes. Plu important es sequer to, quo ja es international.
+
+ 
+
+Latino sine flexione.
+
+ 
+
+To quo yo ha ja dit ci explica mi position in relation a Latino sine
+flexione. Si L. s. f. vell usar omni international paroles, sive de
+latin, sive de altri provenientie, tande yo vell consentir principalmen
+con Sr Mastropaolo. Ma esque L.s.f. in realitá ne seque li metode, que
+omni paroles in li latin lexico posse esser automaticmen acceptat e
+usat? Nam solmen sequente un tal metode on posse directmen utilisar un
+latin lexico \"ad usu de schola\", secun li directives de prof. Peano.
+Yo ne posse aprobar un tal superficial solution del vocabularium por li
+lingue international. Solmen un part del latin vocabularium es usabil
+hodie. Tro mult paroles latin have hodie un totmen altri signification
+international. Altri latin paroles es por sempre mort e ínnecessi. E por
+quant necessissim expressiones ne existe paroles in un ordinari latin
+lexico! Chascun comprende que it es impossibil usar li latin \"classis\"
+por marine, \"copia\" por armé, \"tentamine\" por prova, \"verbum\" por
+parol, etc.
+
+ 
+
+Ti remarcas ne significa, que yo principalmen refusa latin paroles, no,
+yo vell esser parat acceptar mem un latinitá plu grand quam ti del
+present Occidental in tal casus, u un international usu ne posse esser
+constatat.
+
+ 
+
+Li \"consilies\" del Academia pro Interlingua.
+
+ 
+
+Li Academia \"consilia orthographia latino pro vocabulo derivato ex
+latino.\" Li consilie es tre mal. Secun li regules del Academia hotel
+deve esser scrit \"hospitale\", e comité deve esser substituet per
+\"comitatu\", ma hospitale e comitatu have un totmen altri signification
+international. Pro quo on deve scrir p.e. \"protractu\", quam fa un
+conosset autor in Schola et Vita, in vice de \"portret\", usat in
+anglés, francés, german, scandinav, russ, polonés, etc.? It sembla
+
+ 
+
+Nr 78\
+\
+COSMOGLOTTA\
+\
+-77-\
+\
+que null nation usa hodie un form „protractu\", e verisimilmen ti form
+nequande havet in li latin un signification simil al modern. Li anglés
+lingue usa to protract, ma it significa retardar, ajornar! Pro quo on
+deve scrir „addirectione\" in vice de adress? O „ingeniario\" in vice de
+ingeniero, malgré que on have H ingeniero, I ingegnere, F ingenieur, A
+engineer, G Ingenieur, Sc ingeniör, R ingenier, Pol inziynier, Tch
+inzenyr? Ci solmen quelc practic exemples de to, a qual absurditás ducte
+li „consilie\" del Academia. Lu sol rational es serchar un form e un
+ortografie, quel es tam international quam possibil. Ma on ne deve
+serchar un imaginat internationalitá, forsan existent in li latin lingue
+ante 500 o 1000 annus. To es pur archeologie. It es plu bon\
+saver quo es international hodie, in nor propri témpore. Solmen per tal
+procede on posse expresser se talmen, que on es bon comprendet. E li
+principal scop del lingue es ya far se comprendet.
+
+ 
+
+\
+\
+Mult altri „consilies\" del Academia es de simil qualitá. Ili ducte a
+anomalies e desfacilitás. It ne vale que L. s. f. „jam servi a suo
+auctore et suffice.\" Too quo forsan sufice por un matematico e
+astronomo ne sufice por altri homes, queles ocupa se con plu variant
+intelectual temas e pro to besona un lingue plu variabil e flexibil con
+plu rich nuanciation, Yo va ci mentionar ancor quelc punctus, queles yo
+trova maxim criticabil e repugnant.\
+\
+Null grammatica ?\
+\
+Prof. Peano asserte, que grammatica es sin valore e refere al chinés
+lingue, quel, secun su testimonie, „ne habe grammatica\". Il consilia,
+que on deve scrir li vocabules sub form citat in cert lexicos e
+supresser omni ínutil elementes. Li resultate va esser un lingue sin
+grammatica. \"Tale lingua es tam claro quam un lingua cum grammatica\".\
+\
+To es un profund erra. Ne existe un lingue sin grammatica. Li chinés
+have un \'\'tre complicat\'\' grammatica (vide p. ex. Jespersen: Die
+Sprache, pag. 354). Sr Peano confuse grammatica e morfologie, quel es
+solmen un part del grammatica. Li chinés ne have un morfologie, ma in
+vice de it \'\'tre numerós e subtilissim regules\'\' pri li position del
+paroles in li frase, pri usation de „vacui paroles\", queles servi al
+grammatical scopes, etc., regules tre desfacil a aprender
+
+ 
+
+-78-\
+\
+COSMOGLOTTA\
+\
+por europanes, queles ya ne es acustomat a un tal tip de lingue.\
+\
+Si on have li idé, que flexion e mem derivation deve esser abolit, on
+deve substituer li manca de morfologie per sintactic regules. Ma prof.
+Peano vole null grammatica. Li resultate ne es un lingue, ma un
+acumulation de paroles, de quel li rect sense es tro sovente tre
+desfacilmen comprendet.\
+\
+\"Distinctione de partes de oratione: substantivo, adjectivo, verbo,
+adverbio, praepositione, es relativo ad lingua cum flexione et habe
+nullo valore logico,\" asserte prof. Peano. Ma omni lingues de Europa es
+lingues con flexion, e solmen un tal tip de lingue es apt servir quam
+international lingue por europanes. Etsi li distinctiones mentionat vell
+esser sin logic valore (quo es contestabil), li scop de un lingue ne es
+presentar logic valores, ma lingual valores : t. e. intercomprension. Yo
+refere al articules de Ramstedt: „Li psicologic e sociologic caractere
+del lingue\", Cosmoglotta, no 39 e 40, o in „Occidental, die
+Weltsprache\".\
+\
+Deflectes del sistema.\
+\
+L.s.f. usa ablative masculin del latin adjectives, finient per -us, -a,
+-um, quo yo trova absurd. Ne solmen -us, -a, -um ma anc -o es ya ci
+finales de génere. Pro quo ne omisser ti finales, si on ne vole
+expresser génere per li adjectives? In omni casu just ti adjectives
+postula un special regul. Bono es masculinum de bonus, bona, bonum.
+Esque it ne vell esser plu rational dir \"bon femina\" quam „bono
+femina\"? It es íncontestabilmen repugnant por omni persones, lingualmen
+educat.\
+\
+Li consilie ne usar infinitive, ma solmen li verbal tema, es anc un
+consilie, quel es strict contrari al general europan, ergo international
+usu e quel fa li lingue desfacilmen comprendet.\
+\
+Li consilie ne usar articules es contrari al lingual usu in omni romanic
+e germanic lingues, ergo contra international usu. Resulta un lingue
+povri de nuancies e mal comprensibil.\
+\
+Expresser \"va esser\" e „vell esser\" per „i es\" e „i ad es\", es ni
+latin, ni international. Pro quo li Academia consilia
+
+ 
+
+ 
+
+-79-\
+\
+un tal construction, quel null hom comprende sin penibil traduction in
+conformitá al natural expression ?\
+\
+Li manca de nuanciation in li lingue del Academia es tre fatal. It fa li
+sense de mult frases plu o minu enigmatic. Sovente on naturalmen posse
+soluer li enigmas tre bon, in multissim casus li letor es fortiat
+meditar durant un cert témpore pri to, quo li autor del articul vole
+dir. E proque ad ultra li paroles sovente apari in íncustomari formes o
+es archeologic raritás, li sense del enigmas ne posse esser
+conjecturat.\
+\
+It es clar, que un seriosmen intentet international auxiliari lingue ne
+deve esser tal. It ne es suficent referer a to, que li lingue ya es usat
+in „Schola et Vita\", nam quant letores lee li articules de it por
+seriosmen aprender alquo de lor contene? Ti, qui prova scrir un grand
+scientific ovre (filologic, historic, filosofic) in Latino sine
+flexione, va trovar bentost, que il ne posse clarmen expresser to, quo
+il vole dir, e null altri hom have li patientie suficent por tal
+solution de enigmas, nam un penibil labor es necessi por comprender to
+quo es scrit.\
+\
+Apelle al homan vanitá?\
+\
+Ti fact, que li Academia ha decidet dar tal consilies, yo ne posse
+explicar per altri maniere quam per to, que li Academia apella a
+coquetteríe e vanitá de su membres. It es imposant saver latin, e pro
+que ili ne have témpore, ni energie por apprender li ver latin, ili vade
+li plu curt via, indicat del Academia, e usa un pidgin-latin, ne pro
+beson, ma pro coquettar. Ma un tal vanitá have null cos a far con li
+real beson de un international lingue.\
+\
+Heresie es progress.\
+\
+Ma existe espera, que li Academia pro Interlingua ancor va far services
+al interlinguistica, nam it have li prudentie dir a su membres, que it
+totmen ne es necessi sequer su consilies. Ti, qui prefere, posse sequer
+li via del san ration e usar articul, omisser ínnecessi vocales,
+introducter flexiones, necessi por un modern lingue, etc. Li Academie ne
+desaproba heresie de su propri doctrines, forsan comprendente, que just
+in heresies jace li sol possibilitás de evolution e progress.
+
+ 
+
+ 
+
+-80-\
+\
+In li sam numeró de „Schola et Vita\" trova se un articul de un tal
+heretico, Sr Henk Bylsma. Su lingue es comprensibil immediatmen e sin
+desfacilitá, nam il ne scri sub form de enigmas, ma usa li medies de
+expression in modern lingues. A ti principies, queles il proposi, anc yo
+posse adherer, etsi yo pensa, que quelc de su paroles posse esser
+substituet per plu bon. Ma Sr Bylsma ne seque li mal consilies del
+Academia, il usa su san ration.\
+\
+VERSUS INTERLINGUISTICA.\
+\
+Senior Dénes Szilågyi in Budapest es li autor de un brochura con li
+titul \"Versus Interlinguistica\", edition Schola et Vita, Via E.
+Pagliano 46, Milano (insertet anc in li jurnal Schola et Vita 1931 4-5).
+Il merite nor gratitá e admiration pro ti ovre, quantitativmen micri,
+solmen 24 págines, ma qualitativmen un del maxim grav contributiones a
+nor yun scientie, quel jamá ha esset publicat. Sr Szilágyi ha provat in
+ti ci ovre conscientiosmen colecter e exposir li resultates del
+explorationes e experimentes del interlinguistes, adjunctente su propri
+observationes. Proque il pena in scientific maniere analisar e definir
+li conceptiones e términos, e proque su installation al problemas es
+serios e ínpartial, su dissertation es superior al maxim mult
+interlinguistic publicationes, anc tis scrit de reputat scientistes,
+queles, quam noi save, sovente es inclinat expedir summarimen li
+questiones del interlinguistica per frases o quasi-solutiones.\
+\
+Li unesim part del brochura: „Principios de Interlinguistica Generale\"
+tracta in 23 curt paragrafes p ex. li sequent questiones: definition de
+interlinguistica, su justification quam scientie, definition de
+interlingue, diferentie inter „interlinguistica general\" e
+\"interlinguistica normativ\", un tre curt resumate del historie del
+maxim important interlingues, li jure de interlinguistica general
+evaluar li interlingues de social vidpunctu, li sociologic vidpunctus
+pri success de „movementes\" in favor a un sistema e li rol de lor
+„ductores\", li psicologic vidpunctus pri li individues interessat in
+production de interlingues.
+
+ 
+
+ 
+
+-81-\
+\
+Yo es convictet que chascun letor con joy va far conossentie con li
+observationes de Sr Szilégyi e consentir, que ili in general es precis e
+concis.\
+\
+Li autor discerne inter „interlinguistica generale\", quel os „studio
+historico e comparativo de interlinguas\" e „interlinguistica
+normativo\", quel es „systema totale de theories et technicas serviente
+ad productione de interlinguas\". It sembla me, que li términos
+„historic interlinguistica\" e „constructiv interlinguistica\" forsan
+vell esser suficent e plu clar.\
+\
+Su observation pri li grav rol del caractere de ductores por li success
+de un movement, sin dúbit, es tre just, benque li success naturalmen
+depende anc de altri, intern e extern factores. Il indica, que li
+adherentes de Volapük format un secta, sat fanatic, ma támen Volapük
+devet perir pro li tro sever person de su autor. „Li caractere de un
+clement patre de su autor, fat possibil a Esperanto superviver un
+reformation (de Ido), e ti ultim presenta un caracteristic image de omni
+reformation, conceptet secun li schema: surrection contra li patre. In
+céteri, che Esperanto noi posse sequer in maxim bon maniere un analogie
+al religios movementes, it observa mem rituale, ceremoniale, e alquant
+--- mite. Altri sistemas de interlingue, etsi providet per perfect
+rationalistic motivation, ha devet perir pro li ínpaternal person
+ductent, e pro particularitá de ultra-individualistic adherentes, qui ne
+ha posset identificar se in suficent maniere con li ductor.\"\
+\
+Ma apen posse un person, quel ne es adept del psicoanalitic theories de
+S, Freud, subscrir li supositiones de Sr Szilégyi pri li existentie de
+cert latent erotic instinctes, queles vell seducter homes al invention
+de interlingues.\
+\
+Li duesim part: „Dictionario terminologico de Interlinguistica\" es,
+quam Sr Szilégyi admisse in un curt prefacie, solmen un rudimentari
+enciclopedie, ma it es tamen li unesim interlinguistic enciclopedie
+existent e li fructe de respectabil labor. It es astonantmen rich de
+contene, etsi naturalmen li letor vell posser trovar alquel términos e
+conjectiones a adjunter. Manca por ex. 1) li 3 important términos de
+prof. Couturat, li principies de Ido : „unasenceso, renversebleso,
+logikaleso\", 2) li retroverbalisation
+
+ 
+
+ 
+
+-82-\
+\
+de verbal substantives („back-formation\" in li anglés) usat de Lott:
+elekter de elektion, de v. Wahl: conjecter de conjectura, e radicalmen
+de Petrachevitch: ego evolut de evolution, 3) li psicologic e sociologic
+postulationes pri li interlingue, accentuat de me in oppsition a logic e
+individualistic-dictatoric principies, 4) li „ideisme\" de Esperanto
+(\"la interna ideo\'), 5) autonomie de afixes quam in Esperanto, 6)
+universalisme secun Cosman de Milner e occidentalisme quam che
+Occidental, 7) definition del notion „autor\" de un lingue, etc.\
+\
+De mult vidpunctus it es a regretar, que Sr Szilégyi ha tractat li
+questiones tro curt e tro concis, usante términos, conosset solmen de
+specialistes de respectiv scienties, e que il totalmen omisse exemples.
+Yo opine que li brochura vell har posset esser scrit in plu populari
+maniere, sin esser minu scientific. Yo forsan ne erra tro mult, si yo
+crede, que li majorité de persones interessat por interlinguistica ne es
+tam versat in questiones e términos, que ili, sin mult drastic exemples
+ad ocules, posse concepter li teses e deducter li practic consequenties.
+Li cáos in li conceptiones es li cause del cáos in li practica. Mersí a
+ignorantie e dilettantisme existe li fertil terren por li numeros
+systemas, queles es elaborat e presentat de su autores al publica quam
+li ultim parol del interlinguistica, garantit li maxim nov, maxim bon,
+sin defectes, etc. Pro li sam causes ili sempre posse trovar fervent
+adherentes, queles arangea un „movement\" e invelopa se in discussiones
+e polemicas con li adherentes del altri sistemas - un spectacul, quel
+posse esser continuat ad ínfinit.\
+\
+Noi have anc a luctar contra conscient obscurantisme, quel pro „tactic
+motives\" tace pri coses, considerat ínfavorabil.\
+\
+Tárnen noi deve esperar, que plu vast e plu profund conossentie va far
+un grand númere de sistemas e discussiones superflú e ducter a plu grand
+concordie, unitá e sinceritá. Noi ya ne deve cessar creder con Socrates,
+que si li homes vell saver plu, ili vell errar minu.\
+\
+Til nu ne ha existet un instructiv e impartial „Manuale de
+Interlinguistica\". Li present ovre de Sr Szilägyi es li unesim passu
+vers un tal. Forsan it ne vell esser
+
+ 
+
+ 
+
+-83-\
+\
+impossibil arivar in future a convergentie inter vergent directiones
+interlinguistic, si li activ persones vell posseder li sam gradu de
+erudition pri li temas e have li sam vole trovar li veritá. Probabilmen
+it es un simil espera, quel ha motivat li proposition, presentat de Sr
+W. Jezierski in Schola et Vita, pri li institution de diplomas pro
+studies in Interlinguistica.\
+\
+Li unesim preparatori passu por realisar ti idé vell esser li
+elaboration de un Manuale de Interlinguistica. It deve contener p.ex.:
+1) li historie del idés, persones e movementes, 2) un critical e
+exhaustiv examination del sistemas, sin misericordie exposiente a luce
+lor tecnical defectes e linguistic errores, 3) un dictionarium
+interlinguistic e 4) un bibliografie con indication de important libres
+e publicationes, linguistic e interlinguistic.\
+\
+Proque Sr Szilágyi declara, que il ne posse continuar su interlinguistic
+studies, li autoratu de un tal Manuale evidentmen apartene a Sr
+Jezierski, qui es li sol existent lector de cosmoglottologie, e qui,
+quam il informa, in li universitá de Cracovia ducte curses de
+interlinguistica desira reservar se li maxim important rol in
+\"commissiones internationale permanente pro examine in linguistica
+normativo\", proposit de il.\
+\
+Secun mi opinion un tel Manuale deve esser scrit ne in un artificial
+lingue, adminim ne in li desfacilmen comprensibil Latino sine flexione,
+ma preferibilmen in li anglés lingue. It sembla me, que li american
+association l. A. L. A vell haver un excellent ocasion fortmen propulser
+li interlinguistica, e in li sam témpore anc su propri studies, per
+financiar li printation del pret manuscrite, aprobat de competent
+persones.\
+\
+COMPLET GRAMMATICA.\
+\
+(10-esim continuation)\
+\
+D. Prefixes (Continuation).\
+\
+Self- (pronomine) es usat quam reflexiv prefix ante verbal substantives
+o participies: self-abassament, self-abnegation. self-actent(automatic),
+self-admiration, self-amore, self-cludent, self-conossent(ie),
+self-confident(ie), self-conscient(ie),
+
+ 
+
+ 
+
+-84-\
+\
+self-conservation, self-controll, self-defension, self-mortat(ion)
+(=sui-cid\[ie\]), self-negligent(ie), self-preservation, self-respect,
+self-sacrificie.  In li sam sense on usa li grec prefix auto-; cp. in li
+parte F.\
+\
+Sub- (preposition) signifiea „sub-\": subaltern, subdivision, subjecter,
+subjugar, submarin, submisser, subordinar, subrider, subscrir,
+subsister, substantie, substituer, subtasse, subtener, subterran,
+subtra(c)tion, subvention. Assimilation total ante c, f, g, p: succeder,
+successar, succumber, succurser, succusser, sufficer, suffix, suffocar,
+suffusion, suggestion, supplantar, suppleer, supplicar, supportar,
+supposir, suppression; su- ante sp-; suspecter, suspirar, in quelc casus
+sus- ante tenues (c, p, t): suscepter, suspender.\
+\
+Tra-, tran- vide li sequent prefix.\
+\
+Trans- (preposition) indica un transition: transaction, transalpin,
+transatlantic, transfigurar, transformar, transfuser, transgresser,
+transit, translater, Transleithania, translucid, transmarin,
+transmigration, transmisser, transocean, transpacific, transpadan,
+transparent, transportar, transrhenan, transsubstantiation, transsuder,
+Transsylvania, transversar; assimilation in tran- ordinarimen ante sc e
+sp: transcendent, transcrition, transpirar; assimilation in tra-
+ordinarimen ante d, j, in poc casus anc ante m, v: tradition,
+traduction, traject, tramontana, traverser, travestir.\
+\
+Ultra: (preposition) caracterisa alquo exagerat, translimitat:
+ultraclerical, ultradecolletat, ultraliberal(ism), ultramarin,
+ultramontan, ultraorthodox, ultrarevolutionario, ultraroyalist,
+ultrarubi, ultraviolett(i).\
+\
+Vice- indica functiones exercit in subordination o substitution:
+viceadmiral, vicechancelllero, vicecomte, viceconsul, vicedelegat,
+vicepresidente, vicerector, vicerey, vicesenechal. De \"vice\" forma se
+li verb \"vicear\" (sinonim de \"substituer\"), li substantives
+\"vicario, vicariatu\" e li prepositional locution \"in vice de\".\
+\
+Remarcas:\
+\
+(1) On mey atenter que anc pluri prefixes posse intersequer, p.ex.:
+inter-suc-curser, pre-dis-position, re-com-pensar, e mult altri exemples
+in supra sub li divers prefixes.\
+\
+(2) On mey evitar li compositiones ínnatural con li preposition pri: ne
+pripensar, ma pensar pri\... o reflecter, meditar, considerar; ne
+priparlar, ma parlar pri\... o discusser, tractar, mentionar.\
+\
+E. Compositiones con imperatives.\
+\
+Composit paroles, o un imperative es li determinative, unesim part e un
+substantive, adjective, particul, infinitive o mem un altri imperative
+constitue li altri, sequent partes (t.e. stereotip frases, usat quam
+substantives) posse esser format in Occidental in li sam maniere quam in
+mult lingues romanic, germanic e slavic. Quelc exemples ex natural
+lingues: Latin: fac-simile, fac-totum, noli-me-tangere, vade-me-cum,
+Italian: rompi-capo, spazza-camino, salt-im-banco, Hispan: besa-manos,
+pasa-calle. Port.: papa-gente, corrimao (curre-manu), Francés:
+rendez-vous, tourne-main, vole-au-vent, German: Vergiss-mein-nicht,
+Stell-dich-ein, Spring-ins-feld, Tauge-nichts, Anglés: forget-me-not,
+cast-away, look-out, Dan: Forglem-mig-ej, Sved: förgät-mig-ej, sup-ut,
+pass-opp, kryp-in, Russ: Vladi-vostok, Tchec: lam-zelezo, etc. etc. Ci
+quelc exemples de to, qualmen tal paroles posse esser composit anc in
+Occidental:
+
+ 
+
+-85-\
+\
+Besa- (del verb besar): besamanu = manubesa, besafront, besaped.\
+\
+Chassa- (in li sense de \"forpussar, escartar\"): chassalápide (de
+locomotives), chassanive.\
+\
+Craca-: cracanuce = nuciecracator.\
+\
+Garda- (del verb \"gardar\") alquo contenent, protectent, alqui gardant:
+gardacórpore, gardacrayon, gardamoné (= moné-bux, moné-scaf),
+garda-manjage (= scafette con rete metallic por conservar alimentes),
+garda-ocul (oculecran, oculscren), gardarobe, gardastrad, gardavia (de
+ferrovias).\
+\
+Para- (de \"parar\" = defender contra) defensive, preventive contra:
+paraballe, parachoc, paracadida, parafango, paraflamme (= pumpe de
+incendies), parafoy, parafulmin, parafum, paraglacie (garnitura de
+planes circum li naves in li mares polari), paraluce, paramoskito,
+paranive (apu e súper vias), parapluvie, parasol, paravente.\
+\
+On ne mey confuser ti prefix verbal con li afix originalmen grec in
+parábol, paracentre, paraphrase, parapsychic, etc., quel significa
+\"apu, preter, trans\".\
+\
+Passa-: passatémpore, passaparol, passapertot, passa-passa.\
+\
+Porta-: alquo portant o tenent: porta-agul\'e, portacigar,
+porta-cigarette, portacrayon, portademistrump, portafolie, portamantó,
+portamoné, portapantalon, portapaper, portaplat, portaplum,
+portastrump.\
+\
+Pesa-: pesalettre, pesalacte, pesaspirit, pesamoné.\
+\
+Rupte-: rupteglacie (avan pont-pilares o al prore de nave), ruptecap.\
+\
+Tira-: tirabuton, tiracorc (= corcscruv), tiraped (del sapatero),
+tirascruv (= scruv-clave, scruvuore).\
+\
+Torna-: tornasole (= heliotrop), tornamanu (= moment).
+
+ 
+
+ 
+
+LI CARDINAL PRINCIPIES DE OCCIDENTAL\
+\
+es maximum de lingual usu international, pro li sam cause pro quel li
+usu es normativ por li lingues national. To quo es actualmen
+international, sive in vocabularium, sive in grammatica, ne es permisset
+changear mutilar secun subjectiv idés. Li international vocabules es in
+Occidental analisabil in su elementes. pro que li regules del derivation
+de Occidental es identic con li existent international. Nov paroles es
+format solmen in analog maniere e deveni identic con li frequent
+nov-formationes del terminologie international. Li tresor del cultural
+paroles international, queles vive latent in li lingues national ha
+recivet autonomie in Occidental, quel pro to ne es inventet, ma
+decovrit. Occidental es li resultate del quarant-annual linguistic
+exploration, quel comensat ja circa 1890.\
+\
+\
+-86-\
+\
+\
+M. PIRRO.\
+\
+„Quo noi vide hodie circum nos? Li vapor transporta nos con rapiditá
+enorm de un fin del munde a un altri. Li electricitá transmisse in un
+moment nor pensas a extraordinari distanties. Partú regna industrie,
+artes, comercie. Li uniformitá del moné (!), del pónderes e mesures,
+tende a expander se universalmen. In null epoca noi ha videt un simil
+exchange de idés e de productes. Li relationes international elarga se
+plu e plu per chascun die. It do es necessi far se comprendet in li tot
+munde. Ma it es impossibil a un hom, quamcunc inteligent il mey esser,
+de haver témpore e ocasion por aprender omni lingues. Quo do noi besona?
+Noi besona un nov lingue, un lingue facil e apt por omnes, por li
+ignorant e li doct, un lingue, alquant comercial, si on posse expresser
+se talmen, li studie de quel ne custa alcun efortie de labor.\
+\
+Ma, forsan, on ve dir nos, pro quo crear un nov lingue? Proquo ne
+prender un de tis, queles ja existe? It es ver - ma quel prender?
+Chascun popul va voler emfesar li avantages de su propri lingue. Noi va
+prender null, o plu bon noi va prender omnis, proque noi ve selecter in
+chascun lingue li paroles maxim conosset e maxim facil a pronunciar, noi
+ve hauster principalmen ex li latin. - Si noi hat volet crear un lingue
+totalmen nov, sin egardar tis queles ja existe, nor labor vell har esset
+plu facil, noi vell har posset evitar mem quelc irregularitás in li
+derivation del paroles. Ma por atinger nor scop noi deve respectar to
+quo es generalmen acceptat. Talmen, quande li teorie e li practica
+contradi unaltru, noi ha sempre preferet li practica\...\"\
+\
+De u ti citate? Ex li prefacie de un antiqui, nu tre rar libre, printat
+in 1868 e portant li titul „Langue Universelle, par M. Pirro\". Ergo
+scrit 63 annus ante nu, ma quam actual, quasi scrit hodie! In 1868
+Zamenhof ancor esset un púer de 9 annus, e solmen 10 annus plu tard, in
+1878, il arangeat ti festa por su camarades, quel li pretensiós yuno
+nominat „li die de nascentie del universal lingue\"! E ne antequam in
+1879, 11 annus plu tard, eventet li misteriós nocte, quande petre
+Schleyer havet li divin revelation, de quel originat Volapük.\
+\
+Li libre de Pirro ne es un tal micri brochura o foliette, quel mani
+autor de interlingue ha pensat sufficent por perfectionar li munde. It
+contene 31 págines grammatica, fraseologie, lettres e dialogs, 109
+págines vocabularium frances-universal, e 260 págines „verb-bibel\", to
+es, vocabularium
+
+ 
+
+ 
+
+-87-\
+\
+universal-frances, angles, german, italian e hispan. Un respectabil
+labor! E li sam libre aparit in traductiones german, angles, hispan e
+italian.\
+\
+Li grammatica es tre interessant e prepara nos mult surprises. Ci solmen
+un curt resumate de lu essential:\
+\
+Articules: el (sing.), li (plur.), un.\
+\
+Substantives: Null casu, null categoric finale. Sing.: un kaval, un ben
+kaval; plur.: kaval, ben kaval.\
+\
+Adjectives: invariabil. Comparation: varm (calid), varmer, varmest, o
+varm, mer varm, mest varm. Subst.: dai (die), adj.: daili, adverbie :
+dailit (quam in scand.: dag, daglig, dagligt, u li ultim g-s es mut).\
+\
+Pronomines: Personales: i --- tu - il, nos - vos - ili (esque illi es
+conosset?), existe anc obliqui casus: me - te - eil, enos - evos - eili,
+se. Possessives: men - ten - sen, nor - vor - lor (conosset?).
+Demonstratives: dit - dat. Interrogatives e relatives: ke - kei.
+Indefinites: on, un, tot, nul, alter, tal, self e jed (chascun).\
+\
+Numerales: un, du, tri, quat, quint, sex, sept. okt, nov, dec., undec,
+etc., duta, trita, etc., cent, mil, milion.\
+\
+Verbes: esen (esser), esant (essent), esed (esset), i ese (yo es), i
+esed (yo esset), i habe esed (yo ha esset), ma: i esrai (yo va esser), i
+esrais (yo vell esser). I ese lobed (yo es Iaudat), etc.\
+\
+Prepositiones: ad, de, ex, in, inter, kon, kontra, per, post, retro,
+sin, sub, til, tra --- quam in Occ., adkaus (caus), kontravil (malgré),
+prox (apu), um (circum), up (sur), uper (supra).\
+\
+Conjunctiones: e, o, ma, quan(de), benke, ke, perke, proke, perke,
+postke, si --- quam in Occ., den (do), ed (anc), ferner (adplu),
+nonminder (tamen), indit (durant), kom (quam), so (tam).\
+\
+Afixes: arki-, mis-, mal-, re-, ab-, de-, ad-, ex- quam in Occ., dis-
+anc des-, ob- \-- opposition, -in sufix por feminines, -iet diminutiv,
+-tol instrument (rastol = rasuore), -stan loco kavalstan, cavalliera),
+-nes general sufix por substantivation (mild - mildnes, klement -
+klementnes), -sion verbal substantives (moderatsion, anc moderatnes).\
+\
+Li majorité del vocabules in su „verb-bibel\" es li international-latin,
+ma noi trova anc mult germanic, mem quelc grec. Su lingue, quel il
+nominat „Universal Glot\", fa un tre „modern\" impression, quasi alquo
+inter catalan e nord-germanic. Lass nos escutar un dialog in universal
+glot:\
+\
+„Ben dai, meni senior, i ese inkanted reinkontraen evos, i habe vided
+evos her in London e ditdai nos finde enos in Skotland. Dikt me ex ke
+land vos ese!\"\
+\
+„I habe perkursed el Holland, i habe visited seni principal citad, li
+Hollander ese molt amatli gent, ili ese mild e vorkli, lor konmerk ese
+molt extended, on finde Hollander in toti land e pertot ili ese amated 
+e prised.\"
+
+ 
+
+ 
+
+-88-\
+\
+„Si nos vile venten (venir) in nor hostel, vos etrai (va mangear) kon
+enos, vos findrai da un ben tabel e ben knmer, fir e ben bet (foy e bon
+lette).\
+\
+In li libre trova se anc un raconta: Mamud e sen minister, ex quel ci un
+excerpte:\
+\
+„Ke Dio adkorde un lang viv ad el sultan Mamud; so lang ke il governe
+enos, nos manku nonk (nequende) ruined dorf.\
+\
+Ili kontinuated, dikted el visir in terment (in fine), goderant se per
+el desolatsion, ke, kom ili pretende, propagate se mer e mer jed dai.
+Ma, kom tu varted, i viled non resten mer lang, den i denked tu poted
+esen anpatant (impatient) e tu vise (tu save) kom i trepide anplesen
+(desplacer) te.\
+\
+El stori dikted, ke el sultan esed exmoved per dit fabel, ke il
+rekonstrukted li citad e dorf; redukted el tribut, ex ke el land esed
+uperladed (supercargut); e, ex dit temp, il konsulted ei ben de sen
+popel.\"\
+\
+Li material base de su lingue es li sam international paroles, queles es
+usat in omni modern interlingues e de ti vidpunctu Pirro esset mult plu
+avansat quam su successor Schleyer. Maxim interessant es notar li
+elementari analise, a quel il subjecte li international paroles, e ci il
+monstra se superior a Zamenhof. Pirro colecte e studia li international
+paroles e lor derivation, il desmonta les e composi les denov, e proque
+su derivatori sistema in general es identic con li international, il da
+les nov vive in su lingue. Zarnenhof prendet li international paroles
+sin analisar les, quam integri „extran\" paroles, li derivation de
+queles have nequo comun con li derivation de Esperanto. Pirro ne scri
+\"agordi\" quam Zamenhof, ma „ad-kord-en\" (ac-cord-ar), ne \"renkonti\"
+ma \"re-in-kontra-en\" (re-in-contra-r), ne „asekuro\" quam in
+Esperanto, u ne existe li elementes, ni „sekur\" ni \"a\" ma
+„ad-sekur-ant-nes\". Adplu es remarcabil tal paroles quam „ad-cept-en\",
+„ex-fekt-en\" (acceptar, efecter), e autonom verbes „cepten\" e
+„fekten\" (prender, far). Curtmen: Pirro monstra un profund comprension
+e conossentie pri li vive del paroles, un plu fin filologic talent quam
+Zamenhof, qui stat quam barbaro in relation al heredat tresore de latin
+cultur-paroles, mutilante les e despreciante lor structura.\
+\
+Presc genial es li metode de Pirro soluer li gordian nod del derivation:
+li verbal substantives per -ion. Il aplica con preferentie
+retroverbalisation quam in li angles: inplikaten, kapitulaten, moderaten
+(mem pregaten, amaten) ---
+
+ 
+
+-89-\
+\
+o il departi del original verbal tema: poseden, previden, konmiten, e
+per adjunction de ún sufix -sion il recive in omni casus: inplikatsion,
+kapitulatsion, moderatsion, posedsion, previdsion, konmitsion!\
+\
+Null inter linguist sembla har esset tam consequent quam Pirro in su
+vocabulari analise e quant concerne li prova unir regularitá e
+naturalitá il distantia sr de Wahl.\
+\
+Esque it pro to es astonant, que mem li doct professor Jespersen
+confesse, il „constantmen recurre al libre de Pirro con li grandissim
+admiration, proque it expresse principies, queles ne esset aconosset
+antequam mult plu tard\"? Esque il es li sol autor de un interlingue,
+qui ha fat talmen?\
+\
+Qui esset M. Pirro? A ti question yo ne posse responder e it sembla que
+nequi posse dar in formationes. Couturat scri nequo pri li person in li
+grand \"histoire de la Langue Universelle\", il mem ne savet su
+pronomine. Il mentiona, que li libre de Pirro esset publicat in german,
+con traduction francés e anglés. To es verisimilmen fals. Li clar e
+simplic stil de Pirro, li preponderant romanic parol-materiale in su
+lingue, li raritá de pur alt-german vocabules e anc un altri fact
+indica, que Pirro ne esset un germano, ma un franceso, e que li frances
+edition es li original. Examinante li libre de Pirro yo fat un
+interessant decovrition. Sub li covriment del libre existet un altri
+covriment aglutinat, quel portat li titul: „Essai d\'une Langue
+Universelle par MM. Pirro et L. A. Bar-le-Duc, L. Guèren et Cie, 1868.\"
+Li lingue ergo esset creat per colaboration de du homes, de qules li un,
+L. A., abandonat it, pos que li libre ja esset printat, e Pirro devet
+serchar un nov editor in Paris, Gustave Retaux. E forsan Pirro es solmen
+un pseudonime?\
+\
+Al glorie de Zamenhof sta erectet monumentes, li nómine de Schleyer ha
+esset gravet in marmor. Lor precursor e mastro, Pirro, ha esset honorat
+- per oblivie.\
+\
+=====\
+\
+Li fundament del ver labor es: capabilitá de concentration. Ma li max
+mult homes es tro distract; ili nequande abandona li stadie de ínquiet
+infantie. O. Leibecke.\
+\
+In li practic vive on finalmen deve prender fix tendentie, mem si it es
+risibil,   O. Leibecke.
+
+ 
+
+ 
+
+-90-\
+\
+ESQUE IDO ES VERMEN LOGIC?\
+\
+De Prof. Ric BERGER, Morges, Svissia.\
+\
+On save que li grand argument del idistes contra Occ. es que ti ultim
+lingue ne es „sat logic\". Ido, secun nor criticantes, mult supera Occ.
+pro que sol it have un derivation „logikoza\". Li „logikozeso\" de Ido
+es li max frequent object del articules linguistic del idistes. Ancor in
+li ultim numeró del revúe Ad-Avane es repetit li sam assertiones
+laudativ pri li logica de Ido comparat a Occ.\
+\
+It sembla me que on vell dever finalmen controlar li veritá de tal
+assertiones. Li sequent exemples, queles ne es li sol, va monstrar li
+valores del criticas idistic.\
+\
+In Ido li adjectives fini per -a. li nómines per -o. Do quande on deriva
+del adjectives bela, granda, etc , etc., li nómines con -o, li paroles
+belo, grando. etc., deve significar in Ido qualcunc idé nominal
+(qualitá, person, cos). Tamen, secun li derivation idistic, to significa
+solmen - un person! Ma u es do li idé de person, de ente vivent in li
+finale -o? Ci es absolut necessi, secun li logica, un special sufix. In
+Espo on adjunte -ul, e in Occ. -o (-a por li feminin). Li minst logic
+del tri lingues es do - Ido!\
+\
+Couturat self, li autor del sistema de derivation in Ido, ha confesset
+li ínlogicitá de Ido. In Progreso nro 10 il scrit:\
+\
+„Esus same arbitriala, same kontrala a la strikta renversebleso pozar:
+belo - bela kozo (belajo) kam pozar: belo - bela homo o persono. La du
+esas egale kontre la logiko, o plu juste, exter la logiko. Segun la
+strikta logiko, on devas tacar nulo ed expresar omna elementi di
+l\'ideo\... on devus sempre uzar sufixo sive por la personi, sive por la
+kozi. Pro quo ni ne adoptis tala sufixo? Simple pro ke praktike ol ne
+esas necesa. Nam pro ke on havas sufixo specala por indikar la kozi,
+nome -aj, on ne bezonas sufixo specala por indikar la personi:
+I\'absenteso di sufixo suficas por to ne obliviez ke la questiono neplu
+esas di strikta logiko, ma di praktikal komodeso).\"\
+\
+Li conclusion es do clar: un grand parte del derivation de Ido
+(adjectives - nómines) es, secun li confession de su autor self,
+contrari al logic a, ma por justificar it on invoca li practic comoditá.
+Ma alor pro quo
+
+ 
+
+ 
+
+-91-\
+\
+criticar Occ. quande, pro li sam practic comoditá, it ne usa un
+derivation absolutmen logic? To on vell dever explicar nos.\
+\
+Duesim exemple: Omni verbes finient per -esar e tam abundant in Ido
+posse significar just du idés contrari! Por ex. trovesar, videsr,
+uzesar, etc, significa logicmen esser trovant - tam bon quam esser
+trovat e li unesim signification es plu natural pro que li verbes
+trovar, etc. have un sens activ.\
+\
+E tamen, secun un regul arbitrari de Ido, trovesar - deve significar
+esser trovat. Ti arbitraritá sovent astonat li idistes e in Progreso nro
+19 un colaborator fa remarcar que „ne la logiko, sed la konvenciono
+posible permisas la uzo di trovesas, vice la plu logikala trovatesas.
+Trovesas logike haves preske la samn signifiko kam trovas.„\"\
+\
+To es evident, mem evidentissim. Ti parte important del derivation
+idistic es un bell exemple de arbitraritá, o, quam li idistes nomina it,
+de „convention\". Ma tande pro quo sempre cavalcar sur li \"logica\",
+sempre repetir que un lingue international deve esser basat sur li
+\"logikozeso\", e que sol Ido satisfa ti condition?\
+\
+In Occidental on usa trovar. esser trovat, mult plu logic, comprensibil
+e natural. In plu li form „il es trovat\" ne es plu long quam \"il
+trovesas\".\
+\
+In conclusion, noi posse, noi deve protestar contra li fals criticas de
+nor camarades idistes e noi invita les studiar li supra exemples e
+explicar nos u jace lor logica!\
+\
+CRONICA\
+\
+FUNDATION DEL \"ASSOCIATION PROLETARI OCCIDENTALISTIC\". Noi es informat
+pri li fundation de un \"Association Proletari Occidentalistic\", quel
+vole gruppar li occidentalistes del laborant classe specialmen por
+propaganda in jurnales de ovreros e por organisation de corespondentie
+per Occidental. Ti nov association es absolutmen international. Li
+secretario provisori es: Bohin, 7 Place de Bordeaux, Strasbourg,
+Francia.\
+\
+LI LIGA DE NATIONES E OCCIDENTAL. Un nov pruv pri to, que Occidental es
+comprendet ínmediatmen, veni de maxim alt politic instantie. Paroco
+Helmut Milner de Königsberg a. Eger, Tchecoslovacia, informa nos, que il
+inviat al Liga de Nationes in Geneve un proposition,
+
+ 
+
+ 
+
+-92-\
+\
+scrit solmen in Occidental, pri reforma del Calendarium, e recivet
+response, que li proposition va esser transmisset a respectiv comité,
+quel prepara ti question.\
+\
+OPINIONES PRI OCCIDENTAL. Presc chascun die noi recive nov pruvas e
+expressiones de opinion in favor a Occidental. Ci infra excerptes de
+quelc de ili:\
+\
+Dr. M. Vevey, Vivarels e Ljubljana, linguist, membre de II Congress de
+Linguistes in Geneve, scri a nor Central Oficie:\
+\
+\"Yo ha fat rapidmen conossentie con li divers brochuras e li grammatica
+de Occidental e, sin haver ancor, quo es tre natural, un opinion precis,
+yo es tre interessat per li particularitá de Occidental, quel consiste
+in to, que it egarda, ne solmen li vocabularium, ma anc li morfologie e
+li fonetica, li lingual customes del persones, queles va aprender it,
+etsi it es necessi introducter in li grammatica regules relativmen
+complicat e exceptiones. It es un evident superioritá relatent li
+geometric sistemas del tip de Esperanto, Ido, etc. li usation de queles
+postula de su parlantes un facultá exceptionel de abstraction.\"\
+\
+Prof. Paul Stiller, Zürich, comunica:\
+\
+\"Vor nov international lingue esset un eveniment e un decovrition de
+bellissim specie por me, pro que yo ne ha posset esser satisfat, ni in
+alcun maniere, per Ido, Idano e Esperanto.\"\
+\
+Un comercial firma in Tchecoslovacia scri spontanmen al redaction:\
+\
+\"Mi firma\... opera in Italia solmen per li medium de Occidental, e to
+in omni romanic states. To es un miraculós fact. Vu posse scrir a omni
+romano in Occidental e il va comprender vor idés. Occidental es li maxim
+grand invention in li region linguistic, proque it apella al comun
+education europan. Occidental es li maxim flexibil lingue e Vu posse
+ameliorar li comprension con un non-occidenatlist in omni relation, per
+usation de términos tecnic existent in su maternal lingue sin rupter li
+spíritu de Occidental. Li italianos coresponde in Italian e noi in
+Occidental. Nequi ha scrit, ni unquande, que il ne ha comprendet\...\"\
+\
+Noi save anc que Occidental ha esset usat in corespondentie comercial de
+un firma in Nord-Europa con Sud-American firmas.
+
+ 
+
+HELVETIA, organ del Sviss Association por Occidental, Nr 7 8 ha aparit
+con rich contenete. Li redactor, prof R. Berger, raporta pri li present
+crise del Ido-movement per li sequent bon caracterisant paroles:\
+\
+\"Li crise, quel menaciat ja long inter conservatores e progressistes
+che li idistes ha eclatat finalmen. It existe nu du societés
+international e du Academies queles, chascun in su látere, labora e
+adopte nov paroles! It resulta do que it va bentost exister du species
+de Ido! Ma quo es por nos alt interessant to es li absurd situation, in
+quel li lingue trova se pro su base esperantistic. Omnes vole far li
+lingue plu international, ma ili ne posse, pro que li afixes e li
+sistema artificial de derivation heredat de Esperanto ne permisse it.
+Pro to, on es obligat adopter nov radicas apu li ancianes, e talmen on
+chargea sempre plu li dictionarium.\
+\
+Por exemple, on adoptet li nov radic inkarnacar, quande it existe li
+radic karn. Ci apare li eclatant superioritá de Occidental, quel forma
+regularimen: carn, in-carn-ar, in-carn-ation. Noi posse cital mult altri
+exemples.
+
+ 
+
+-93-\
+\
+Che li altri camp, ti de sr de Beaufront, on proposi al adoption de
+Academie nr II li parol enrejistrar apu registro. In Occidental on
+deriva tot naturalmen registre, in-regist-ar, in-registr-ation, quam in
+li lingues natural. In Ido to ne es possibil pro li complicat derivation
+de Couturat, quel obliga dir registr-ag-ar, registr-ago, etc.\
+\
+Esque it ne vell esser plu logic reviser completmen li sistema de
+derivation de Ido, ante continuar nov derivates, queles deve derivar se
+naturalmen del radica?\
+\
+Per li decision nr 1980, li Academie idistic ha decidet \"ke Ido uzez en
+lia forma internaciona senchanje\" Buddleia, Boconia, Diplodocus,
+Apteryx. Ti rasonament es excellent: li etiquette -o por omni nómines es
+tedant, obsolet e volapükatri. Ma esque omni altri nómines de Ido ne
+have anc li jure esser \"usat in lor form international\"? To es li
+unesim e max urgent labor a far, e tande Ido e Occidental va rejunter se
+sur li sam teren, ti del ver internationalitá.\"\
+\
+In li sam nr de Helvetia Dr J. Aschwanden, Biel, da un tre interessant
+expose del lingue \"Afrikaans\". Adplu li orígine de un grand númere del
+paroles international es explicat. In in trova se du novelettes e
+humoristic anecdotes con ilustrationes.\
+\
+OVRE, Biblioteca in Occidental, tom VI ha aparit e contene: Edmondo de
+Amicis: Manuel Menendez, raconte traductet de A. Toman. Un excellent
+traduction in Occidental de un del maxim bell novelettes del famós
+italian novelist. Li biblioteca posse esser mandat del editor: Prof. H.
+Pásma, Tábor, Tchecoslovacia, Kc 135.\
+\
+FOLLII DI LA INTERSISTEMAL UNIONO POR MONDLINGUO. 280 hectografat
+págines, contenent divers dates pri mundlinguistic questiones e
+movementes, editet de Sr Fritz Buckel, Gesees bei Bayreuth, Germania. Li
+colection e li manuscrition de ti enorm masse de util dates e detallies
+merite nor admiration.\
+\
+SCHOLA ET VITA, Organo de Academia pro Interlingua, Directore Nicola
+Mastropaolo, Via E. Pagliano 46, Milano 137, Italia. 3 cadernes ha
+aparit ho-annu, nros 1/3, 4 5 e 6 7, con mult scientific, pedagogic e
+interlinguistic articules, scrit in Latino sine flexione.\
+\
+LI XXIII UNIVERSAL CONGRESS DE ESPERANTO evenit ho-annu 4-8 august in
+Cracovia (Kraków), Polonia. 800 persones hat registrat se quam
+congressanes, ma solmen 700 venit. Anc li VIII congress de Esperanto
+evenit in Cracovia in annu 1912, con circa 1,000 participantes. Li
+congress de Esperanto monstra un diminuent númere de participantes,
+specialmen in comparation con li unesim congresses ante li grand guerre.
+- Presidente del hoannual congress esset prof. Odo Bujwid, qui tenet li
+inaugurativ oration in li solemnitá de apertion (\"malferma soleno\" on
+di in Esperanto). Il expresset li espera, que precipue li micri landes,
+queles ne posse usar su lingues oficialmen in international
+organisationes, mey far instigationes al Liga de Nationes e altri
+competent ductent institutiones, usar Esperanto quam auxiliari lingue.
+Prof. Bujwid sembla ne har mentionat, esque li polonés guvernament, quel
+ya deve haver special predilection por Esperanto, ha fat o intente far
+passus in ti direction. Polonia ne participat in li grand proposition al
+Liga de Nationes, quel esset fat in 1920 de 16 nationes. - Durant li
+semane
+
+ 
+
+-94-\
+\
+del congress evenit service divin in Esperanto, in quel oficiat li famos
+pastor Czeh, forsan li maxim habil instructor e propagator de Esperanto
+vivent, concert, bal, labor-sessiones de divers gruppes, etc. In li
+oficial convenida de Universala Esperanto-Asocio participat 300 membres
+(li restant congressanes ergo ne esset registrat esperantistes). In li
+\"somero-universitato\" (estival universitá) null scientific lectiones
+esset dat ho-annu, solmen du discurses pri turisme a viages. Un strad in
+Cracovia esset rebaptisat del municipal autoritás \"Strad de Zamenhof\".
+Li congressanes esset fotografat in Wawel, un antiqui castelle. In un
+concurs de oration in Esperanto li unesim premie esset dat a pastor Font
+Giralt de Catalonia, li duesim a sr Tiberio Morariu de Rumania. - On
+arangeat excursion a un asil de lunaticos in Kobierzyn apu Cracovia. Li
+raportero del jurnale \"Esperanto\", li oficial organ del Universala
+Esperanto-Asocio, raconta: \"Yo questionat li lunaticos, esque alcun de
+ili save Esperanto. Ili respondet, qu etant lunatic ili ancor ne es.\"\
+\
+Li XXIV congress va haver loc in Paris 1932.\
+\
+E. DREZEN: ANALIZA HISTORIO DE ESPERANTO-MOVADO\
+Li conosset russ esperantist ha denov publicat un libre sub li titul
+mentionat (a mandar per \"Ekrelo\", Löbauerstr. 35, Leipzig N 24). Li
+autor di self in un anteparol, que su libre es li unesim prova scrir un
+historie del Esperanto-movement, in quel \"li mundlingual historie es
+ligat con li concernent epoca e con li concernent social situation\",
+ergo un prova examinar li social funde e conditiones por practic success
+o fiasco de interlinguistic movementes. Il pensa, que un analise del
+forties del Esperanto-movement va dar nov instigation, nov vole e desir
+luctar por li L.I. Esque su suposition es just, es un altri question.\
+\
+Il comensa per emfasar, que li unesim esperantistes havet solmen pur
+idealisme quam motive, Zamenhof mem un sort de mistic religion
+(\"homaranismo-hilelismo\"). It es consolativ por altri movementes esser
+comemorat pri li desfacilitás, con queles Esperanto devet luctar durant
+li unesim annus: \"Esperanto existet ja durant un decene de annus, ma it
+ancor ne hat colectet circum se un númere de adeptes suficent fort in
+númeres por que li secur existentie del lingue artificial vell har esset
+garantit.\" Existet un témpore (1899), quande li organ del esperantistes
+esset editet in Lulen (Nord-Svedia), proxim li artic circul) e havet
+solmen 16 abonnantes - factes, queles li present esperantistes sembla
+har obliviat. Drezen asserte, que Esperanto progresset pos 1900 solmen
+proque tande venit a auxilie persones, queles dat al movement fort
+financial subtenentie. Ti, qui procurat a Esperanto tal generós mecenes,
+esset - L. de Beaufront, qui depoy, quam noi save, abandonat Esperanto
+por Ido. Li unesim congress de Esperanto un Boulogne (1905) esset
+arangeat e presidet de A. Michaux, plu tard autor de \"Romanal\". Quant
+de ti persones, queles in li unesim congress iniciat e subsignat li
+declaration pri li ínchangeabilitá del \"Fundamento\", plu tard ne ha
+volet changear plu o minu radicalmen?\
+\
+Secun Drezen li historie del organisation del esperantistic \"masses\"
+es ínseparabilmen ligat con li nómine de Hector Hodler (un svissiano,
+morit 1920). E. Privat ha dit: \"A to, quo iticiat li genie de
+Zamenhofsur li lingual camp, Hodler adjuntet li necessi base sur li
+social camp.\" Drezen asserte, que in li capitalistic states Esperanto
+ne posse reciver
+
+ 
+
+ 
+
+95\
+\
+li necessi grand expansion e usation, si li movement de Esperanto ne uni
+se con li social movementes del ovreros. Il conclude mem, que in fine
+solmen li comunistic masses, queles es liberat del prejudicies del
+tradition e li nationalistic e chovinistic interesses del borgesi
+masses, es capabil apreciar li beneficie de un lingue artificial, t. e.
+secun il, Esperanto.\
+\
+Curtmen, li historic curs de evolution de Esperanto ha secun Drezen
+esset li sequent : un unic genie (Zamenhof) lansa un grand idé, inspirat
+de mistic-religios amore al suffrent homanité; il trova un micri númere
+de idealistic adeptes; ili es tro debil por garantir li vive de un
+movement, ancor minu por realisar li idé; tande veni capitalistic
+financieros, queles expecta privat profite e glorie e pro to subventiona
+un grandiós propaganda; ma li ductent cultural e politic stratas del
+capitalistic states rejecte li idé pro nationalistic motives, mem li
+nominalmen anational Liga de Nationes refusa ocupar se pri un cose, quel
+es contrabattet del victoriant Francia; li centre de gravitá transloca
+se plu e plu che li masses del ovreros; in fin li comunistic masses
+apropria se li idé e solmen li Soviet-states va realisar it.\
+\
+On ne posse negar que li analise de Drezen es tre acut e penetrant, su
+caracteristicas e stil brilliant, e in mult punctus il sembla har li
+veritá. Ma tamen existe null cause accepter su conclusiones pri li
+future. Li future es íncalculabil. Nequande it ha esset plu plen de
+surprises quam nu. Pri to quo noi va experir deman on posse haver solmen
+opiniones, null saventies. It es null axioma, que si comunistic masses
+va victoriar, ili va introducter Esperanto e ne un altri lingue, natural
+o artificial. Pri li naturalistic interlingues il mentiona nequo. Secun
+nor opinion es plu probabil. que li popul-masses, specialmen tis de
+West-Europa, índependent de lor politic crede, va preferer un
+interlingue, quel es in conformitá con li spiritual cultura del
+Occidente. Mem si li politic regime va esser un totalmen altri, li
+cultura va esser un continuation del historic heredage. Si li future va
+acceptar un artificial lingue quam international, it ne va selecter li
+maxim mal, un lingue anticultural e linguisticmen imperfect -\
+quam p. ex. Esperanto. Con crescent plu grand saventie pri possibilitás
+e factes, li chances de Esperanto va diminuer se. Si li popul-masses usa
+Esperanto, ili fa to solmen proque ili conosse solmen Esperanto e es
+suggestet per li prejudicies del esperantomanes.   A.Z.R.\
+\
+Ll CONGRESS DE LINGUISTES trovat loc ho-annu in Geneve durant li ultim
+semane de august. Plu quam du cent erudites - ne parlante pri lor
+families - convenit, ne solmen linguistes de presc omni\
+landes de Europa, ma anc de U. S. A., de Japan e India.\
+\
+In mercurdí 26. 8. li principal question de discussion esset; „Quel es,
+secun vos, li rol a atribuer in li nascentie e evolution del lingues
+(specialmen in li constitution de unificat lingues) de un látere al
+fenomenes spontan e a lu ínconscient, e de altri látere al intervention
+del volentie e del reflexion?\" Li raportero, prof. Otto Jespersen,
+monstrat, qualmen in omni lingues, nominat \"natural\", existe coses
+artificial. Li maxim evident exemples es forsan li nómines de nov
+inventiones o de nov productes del comercie. In plur landes, li
+guvernamentes e scolari autorités ha regulat li questiones ne solmen del
+ortografie ma anc
+
+ 
+
+ 
+
+-96-
+
+ 
+
+del grammatica. Plur national movementes ha scrit sur lor programma
+complet libertá in relation al old grammaticos, qui sovente ha supresset
+li evolution del lingues.
+
+ 
+
+LI duesim question esset: \"Quo pensa vu pri li adoption de un lingue
+artificial quam lingue auxiliari international?\" Sr Jespersen exposit
+qualmen li extension del medies de comunication fa li problema del
+\"intercomprension\" lingual plu e plu urgent. LI professional
+linguistes ne posse negliger li question pri un lingue auxiliari
+international. Li elaboration de ti lingue presenta un multiplicitá de
+problemas, queles posse interessar li professional linguistes. Li
+solution posse mem aportar un nov luce sur plur punctus del psicologie
+del lingue.
+
+ 
+
+Un cortesi e objectiv discussion, in quel participat srs W.E. Collinson,
+E. Darko, B.W. Speekman, O. Funke, Richard Faget, B. Migliorini, C.C.
+Uhlenback, P. Briquet, R. de Saussure, monstrat, que li scientie posse
+contribuer al solution del problema. Mersí al congress li future de tal
+investigationes e eforties nu es assecurat.
+
+ 
+
+Tant secun li gazettes genevés recivet. Plu detalliat recension del
+discussion posse esser dat solmen in li sequent numerós de
+Cosmoglotta.    A.Z.R.
+
+ 
+
+JULIUS LOTT.
+
+ 
+
+Concernent li precursor del modern naturalistic sistemas de un lingue
+international, Senior Karl JANOTTA ha elaborat un scientific manuscrite,
+quel contene anc mult extractes ex li ovres de Lott, in part in li
+original lingue de Lott. Regretabilmen it esset possibil til nu
+financiar solmen 24 págines in li formate 14,8 x 21 cm, ma li printation
+del complet manuscrite vell postular adminim 32 págines del sam formate.
+Il peti omni interlinguistes, queles vole auxiliar le financiar ti
+historic ovre, scrir le lor intention. Chascun auxiliator va
+retroreciver su pecunie, sive poc a poc contant, sive in exemplares del
+ovre strax post printation. On mey scrir a Sr Karl JANOTTA,
+Kaltenleutgeben (Austria) e demandar plu precis informationes.
+
+ 
+
+OCCIDENTAL-UNION, Central Oficie.
+
+ 
+
+ABONNAMENT DE COSMOGLOTTA POR 1931:
+
+ 
+
+Li simplic abonnament annual custa 0,5 dollar 17 Kc, 2,1 RM, 3,5 ö.S,
+2,6 sv. fr., 12,5 fr. fr.
+
+ 
+
+Un abonnament de propaganda custa li duplic precie (1 dollar), in
+compensation de quel li administration invia tri exemplares del revúe.
+
+Ples usar por li payamentes sequent postchec-contos: Francia: Paris
+26437 (L.M. de Guesnet); Svissia: II, 1969 (F. Lagnel, Chapelle, Vd);
+Tchecoslovacia e altri landes: Brno 103.126 (Jazyk mezinárodní).
+
+On posse payar anc per international postmandates o banknotes o
+bank-chec registrat lettre al adresse: Jan A. Kajs, Wilsonova 11, Brno
+XII, Tchecoslovacia.
+
+ 
+
+Vydavatel a opdovedný redaktor Jan A. Kajs. Typografia Jan Kajs, Brno,
+XII.
+
+Novinová sazba povolena reditelstvím post a telegrafu, c, 11.277/VI
+1931.
+:::

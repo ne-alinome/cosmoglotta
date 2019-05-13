@@ -1,0 +1,714 @@
+Cosmoglotta B 049 (aug 1943)
+============================
+
+\
+
+::: {#displaycontent}
+COSMOGLOTTA 
+
+ 
+
+OFICIAL MENSUAL ORGAN DEL OCCIDENTAL-UNION 
+
+ 
+
+Redaction e Administration: 
+
+ 
+
+INSTITUTE OCCIDENTAL, CHAPELLE (Vaud), SVISSIA 
+
+ 
+
+Serie B, poligrafat (Tel. 9 56 56) August 1943 - Nró6 49 (8) 
+
+ 
+
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+INTERIMARI ACADEMIE
+
+ 
+
+Desde bentost quar annus li academie de Occidental ne plu posse
+functionar pro li interruption o almen li desfacilitás del relationes
+international. On ne mem audacia inviar circulares al membres de nor
+organisationes pro que ili vell devenir forsan suspect in lor land. 
+
+ 
+
+Tamen, por li elaboration del vocabulariums e del gramaticas queles noi
+va besonar strax pos li guerre, it es necessi soluer un cert númere de
+casus linguistic in queles li autores hesita sempre prender self un
+decision. Ili ne plu posse atender in lor labores lexicografic.
+
+ 
+
+Pro que li presidente e li secretario del Academie trova se in landes in
+guerre, li ductent Occidentalistes del neutral landes, Svissia e Svedia
+crede necessi instituer un INTERIMARI ACADEMIE quel va functionar til
+quande li altri va posser recomensar su labores. Li decisiones de ti
+Interimari Academie va esser conditional, it es : deve esser validat del
+regulari Academie pos li guerre, e pro to it va liverar a ti-ci omni
+documentes justificant su decisiones, con detaliat motivationes. 
+
+ 
+
+Ne possente organisar ho-témpor regulari votationes, li sub-signantes
+responsabil functionarios del Occidental-Union, designa adminim 9
+persones por composir ti Interimari Academie. 
+
+ 
+
+Li labor del Interimari Academie (abreviat in INTAC) va consister
+precipue in li standardisation del lingue. Divers detalies, benque 
+
+ 
+
+\- 85 - 
+
+ 
+
+ 
+
+ 
+
+de minor importantie, ja tre bon studiat ante li guerre, ne ha recivet
+solutiones (y e ch in grec paroles, li accentuation, li duplic
+consonates, etc.). Adplu, li elaboration del complet vocabularium de
+Occidental posi continualmen problemas, queles un autor sol ne audacia
+soluer. 
+
+ 
+
+Esperante que omni nor amicos va comprender li necessitá acter strax e
+energicmen, noi composi ti Interimari Academie, pos consultation inter
+li ductent persones de nor movement. 
+
+ 
+
+Li labor del Interimari Academie comensa strax e li resultates de su
+labores va esser publicat in Cosmoglotta. 
+
+ 
+
+Por li OCCIDENTAL-UNION : 
+
+ 
+
+Li president, Li vice-president, Li director, 
+
+ 
+
+A. Matejka Ric Berger Fred Lagnel
+
+ 
+
+\-\-\-\-\-\-\-\--
+
+ 
+
+ANTE LI FINAL VICTORIE 
+
+ 
+
+Ante quelc semanes, noi recivet de sr. J. Kreis-Schneeberger,
+vice-secretario del UNION POR LA LINGUO INTERNACIONA, Genève, circulare
+quel il expresse su indignation pri un recent pamflete esperantistic,
+intitulat \"Die Zitadelle\". Li autor de ti pamflete reprende li ja mill
+vezes audit assertion pri li superioritá de Esperanto comparat al altri
+sistemas mundlingual. Solmen Esperanto vive e ha pruvat su aptitá quam
+medie de intercomprension universal. Li eforties del altri autores de
+mundlingue es qualificat quam combatte de Don Quijote contra li
+vent-molines e on risibilisa lor pretension al final victorie quel es
+considerat quam unic e exclusiv apanage de Esperanto.
+
+ 
+
+Noi confesse que noi ne partiprende li indignation de sr. Kreis contra
+ti monument de arrogantie e vulgaritá. Si li esperantistes vole far se
+risibil, it es lor afere. In un cert sens, ti reaction del espistes mem
+injoya 
+
+ 
+
+\- 86 - 
+
+ 
+
+ 
+
+ 
+
+nos, nam it da nos un precios indication pri li actual statu mental de
+nor confratres. A tal metodes de combatte on generalmen recurre solmen
+quande on senti su afere quam perdit. Ja de long noi constatat que li
+Esperantistes es íncapabil combatter Occidental sur linguistic terren;
+hodie ti incapabilitá ha transformat se in un veritabil panica. Si
+vermen, quam li Esperantistes di, Occidental ne existe, ili ne vell
+besonar far tam heroic e risibil eforties por defender se contra it.
+Quam quant \"negligibil\" li esperantistes considera nor activitá, es
+demonstrat per un eveniment, quel noi, pos li publication de lor grotesc
+pamflete, plu ne have alcun rason por tacer : 
+
+ 
+
+Ante quelc mensus, li direction de Radio-Bern declarat se pret far un
+emission pri li question del mundlingue, durant quel li parlada vell har
+esset dat a un representant de chascun del tri sistemas Esperanto, Ido e
+Occidental. Li organisationes idistic e occidentalistic strax acceptat e
+designat lor oratores. Ma li emission fallit finalmen pro li resistentie
+del Esperantistes. E save vu qualmen li presidente del Bernés Espistes,
+sr. Ardüser, motivat ti refusa ? Il alegat que un emission in quel anc
+li idistes e li occidentalistes have li jure parlar, vell posser nocer
+li success del nov \"cursu de Espo per corespondentie\" e vell solmen
+profitar a\... Occidental ! 
+
+ 
+
+Noi va memorar ti preciosi confession ! Do, li esperantistes aconosse
+que ili have null chances de success, quande ili es obligat afrontar
+Occidental in un combatte egal. Lor corage e lor arrogantie reveni
+solmen quande ili es sol sur li camp de combatte e quande it ne existe
+alcun possibilitá de contradiction. Si ti conduida es astut, it es in
+revancha poc gloriosi e it edifica nos pri li ver situation in
+\"Esperantujo\". 
+
+ 
+
+\- 87 - 
+
+ 
+
+ 
+
+ 
+
+Ma esque li esperantistes vermen crede que per tal grotesc metodes de
+combatte ili va posser assecurar se li victorie final ? Esque ili
+imagina que li munde va ciecmen accepter un sistema de lingue universal,
+sin prender li pena examinar it ? Esque ili ha obliviat li lecion de
+1922, quande li comité del S. d. N. , instituet por examinar li
+possibilitá del introduction general de Esperanto quam mundlingue,
+presentat quam resultate de su examination un raport anihilativ quel
+qualificat Esperanto quam \"cause e efect de decadentie intelectual\"?
+Li Esperantistes mey esser cert : anc un duesim prova, far victoriar
+Espo per surprise va haver li sam fate. Quocunc ili mey far, noi va
+esser present por impedir que li legitim interesses del futur usatores
+mey esser sacrificat al pretensiones de un puniade de fanaticos e al
+comercial interesse del editores espistic ! 
+
+ 
+
+In su response al pamflete esperantistic, sr. Kreis-Schneeberger cita li
+facte que secun un recent information del presse, li ministres de
+instruction del alliat guvernamentes in London proposi elevar li lingue
+anglés al rang de un lingue international, e que un comité de expertes
+ha esset electet por examinar ti question. Il infere de ti nova que si
+ti project es realisat, it va significar li fine del movement
+mundlingual. Il do profita ti ocasion por invitar li esperantistes,
+renunciar a lor actual metodes de combatte e unir su forties a tis del
+altri movementes por far victoriar li grand idé de un lingue universal
+artificial. It es dubitabil ca ti apell va esser audit del disciples de
+Zamenhof. On vell tam bon posser demandar les, suicidiar se strax, quam
+abandonar lor ultim medies de defense, quamcunc execrabil e miserabil
+ili mey esser. 
+
+ 
+
+Al proposition oficial far ex anglés li nov lingue international, noi va
+retrovenir ancor 
+
+ 
+
+-88-
+
+ 
+
+ 
+
+ 
+
+in un special articul. 
+
+ 
+
+Yo ne vole finir mi exposite, sin expresser li perplexitá in quel
+plongea me li ultim parte del response de sr. Kreis-Schneeberger al
+pamflete esperantistic. Il reproducte ta li lettre quel il misset al
+direction de Radio-Bern, pos har constatat que ti-ci, parlante recentmen
+pri li situation mundlingual, mentionat li tri sistemas Esperanto,
+Occidental e Novial, ma ne dit sol parol pri Ido. Il scrit :
+
+ 
+
+\"Li expertes interlinguistic es astonat constatante que vu ne mentionat
+per un sol parol li unic lingue auxiliari quel merite esser mentionat
+ultra Esperanto, it es Ido. Esque it es permisset ignorar que Ido es li
+sol vermen seriosi concurrent de Espo ? Esperanto e Ido successat crear
+un movement con millenes de adherentes, durant que Occidental e Novial
+posse solmen esser considerat quam \"projectes\" Etc. 
+
+ 
+
+Quo noi deve pensar pri ti tre astonant - por ne dir plu - declaration ?
+Ti-ci prende su tot signification quande on save que in li sam circulare
+sr. Kreis-Schneeberger expresse su indignation pri li assertion del
+esperantistes que \"li mortalitá de ti tard-nascetes (it es li
+concurrent-sistemas de Espo) es 100 %\" e que il exclama : \"Ergo, on
+nega nos omni jure de existentie e noi ne vell haver li possibilitá
+propagar nor Esperanto reformat ? ! Ma noi Idistes ne senti li mínim
+inclination, luder li rol de un \"mundlinguistic cadavre ( ! ) \" e yo
+crede que in contrarie on va audir ancor mult de noi. 
+
+ 
+
+Si noi comprende bon, it es un indignitá quande li Esperantistes
+monopolisa por se li idé de un mundlingue e quande ili considera li al
+tri sistemas quam \"ínexistent\". Ma ti sam argument es sat bon anc por
+li Idistes quande it permisse les eliminar li genant concurrentie de
+Occidental ! Esque sr. Kreis-Schneeberger
+
+ 
+
+\- 89 -
+
+ 
+
+ 
+
+ 
+
+vermen ne vide que per tal ínconsequenties il destructe totalmen li
+efect de su filippica contra Espo ? Qualmen il posse expectar que li
+letor partiprende su indignation, si il usa contra Occidental exactmen
+li sam argumentation quam tis queles il condamna che li Espistes quande
+ili es directet contra Ido ? 
+
+ 
+
+E poy, sur quel factes sr. Kreis-Schneeberger funda su afirmation ? Yo
+ha esset durant 6 annus secretario del POR LA LINGUO INTERNACIONA e yo
+save tre bon qual esset li situation durant ti témpor. Ma yo anc save
+qual it esset 5 annus pos demission quam secretario, do just avan li
+guerre, li sol periode quel permisse far se un real opinion pri li
+fortie del divers movementes. Or, - yo defia li ductores del movement
+idistic pruvar lu contrari - li comparation del numeric forties del
+movement idistic in li annus 1929-30 (i.e . strax pos li reviventation
+del \"Uniono\") e in li annus 1938-39 monstra un evident regression. Yo
+ne examina ci li causes de ti regression, yo simplicmen constata un
+fact. Or, yo conosse anc li situation del movement occidentalistic
+durant ti sam periode e yo ne vole celar a sr. li veritabil stupore quel
+yo senti quande yo vide alqui parlar seriosimen del \"millenes de
+adherentes del Ido-movement\" e in sam témpor provar risibilisar li
+lingue Occidental, qualificante it quam \"simplic project\" quel apene
+merite esser citat apu Ido. Yo ne vole dir plu por hodie; yo save que on
+facilmen risca esser denunciat quam \"agressiv\", si on permisse se
+posir quelc questiones índiscret al ductores del Ido-movement. Ma a sr.
+Kreis-Schneeberger, quem noi in céteri conosse quam hom rasonabil e quam
+bon coidealist, noi da li bon-intentionat consilie, esser in futur un
+poc plu caut in su assertiones; noi vell forsan altrimen támen 
+
+ 
+
+\- 90 - 
+
+ 
+
+ 
+
+ 
+
+esser fortiat dir al ductores del Ido-movement quelc veritás ne tre
+agreabil a audir, mem ye li risca esser denunciat quam \"agressiv\". 
+
+ 
+
+A. Matejka 
+
+ 
+
+\-\-\-\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+PRI LI VER SITUATION IN \"Idonia\" 
+
+ 
+
+Nor colaborator A. Matejka parla in li supra articul pri li situation de
+Ido ante li guerre. Noi reproducte li unesim parte del cap-articul
+intitulat \"Nia situeso\", signat de sr. J. Kreis-Schneeberger,
+vice-secretario del Uniono por la Linguo Internaciona, quel aparit in li
+numeró januar-junio, nro 1, 1943 del revúe \"Progreso\", organ oficial
+de U.L.I. It monstra li desfacil situation del actual movement idistic e
+li desilusiones de su ductores : 
+
+ 
+
+\"Nor situation 
+
+ 
+
+\"Desde li comense del guerre in 1939, nor Ido-movement es presc
+anihilat, nor organisationes ne posse functionar e li signes de vive del
+Idistes deveni sempre plu rar. Noi Svisses considerat quam nor deve
+mantener adminim nor revúe \"Progreso\" e til nu noi successat far to
+per restrictet medies e diminuente fortmen li frequentie de aparition.
+Ma li ecó del samideanos devenit tant ínsignificant, tant scars que noi
+deve questionar nos, ca penvalora ancor sacrificar energie e moné,
+durant li actual circumstanties, por mantener li oficial organ quel
+atinge solmen li membres e letores in poc landes. Esque it ne vell esser
+preferibil sparniar li poc moné quel U.L.I. dispone ancor til li revene
+de altri témpor ?\" F.L.
+
+ 
+
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+Un exemple de corage. Alfons Daudet, ti francés scritor tant amorosi del
+vive, sufret atrocimen durant li ultim 20 annus de su vive e morit
+paralisat in li etá de 56 annus. In li ultim témpor, inter du terribil
+crises, il dit un vez: \"Quande yo pensa quant mult yo havet li follie e
+li orgollie viver, yo di me que it es just que yo sufre\".
+
+ 
+
+-91-
+
+ 
+
+ 
+
+ 
+
+STRANGI CLUBES
+
+ 
+
+America e Anglia es li landes del clubes. Ne un semane passa sin que un
+nov club es fundat, de quel li bizarritá preterpassa sovente li límites
+del normal imagination\... Ti litt associationes queles ne have plu quam
+12 membres debi lor nascentie a homes de un folli e maladiv vanitá. 
+
+ 
+
+Un del max tipic exemples es li \"Kingsley club\", un \"Club del
+balbutiantes\", de quel li fundator es un vanitosi balbutianto quel
+volet absolutmen devenir celebri. Li reuniones de ti societé dura
+generalmen tre tard in li nocte, nam li conversation posse developar se
+solmen tre lentmen. 
+
+ 
+
+Hay in America pluri gruppes de clubes concernent li aviation. Li max
+aristocratic de ili es li \"Club of the early bird\" (Club del prim
+avie). Por esser admisset in it, it es necessi har esset aviator ante
+1916. Li existentie de association es naturalmen tre limitat. Li \"Club
+del eruca\' ha atinget un grand popularitá e have nu circa 800 membres.
+Li condition por esser admisset es plu facil: har almen un vez saltat de
+un avion per un paracade. 
+
+ 
+
+In contra, li \"Club del nubes trae\" su nómine de un motive plu prosaic
+: omni su membres prende lor lunch (litt dejuné) in li ultim etage de un
+del max alt \"ciel-scraperos\" de New York. 
+
+ 
+
+Un al tri curiosi club esset fundat in 1930 in Minneapolis in li
+Minnesota; it es li \"Club del savagi ásinos\" de quel li membres, secun
+li statutes, es obligat postular, per savagi \"hi-han\"-crias, un melior
+nutriment del farmeros por li ásinos del farme. 
+
+ 
+
+Omni cloccas del die ha dat lor nómin a clubes. Un del max tipicmen
+american es li Club de 7 cloccas. Omni su membres habita Philadelfia, ma
+labora in New York, talmen que ili 
+
+ 
+
+\- 92 - 
+
+ 
+
+ 
+
+ 
+
+prende chascun die, por revenir ad-hem, li tren de 7 cloccas. 
+
+ 
+
+Just ante li guerre esset fundat in London, li \"Eternal club\". Secun
+su statutes, ye quelcunc clocca del die o del nocte deve esser in li
+locale del association almen un membre. 
+
+ 
+
+\-\-\-\-\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+LI DANGERES DEL TOAST 
+
+ 
+
+On save que in Anglia, trincar ye li sanitá de alqui es nominat \"portar
+un toast\". Li toast have strangi regules queles on deve sequer
+exactimen. Antey, por exemple, por mult honorar un dama, li gentilmann
+toastant jettat in li foy un object apartenent a su o un parte de su
+vestiment, por exemple su cravatte. Strax poy, omni altri conmanjantes
+esset obligat sequer ti exemple jettante in li foy un object de sam
+specie. On raconta pri ti custom un amusant anecdote :
+
+ 
+
+Sir Malcolm Sydney dineat un die con un amical societé in un taverne. Ye
+li fine del repaste, un del conmanjantes hant videt que Sydney hat un
+preciosi cravatte ex dentelle, portat un toast a un dama e in sam témpor
+deprendet su propri cravatte e jettat it in li foy. 
+
+ 
+
+Sydney e li altres esset obligat sequer su exemple e fat it con li
+subrise. Sir Malcolm suportat ti joca con li max grand índiferentie, ma
+jurat in su self que il vell venjar se. 
+
+ 
+
+Du dies poy, li sam persones trovat se reunit in li sam taverne e li
+banquett esset tam gay quam li precedentes. In li dessert Sydney portat
+denov un toast al sanitá de un dama; poy il ordonat al garson far intrar
+un hom quel il fat intrar intentionalmen; ti individue esset su dentist.
+Sydney fa se extraer un defectet dente pro quel il sufret ja desde long,
+e jettat it in li foy. Omni conmanjantes regarda se unaltru ma li rigid
+regules del bon societé ne permisse escapar del obligation. Sydney ne
+accepte un exception. Tande chascun 
+
+ 
+
+\- 93 - 
+
+ 
+
+ 
+
+ 
+
+QUI VOLE AUXILIAR ? 
+
+ 
+
+Li Complet vocabularium de Occidental\" es nu perfinit in manuscrit. It
+esset composit de du sviss colaboratores sur li base de un unesim liste
+redactet ante li guerre de sr. Federn e controlat de sr. de Wahl. 
+
+ 
+
+Ti vocabularium comprende omni paroles del Radicarium in 8 lingues, de
+sr. de Wahl, del Dictionarium german-Occidental de Gär, del Vocabularium
+del centres de interesse e del Vocabularium frances-Occidental de
+Berger. On anc adjuntet a it mult paroles scientic íncontestabilmen
+international. 
+
+ 
+
+Ti enorm labor va esser submisset a un sever revision ante publication,
+nam it va constituer li fundament de Occidental, fundament índispensabil
+por li futur literatura de nor movement. 
+
+ 
+
+Por accelerar ti publication, noi besona colaboratores queles possede un
+scri-machine e posse recopiar nor listes in pluri exemplares. Qui vole
+auxiliar es petit scrir al Occidental Institute, Chapelle, indicante
+quant hores il posse dar chascun semane a ti labor de copiation. Ti
+labor es un bon ocasion aprofundar su conossenties in Occidental. 
+
+ 
+
+\-\-\-\-\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+(fine del págine 93) 
+
+ 
+
+conmanjante resigna se e li íncompatibil dentist introducte su
+instrument por extraer li dentes, queles va junter se al unesim e al
+cindres del cravate. 
+
+ 
+
+\-\-\-\-\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+In li medicinal dissectiones on ha trovat homes sin cordie; altres havet
+du cordies. In ti del pápa Urban VIII, on ha trovat un osse. On anc ha
+trovat cordies rodet, altris invertet, quam to evenit in li córpor de un
+Saxona quel esset pendet in li etá de 20 annus. 
+
+ 
+
+\-\-\-\-\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+Li descorageament es, in omni coses, quo es max mal: to es li morte del
+virilitá. 
+
+ 
+
+\- 94 - 
+
+ 
+
+ 
+
+ 
+
+REUNION IN LAUSANNE
+
+ 
+
+Li soledí 15 august reunit se in Lausanne seniores A. Matejka,
+presidente del OCCIDENTAL-UNION, Ric Berger, vice-president, Fred
+Lagnel, director e Ed. Mayor, presidente del SVISS ASSOCIATION POR
+OCCIDENTAL por prender conossentie del situation de nor movement e
+examinar mult punctus important concernent li activitá de nor
+organisationes.
+
+ 
+
+It esset constatat, que, in contrarie al altri movementes
+interlinguistic, queles plendi pri li actual situation, quel halta omni
+activitás, li Occidental-movement developa se max favorabilmen:
+COSMOGLOTTA apari chascun mensu - it es ye nor conossentie li sol revúe
+mundlinguistic del munde quel ho-moment apari mensualmen - ; li labores
+pri li preparation de manuales, vocabulariums, dictionariums, etc.
+avansa secun li previdet programma; li propaganda - benque reductet a1
+landes queles ne es in guerre - da excellent resultates.
+
+ 
+
+In resuma, li situation de Occidental es tant considerabil que noi posse
+previder li max grand successes quande li normal activitá va reprender
+pos li guerre.
+
+ 
+
+Li creation de un Interimari Academie ha esset decidet (vider li unesim
+págine de ti-ci numeró); on anc tractat diferent detalies concernent li
+metodes de labores por li preparation del vocabulariums e dictionariums.
+
+ 
+
+Pos to, agreabil discussiones secuet in queles on parlat pri li movement
+in general e pri mult coidealistes e mi-fratres del mundlingual
+movement.
+
+ 
+
+Malgré li calid die, li témpor passat tro rapidmen; ma ti contact inter
+li responsabil ductores del movement da sempre nov ardore e entusiasme
+queles li max seriosi element de success de nor interprense. F.L.
+
+ 
+
+-95-
+
+ 
+
+ 
+
+ 
+
+SUBVENTIONES E CONTRIBUTIONES RECIVET (31.7.43)
+
+ 
+
+Sr. F. Haller, Fr. 1.\--; Ed. Mayor, Fr. 1.50; R. Ris, Fr. 2.\--; J.
+Ritter, Fr. 2.\--; C. Segerståhl, Fr. 2.\--; E. Berggren, Fr. 2.\--; H-
+Björman, Fr. 2.\--; E. Binning, Fr. 5.\--; H. Björkman, Fr, 3\--; M.
+Bergqvist, Fr. 10.\--; F. Fedier, Fr. 2.\--; J.A. Sautter, Fr. 1.\--; G.
+Ahlstrand, Fr. 7.50.
+
+ 
+
+Cordialissim mersí ad omnes !
+
+ 
+
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+N01 informa li membres del SCOED que li intereste por 1942 del partes
+social es desde nu inscrit in lor credite che li Institute Occidental
+(Fr. 0,60 sviss por chascun parte de Fr. 20.\-- 3 % - ) por li partes
+prendet in li annus 193(?) til 1941.
+
+ 
+
+Noi rememora a nor letores que ili posse max utilmen auxiliar nor
+movement per devenir membre del SCOED, nor organisation editorial. Noi
+besona important summas por nor futur editiones p.ex. li \"Complet
+vocabularium de Occidental\" (ja completmen redactet), li \"Fundamental
+gramatica\" (completmen redactet), li \"Vocabularium Occidental-german e
+german-Occidental\" (in preparation), li \"Dictionnaire
+Français-Occidental\" (in revision).
+
+ 
+
+Li SCOED esset fundat in august 1939, just ante li guerre. Noi vell har
+credet, que it ne
+
+ 
+
+ne vell esser vivcapabil. Tamen, nor coidealistes bon comprendet su
+importantie e it ne cessat developar se durant ti quar annus de guerre.
+
+ 
+
+Union fa fortie ! Pro to, ples demandar un cedul de adhesion, con li
+statutes, a :
+
+ 
+
+Institute OCCIDENTAL,
+
+ 
+
+CHAPELLE (Vaud), SVISSIA.
+
+ 
+
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+In vor biblioteca ancor manca\...
+
+ 
+
+li VOLLSTÄNDIGER LEHRGANG ?
+
+ 
+
+TANDE ples strax comendar it. Precie Fr. 2.50
+
+ 
+
+-96-
+
+ 
+:::

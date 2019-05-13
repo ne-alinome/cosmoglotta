@@ -1,0 +1,769 @@
+Cosmoglotta B 039 (oct 1942)
+============================
+
+\
+
+::: {#displaycontent}
+COSMOGLOTTA 
+
+ 
+
+OFICIAL MENSUAL ORGAN DEL OCCIDENTAL-UNION 
+
+ 
+
+Redaction e Administration : 
+
+ 
+
+INSTITUTE OCCIDENTAL, CHAPELLE (Vaud), SVISSIA 
+
+ 
+
+Serie B , poligrafat. Tel. 9 56 56 Octobre 1942 - Nró 39 (10) 
+
+ 
+
+\-\-\-\-\-\-\-\-\--
+
+ 
+
+\"NATURAL\" E \"ARTIFICIAL\" IN LI LINGUE
+
+ 
+
+Li lingues artificial es un cose quel li scritores populari e mani
+filologos combatte ancor hodie quam \"ínscientic\". Li max recent
+judicament de ti specie noi extrae de un raport de sr. A Kring \*) pri
+li question del recomendabilitá de un lingue supranational (vivent o
+artificial), misset al functionarios del \"Europa-Union\"\' Zürich. Noi
+lee ta: 
+
+ 
+
+\"Vu questiona ca it es recomendabil selecter un lingue artificial quam
+idioma supranational. A to yo deve emfaticmen responder: NO ! It ne es
+nor tache intrar in concurrentie con Deo (\"wir sind nicht dazu berufen,
+dem Herrgott ins Handwerk zu pfuschen\") e constructer creationes
+linguistic. On ya save que omni creationes homan contene necessimen
+arbitraritás e tis-ci es tot simplicmen interdictet in li imperia del
+spíritu, quam céterimen anc in li education e altri dominias del
+cultura\". 
+
+ 
+
+\-\-\-\--
+
+ 
+
+\* ) Sr. Kring es li autor de un tre interessant libre intitulat DAS
+WORT: Sprachliche Weltwanderfahrten (LI PAROL: Linguistic
+peregrinationes tra li munde). Editoria: Schweiz. Kaufm. Verein, Zürich,
+143 pág., precie brochat Fr. 6, ligat 7.50. It es scrit por li profanes
+in linguistica e constitue por tis-ci un tre instructiv letura. It va
+interessar nor letores saver que sr. Kring conosse Occidental e que il
+declara considerar it quam li max bon sistema de lingue artificial. 
+
+ 
+
+\- 109 - 
+
+ 
+
+ 
+
+ 
+
+Li lingue sembla do esser por cert filologos alquo misteriosimen
+crescet, situat trans omni possibilitás esser influentiat, e ancor minu
+esser fabricat, per volentie del homes. 
+
+ 
+
+Che un parte de linguistes, tal enunciationes es simplicmen li efect de
+un deformation professional, ma mani altri adversarios del lingues
+artificial (filologos e non filologos) simplicmen hauste su saventie ex
+li lexico enciclopedic del annu 1900, pro que un edition plu recent ne
+existe in li biblioteca municipal. 
+
+ 
+
+On vell facilmen posser liquidar tal criticas, posiente a nor
+adversarios li question ca ili refusa glacie artificial o gallinas
+artificialmen covat. Noi aconosse que noi ne posse fabricar un cavall
+natural, ma noi permisse nos observar que anc automobiles e aeroplanes
+have cert avantages. 
+
+ 
+
+Comprensibilmen omni to pruva poc o necos, nam un lingue es ni un gallin
+ni un quadriped.
+
+ 
+
+Noi mey do posir nos tre seriosimen e positivmen li question: \"Quo es
+natural\" e \"quo 
+
+ 
+
+es artificial?\". In li forest virginal del Amazonas u null ente homan
+ancor ha penetrat o in li impetuosi cavall quel fierimen galoppa préter
+noi, noi have sin alcun dúbit li prototip de lu \"natural\". Nam li
+cavall vive, it move se e calid sangue pulsa tra su venes. In revancha
+li monument equestri, fondet ex bronze, ínmobil, quel presenta se a nor
+ocules es un product del arte, li ovre de un celebri sculptor. 
+
+ 
+
+Ergo, \"natural\" es alquo nascet ex se self e sin auxilie del hom,
+durant que \"artificial\" significa \"ovre homan\". 
+
+ 
+
+Ci noi vole strax far observar que precis e facilmen distinctibil
+delimitationes inter \"natural\" e \"artificial\" ne existe. Li cavall
+just mentionat presenta se con oreles, crine e caude talliat. It have
+hufes ye li pedes. Es- 
+
+ 
+
+\- 110 - 
+
+ 
+
+ 
+
+ 
+
+que tal cavalles es trovabil in li \"líber natura\"? On va responder que
+to es litt detalies e que in se self li cavall malgré to representa un
+genuin e ínfalsificat product natural. Ma yo, per hasard, conosse li
+historie de ti cavall e permisse me metter in dúbit su \"naturalitá. Ti
+cavall ne nascet sin li intervention del hom. Li cavallo ne ha electet
+li matre de su yune in li líber natura e secun su líber volentie, ma li
+elevator ha selectet self cavallo e cavalla por obtener un determinat
+product de elevage. Esque li resultat es ancor \"natural\" ? 
+
+ 
+
+Li conosseros del rasses canin va confirmar vos que mult de ti rasses es
+absolut artificial. Por ex. \"mopses\" ne existe necú in li líber
+natura. E esque li rose nigri es natural o artificial ? E li
+punie-grandi fresberes e li ananas queles li jardinero posi sur nor
+manja-table, esque anc tis es \"natural\" ? To es, justmen expresset
+\"natura con arte\"; it es li natura directet secun li scope-consciosi
+volentie homan; it es li arte crescet ex li natura. 
+
+ 
+
+Noi ne mey obliviar que mult productes artificial es hodie superiori a
+lis natural. Por ex. li colorantes natural ne es comparabil pri puritá e
+luce-resistentie al colorantes artificial. On prefere sempre plu li
+cautchuc sintetic al cautchuc natural e li fabrication de objectes ex
+materies plastic es un triumf del inventivitá homan. 
+
+ 
+
+Ma noi mey retrovenir al linguistic látere del question. 
+
+ 
+
+Li infant ne recive li lingue quam natural don junt con li pedes e li
+manus o quam li bocca e li ocules. It deve aprender it. Ma li \"corect\"
+aprension del lingue es possibil solmen si on represse constantmen li
+instinctiv tendentie al formation del paroles e frases secun li leges de
+analogie. Mani del inregularitás
+
+ 
+
+\- 111 - 
+
+ 
+
+ 
+
+ 
+
+existent in li vivent lingues (ne omnes!) debi lor conservation solmen a
+ti cause, nam li instinctiv tendentie vers unification del
+express-manieres vell altrimen bentost exterminar les. 
+
+ 
+
+Ti tendentie trova su max bon ilustration in li lingue scientic quel es
+sin contestation possibil product absolut artificial. Li rádicas es
+prendet ex mort lingues (grec e latin) e in li finales noi observa li
+constant cuida, expresser li sam coses per li sam sufixes. Talmen noi
+have li finale -it in paroles quam \"dinamit, grafit, antracit, clorit
+etc.\" Tre numerosi es anc li finale -0l  (ex li parol \"alcohol\"
+benque ci it ne es finale): carbol, naftol, fenol, cresol. Un altri
+element de artificialitá noi trova in li met0de del noviformationes per
+acurtation de expressiones combinat: HAPAG -
+Hamburg-Amerika.Paketfahrt-Aktiengesellschaft; FIAT - Fabbrica Italiana
+di Automobil Torino; UFA -Universal-Film-Aktiengesellschaft etc. Yo tace
+pri formationes quam AOK (Armee-Oberkommando), Flak, Motpulk, etc. etc
+. 
+
+ 
+
+Por pruvar que tal novifomationes artificial ne restricte se solmen al
+lingue professional, yo cita secun Schuchardt li secuent tre ilustrativ
+exemple: 
+
+ 
+
+In li lingue madyar \"minta\" significa \"mustre\". Ti parol have mult
+derivates e servi por un grand númere de combinationes; foneticmen it es
+genuin madyar e servi tam bon quam alcun altri parol. Ma si un parol ha
+esset fabricat in li retorte, it es ti-ci e ancor secun un fals recepte.
+In svedés li parol \"monete\" traducte se per \"mynt\" e it esset
+adaptat al laponic sub li form \"mynta\". In un old lexico laponic li
+traduction \"mustre\" por \"mintar\" hat, pro un erra tipografic, esset
+decovrit circa li annu 1770 de patre Faludi. \"Minta\"
+
+ 
+
+\- 112 - 
+
+ 
+
+ 
+
+ 
+
+mult pleset le, pro que it amemorat le li madyar \"mint a\" (quam li) e
+il transplantat ti scri- o print-erra laponic in li plu o min parent
+lingue madyar u it, quam ja dit, prospera e \"non olet\" . 
+
+ 
+
+Li austrian fisico e filosof Ernst Mach dit unquande: \"Metafisic\" noi
+nomina omni tal notiones che queles noi ha 0bliviat qualmen noi ha
+arivat til ili.\" In maniere analog, noi posse dir: \"natural\" es por
+noi ti coses e processes pri queles noi ne save qualmen ili ha nascet.
+Li parol un mintatt es pri to un excellent exemple.
+
+ 
+
+Ma mem plu intensiv quam in madyar, li fabrication de paroles ha esset
+perductet in li lingues de pluri micri nationeg, pos lor elevation al
+rang de lingues national. Yo mentiona ci li tchec, serbocroat, albanic,
+provençal e li \'landsmaal\' norvegian. Li reviventation del hebreic es
+un altri exemple. Omni ti noviformationes es li ovre consciosi de
+erudites, patriotes e poetes. Mistral, li max conosset de ti
+reviventatores esset representat con lute in manu e li vocabularium in
+li altri. 
+
+ 
+
+Cert noviformationes expande se quelcvez quam un maladie epidemic.
+Jespersen cita quam exemple por un tal \"mode-\" sufix li finale -ería
+quel significa un loc in anglés american. It comensat per \"cafeteria\"
+(format per imitation del hispan) quel nascet in California e provocat
+un real epidemie de simil formationes: chocolateria, fruiteria,
+luncheteria etc. Un equivalent sufix es \"-torium\". Noi have ta
+\"barbatorium, printatorium, bobatorium, etc.\" 
+
+ 
+
+Ante 25 annus, un jurnal danés ofertat un premie por li max bon surogat
+del pesant parol \"automobil\". Li premie esset atribuet por li parol
+quel expandet se tre rapidmen. On usa it hodie ne solmen in Dania, ma
+anc in 
+
+ 
+
+\- 113 - 
+
+ 
+
+ 
+
+ 
+
+Svedia e Norvegia. On forma con it anc combinationes e on ha mem derivat
+un verb de ti parol . 
+
+ 
+
+On va dir que to es solmen poc exemples queles pruva nequo. Noi deve do
+ci mentionar anc li normation lingual in li tecnic-scientic dominia u li
+\"tresor de paroles\" es consciosimen regulat e sistematicmen directet
+in su developation. E to eveni in un gradu quel ancor ne ha esset
+atinget de null gramatico, null academie e null scole poetic. 
+
+ 
+
+Yo pensa que li exemples citat sufice por monstrar que un clar
+separation inter \"natural e \"artificial\" in un lingue va in li max
+mult casus sempre esser arbitrari. Mult elementes trovabil in li lingues
+vivent es \"artificial\" e mult coses in li lingues artificial es
+absolut natural e quant plu bon es un sistema, tant plu natural it apari
+a noi. Si noi lee li frase: \"Occidental es li comun lingue del Europan
+cultura, nam it es li extract del lingues europan\" tande it apari a noi
+mult plu natural quam si noi vell vider li sam frase in chinés o
+arabic. 
+
+ 
+
+Li inpossibilitá de un clar separation inter lingues natural e
+artificial es anc aconosset de mani del max eminent representantes del
+scientie linguistic e ili ha sempre defendet ti opinion contra li
+majorité de lor colegos. Hugo Schuchardt di por exemple : \"Si on vell
+ex li \"homunculus-\"objection extraer li oposition inter \"cose
+crescet\" e \"cose fat\" , to vell haver null importantie por practica.
+Noi ya remplazza in crescent gradu e con evident success productes
+natural per productes artificial e processes natural per processes
+artificial. Ma - e per to noi quasi tucha li axe del discussion teoric -
+un tal oposition totmen ne existe in relation al lingue : lingues
+artificial e plu o min anc 
+
+ 
+
+\- 114 - 
+
+ 
+
+ 
+
+ 
+
+natural, lingues natural es plu o min anc artificial.\"
+
+ 
+
+\"Karamazin introductet mult noviformationes in li lingue russ, noi nave
+qui inventet les e noi mem plu ne pensa a Karamazin quande noi usa su
+noviformationes queles ha devenit ja tot customal in li lingue russ\"
+(Nik Yushmanov).
+
+ 
+
+\"Tre bon, on va dir. Noi aconosse qui in omni casus citat un
+intervention artificial ha esset fat in li natural evolution del vive
+lingual. Ma to omnicos es alquo totmen altri quam li invention de un
+complet lingue. On ne posse inventer lingues.\"
+
+ 
+
+Regretabilmen ti argument semblantmen just es refutat per li existentie
+íncontestabil de real inventiones lingual. Noi posse citar ci omni
+\"artificial\" lingues frontieral e mixtet queles servi quam medie de
+intercomprension inter popules de diferent rasses (por ex. inter
+chineses e angleses); adplu li secret lingues (\"argots\") del
+studiantes, furteros e vagabundes existent ye omni témpores in multissim
+landes.
+
+ 
+
+Li arte del perfect jardinero ne consiste in li production de un rose
+natural, ma in li selection del max bell e max bon exemplares, que
+permisse le, per li sam medie quam li natura, obtener nov species per
+cruceament e mutation.
+
+ 
+
+Ti sam tache have anc li mundlinguist. Il victe li natura explorante li
+leges del lingue e adaptante se a ili in li creation del idioma
+supranational.
+
+ 
+
+Secun O. Jespersen de A.M.
+
+ 
+
+\-\-\-\-\-\-\-\-\--
+
+ 
+
+Un del maxim grand frivolitás del hom es, nominar ti o ta altri animale
+\"fals\", quam si vell exister un ente quel es plu fals in su relationes
+al altri entes quam li hom.
+
+ 
+
+Christian Morgenstern.
+
+ 
+
+-115-
+
+ 
+
+ 
+
+ 
+
+\"BUMM !\"
+
+ 
+
+Pos que morit in Berlin li oldissim, tre reputat e meritosi ginecolog
+Prof. Dr. Bumm, conosset pro su proverbial despecte por titules oficial
+e por decorationes, on racontat li secuent anecdote :
+
+ 
+
+Prof. Bumm esset unvez invitat a un soaré e incontrat ta un oficero
+portant un imposant serie de órdenes quel presentat se a il per li
+energic e tranchant declaration: \"Baron de e a Ixenstein, general de
+artilleríe!\" A quo li adparlato respondet simplicmen: \"Bumm!\" Li
+general mesurat li inconosset civilist per un sever regard e repetit,
+accentuante chascun síllabe: \"Baron de e a Ixenstein, general de
+artillerie!\" - \"Bumm!\" esset li iterat response. Quande li oficero,
+ye li cúlmine de indignation pro ti evident persiflation de su rang
+militari e de su incorporation in li armé, repetit por li triesim vez su
+refrane e reciver denov quam response ti ominosi \"Bumm!\", per quo li
+afere semblat in su ócules har devenit matur por li duell, li hósped
+felicimen intervenit e explicat li miscomprense.
+
+ 
+
+(Ex \"National-Zeitung\")
+
+ 
+
+\-\-\-\-\-\-\-\-\--
+
+ 
+
+LI ASSOCIATION.
+
+ 
+
+It es admisset que li association es li sol grand medie economic quel
+existe in li munde e que si vu ne associa li homes in li labore, in li
+economisation, in li sucurs e in li repartition, li max grand númere de
+ili va ínevitabilmen esser victime de un minorité intelligent e plu bon
+providet per medies de success. Li association voluntari, ú chascun
+intra e surti líbermen secun conditiones determinat per li experientie,
+es li sol remedie eficaci a ti tri calamitás: li misere, li sclavitá e
+li coruption.
+
+ 
+
+Lacordaire.
+
+ 
+
+-116-
+
+ 
+
+ 
+
+ 
+
+IN LI PROTECTION DEL CICLOPE.
+
+ 
+
+Fabul de Pestalozzi (1746-1827)
+
+ 
+
+In li témpores del ciclopes un debilon reflectet: \"Yo vole confider me
+a su protection, tande il fa me necos.\"
+
+ 
+
+\"To es fat bon\", dit li ciclope, \"prende nu simplicmen ti fil in tu
+manu, e yo vole ducter te, u tu deve ear a levul o a dextri.\"
+
+ 
+
+To aterret li debilon; su tot córpor tremet. Tamen il prendet li fil in
+su manu. Ma ja li proxim matin li ciclop dit: \"Ti fil vell posser
+lacerar se\", e il dat le un corde in su manu.
+
+ 
+
+Poc dies pos to li gigant dit a il: \"Li fil e li corde esset solmen por
+li témpor de prova, in li future tu deve prender ti cable de protection
+per li manu e jurar, que tu ne va lassar cader it, ni durant li die, ni
+durant li nocte.\"
+
+ 
+
+Pallid quam un mort, li hom nu jurat quo ne esset possibil tener.
+Bentost li cable cadet ex su manu e il ne hastat levar it del suol, sur
+quel it cadet.
+
+ 
+
+Pri to li furion colerat e dit: \"To es ínfidelitá e perjurie, e to on
+deve prevenir.\" Parlante talmen il inligat su ambi manus per li cable
+de protection. Talmen incatenat li mann gemit: \"Beat es tis queles il
+devora sin protection\" e redat unvez durant un tot nocte per su dentes
+a ti cable de protection e volet tramanjar it. Ma li monstru avigilat se
+ante que il esset líber, e nodat li timet cable circum li titilliabil
+coll e menaciat le terribilmen, contracter li nod pos li prim delicte
+contra li sacri protection. Trad. F.H.
+
+ 
+
+\-\-\-\-\-\-\-\-\--
+
+ 
+
+ 
+
+ 
+
+Un optimist, precipitat
+
+ 
+
+desde un quaresim etage,
+
+ 
+
+ye chascun fenestre clamat:
+
+ 
+
+Til nu yo ha fat bon viage !
+
+ 
+
+\- 117 -
+
+ 
+
+ 
+
+ 
+
+CONCURS DE TRADUCTION
+
+ 
+
+German. Wo ist es am dunkelsten ?
+
+ 
+
+Ist das nicht eine dumme Frage ? Und doch ist es gar nicht
+selbstverständlich, dass es in der Nacht am dunkelsten sei. Die
+Verdunklung hat uns ja wieder gezeigt, dass selbst während einer dunklen
+Nacht noch recht viel gesehen werden kann. Viel dunkler ist es bei
+vulkanischen Aschenregen, wenn z. B. in einer Entfernung von einem Meter
+eine helle Lampe nicht mehr gesehen werden kann. Noch dunkler, geradezu
+unirdisch dunkel, scheint es in den Tiefen des Weltmeeres zu sein. Schon
+in secht Meter Tiefe verschwindet das Licht fast vollkommen und bei 90
+Meter war fast das ganze Spektrallicht verblasst, berichtet W. Beebe übe
+seine Tiefseetauchfahrten. Bei 240 Meter Tiefe sah der Forscher nur ein
+tiefstes, schwärzestes Blau, das man sich denken kann, eine geradezu
+unirdische Farbe. Von 600 Meter an herrscht im Weltmeer völlige
+Finsternis. Es scheint demnach in den Tiefen der Ozeane am dunkelsten zu
+sein.
+
+ 
+
+Ti textu traductet a Occidental es a inviar ante li 15 novembre 1942 al
+Institute Occidental, CHAPELLE (Vaud).
+
+ 
+
+ 
+
+ 
+
+ATTENTION! Desde nu, noi ne plu va atribuer apreciationes por li labores
+de concurs quam indicat in li nr. 31, pág. 22 de Cosmoglotta B. Noi va
+simplicmen publicar li max bon traduction recivet e li liste del
+partiprendentes al concurs. Talmen chascun partiprendente va har li
+possibilitá corecter su erras o decovrir un ameliorat stil.
+
+ 
+
+Noi va comensar li regulari publication de textus del concurs desde li
+proxim numeró.
+
+ 
+
+RESULTATE: (Nr. 37, august 1942):
+
+ 
+
+De francés a Occidental:
+
+ 
+
+Sr. W. GILBERT (Muret)
+
+ 
+
+REUNION IN LAUSANNE
+
+ 
+
+Ye li ocasion del venida a Lausanne de srs Dr. Haas (Winterthur) e
+Hamburger (St. Gallen) srs Matejka (La Chaux-de-Fonds), Berger (Morges),
+Mayor (Lausanne) e Lagnel (Chapelle), reunit se li soledí 20 septembre
+in Lausanne por distusser li important problemas concernent li labores
+linguistic e lexicografic.
+
+ 
+
+Ili anc ha examinat cuidosimen omni questiones de editiones e de
+propaganda.
+
+ 
+
+Tal reuniones es tre productiv pro que ili permisse liquidar mult
+problemas queles vell postular long corespondentie. In plu, to es anc un
+excellent ocasion utilisar Occidental. On posse talmen vider quant
+rapidmen li parlada deveni fluent.
+
+ 
+
+Sres Dr. Haas e Hamburger anc visitat li Institute Occidental e ili
+posset vider qualmen functiona nor tot organisation: Occidental-Union,
+SAPO, SCOED, Cosmoglotta, Institute Occidental, etc.
+
+ 
+
+Quáncam un general assemblé del SAPO vell har esset util, li
+partiprendentes al reunion judicat preferibil procrastinar it por evitar
+a nor membres alt expenses ferrovial. F.L.
+
+ 
+
+\-\-\-\-\-\-\-\-\--
+
+ 
+
+SCOED
+
+ 
+
+(Societé Cooperativ del Occidental Editiones)
+
+ 
+
+Li membres del SCOED es ci informat que li intereste de lor partes
+social por li annu 1941 (3 %) es a lor disposition, in lor credite che
+li Institute Occidental.
+
+ 
+
+Ye ti ocasion, noi rememora a nor letores que li aquisition de un parte
+social del SCOED es un deve por omni tis, queles desira li success de
+Occidental. Li partes social es de Fr. 20.\-- sviss; ili posse esser
+payat in quar ratas. Ples demandar li \"Statutes\" che li Institute
+Occidental.
+
+ 
+
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+ADHERE A SCOED - ADHERE A SCOED - ADHERE A SCOED.
+
+ 
+
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+-119-
+
+ 
+
+ 
+
+ 
+
+SUBVENTIONES-CONTRIBUTIONES RECIVET (30.9.42)
+
+ 
+
+Sres A. Nordlund, Fr. 5.\--; G. Ahlstrand, Fr. 1.20; Johalf, Fr. 1.\--;
+F. Haller, Fr. 1.\--.
+
+ 
+
+Cordial mersí ad omnes !
+
+ 
+
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+RECTIFICATION
+
+ 
+
+In li articul del ultim Nr. de Cosmoglotta B, \"Japanés quam nov lingue
+universal\...\", p. 100, ples leer talmen li frase desde li linea 13:
+\"Or, por esser comprendet del usatores de Basic English, li Angleses
+vell in lor torn esser fortiat memorar li 850 paroles, etc\...\" (li
+sublineat parte esset obliviat in scrition; noi peti li autor excusar
+nos).
+
+ 
+
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+VICTORIE! VICTORIE!
+
+ 
+
+Car coidealistes e letores!
+
+ 
+
+Esque vu crede que vu va posser pussar ti eclatant cria \"Victorie!\"
+per li plen fortie de vor pulmones, quam expression de vor ínlimitat
+joy, si vu atende beatmen que un parte del laboreros de nor movement mey
+har exhaustet lor tot forties por li realisation de ti success ? Tot ne
+!
+
+ 
+
+Noi besona li auxilie de OMNES.
+
+ 
+
+Qualmen subtener nor eforties ?
+
+ 
+
+Tre simplicmen: CHASCUN MENSU, ples inviar a nor postchec-contos un
+subvention, mem micri, secun vor possibilitás, per li anexet bulletin de
+payament.
+
+ 
+
+Guttes de aqua fi li grand riveres - micri auxilies de multes junt fa
+grand forties - grand forties ducte al VICTORIE.
+
+ 
+
+Do, ples ne atender deman por acter !
+
+ 
+
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+IN VOR BIBLIOTECA ANCOR MANCA\...
+
+ 
+
+li \"Vollständiger Lehrgang der internationalen Welthilfssprache
+Occidental\" de A. Matejka ? Tande ples strax comendar it al I.O. :
+Precie Fr. 2.50 (Membres O.-U., SCOED, Fr. 2.20)
+
+ 
+
+-120-
+
+ 
+:::

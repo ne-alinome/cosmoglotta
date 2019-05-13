@@ -1,0 +1,835 @@
+Cosmoglotta B 056 (mar 1944)
+============================
+
+\
+
+::: {#displaycontent}
+COSMOGLOTTA 
+
+ 
+
+ 
+
+ 
+
+OFICIAL MENSUAL ORGAN DEL OCCIDENTAL-UNION 
+
+ 
+
+ 
+
+ 
+
+Redaction e Administration : 
+
+ 
+
+ 
+
+ 
+
+INSTITUTE OCCIDENTAL, CHAPELLE (Vaud), SVISSIA 
+
+ 
+
+ 
+
+ 
+
+Serie B, poligrafat (Tel. 9 56 56) Marte 1944 Nró 56 (3)
+
+ 
+
+\-\-\-\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+ 
+
+ 
+
+PROF. DR. ALBERT DEBRUNNER
+
+ 
+
+In memorie a su 60-im anniversarie
+
+ 
+
+ 
+
+ 
+
+Ye li 8 februar 1944, Dr. Albert Debrunnrer, professor de linguistica
+indogermanic e classic filologie in li universitá de Bern, festat su
+sixantesim anniversarie. Li presse sviss ha commemorat ti eveniment per
+un grand númere de articules queles sublinea li importantie del ovre
+scientic de ti eminent representant del modern linguistica.
+
+ 
+
+ 
+
+ 
+
+Prof. Dr. A. Debrunner actet quam docent successivmen in Basel, Zürich,
+Greifswald, Bern, Jena e desde 1935 denov in Bern. It vell esser van
+pena citar ci su important contributiones al scientie linguistic,
+precipue pri lingues grec, latin e antiqui indic, su colaboration al
+redaction del \"annuarie indogermanic\" e su penetrant recensiones de
+ovres linguescientic. Li presse diari ha dit omnicos quo on posse dir in
+honor de ti digni representant de nor micri land a qui su ínfatigabil
+labor e su índiscusset competentie ha atraet li fama international. Ma
+to quo li presse ne ha mentionat, es li activitá de Prof. Debrunner in
+li dominia del interlinguistica e on va comprender nos, si noi senti li
+beson plenar ti tre regretabil lacune.
+
+ 
+
+ 
+
+ 
+
+Noi save tre bon que si li labor del unésim pioneros del idé mundlingual
+esset particularimen penosi, ili debe to in grand parte al declarat
+hostilitá del majorité del representantes
+
+ 
+
+ 
+
+ 
+
+-25-
+
+ 
+
+ 
+
+ 
+
+del lingue-scientie, queles considerat li creation de un lingue
+artificial quam un interprense ínpossibil e índesirabil e queles, per
+lor apert oposition a nor idés, grandmen influentiat anc li masse del
+profanes e alimentat li natural incredacitá del publica. It es ver que,
+li mundlinguistes ne esset completmen abandonat del scientie : inter li
+unésim subtentores del lingues artificial noi trova mem nómines tam
+ilustri quam tis de Hugo Schuchardt, Vilh. Thomsen, A. Meillet, Otto
+Jespersen, quar del max brilliant stelles del linguescientie. Malgre
+omnicos, ti linguistes format in comensa un ínsignificant minorité. Ma
+gradualmen, sub li efecte del practic successes de cert sistemas de
+lingue international e mersí a un progressiv mutation del conceptiones
+del linguistes pri li importantie del interlinguistica quam branche del
+scientie oficial, li númere del subtenentes fortmen crescet durant li
+últim decennies.
+
+ 
+
+ 
+
+ 
+
+Inter tis queles activmen laborat in favor de un mundlingue e afirmat li
+perfect vive-capabilitá de un constructet lingue, Prof. Debrunner merite
+un del honor-plazzas. Il esset un del unesim colaboratores de IALA e
+fortmen promoet li scientic labor de ti gremie in su qualitá quam
+presidente del \"committe for Agreement\". Ci es forsan anc li ocasion
+por dir apertmen que quelcunc mey esser li judicie de cert
+mundlinguistes pri li activitá de IALA, ti-ci have li grandissim merite
+har atraet li atention del scientistes al ancor negliget problema del
+lingue universal. E it ha plenmen successat in ti interprense. To es un
+resultate de quel noi apene posse misestimar li importantie e, si hodie
+li grand majorité del linguistes ha mutat se de anteyan adversarios a
+convictet subtentores del lingues constructet e mem in tre grand parte a
+activ colaboratores in favore de nor idés, noi
+
+ 
+
+-26-
+
+ 
+
+ 
+
+ 
+
+debi to al grand prestigie e al ínfatigabil labor de tis, queles, quam
+Prof. Debrunner, ha del comensa posit lor saventie e lor scientic
+erudition al servicie de nor comun ideal.
+
+ 
+
+ 
+
+ 
+
+E ples ne creder que li partiprension del scientistes a nor labores
+interlinguistic ha sempre esset por ili un real plesur. In mani
+concernenties, li colaboration con activ mundlinguistes revelat se
+sovente quam desfacil e quelcvez mem quam desagreabil. Li movement
+mundlinguistic simila un vespiere. In su ranges trova se regretabilmen
+anc fanaticos e ínconvictibiles, por queles li íntolerantie sembla esser
+li suprem vertú. Prof. Debrunner ha posset far self ti experientie, nam
+li activitá de IALA ha esset e es ancor sentit quam spine de mult
+esperantistes queles naturalmen includet li presidente de su linguistic
+comité in lor ínreductibil aversion contra omni tis queles ne gloti
+Espenanto ciecmen quam \"nec plus ultra\" del creation mundlinguistic.
+Ma it es just aconosser que anc noi Occidentalistes ne esset sempre sin
+acritá in li critica del linguistic labor de IALA, e Prof. Debrunner
+posset con jure considerar quelcvez li oposition venient
+
+ 
+
+del movement occidentalistic quam ínnecessarimen agressiv, benque nor
+ataccas in realitá nequande esset directet contra il personalmen, ma
+contra li activitá de cert declarat adversarios de Occidental quem noi
+conosse de long date. Fortunosimen, Prof. Debrunner sempre savet far un
+clar distintion inter li parte positiv e constructiv del criticas
+directet a IALA e li ínevitabil excesses debit al combattiv ardore de
+cert mundlinguistes. Il acceptat li unesim e ignorat li duesimes. It es
+tre possibil que
+
+ 
+
+anc in futur su opiniones ne va sempre matematicmen concordar con li
+nores, ma to quo importa es que por li duction de su labor linguistic,
+IALA ha trovat un scientist de quel
+
+ 
+
+-27-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+li position quam impartial e objectiv arbitro súper li divers parties es
+ínataccabil e quel adplu - tot abstraent de su índiscusset competentie
+in questiones interlinguistic - possede in rar gradu ti don de personal
+afabilitá e complesentie quel es li felici complement de su professional
+autoritá e quel caracterisa su relationes con omni persones qui have li
+privilegie conosser le personalmen.
+
+ 
+
+ 
+
+ 
+
+Al admiration por li grandore de su ovre scientic e al expression de nor
+profund gratitá por su ínestimabil colaboration al realisation de nor
+comun ideal, noi do junte li desir
+
+ 
+
+que Prof. Debrunner may juir ancor mult annus de felicie e de fructuosi
+labor por li bene de nor grand ideal e por li beneficie del scientie a
+quel il ha dedicat su vive. A.M.
+
+ 
+
+\-\-\-\-\-\-\-\-\--
+
+ 
+
+ 
+
+ 
+
+TRA LI PRESSE
+
+ 
+
+ 
+
+ 
+
+Un important eveniment por nos Occidentalistes es que li bon-conosset
+revúe mensual, DER ORGANISATOR, es in tren de publicar un tot serie de
+articules pri Occidental. Ili ha comensat in li numeró de januar per un
+studie introductiv de du págines, a quel li redaction antemettet li
+remarca : \"Con li publication de ti articules noi ne vole pretar nos a
+un discussion pri li valore del divers lingues artificial. Anc Esperanto
+ha ja amplimen havet li parol in, li ORGANISATOR.\" Li (ne nominat)
+autor del articul mentiona in prim li objetiones queles on deve far
+contra un lingue national quam idioma auxiliari international, e
+continua : \"Un lingue artificial have li avantagie contra omni vivent
+
+ 
+
+lingues que it es realmen neutral; ma adplu it es mult plu facilmen
+aprensibil. Ti facilitá
+
+ 
+
+esset atinget simplificante fonetica e ortografie secun li principie :
+un signe - un son, caracterisante li parol-classes per precis finales,
+basante li conjugation del verbes sur un
+
+ 
+
+\- 28 -
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+simplic e regulari schema e creante un sistema de parol-derivationes
+fundat sur li usation de definit prefixes e sufixes e logicmen imaginat.
+To es tre bon in teorie, ma in li practica imprevidet desfacilitás
+monstra se. It es un factic experientie que li pluparte del homes ne ama
+mult li lingues artificial; solmen un lingue basat sur natural
+fundamentes trova li simpatie del publica\". Pos har monstrat qualmen e
+pro quo li eforties del altri sistemas de lingues auxiliari obtener li
+naturalitá ne successat, li autor veni al solution del problema per
+Edgar de Wahl : \"Li lingue creat per il nominat Occidental presenta un
+novitá fundamental : it es tam natural quam un vivent lingue e támen ne
+plu complicat, ma in contra plu simplic quam su artificial precursores.
+Prof. de Wahl ha posit li principie que facilitá teoric nullmen es
+identic con aplicabilitá practic, e ha resolutmen jettat for bord li tot
+ideologie esperantistic. It esset su maxime prender in su lingue omni
+paroles internationalmen connosset in lor form natural, sin cuidar ca
+per to p. ex.
+
+ 
+
+li principie \"un signe - un son\" es violat. Il fat li consideration
+tre simplic que un desfacilitá purmen teoric, p. ex. li duplic valore
+del consonantes \'c\' e \'g\' in \'concert\' e 'garage\', in contra es
+un facilisation practic, si it ja es acustomat al preponderant majorité
+del homes ex li omnidial usu del lingue. Nam to, quo on ja save, on ne
+besona specialmen aprender. Ma lu realmen e principialmen nov in
+Occidental es que li international paroles trovant se in ti lingue posse
+esser derivat, in lor form natural, regularimen del parol-radica, durant
+que in li altri lingues artificial ili sive sta exter li leges de
+derivation sive posse exister solmen in formes mutilat\".
+
+ 
+
+ 
+
+ 
+
+To es curt, ma exhaustent e ínmediatmen comprensibil demonstration del
+principies de nor
+
+ 
+
+-29-
+
+ 
+
+ 
+
+ 
+
+lingue, e noi posse con plesur atender continuation de ti serie de
+articules. 
+
+ 
+
+ 
+
+ 
+
+Nor letores ja save que li Rossner & Co., de St. Gallen, fabricant del
+strumpes por damas \"Perosa\", per li iniciativ de nor coidealist, sr.
+Kurt Hamburger, de St. Gallen, ha inaugurat un reclama-campanie in quel,
+apu German, Francés, Italian e Romanch, anc Occidental es usat. Quam
+unesim jurnal de nor land li NEUE ZUERCHER ZEITUNG ha comensat li
+publication de ti serie de anuncies, altri jurnales e revúes va secuer,
+e con grand interesse noi atende li efecte de ti action e su ecó inter
+li letores del jurnales in question. 
+
+ 
+
+ 
+
+ 
+
+Un deliciosi satire contra Basic English, publicat in li grand jurnal
+A.B.C., de Madrid, esset inviat nos per un coidealist de Hispania. Li
+autor, sr. Julio Camba, un bon conosset scritor humoristic, in prim es
+astonat que justmen un hom tam rich in paroles quam sr. Churchill posset
+recomendar ti -Lingue, quel vermen es li \"Anglés del povre\"! It vell
+suficer solmen por 
+
+ 
+
+expresser rudimentari idés e elementari sentimentes. Li autor continua
+per scrir que sr. Ogden have li jure reducter e simplificar su lingue
+matrin, ma si li autoritás recomenda su invention, on deve creder que
+ili vole rationar li lingue, e timer que un ver \"nigri mercat\" de
+verbes, substantives e adjectives va developar se. Inplu, li ver tache
+del parlada ne es expresser, ma ocultar li pensas, e por to un lexico de
+850 paroles ne sufice. \"Por covrir li nuditás del pensada homan on
+besona tre mult stoff, ma Basic English have solmen li dimension del
+classic folie de viniera\".
+
+ 
+
+ 
+
+ 
+
+In un articul scrit evidentmen secun li principie de lavage sin aqua li
+SCHWEIZERISCHES KAUFMAENNISCHES ZENTRALBLATT (11 feb.1944) discusse li
+question \"Esperanto, Básic o Standard Anglés?\" Li autor ne nega li
+desavantages de Esperanto, 
+
+ 
+
+-30- 
+
+ 
+
+ 
+
+ 
+
+ma crede que ili ne deve impedir li usation de ti idioma quam lingue
+international auxiliari, si solmen su repansion in li tot munde es
+garantit, ma por to un augmentation del suporte per li autorités es
+ancor necessi. In Basic English il vide un medie excellent de
+introduction in li studie del ordinari Anglés, nam li perlaboration de
+un manuale de Basic English, secuet per un gradual elargation del
+conossenties lingual obtenet per it, posse tre bon victer, che li
+studiant, li timore que Anglés es tro complicat. Noi ne posse consentir
+a ti opinion : comensar li studie de Anglés per Basic English vell esser
+un ínutil dissipation de energie e témpor. 
+
+ 
+
+ 
+
+ 
+
+Naturalmen li tot propaganda por Basic English have un fundament politic
+: li anglo-saxones espera victer in ti guerre e expecta - e in ti casu
+certmen con rason - que al or lor lingue va obtener un expansion ancor
+plu grand quam antey. It vell esser presc íncomprensibil si li Germanes
+ne vell haver li sam idés pri un developament identic in lor favor. Ex
+un articul de Georges Agricola in li SCHWEIZERISCHE BEAMTENZEITUNG (28
+jan.1944) noi aprende que on in facte ja ha inventet un simplification
+del German corespondant al Basic English. It porta li nómin WE-DE,
+abreviation por \"Welt-Deutsch\" (German mundal). It difere del lingue
+normal ancor plu mult quam Basic English, e pro to su autores ne
+recomenda it quam introduction in li studie del German propri, ma solmen
+quam idioma auxiliari in li relationes international. Por li instruction
+- e amusament - de nor adherentes con German quam lingue matrin noi
+reproducte ci li paternostre in ti lingue : \"Unsere fater vele sein in
+himel, deine name sol werden geheiliet, deine reik mes sukom uns, deine
+wile meg geshê wi in himel so af erde. Gewe uns unsere taglie brot,
+fergewe uns unsere 
+
+ 
+
+-31-
+
+ 
+
+ 
+
+ 
+
+shulda (feltrita), wi wir fergewe unsere feinda, u fire nit in fersukun
+uns, sondern erlese uns fon ale iwela.\" 
+
+ 
+
+ 
+
+ 
+
+On deve confesser que simplification del gramatica e ortografie - in
+tant que on posse 
+
+ 
+
+judicar it ex ti poc paroles - ne es ínhabil, e it es interessant notar
+que it seque aproximativmen li sam principles queles ha ductet al
+developament del Afrikaans (dialect hollandés del 
+
+ 
+
+boeres de Sud-Africa) ex li Hollandés normal. It es nullmen improbabil
+que li developament 
+
+ 
+
+natural del lingue german durant li secules futuri va avansar in li sam
+direction, ma We-De 
+
+ 
+
+tam quam Basic English choca nos quam barbaric creationes apt forsan e
+admaxim por li intercomprension con Hottentottes o Papuas. 
+
+ 
+
+ 
+
+ 
+
+It es conosset que in li anglo-saxonic landes on trova mani \"lingual
+imperialistes\" queles opine que omni forenes queles veni a Anglia o
+Uniat States o queles desira reciver li visite de anglo-saxones deve
+aprender Anglés. Naturalmen tal chauvinistes ne es un anglo-saxonic
+specialitá; on trova les anc che altri landes, p. ex, in Francia o
+Germania, e do it ne es astonant que anc li pur German, malgré su
+desfacilitás por forenes, ha esset propagat quam futur lingue mundal.
+Sub li misguidant titul \"Esperanto\" (nam in li articul es dit pri
+Esperanto solmen que su témpor es passat) li ROTE REVUE (nov. 1943)
+informa nos pri un tal projecte quel it ha trovat in li DENTAL-ECHO, un
+revúe german por aparates e remedies de dentisterie. Li rasonament de ti
+jurnal e li glosses pri it del ROTE REVUE es de caractere purmen
+politic; noi do renuncia citar les ci.
+
+ 
+
+ 
+
+ 
+
+Ma vermen astonant es trovar un articul propagant li usation de German
+quam lingue mundial in un jurnal del\... Svissia italian ! L\' AZIONE de
+Lugano (21 jan.1944) publica un long discussion titulat (anc completmen
+misguidant) \"Basic 
+
+ 
+
+\- 32 - 
+
+ 
+
+ 
+
+ 
+
+English ?\". Naturalmen li argumentation de ti jurnal es completmen
+diferent de ti del DENTAL ECHO. Li autor de ti articul parla in prim pri
+li rol quel Latin ludet durant li Medi-Etá e til li 17-ésim secul,
+essent li lingue international quel chascun erudite conosset e in quel
+chascun ovre scientic scrit in un lingue national esset strax traductet
+por trovar, in ti maniere, su via in omni landes del terre. Il constata
+alor que hodie certmen noi have anc un \"universitá\" mundal in li
+dominia del scientie e literatura, ma que ínfortunosimen un lingue
+universal manca nos. Un revivification del Latin es impossibil, e li
+lingues artificial, secun li opinion del autor, es sin vitalitá,
+tradition, spontanitá e elegantie, do solmen un lingue vivent e literari
+posse devenir li nov lingue universal quel omni erudites deve saver. Ma
+quel ? E li response dat per li autor es : 
+
+ 
+
+\"It vell esser un altissim pruva de politesse superiori si justmen in
+li témpor quande omni altri nati ones monstra li extrem hostilitá contra
+li conduida politica de Germania, e pos lor eforties de resistentie, li
+munde vell selecter voluntarimen quam lingue del studies e traductiones
+li lingue de Goethe, Heine e Schopenhauer - li lingue german. On save
+que ti lingue es max apt a rendir in traduction omni altri lingues
+(durant que Francés e anc Italian deve tro mult assimilar omnicos a lor
+ritme, gust e órdine), que it es li max originari, li max inradicat del
+modern lingues, li idioma max apt al proprietá e al precision del
+eloquentie liric e del pensa filosofic\" . 
+
+ 
+
+ 
+
+ 
+
+Un proposition de alt idealitá e vestit in bell paroles - ma de un
+naivitá stupefant ! Qualmen li guerre mey finir, noi ne posse imaginar
+un anglés o american usant german quam medie de intercomprension con un
+hom de un altri nationalitá, o un german servient se de 
+
+ 
+
+\- 33 - 
+
+ 
+
+ 
+
+ 
+
+Anglés por li san scope. No, solmen un lingue neutral e artificial e
+támen ne essent sin vitalitá, spontanitá e elegantie - li tradition va
+venir in li curs del témpor - quam nor Occidental posse esser li
+successor del Old Latin, li nov lingue universal de cultura e
+civilisation quel chascun erudite e chascun hom havent relationes con
+forenes va conosser.  Dr.P. 
+
+ 
+
+\-\-\-\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+CRONICA 
+
+ 
+
+\*\*\* OCCIDENTAL-BULETIN (de Francia). Nr. 1. Januar-februar 1944. Ti
+micri bulletin poligrafat sur du págines, format de Cosmoglotta, fat nos
+un extrem plesura, nam it monstra que malgré omni desfacilitás material,
+nor francés coidealistes ne ha abandonat Occidental e que ili tamen
+labora con entusiasme a su difusion. In ti bulletin ili parla del
+creation del Interimari Occidental Academie e de Cosmoglotta. Un rubrica
+contene li opiniones del coidealistes, un altri da exemple de traduction
+del du paroles francés \"comme\" e \"si\".
+
+ 
+
+ 
+
+ 
+
+Gratulationes a nor coidealistes ! F.L.
+
+ 
+
+ 
+
+ 
+
+\*\*\* REVÚE INTERNATIONALE DE STENOGRAPHIE, Nr. l  1944, 11 Chemin
+Ritter, Bienne (Svissia). Mersí a nor coidealist Bieller, it contene un
+tot págine de Occidental textus prendet in Cosmoglotta. Un calid mersí
+por ti excellent propaganda. F.L.
+
+ 
+
+ 
+
+ 
+
+\*\*\* UNION PACIFIC.
+
+ 
+
+Li unesim numeró del nov organe del Union Pacific in german lingue ha
+aparit. It contene articules sur li scopes de ti movement e quelc micri
+noticies pri actiones in preparation. Noi ja pluri vezes nominat li
+Union Pacific, nam it favorisa Occidental. Vident li titul del
+association it sovente eveni que neutral persones questiona pri su
+orígine. In facte it es comprensibil a omni persones, ma have un
+scrition ni francés, ni german, ni anglés, ni italian, 
+
+ 
+
+-34-
+
+ 
+
+ 
+
+ 
+
+ni hispan. In response a omni questiones on explica que it es un
+expression Occidental e to 
+
+ 
+
+oferta un excellent ocasion por propagar nor lingue. Noi deve esser grat
+a ti movement por ti propaganda, consistent in li adoption de un titul
+in Occidental. Interessantes posse reciver un prov-numeró del nov
+revuette del : Union Pacific, postal case, Hoveredo (Grb.) Svissia. 
+
+ 
+
+\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+ 
+
+ 
+
+UN CELEBRI FILOLOG Rectification 
+
+ 
+
+ 
+
+ 
+
+Secun un comunication de Dr . Langie (Lausanne) it ne acte se in li
+articul publicat p. 5 de Cgta nr. 54 pri prof. Schneto, ma Schütz e li
+númer de lingues queles il parlat ne esset 90 ma 290.
+
+ 
+
+\-\-\-\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+ 
+
+ 
+
+IN LI MENAGERÍE 
+
+ 
+
+ 
+
+ 
+
+In li epoca del francés rey François I, li corte amusat se regardar un
+die un combatte de leones in li menageríe. Un dama lassat cader su gante
+in li arena e dit al chevalier de Lorges : \"Si vu vole pruvar me que vu
+ama me tam mult quam vu pretende, ples reprender strax mi gante\". De
+Lorges descende tranquilmen, reprende li gante in medie de ti terribil
+animales rugient, reascende, jetta li gante al visage del dama e ne plu
+volet revider la. Il ne plu havet consideration por ti cruela sin
+cordie. 
+
+ 
+
+ 
+
+ 
+
+LI UNESIM ANUNCIA DE MARITAGE 
+
+ 
+
+ 
+
+ 
+
+It aparit in 1727 in li jurnal anglés \"Manchester Weekly\". Su autor,
+Miss Helen Morrison audaciat informar li publica per ti medie til tande
+ínaudit que ella serchat un marito \"bon in omni relationes\". 
+
+ 
+
+ 
+
+ 
+
+Li publication de ti anuncia havet quam consequentie (quam on posset
+constatar it in li secuent numeró de Manchester Weekly) li arestation
+del temerari miss, e su internament in un asil \"por examine de su
+mental facultás\".
+
+ 
+
+\- 35 - 
+
+ 
+
+ 
+
+ 
+
+SUBVENTIONES E CONTRIBUTIONES RECIVET (29.2.44) 
+
+ 
+
+Sr. Ed. Mayor, 1.50; H. Schumacher, Fr. 3.\--; S.O. Sunnar, Fr. 10.\--;
+A. Portmann, Fr. 2.\--; H. Leuthold, Fr. 10.\--, W. Leuenberger, Fr.
+\'.\--; E. Haas, Fr. 5.\--; Dr. F. Haas, Fr. 5.\--; H. Rohner, 
+
+ 
+
+Fr. 2.\--; W. Haas, Fr. 5.\--; E. Kocher, Fr. 2.50; N. Stålberg, Fr.
+5.\--; A. Teleki, Fr. 5.\--; H. Nidecker, Fr. 5.\--.
+
+ 
+
+ 
+
+ 
+
+Cordialissim mersí ad omnes ! 
+
+ 
+
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+ 
+
+ 
+
+SVISS ASSOCIATION POR OCCIDENTAL (SAPO) 
+
+ 
+
+ 
+
+ 
+
+Un general reunion del membres del SAPO es previdet in junio o julí. Por
+permisser al membres del diferent partes de Svissia partiprender a ti
+important convenida, noi opine que Bern o Bienne deve esser selectet por
+ti assemblé. Noi peti nor coidealistes far propositiones pri loc, date e
+eventual propositiones a tractar. Ti propositiones deve arrivar al
+Institute Occidental ante li may 1944. 
+
+ 
+
+\-\-\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+ 
+
+ 
+
+COSMOGLOTTA 
+
+ 
+
+ 
+
+ 
+
+Noi peti pardon e indulgentie por li grandissim tarde in li aparition
+del numeró de marte de Cosmoglotta B. Li cause de ti retard es in unesim
+range li labores professional del responsabil editor e adplu sempre
+crescent labores max divers por Occidental. Noi espera que li numeró de
+april va aparir ancor in li comense de may e li numeró de may in li fine
+del mensu. Si evenimentes índependent de nor voluntá ne impedi nos
+realisar nor planes, noi espera que li regulari aparition in comensa del
+mensu va reprender con junio. 
+
+ 
+
+\-\-\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+CONTENETE : Prof. Dr. A. Debrunner. - Tra li presse. - Cronica -
+Subventiones. - SAPO. - Cosmoglotta.
+
+ 
+
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+Multiplicat per Institute OCCIDENTAL, CHAPELLE 
+
+ 
+
+-36- 
+
+ 
+:::

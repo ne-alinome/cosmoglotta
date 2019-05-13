@@ -1,0 +1,648 @@
+Cosmoglotta B 047 (jun 1943)
+============================
+
+\
+
+::: {#displaycontent}
+OFICIAL MENSUAL ORGAN DEL OCCIDENTAL-UNION
+
+ 
+
+Redaction e Administration:
+
+ 
+
+INSTITUTE OCCIDENTAL, CHAPELLE (Vaud), SVISSIA
+
+ 
+
+Serie B, poligrafat. (Tel. 9 56 56) Junio 1943 - Nró 47 (6)
+
+ 
+
+\-\-\-\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+ 
+
+ 
+
+LI VICTORIA DEL IDÉ MUNDLINGUAL ES ÍNEVITABIL!
+
+ 
+
+Parlante pri li situation linguistic de nor continent, un erudit
+poliglott de un micri land europan expresset recentmen su astonament pri
+li facte que mem in li classic land del plurlinguitá, it es Svissia, li
+persones savent fluentmen parlar adminim un lingue national ultra su
+lingue matrin, sembla esser excessivmen rar. Il observat que in Romandia
+(francés parlant parte de Svissia) presc nequi save bon german, durant
+que li saventie pri italian, li triesim lingue national de Svissia, es
+practicmen ínexistent. Esque it ne es regretabil que just in ti land de
+quel li vive intelectual es basat sur tri grand culturas, on ne cultiva
+in maniere plu intensiv li studie del lingues national ?
+
+ 
+
+Noi partiprende li regret del atentiv observator, ma ti regret have un
+purmen platonic caractere. Li situation linguistic in Svissia posse
+astonar solmen ti, quel elude su ocules avan li real factes e li practic
+necessitás. It ne es ver que on neglige li studie del lingues national;
+in contrari on fa li maximum de to, quo on posse far e li resultates es
+exactmen tis, queles on posse rasonabilmen esperar.
+
+ 
+
+Chascun Sviss aprende in li secundari scole adminim un lingue national
+apu su lingue matrin e il possede un solid base por perfectionar su
+saventies in prevision de su activitá professional. E to vale ne solmen
+par li lingues, ma por omni branches del scientie e del
+
+ 
+
+\- 61 -
+
+ 
+
+ 
+
+ 
+
+industrie. Ma it es evident que li possibilitás de perfectionament es
+strictmen limitat al strett sfere del postscolari activitá professional.
+It es ínpossibil continuar li instruction in omni directiones; li
+necessitás professional es tro imperativ e on generalmen ne posse
+specialisar se in plu quam un branche del activitá homan. Li futur
+clerico pussa su studies teologic e oblivia li matematica; li tecnico
+aprofunda su saventies de matematica e oblivia poc a poc li lingues
+foren queles li ha aprendet in li scoles superiori.
+
+ 
+
+Ante quelc semanes, un tecnico laborant in nor fabrica aportat me un
+articul publicat in german in un revúe tecnic de nor país. Il explicat
+que il advere hat aprendet german, ma que il ne mastrisa li lingue in
+gradu suficent por posser comprender integralmen li textu publicat. E il
+petit me traducter it in lingue francés.
+
+ 
+
+Yo acceptet li labor sub reserve e promesset nequó. E yo fat bon. Nam
+pos pluri ínfructuosi provas yo esset fortiat declarar me íncapabil far
+li traduction. It actet se pri un tema tecnic solmen accessibil a
+specialistes. Regretabilmen, li tecnico ne havet suficent conossenties
+de german pro que li instruction de ti lingue hat devet esser reductet a
+solmen un hore semanal in li Technicum, pro li tro grand abundantie de
+materie scientic a aprender. Por posser traducter li textu, yo vell har
+devet posseder li scientic conossenties del tecnico o ti-ci vell har
+devet posseder mi saventies linguistic. Ti condition ne essent satisfat,
+li traduction devenit ínpossibil.
+
+ 
+
+Ci noi have do li exemple de un casu u li necessitás professional impedi
+alqui consacrar li necessi témpor al studie de foren lingues, benque li
+conossentie de tis-ci vell le esser tre util. Ma it existe un exemple
+ancor mult
+
+ 
+
+-62-
+
+ 
+
+ 
+
+ 
+
+plu simplic por explicar li poc developat poliglottitá de nor cives. It
+es li exemple del \"hom del strad\" quel probabilmen ha aprendet in li
+scol, sive german, sive francés quam duesim lingue, ma quel interim ha
+obliviat omnicos e quel ne save parlar un foren lingue pro que\... nu
+simplicmen pro que il ne besona it. Nam anc to existe. E ti specie de
+cives representa mem li aplastant majorité che omni popules. Ples
+reflecter : esque vu vermen besona un foren lingue si vu ne sta, pro
+quelcunc motive, in relation con extranos ? Vu posse tornar li question
+quam vu vole, li conclusion es ínevitabil : si li impuls ne veni de vu
+self, vu ne va sentir alcun necessitá, parlar, leer o scrir un foren
+lingue. Mem li facte que mersí al radiofonie, li distanties inter li
+continentes es hodie abolit, ne va changear alquó a ti situation. Nequi
+va sacrificar su líber témpor al studie de un foren lingue, solmen per
+li plesur comprender li extran emissiones radiofonic o leer li jurnales
+exterlandan in li lingue original. Li practic resultate es tro
+desproportionat al labor investit. E pro to li ínsuficent mastrisation
+de lingues extran extende se mem al strates bon-instructet del popules.
+Yo self conosse mult universitarios (teologos, medicos, tecnicos) queles
+es íncapabil expresser se in un lingue foren, malgré que ili ha aprendet
+adminim un e max sovente mem pluri lingues in lor yunesse. Ili indige ti
+saventie, pro que sentiente null beson, ili anc ne have li ocasion por
+ocupar se pri li perfectionament de lor cultura linguistic.
+
+ 
+
+Ex ti factes exposit in supra, noi posse traer du conclusiones :
+
+ 
+
+1\) Malgré li augmentation del contactes international, li númere de
+poliglottes va diminuer e ne augmentar. Li rapid progresses del scientie
+e del tecnica va ancor accentuar li
+
+ 
+
+-63-
+
+ 
+
+ 
+
+ 
+
+necessitá de un specialisation crescent in chascun branche del activitá
+intelectual. Ti specialisation postula labor suplementari. Or, li vive
+homan es limitat e pro que un minimum de cultura general va sempre esser
+necessi, it es natural que on sercha li necessi compensation in li
+supression de omni to, quo on comensa sentir quam ínutil ballast. E to
+es in prim loc li aprension de lingues foren. Ja de long li juristes plu
+ne besona saver li latin por exercir lor mestiere. E mem li medicos vell
+perfectmen passar carir li conossentie del mort lingues. It es do a
+previder que li studie del grec e latin va esser in un plu o minu lontan
+future li unesim victimes del necessi rationalisation del labor. E li
+lingues modern va secuer; to es solmen un question de témpor. Ma pro que
+in sam témpor li necessitás de un colaboration international va
+augmentar, li sol solution logic e rasonabil consiste in li adoption de
+un lingue universal.
+
+ 
+
+2\) Li lingue universal deve in unesim loc satisfar li besones del
+scientie, e ne tis del \"hom del strad\". Un nov-creation va successar
+solmen ta u existe un beson por it. Or, li beson del \"hom del strad\"
+es just ti quel es li minim evident e li max negligibil, e to pro li
+simplic rason que in 9 casus ex 10 ti besones totmen ne existe. It as
+astonant con quant obstination mult cultivat homes crampona se al notion
+de un lingue \"quel deve esser max facil mem por hotentotes e altri
+mi-savagi popules\". E por satisfar ti postulate on invente jargones
+infantesc contenent un vocabularium reductet a su max grand simplicitá.
+Ti simpatie por li besones del \"hom del strad\" e del popules inferiori
+es in se laudabil, ma it es permisset questionar ca in ti precis casu li
+solution proposit ne es li resultate de un mis-rasonament basat sur un
+confusion inter cause e efect.
+
+ 
+
+-64-
+
+ 
+
+ 
+
+ 
+
+Lass nos posir quelc simplic questiones. \"Pro quo un lingue
+occidentalic vell esser tro desfacil por li canibales ?\". Response :
+\"Pro que tis-ci sta sur un nivell de cultura inferior\". Question: \"De
+u veni ti inferioritá de cultura?\" Response: \"Del manca de contact e
+relationes con li munde civilisat\". Question : \"Si ti relationes
+international manca, a quo va servir les un lingue universal ?\". Yo ne
+save quo li amicos del canibales va responder a ti question, ma forsan
+on va dir que just mersí a un simplic lingue, it va esser possibil
+accelerar li progresses civilisatori, durant que un lingue desfacil va
+impedir les. Ma anc to es un erra. Un simplic reflection sufice por
+demonstrar to. Li infantes del tot munde, mem tis del landes max
+civilisat es un poc in li situation del popules inferiori. Lor
+vocabularium es restrictet, e li lingue del adultes es per ili un libre
+con sett siyilles. Ma to ne impedi que lor lingue es li sam quam ti del
+adultes e ili mastrisa it per formar simplic frases queles sufice a lor
+limitat besones. Esque forsan li adultes renuncia al form evoluet del
+lingue quel ili usa self e quel responde a lor avansat besones, sub li
+absurd pretexte que ti lingue es ínaccessibil al filies ?
+
+ 
+
+Nu, li situation as exactmen li sam pri li \"hom del strad\" e pri li
+popules exotic. Li solution ne posse consister in un jargonisation del
+lingue universal, por que ti-ci \"mey esser plu facilmen aprensibil\".
+Li scope ne consiste in abassar se al nivell cultural del canibales; in
+contrari, noi deve usar li instrument quel satisfa li besones de nor
+propri civilisation. Tam long quam li popules inferiori ne va har elevat
+se a un gradu de civilisation superiori, ili va far quam li infantes del
+landes occidental: ili va prender ex li lingue civilisat just to, quo es
+suficent e necessi por expresser se
+
+ 
+
+-65-
+
+ 
+
+ 
+
+ 
+
+convenentmen. Si li vocabularium es primitiv, to fa nequo; it va crescer
+automaticmen con li progresses de lor propri civilisation. To es li
+leges natural del evolution e it vell esser un absurditá violar les.
+
+ 
+
+Por tis queles ne rasona quam un caseo, ma queles considera sobrimen li
+factes, li conclusion sembla absolut clar. Noi posse resumar it quam
+seque :
+
+ 
+
+1\) Li gigantesc progresses del scientie e del tecnica ducte a un
+crescent specialisation del labor e restricte ínevitabilmen li témpor
+disponibil por altri ocupationes e tot particularimen por li studie de
+foren lingues.
+
+ 
+
+2\) Ma in sam témpor augmenta li necessitás de cooperation international.
+Li dilemma posse esser soluet solmen per li adoption de un lingue
+universal auxiliari quel responde al special necessitás del tecnica e
+del scientie.
+
+ 
+
+3\) Si noi vole li victorie del lingue universal, noi deve propagar it ta
+u it es max urgentmen besonat. E to es li munde del scientie, tecnica,
+politica, comercie e del artes, ma ne ti del canibales.
+
+ 
+
+4\) Li sol possibil solution consiste in li adoption de un lingue
+artificial.
+
+ 
+
+5\) Por posser satisfar li besones del munde civilisat, li lingue
+international deve esser rich, eufoniosi, precis, flexibil e max natural
+in su aspecte. Ultra to, it deve esser tam facil que anc li \"mann del
+strad\" posse usar it sin pena por satisfar su particulari besones.
+
+ 
+
+6\) Ex omni lingues artificial, OCCIDENTAL es li sol quel responde a ti
+conditiones.
+
+ 
+
+A. Matejka
+
+ 
+
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+Papá: \-- Josef, tu ha just recivet un litt sestra; esque to ne es
+amusant? - To es forsan amusant, ma mult altri coses plu important noi
+besona desde long!
+
+ 
+
+\- 55 -
+
+ 
+
+ 
+
+ 
+
+LI TURRE DE BABILONIA
+
+ 
+
+Dr. Arnold Wadler
+
+ 
+
+(Remarca del traductor: Ti articul es extraet de un libre titulat \"Der
+Turm zu Babel\", aparit che li Editoria Geering, Basel, in quel li autor
+ha resumat per demonstrativ maniere factes max remarcabil pri li
+protocomunitá del lingues).
+
+ 
+
+Quande Alex. von Humboldt venit a Mexico, il incontrat ta li nómine
+TEOCALLI (temple) e constatat que in li lingue del Aztecos TEO
+significat \"Deo\" e CALLI \"dom\". Surprisat il dit se, Que anc in grec
+THEOU (Deo) KALIA (dom) vell har posset denominar un temple. In li
+lingues francés, italian e latin AN, ANN-ée - ANN-eau, ANNO - ANNeello,
+ANN-us - ANN-ulus significa \"annu\" e \"anell\"; ma strangi, anc in li
+antiqui Egyptia li \"annel\" significat AN e li circul del annu denove
+AN ! Li Grecos denominat li TERRE = GAIA, GE (HEO-grafie): ma anc li
+Gallas in Abessinia nomina li TERRE, li LAND = GE e ja in li lingue del
+Antiqui Testamente GAIA, GE significat PAIS PLAT (german TALGRUND) e in
+li nómines propri AarGAU, Thur-GAU, Al-GAEU (compara occidental -GOVIA!)
+manifesta se li sam radicale. Scepticos declara ti surprisant retorn de
+simil vocabules in pretendetmen non-afin lingues de divers continentes
+quam un lud del hasard.
+
+ 
+
+Ja in 1610 li sviss humanist Conrad Gessner comparat hebreic ERETZ
+(land) con german ERDE (terre). Li antiqui peruan nómines de localitás
+quam Pacha-MARCA, Colca-MARCA contene in li precolumban indian vocabul
+MARCA li sam signification de \"territoria\" quam li MARK, MARCH del
+Germanes (compara anc li occidental notion \"de-MARC-ation\"!). E to
+omnicos solmen pro hasard! Ma ja Fr. Delitzsch assertet in su studie pri
+\"Indogerman-semitic parentitás de paroles radical\", que ci on ne posse
+parlar pri
+
+ 
+
+\- 67 -
+
+ 
+
+ 
+
+ 
+
+hasard, si on considera li enorm frequentie de tal equationes
+vocabulari. Ancor altri, plu plausibil motives parla contra un tal
+interpretation. Li similitás quelcvez es mem consternativ. Assyric
+ERS-itu (terre) resona clarmen quam li anglés EARTH e holandés AARD
+(terre) coincide son per son con li arab ARD. Si on continua metodicmen
+li reserchas a tal parent radicales on comensa decovrir les in sempre
+plu mult lingues de omni témpores e zones. Al german MARK e
+antiqui-american MARCA ne solmen coordina se li francés MARG-e e latin
+MARG-o (márgine), nam ja ante millenies antiqui Sumeria (Mesopotamia)
+MURG-u significa \"recinte, inhagation\"!
+
+ 
+
+Tal paralelismes ne es solmen curiositás, ma misteriosi tracies del
+protoparentitá del homan idiomas. Ja li filosof Leibniz accentuat li
+facte que de Irland til Japan supervive comun paroles quam restallias de
+passat protolingue del homanité. In fine on vell posser parlar pri un
+hasard, si un parol quam TERRE - ERDE retorna in divers partes del
+terre. Ma certmen it ne es un hasard, si noi incontra a prim visu un tal
+coincidentie ja ye tri radicales de parent signification (sinonimes):
+ERDE, GAU, MARK! E tal casus ne mem es singulari!
+
+ 
+
+Li sviss parol AETTI (patre, onclo, belpatre, che li scritor Jeremias
+Gotthelf anc grandpatre) coresponde con ADDA in Antiqui-Sumeria e con
+ATTA che li Gotes. Ma anc li Eskimos nomina li patre ATTA e li nómine
+EDDA (preava) che li Scandinavos es de sam orígine. Ancor altri
+designationes por patre e matre, grandpatre e onclo quam PAPA, MAMA,
+AMME (nutressa) etc. concorda in li lingues de divers popules. Li
+Hungaros voca li patre AP-a, li Hebreos AB, AV e ti radica continua in
+latin AV-us (preavo, grandpatre).
+
+ 
+
+-68-
+
+ 
+
+ 
+
+ 
+
+Absurditás di li scepticos! Ci it acte se solmen pri balbutiat síllabes
+de bebés, queles li matrin beatitá ha incorporat partú e durant omni
+témpores índependentmen de unaltre in li lingue vulgari. E si german
+KLANG (son) ja in grec esset designat per KLANG-e, in Roma per KLANG-or,
+e quande in li lingue de Mandchu-Kuo sKALANG significa li consonantie de
+metalles e KIALANG li son del cloches, tande li sam scepticos pretende,
+que to es solmen paroles onomatopeic nascet índependentmen de unaltre.
+Li hom percepte li sonada in li natura, li resonada del tónnere quam anc
+li ululada del vente, li chiripada del avies quam li rugida del animales
+raptaci; li divers popules imitat ti rumores e talmen li genie del
+lingue vell har format tal paroles quasi quam un ecó del natura.
+
+ 
+
+Ja Herder credet posser explicar li orígine del lingue per ti simplic
+maniere. Ma bentost il fat se self li objetion que inter sonant coses in
+li natura existe anc tre mult tales atonic. U trova se li cause, que anc
+li denominationes por tal coses concorda tre sovente in li idiomas de
+divers continentes ? Pro quo li squelette consonantic del german notion
+STUMM (mut) retrova se in li hebreic SATAM con li sam signification ? (E
+stangi, esque li Occidental MUT ne sembla un metatese, un inversion de
+STUMM ? Solmen li S ha desaparit!). STOCKEN (devenir mut, hesitar), quam
+ja constat Fr. Delitzsch, coincide con li biblic S-T-K SATAK (tacer). Li
+consonantic squelette H-ll designa tam che Germanes quam che Semites li
+clama, li voca (HALL) e ultra li HALL-elu-jah (laudate Deum) noi trova
+li voca chassatori HALALI. In ambi families lingual e in mult altres li
+sam parol radical servi anc por designar li luce, li fontes del luce:
+ultra li grec nómin por li sole HEL-ios noi trova che li Bretones HEOL
+(sole). Che li Bascos on nomina li lune HILL
+
+ 
+
+-69-
+
+ 
+
+ 
+
+ 
+
+e che li Arabos li novilune HILAL. Li Hebreos nominat li astre matinal
+HELEL, li Aymara del antiqui Perú un stelle filant HALI. Mult altri
+paroles radical in total divers idiomas inmerge in sam témpor tam in li
+sfere del tones quam anc in ti del luce. Medicos, psicologos ha
+constatat durant multannual metodic explorationes e investigationes, que
+bebés balbutia apen quelc paroles onomatopeic e que li númere de ti
+paroles mem es limitatissim. E mem quande paroles onomatopeic vell luder
+un eminent r0l in li idiomas, esque ili ne ja vell har posset esser
+format del protohomanité ? Ja li primitiv hom travivet li fracass del
+tónnere quam li ululada del vent e storm, perceptet li muida del
+besties, li murmurada del forestes, li chiripada del avies. Con li
+objetion del paroles onomatopeic li problema del protolingue ne posse
+esser soluet, ad maxim procrastinat.
+
+ 
+
+(Continuation in li proxim numeró)
+
+ 
+
+Adaptation a Occidental per Herm.Ferd.Haller
+
+ 
+
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+LI PIP E LI CARACTERE
+
+ 
+
+Un colectionist de pipes, qui es anc un sapiento, ha traet del exámine
+del pipes in divers landes quelc amusant deductiones.
+
+ 
+
+Si li cigarre e li cigarette es cosmopolitic, li pip es in contrari li
+caracteristica de un popul e de un rasse. Ad plu li longore de un tub de
+pip vell esser inversmen proportional activitá del-fumator.
+
+ 
+
+Plu un pip es curt e plu li fumator es laboraci. In li landes u on fuma
+long pipes, on constata que li popul es ociosi. Li pipes con grand
+fornes revela un popul prosper o prodigiosi. Li sparniaci homes, in
+contrari, selecte sempre litt pipes.
+
+ 
+
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+Parol de infant: \-- Esque ne, mamá! Li microbies es quam li ángeles:
+ili es partú, ma on ne vide les. 
+
+ 
+
+-70-
+
+ 
+
+ 
+
+ 
+
+UN MATRIMONIAL AGENTIE AUTOMATIC
+
+ 
+
+In New-York, un innovation conosse hodie un grand success, ti del
+\"distributores de sponsas\".
+
+ 
+
+It acte se pri un aparate, aspectente quam un stereoscop, quel, pos li
+introduction de un pezze de un dollar, fa defilar avan li ocules del
+client un selection de fotogrammas de feminas a maritar. Si li spectator
+senti su cordie batter ye li vise de un 0 de un altri de ti possibil
+sponsas, it sufice presser sur un buton por haver un fiche con omni util
+indicationes pri li bella: adresse, etá, profession o statu de fortune,
+etc.
+
+ 
+
+De lor látere, li féminas paya 5 dollares al interprensor del aparate
+por que lor fotogramma mey esser ta e que it mette la in comunication
+con li marito quel li fate til tande hat refusat ad illa.
+
+ 
+
+Ti mecanic ferie esset tam mult apreciat que li interprensor intente
+posir egalmen aparates contenent fotogrammas de homes a maritar, por que
+li damas mey posser anc selecter. To vell esser in realitá tre
+equitabil.
+
+ 
+
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+UN GENIAL MATEMATICO
+
+ 
+
+Un hispan puero de 10 annus, qui til nu ne ja eat in scola, pro que il
+esset macrocefalic ha just revelat se un ver matematic genie. Li infant,
+qui vendi in li stradas billetes de loteríe, intrat per hasard in li
+buro del architectes del comunal administration de Cordova quande,
+perceptente cifres sur un nigri tabul, il prendet crete e fat sin erra,
+e con un extraordinari rapiditá, li calcules max complicat. Examinat de
+du medicos e de un specialist in matematica, il pruvat esser capabil
+soluer sin erra, ínnumerabil  problemas inter li max desfacil. Li
+administration de Cordova decidet dar al yun matematico, ye li expenses
+del cité, un apropriat instruction, talmen que il posse utilisar su
+extraordinari facultás.
+
+ 
+
+\- 71 -
+
+ 
+
+ 
+
+ 
+
+SUBVENTIONES E CONTRIBUTIONES RECIVET (22.5.43)
+
+ 
+
+Sr. F. Haller, Fr. l.\--; E. Mayor, Fr. 1.50; Dr. F. Haas, Fr. 10.\--;
+E. Berggren, Fr. 3.\--; B. Hammar, Fr. 3.\--
+
+ 
+
+SCOED : Dr. F. Haas, 1 parte social. 
+
+ 
+
+Cordialissim mersí ad omnes !
+
+ 
+
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+PUBLICATIONES
+
+ 
+
+SVENSKA OCCIDENTAL FORBUNDETS MEDLEMSBLAD,
+
+ 
+
+Box 171, Stockholm (Postgiro 70\'315), Nr. 19, may 1943. - Noi recivet
+con grand plesura ti poligrafat folie de nor sved amicos. It monstra que
+malgré li actual circumstanties, li interesse es vivid pri li problema
+del lingue international. Ti bulletin informa pri li actual situation
+del movement occidentalistic, in particulari pri li regulari publication
+de Cosmoglotta B, chascun mensu, pri li labores de preparation de
+Occidental-manuales e vocabulariums.
+
+ 
+
+Noi mult espera que ti folie va continuar aparir regularimen. To es
+excellent medie de ligation inter li membres e to monstra que nor
+movement, malgré li guerre, resta fortissim.
+
+ 
+
+\"DER EUROPÄER\", may 1943, publicat denov li comensa del \"18 punctus
+por un nov Europa\" in Esperanto, Ido e Occidental. Li seque va aparir
+in li proxim numerós.
+
+ 
+
+Li coidealistes queles desira reciver un o pluri exemplares ples
+demandar les al Institute Occidental, CHAPELLE (Vaud), Svissia
+
+ 
+
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+Chascun in li vive Serena li felicie. Li unesim condition por esser
+felici es star sempre calm avan li colpes del fate, saver accepter su
+destine e, quocunc vell esser li evenimentes, traer ex ili li max bon
+possibil profite.
+
+ 
+
+\- 72 -
+
+ 
+:::

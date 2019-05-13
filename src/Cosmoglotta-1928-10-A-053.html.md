@@ -1,0 +1,1269 @@
+Cosmoglotta A 053 (oct 1928)
+============================
+
+\
+
+::: {#displaycontent}
+COSMOGLOTTA\
+Organ mensual del Association International Cosmoglotta\
+\
+Consacrat al developation, propaganda e aplication del Lingue
+International Auxiliari Occidental\
+\
+Redaction e Administration: COSMOGLOTTA, Mauer bei Wien, Austria.
+Abonnament annual: 7 ö. S = 1 doll. = 5,2 sv. fr = 4,2 RM = 33 čsl. K\
+\
+Annu VII -- octobre 1928 -- Nr. 53 (10)\
+\
+Contene: Fundation de universal Occidental-Union, de. E. Pigal, pg. 141.
+-- Cronica, pg. 142. -- Ido-Congress Zürich, de Ric. Berger, pg. 149. --
+Pro quo yo denov abandonat Esperanto, de Eric Biddle, pg. 152. -- Max
+bon metode de aprension, de G. Bohin, pg. 154. -- Saxonic genitive de
+Jespersen, de E. de Wahl, pg. 156. -- Naturalitá e artificialitá, de E.
+de Wahl, pg. 158. -- L. s. F., de J. P., pg. 160. --
+Esperanto-Statistica, de Julian Prorók, pg. 161. -- Economic e social
+problemas, de Heinr. Nidecker, pg. 162. -- Anecdotes pri Aristipp, pg.
+164. -- Avise a nor colaboratores, de E. W., pg. 164. -- Anuncia, pg.
+164. -- Subventiones, pg. 164. -- Erras, pg. 164.\
+\
+Fundation de universal Occidental-Union.\
+Occidental, mersí a su qualitás intrinsic, nu ja defendet de un
+international stab de mult scritores qualificat, triumfa súper omni
+criticas e hostilitás. Occidental ha comensat su vive. Su movement in li
+ultim mensus ha crescet con tempo accelerat, malgré manca de just
+metodes e medies. Li fundation de un international Occidental-Union
+unitarimen organisat, in ti stadie devenit índispensabil. Li evidentie
+súper omni actiones in nor movement deve esser concentrat in un Central
+Oficie general agnoscet e suportat. In consense con un international
+comité directori noi deve distribuer, economisar e subtener li forties
+de nor pioneros secun vis-punctus rational.\
+\
+Instigat de nor colaboratores, precipue de nor estimat promotor senior
+Gerald A. Moore, li gruppe Viennes Cosmoglotta ha editet un circulare
+relatent e pos aprobationes e incorageamentes it finalmen ha resoluet
+acceptar li advere penosi labor fundar ti Union. Noi ha installat li
+provisori Oficie Central del Union in li Redaction de Cosmoglotta.\
+\
+In li numerós sequent noi va publicar plu detalliat comunicationes, li
+liste del functionarios e li Statute elaborat de un comité preparatori
+sub li presidentie de senior Janotta.\
+\
+Anc nor revúe in 1929 va aparir in plu grand amplore e con
+
+ 
+
+-142-
+
+ 
+
+covriment, brochat e tranchat. Ja li present numeró have plu mult
+págines.\
+\
+Li provisori membres del Officie Central, E. Pigal e A. Deminger,
+auxiliat de pluri Occidentalistes Viennes e extern, joya haver li
+fidentie e cooperation constant del autor de Occidental, del Comité
+Explorativ (C. E. L. I. A.) e del max valent ductores de nor movement.\
+\
+Adver noi deve confesser que córam li mult labores noi prendet nor
+function ne con grand plesur. Ma al insistent petitiones de nor
+colaboratores noi ne posset trovar un loc plu apt quam centrale
+organisatori. Noi advoca omni coidealistes subtener per lor colaboration
+li membres del Oficie Central, queles execute lor functiones sin
+salarie, pos lor obligationes professional.\
+\
+Noi expecta que omni Occidentalistes va unir lor forties con li nostris,
+por que nor Occidental-Union va star quam un falanxe in li decisiv
+campanie imminent.\
+\
+Noi fa nor devore, ples far li vor.\
+\
+E. Pigal.\
+por li provisori Officie Central.\
+\
+Ad Sr. E. Pigal, Redactor de «Cosmoglotta».\
+\
+Estimat senior,\
+\
+Nu che li dissolution de Ido e córam li barbaric Esperanto li
+propagation e studia de un vermen cultural idioma por li international
+relationes es ja urgent, e, pro to, yo have li honore misser vos un
+unesim donation de 50 pounds por li nov fundat Occidental-Union.\
+\
+Con sinceri salutas\
+\
+Gerald A. Moore.\
+\
+Cronica.\
+O. Multis: Problém jazyka mezinárodního, jeho podstata a rozřešení
+(Problema del lingue international, su essentie e solution). IV + 24
+págines DIN-format A6. Editoria Occidental, Brno, Vranovská 44,
+Tchecoslovacia. Precie 2 Kč (Dollar 0,06). Por li difusion de Occidental
+nu ja existe du tre bon brochuras in tchec lingue, queles completa se
+reciproc, i.e. li supra-mentionat introductori e li aprension-libre de
+J. A. Kajš. In li sam editoría aparit anc un serie de
+propagande-postcartes
+
+ 
+
+-143-
+
+ 
+
+con Occidental-versiones de bell canzones populari del tchec lingue. Un
+serie de 10 divers cartes custa 5 Kč (Dollar 0,15).\
+\
+Li Bulletin del Sviss Association por Occidental (S. A. P. O.) nu apari
+sub titul «Svissia». In nr 4 (septembre) it aperte un concurs de
+traduction con premie por li sviss abonnates de Cosmoglotta. Quam premie
+es ofertat in chascun trimestre un original oleo-pictura (de pictor
+diplomat de Bell Artes sr. Ric. Berger, President de S. A. P. O.) de
+quel li valore es adminim 50 francs sviss in pictur-expositiones. Li
+jurie consiste de seniores Creux, filolog, Dr. Aschwanden e Dr.
+Nidecker. Li Occidental-curs frances per corespondentie de S. A. P. O.
+es nu complet con 7 letiones.\
+\
+Semanal «Revue Artistique Romande», Lausanne, 31 august, publicat li
+portret del autor de Occidental con noticie in Occidental.\
+\
+Sr. Fred Lagnel, secretario de S. A. P. O. in un congress de preceptores
+de Romand Svissia, Porrentruy li 29 junio, distribuet un «Apelle por li
+pace international» editet del Occidental-Secretariatu, 14, rue du
+Mont-Tendre, Lausanne. Li print-folies redactet in Occidental, ha evocat
+grand interesse che li congressistes.\
+\
+Revue «Le Semeur», director Miguel Palomares, Santiago de Puriscal,
+Costa-Rica, inserte li informationes del covriment solmen in Occidental,
+vice til nu Ido e Frances. To es un nov pruva ocul-battent que
+Occidental es li ver international lingue por li ínmediat usada, contra
+que Esperanto e simil artificial lingues «auxiliari» ne posse esser usat
+autonommen, besonante pro lor íncomprensibilitá li interpretation per
+natural lingues.\
+\
+E. P.\
+\
+C. E. Sjöstedt: Occidental, de internationella ordens sprak (i. e. li
+lingue del international paroles) Helsingfors 1928. --- Ti ci excellent
+brochura de IV---8 págines explica li principies de nor lingue, contene
+un comparation inter Esperanto e Occidental, un curt grammatica e textus
+provatori e posse esser recivet del Societé Interlinguistic, Villagatan
+25, Helsingfors, e del Societé Occidental, Oe. Agatan 37, Uppsala. Li
+precie ne es indicat. It es solmen regretabil, que li articul pri
+«Normation» de Pigal in numeró 49 de Cosmoglotta ne esset egardat pri li
+format de ti ci brochura. Talmen li cáos in li formates de nor
+propaganda-brochuras augmentat se. Esperabilmen nor amices va usar
+futurmen solmen li DIN-formates A4 (210 × 297 \[144\] mm²), A5 (148 ×
+210 mm²) o A6 (105 × 148 mm²), ja adoptet in adminim six states. To vell
+tre simplificar li deposition e expedition de li printates normat. In
+céteri ti ci brochura va certmen aproximar plu bentost li témpore quande
+omni sved interlinguistes progressist va esser unit circum Occidental.\
+\
+«Der Türmer» (german «revúe por cordie e mente»; editoría Greiner &
+Pfeiffer in Stuttgart) publicat in su numeró julí un articul pri: «Li
+mundlingue, li via al lingue del europan intercomprension», quel
+accentua que Wahl successat crear per Occidental li medie de
+intercomprension quel li munde de cultur occidental besona. Occidental
+es tam apt por ti scop que it es ja usat de un grand númere de
+adherentes in form e maniere absolutmen egal, quáncam ancor ne existe un
+manuale complet, ma solmen curt claves con poc págines. Un textu
+comparativ in German, Esperanto e Occidental e un referentie a
+Cosmoglotta in Mauer b. Wien clude li articul propagatorissim, de quel
+li autor es li coidealist Dr. Mell in Rudolstadt, Germania, consiliero
+del guvernia.\
+\
+Li sam numeró de ti ci revúe contene un articul «Li german nation in li
+lucta actual de lingues» de Dr. Benno Imendörffer (professor por li
+Hungar lingue in Wien). Li autor demonstra que li lucta del lingues
+national devenit mem plu grand pos li grand guerre e pos li ínfelici
+tractates de pace. Li autor trae ex su explorationes li consequentie,
+«que in li national lucta existe null justicie e null equitá, ma solmen
+potentie o ínpotentie». «It es necessi star armat por li lucta por nor
+nationalitá». «Si noi ne conserva adminim nor statu de national
+possession, e si noi ne resta adminim victoriós in li defension, noi
+have anc ne adplu un german futur». Regretabilmen li autor ne trae ex
+omni to li consequentie vermen prudent que li interlucta del lingues
+national va esser finit ne ante li introduction general de un lingue
+supernational quam Occidental. Quam inter li dialectes german (plu
+different inter se quam li lingues slavic por exemple) neplu existe un
+interlucta desde li introduction del commun intergerman lingue literari
+(Neuhochdeutsch), tam anc solmen per li lingue paneuropan va desaparir
+li lucta exasperat e exacerbat del lingues national. Ili va esser
+restrictet al dominia cultural e economical de su propri nation e va
+esser liberat del aplication international in politica e trafica quel
+corupte li lingues national e detorna les de lor ver mission. Li autor
+de ti articul vermen interessant e su coidealistes mey meditar ti ci
+reflexiones.\
+\
+Karl Janotta.\
+\
+-145-
+
+ 
+
+«Allgemeine Rundschau» nr 30, München. Dr. Otto Kunze refere a du altri
+articules pri mundlingues (pri Esperanto e Oiropapitshn) in ti jurnale
+(nr 20 e 29) e al articul de Dr. Mell in «Türmer».\
+\
+«Le Vegetalien», nr 1, 2, 3, Paris, sub titul «Langues internationales»
+denove publica un textu comparativ «Historia de Ivan li Inept» in
+Frances, Esperanto, Ido e Occidental.\
+\
+«Mondo» nr 219-220 scri pri un poema de G. H. Richardson «Flugo» e
+parlante pri poesie in L. I. cita li Occidental-traduction ex Heine: «Un
+pine sta solitari ...» e adjunte: «Tal verses charma li estetic gusta,
+inbella li lingue e attrae adherentes». --- Tempora mutantur ...\
+\
+«The Equitist», Phoenix (Arizona), 22 junio, raporta pri li Frances
+Occidental-brochurette propagatori de L. M. de Guesnet e blama derivar
+li formes feminin del masculin. Pro to li «Equitist League» prefere Ido,
+quel deriva ambi, li masculin e li feminin, de un comun radica per
+different suffixes -ulo e -ino (Ido: «sekretario» es «sekretariulo» o
+«sekretariino»). Certmen ti qualitá de Ido in nor democratic témpore
+trova mult simpatie e noi ne vell renunciar introducter apu li feminin
+suffix -essa anc un special suffix por li masculin. Ma Ido ha fat se li
+labor tre facil per simplicmen declarar que -ulo significa masculin. In
+fact li international signification de ti sufix es precipue diminution
+(cp. globul, vesicul, oxidul, etc). Pro que in ti ci sense it es
+ínaccentuat on vell dever far un exception. «The Equitist» mem ne hesita
+far un «corectura» in ti direction anc in su lingue angles; il usa in su
+jurnal «vey» quam comun pronomine, triesim person, significant o «he»
+(il) o «she» (ella). --- It ne suffice haver un bon idé, on deve haver
+anc li potentie imposar it al homes. To es importantissim in omni
+sociologic questiones do anc in omni changes del lingue queles es
+contrari al customes del popules. Tam long quam li féminas partura
+infantes, va exister in general anc un social differentie inter ambi
+sexus, quel on ne posse for-decretar per arbitrari formes lingual.
+Finalmen li redactor opine quam avantage de Ido que it es li «product de
+un comité de 70». Ma nu eminent membres de ti Ido-Comité prende parte in
+li nov Occidental Comité Explorativ de Lingue International (C. E. L. I.
+A.). Etsi li ultim ne have 70 membres, it utilisa li abundant e matur
+experienties del antean. Qualitá súper quantitá!\
+\
+E. Pigal.\
+\
+-146-
+
+ 
+
+In «Idisto Katolika» nr 5, 6 canonico Houillon responde a un passage in
+mi articul «Futur evolution de L. I.» Il di que it es tre desfacil
+parlar Occ. Yo ne save quant profund sr H. ha ocupat se pri Occ, ca il
+possede li lexico grammaticas etc, e ca il fat seriosi provas a
+conversation. Tis qui ha fat tal provas constata just lu contrari. Ma in
+omni casu it es comic que por demonstrar ti desfacilitá sr. H. parla pri
+duplic consonantes, duplic pronunciation de c etc. Si sr. H. vell esser
+un chines o un arab, forsan ancor to vell esser comprensibil, ma por un
+frances it es quelc strangi. Specialmen si il parla pri li ínprecision
+de Occ. Nu, li lingue F es conosset quam un del max precis lingues. E
+Occ in presc omni casus es plu precis quam F o almen egal a it.\
+\
+Ma ti opinion veni del íncomplet conossentie, p. ex. il di que Occ passu
+es Ido pazo, paso, transiro, texto-parto. Nu Ido pazo, F pas\*) es
+passu, Ido paso, F passage, es Occ passage, passada; Ido transiro es in
+Occ transition, e Ido texto-parto, F anc passage, es Occ passage.\
+\
+\*) in li precis F ti parol have anc li sense de negation, e ancor li
+sequent 1) vestigie (pas de cheval), 2) loc a passar, 3) mär strett (Pas
+de Calais)) 4) syll (D Schwelle), 5 Situation, relation, 6) avan-tagie
+(donner le pas) etc.\
+\
+Advere «de gustibus non est disputandum» e noi totalmen consenti que
+posse exister anc tal persones a queles Ido plese plu quam Occidental.
+Ma to es just homes ja intoxicat per long usation de Ido. Ma yo vell
+esser interessat pri un hom de occidental civilisation, virginal in
+sensu de L. I., a quel Ido va pleser plu quam Occ. E til que ti prova va
+esser efectuat yo permisse me dubitar pri li justesse del opinion del
+estimat canonico H.\
+\
+E. de Wahl.\
+\
+In «Heroldo de Esperanto» nr 28. T. J. critica li nov libre de Jespersen
+tre rasonosmen. Inter altri cos il scri: «on posse dir que Novial es plu
+minu compromiss inter Esperanto, Ido e Occidental ... it es superior a
+Ido in mult punctus, ma it ne atinge ni li «in-se-self-perfectitá» de
+Esperanto, ni li sistematisme de Occidental --- just pro to que it es
+plu minu un compromiss ... Yo ne crede, que li nov projecte de prof. J.
+va trovar alcun practic aplication; tamen it va restar un interessant
+studie, de quel mani-un posse hauster almen quelc original idés.»\
+\
+In Heroldo nr 32 in bibliografie es mentionat PANSCRIT,
+
+ 
+
+-147-
+
+ 
+
+Occidental-adaptation del stenografie-sistema Scheithauer per E. Pigal.\
+\
+Miss E. Sylvia Pankhurst ha publicat un brochura «Is an International
+Language possible?», (Published by the Morland Press, Carey Street,
+London SW1. Price Sixpence), in quel ella tre habilmen fa propaganda por
+li idé de un L.I. Ella monstra que it totmen ne es ínpossibil o tro
+desfacil, que omnihom stant in li trafic international mey mastrisar du
+lingues, su propri e li international, tam plu que ti es ya mult plu
+facil quam omni lingue national. --- Al opinion, que un L. I. es
+ínpossibil, proque bentost on ne va parlar in divers locs del terra li
+sam lingue ella oposi Hebreic e Angles, parlat in li tot munde in sam
+maniere. Ultra to in li hodial constant comun relationes inter omni
+partes del terra li formation de divers dialectes es ínpossibil. --- Poy
+ella monstra que un L. I. es ne solmen possibil ma tre desirabil, e que
+Latin es li sol base possibil por it. Li fin del brochura es consacrat a
+un curt circumspection pri li historie del L. I., in quel Occidental
+figura solmen per su nómine inter Medial e Romanal, e es monstrat
+Interlingua de prof. Peano quam li solution del problema. Un textu
+comparativ de Interlingua e Esperanto ilustra li assertiones del
+autora.\
+\
+J. Prorók.\
+\
+In «Heroldo» Nr 32 Stellan Engholm tracta pri un passage del libre de
+Hendrik de Man «Li psicologie del socialisme» in quel il parla pri
+mundcultura e mundlingue. H. de Man tamen ne vide li possibilitá de un
+tal cose, proque il ne crede ye success de artefat lingues, proque ili
+ne posse esser ver cultur-lingues. Li autor del articul S. E. junte
+quelc tre interessant observationes queles yo ne posse retener me citar
+ci: «It vell esser un hipérbole (in Esp «troigo») dir que Esp. nu es un
+culturlingue, ma it ne es un hipérbole dir, que in nor lingue trova se
+un seme ex quel posse crescer un nov cultura ... Mult persones parla pri
+li ínperfection de Esperanto. Certmen it ne es perfect. Ma quant perfect
+Esperantistes existe? ... Si noi vole un nov plu bon cultura, noi deve
+anc laborar por Esperanto quam mundlingue, culturlingue. It ne es
+necessi dir to al «exteruloj» («outsiders»), proque forsan noi vell
+deterrar les per to. Ma it es necessi laborar por to, inter nos self e
+inter li exterior publica». To es un bon confession. Por nor existent
+cultura Esperanto ne posse servir quam culturlingue, e por posser servir
+quam tal, it es necessi constructer un nov Esperanto-cultura, do
+destructer li existent ma ne
+
+ 
+
+-148-
+
+ 
+
+dir to al profan publica! --- Noi peti li mundan presse reprintar ti
+interessant confession, pro que li publica mey esser informat pri li
+secret intentiones del esperantistes. --- Occidental in contrari es
+basat sur nor historic crescet cultura, e es just li commun
+cultur-lingue de nor actual Europan civilisation, quel it vole subtener
+de discadentie in divers foren a unaltru nationalistic culturas.\
+\
+Axel Wästerland.\
+\
+Mersí al subventiones de sra Morris, li Esperanto-Organisation U. E. A.
+prepara nu li edition de un grand planat ovre, un max plen possibil
+Bibliografie de libres, brochuras, singul indicationes in periodicos etc
+pri li divers aspectes, idés etc, stant in relation con li question de
+un lingue universal, to es pasigrafies, signal-codes etc, etc til li
+projectes de parlabil lingues incl. Li autor de ti meritosi e minuciosi
+labor es li conosset Esperantist Peter Stoian. Il cita anc ovres del 15m
+secul. In summa it va esser li max plen bibliografie pri li idé del L.
+I. Li ovre va probabilmen aparir in novembre.\
+\
+E. W.\
+\
+«Oiropa'pitshn» es li nómine del max nov project de un L. I. propagat in
+un circulare per Prof. Dr. A. Baumann, München, Auenstrasse 76. Il pensa
+que german es li max conosset lingue in Europa, e pro to reforma german
+in maniere angles. Articul «de», plural «di»; «de mund, de nase, de or».
+Conjugation per «ich tu, ich tat» con li Infinitive, etc. Ja li idé
+transscrir Europa in li sudgerman pronunciation Oiropa monstra que «de
+doitshe oiropäishe gemein'sprache» es vermen un «pitshn» (pidgin). Li
+autor scri que il ha vanmen abordat 60 grand editorías, quo pos ti
+exemples ya ne es mirabil. Forsan li 61im va fallir per edition de it.\
+\
+J. P.\
+\
+\*\
+\
+In nor ultim numeró noi communicat que li cité del unesim international
+Occidental-conferentie ancor ne esset cert. Alor li Ido-Congress in
+Zürich li membres Occidentalistic in consense con li provisori Officie
+Central in Vienna e con li Occidental-Buro in Paris ha decidet
+definitivmen arangear li conferentie in Bern (Svissia) 1929, probabilmen
+durant li unesim semane de august. Li Comité de S. A. P. O. ha prendet
+sur se li local preparationes propagatori e organisatori. Noi gratula
+pro li mersiand resolution e espera que nor unesim international reunion
+official va haver un grand successe. Noi sempre va raportar pri li
+labores preparatori.\
+\
+Red.\
+\
+-149-\
+\
+Ido-Congress Zürich.\
+Raport del Occidental-Observator Ric. Berger al Association
+«Cosmoglotta», Wien.\
+\
+Li mult progressistic Idistes qui atendet del Ido-Congress de Zürich un
+solution del schisma e un resolut passu ad-avan, va esser deceptet, nam
+ti congress, a quel eat precipue editores e partisanes del stabilitá,
+soluet nullcos. Ye mi arriva in Zürich, quande on informat me que li
+congressistes hat selectet Sr. Peus quam lor presidente, yo strax
+comprendet vers quel sensu li congress devet ear. Effectivmen in li
+general reuniones on mult parlat, on fat mult discurses, sovente con
+fulminant voce, ma null resultat efectiv. It esset visibil que omnes
+timet li scandale expectat e pro to on evitat cuidosimen omni
+discussiones de principies. Li grand calore del die semblat har extintet
+subitmen omni passiones.\
+\
+In li raport, yo va parlar precipue pri to quo maxim interesse nos, i.
+e. li atitude de nor amics relativmen a Occ. Factmen, nor lingue sembla
+har obsedet li congress e tre sovente noi audit alusion a it, contra que
+Novial esset apen mentionat. Pluri evidentmen enunciat quelc
+«kritikachi». To esset ínevitabil. Ma in totalitá, yo deve atestar que
+li ton pri Occ. ne esset desgentil. Tis qui memora li odie regnant
+durant li unesim annus inter idistes e espistes, posse comparar e
+constatar quant enorm es li progress del spiritu de tolerantie.\
+\
+Pos li ultim evenimentes che Ido e pro li constant fugida de Idistes
+vers Occ., noi atendet in ti congress un fort movement vers un
+modernisation de Ido, por talmen retrotener li progressistes. Solmen 2
+mannes tentat un tal proposition, Sres Dres Auerbach e Nidecker, ma li
+fulminant voce de Peus fat tremer li auditorium. Houillon afirmat que li
+progressistes departe de Ido pro «personal motives», Mauney clamat que
+Ido es in «relativa perfekteso», Peus repetit que Ido es li lingue del
+«Delegitaro», quo significa que on ne posse trovar quelcos plu bon! Stör
+expresset li desir que li Academie idistic mey esser un «poc plu
+progressistic».\
+\
+In resuma, li presc totalitá del Idistes ne comprendet li dangeros
+situation de Ido: si ti ci ne es maxim bentost modernisat, tande Occ. va
+remplazzar it poc a poc. Un sol vez Nixon declarat que on ne deve far
+quam li struce por ne vider li danger; ma pro que samtemporanmen il
+afirmat que Ido es «presc perfect», su remarca esset sin utilitá.\
+\
+Dr. Auerbach exposit li trist situation de Ido. Noi ne obtenet li
+success e hodie noi trova nos córam ti facte que un altri lingue (Occ.)
+realisa li progress desirat in Ido. Si Ido ne vell esser un compromiss,
+to ne vell evenir. E nu, in omni annu, de congress a congress, nor
+númere diminue ... Noi ne deve sempre repetir citationes de Couturat,
+nam noi ne save quo Couturat vell opiner nu ... On ne posse negar que
+quande on presenta textus comparativ in Occ. e Ido, li publica ne hesita
+...\
+\
+Peus protesta per fulminant voce: «En lektar, ma ne en skribar!»\
+\
+Auerbach responde que li esperantistes fa li sam response, quande on
+presenta les textus Espo-Ido e questiona li auditorium esque to ne es
+ver. Multes responde yes, yes!\
+\
+-150-
+
+ 
+
+Pos ti discurs del maxim clarvident cap del «Idistaro» noi atendet un
+discussion pri li cause del constant fugida del Idistes vers un altri
+sistema. Dr. Auerbach hat mettet su digite in li vúlnere. Ma on cuidat
+li mal per ignorar it!\
+\
+Noetzli fat un grand discurs por pruvar que si Ido ne progresse, to es
+solmen pro li interesse del publica por sport, cinema, etc. Sin dubita,
+to es un cause, ma il obliviat dir que si tant eminent e ancian idistes
+quam Pigal, Ramstedt, Peipers, Eldon, de Guesnet, Bohin, Creux, Kaiš,
+Janotta, Gär, Pášma, Küppers, Khun etc., etc. abandonat Ido, to certimen
+ne es pro li cinema, ma pro li conservatisme del ductores idistes, inter
+queles es Noetzli self!\
+\
+Li ultim idistes es astonant; ili vide lor ranges diminuer rapidmen per
+constant fugida a Occ. e ili ne have idé questionar e discusser li ver
+cause de ti fugida. Un sol, Houillon, dat ti explication, tre comod: «To
+es solmen pro personal preferentie!» Li espistes di lu sam quande lor
+adeptes transea a Ido!\
+\
+Factmen li conservaci tendentie del congress explica se tre bon. Pro que
+li sol lingue official esset Ido, sol tis qui maxim bon parla Ido desde
+long témpore, audaciat discusser e tis comprensibilmen es li maxim
+intoxicat o li maxim interessat al inchangeabilità de Ido (precipue
+editores). Adplu li progressist-idistes ha ja abandonat Ido e ne venit a
+Zürich por contraponderar li «gut-kontilisti». Do presc omni oratores
+contentat se per repetir que Ido es «presc perfect» e que on vell forsan
+(!) dever examinar su quelc defectes por far it sempre li maxim bon.\
+\
+Nor amicos idistes es tant intoxicat que ili ne vole vider li aplastant
+superiorità de Occ.; ma si ili absolutmen vole cluder lor ocules córam
+evidentie, li publica va judicar altrimen e bentost va decider. Vice
+parar li concurrentie de Occ. per un energic modernisation de lor
+lingue, ili occupa se, in un congress international, per un scolastic
+discussion pri li logicitá del parol Occ. «concurrentie!» Car amicos
+idistes! Ne li parol «concurrentie» de Occ. esset a discusser ma li cose
+self! To vell har esset mult plu util por li futuritá de Ido! Vu similea
+li habitantes del ancian Constantinópol qui perdit lor témpore in
+discussion pri paroles e coleres durant que li Turcos ja comensat li
+conquesta del urbe!\
+\
+Noetzli anc declarat que il refusa absolutmen parlar pri Occ. malgré
+pluri pregas. Li Occistes, il dit, have lor jurnales, ili mey propagar
+lor idés per tis-ci. Noi concorda que Sr. N. have null obligation moral
+propagar un altri lingue quam Ido in su jurnale, ma to quo noi reprocha
+le es publicar stupiditás pri Occ. e poy refusar omni rectification. Es
+precismen to quo fortia nos misser protestationes a su propri abonnates
+per un altri jurnale!\
+\
+Li maxim interessant reunion por noi Occistes evenit venerdí vésper. Ye
+li fine del oficial convenida, Sr. Houillon, hat anunciat que il vell
+far durant li vésper un conferentie contra Occ., un conferentie a quel
+il invitat li Occistes present. Ergo Sr. Moore e yo decidet assister por
+finalmen audir li refutation (quel noi expectat desde tant long
+témpore!) del principies de Occ. Ma, in ti conferentie, quel reuniat
+circa 50 participantes, Sr. Houillon comensat per declarar, ye nor grand
+astonament, que il va tractar solmen un sol punctu
+
+ 
+
+-151-
+
+ 
+
+secundari, ti del duplic lítteres che Occidental. E tande Sr. H.
+racontat un historie de un carre quel havet du rotes e de un altri carre
+quel havet solmen un rote. Escamotante habilmen su object, sr. H.
+contentat se per jocar pri tri o quar paroles del Radicarium
+accompaniante tal scientic critica per mult punie-frappas sur li table.\
+\
+Finalmen, Dr. Auerbach fat remarcar a Sr. H. que il critica solmen un
+detallie in Occ. e que it vell esser plu interessant audir criticas del
+principies del lingue. Tande, sr. H. fat un declaration vermen astonant,
+apen credibil: il anunciat que il ne posse discusser pri li principies
+de Occ. pro que ... il ne ja havet témpore por studiar les!\
+\
+Til nu, yo ha assistet a mult e mult conferenties pri omni species de
+questiones, ma certmen it es li unesim vez in mi vive quande yo vide un
+professor haver li audacie (in frances, on nomina to: du culot!)
+organisar un conferentie pri un question de quel il confesse ne mem
+conosser li principies!\
+\
+Pos un demí-hor, on permisset me responder in Occ. Ma strax, mi car amic
+Mauney saltat vers li plafon: Atention, fa atention a to quo vu di, pro
+que Berger es un tre habil mann. Yo averti vos que il conosse Ido plu
+bon quam noi e precipue su defectes!\
+\
+Tande Dr. Auerbach remarcat: yo fa memorar que ante quin mensus, Sr.
+Berger esset un del maxim fervent Idistes, it es amusant vider que sr.
+Mauney ja suspecte le.\
+\
+In resuma, yo respondet a Sr. Houillon que li criticas pri quelc paroles
+Occ. ne have grand importantie. Si li practica monstra ortografic errore
+in quelc radicas, on va corecter les facilmen. Ido ha perfectionat se in
+pluri detallies, pro quo Occ. ne vell far it anc?\
+\
+Sr. H. criticat li duplic lítteres, ma li facte que li du lingues, li
+maxim difuset pos Ido, es du lingues con historic ortografie (to es
+Latino sin Flexione e Occidental) monstra bon que li duplic lítteres ne
+constitue un impediment in li ocules del publica quam li idistes crede
+it.\
+\
+Ma Sr. H. interruptet me: «Vu afirma que li lingues queles difuset se
+ad-maxim pos Ido, es Latino sin Flexione e Occidental; pruva to! Yo
+constata que vu afirma coses sin pruva!»\
+\
+Per ti objection, on posse judicar quant bon informat esset un
+adversario qui postula li pruva de to quo omni mundlinguist save! Sr. H.
+sembla conosser tam bon li recent situation de Occ. quam su principies!\
+\
+On comprende do que li nivelle del discussion ne posset esser tro alt
+con un mann qui ne ha studiat li principies de su object, qui ne mem
+conosse li recent, mundlinguistic situation e qui accompania omni su
+paroles per bruient punie-frappas sur li table, tant que pluri vezes yo
+timet que il vell demolir ti-ci vice Occidental!\
+\
+Mult plu interessant esset li discussion sequent inter li altri
+assistentes. Mersí al amabil presidentie de Sr. Cuntz, on tractat ti vez
+li principies e precipue li question del analitic conjugation, ti del
+logicitá in li L. I., etc., etc., quo esset occasion por un tre fructuos
+cambie de opiniones in un ton amical.\
+\
+Li tot discussion esset vermen sempre cordial (si noi excepte un micri
+explosion de mal humore de Bettoni). Ci, yo deve mersiar precipue Dr.
+Auerbach, Dr. Stör, Cuntz, de queles li largesse de idés e
+
+ 
+
+-152-
+
+ 
+
+li amabilitá, yo deve sublinear. Tal spiritu de tolerantie e reciproc
+estima fat me un tre grand plesur. Quelc eminent idistes questionat me
+esque on va acceptar les in li jus anunciat conferentie Occidental de
+1929, etsi ili resta idistes; comprensibilmen yo assecurat les que li
+occistes ne va monstrar se inferior a lor coidealistes pri amabilitá e
+que tis-ci va esser sempre cordialmen recivet por laborar junt in
+amicitá.\
+\
+Remarcabil es, que li 9/10 del assistentes nequande hat audit parlar in
+Occ. e tamen omnis comprendet me, quo pruva que Occ. es un lingue
+ínmediatmen comprensibil sin studie, anc oralmen. Un experientie
+decisiv.\
+\
+Zürich, 5 august 1928.\
+\
+Ric. Berger.\
+\
+N. B. Strax pos li congress, noi ha recivet un lettre de un del du
+oratores qui havet li corage monstrar li necessitá del reformes in Ido,
+to es Sr. Dr. Nidecker de Basel, li presidente del «Suisa Ido-Federuro».
+Ti lettre quel Sr. Dr. H. Nidecker scrit nos in Occ., noi adjunte al
+rapport sin comentarie!\
+\
+«Car coidealist Berger,\
+\
+Yes, li congress esset tre descorageant por ti homes, qui considera li
+mundlingue ne quam selfscop, ma quam medie a li scop del liberation del
+hom per instruction pri economial-social problemas. In ti sensu yo posse
+estimar solmen un lingue quel es progressistic e ne considera se perfect
+e ne-reformabil.\
+\
+Mi discurs esset unesimmen mutilat per li témpore-limitation, e poy per
+li rud interruptiones de Peus. Anc li vésper-discurs de Houillon esset
+un fals action. Il intentionalmen concentrat se sur un ne important
+punctu del Occ. lingue, li duplic lítteres, e intentionalmen alongat su
+discurs, por que null altri mey posser parlar pri propri problema ...»\
+\
+Pro quo yo denov abandonat Esperanto.\
+Un Esperanto-jurnal raportat que senior E. Biddle ha abandonat
+Occidental. Jus noi recivet un lettre de sr. B. quel noi in sequent
+publica.\
+\
+Red.\
+\
+Durant li ultim annu yo ha abandonat Esperanto e adheret ad Occidental,
+poy retornat ad Esp. e denov abandonat Esp por finalmen accepter
+Occidental, a quel sistema yo va nu consacrar omni mi forties.\
+\
+Ti duplic transition forsan sembla un poc strangi. Támen per it yo ha
+atinget un plen e definit conviction e yo senti un plu grand satisfation
+pri li tot afere.\
+\
+Yo esset activ Esperantist de 1913 till 1927, do ne sin practic
+experientie. In li ultim témpore yo studiat anc Ido e concludet que ti
+lingue es plu complicat e plu desfacil quam Occ o Esp.\
+\
+-153-
+
+ 
+
+Yo ha nu abandonat Esp proque ti lingue es ne solmen mult minu
+international in su structura, ma anc mult minu facil quam Occ. It es
+ver que quande on regarda li divers afixes de Occ e li divers adjectivic
+finitiones, on es inclinat pensar que li mecanical sistema de Esp es plu
+facil. In un sense to es ver. Ma li practic e li teoretic simplicitá es
+du coses different. Teoreticmen Occ es plu complicat, ma in li practica
+it es plu simplic, proque it seque li formes international ja conosset
+del studiante. P. ex. li studiante angles va formar li grand majorité
+del Occidental-derivationes instinctivmen, sin pensar pri li regules,
+proque apartmen in li paroles derivat Occ es tre simil al angles.
+Contrarimen, li formes de Esp ne es antey familiari, do on sempre deve
+memorar li regul, almen til que on ha atinget un profund conossentie del
+lingue. Yo bon memora que quande yo unesimmen studiat Esp, yo trovat que
+li afixes esset li max desfacil parte del lingue. Por li majorité del
+studiantes it vell esser mult plu facil aprender e usar apart paroles
+quam formar o deschiffrar li Esperanto-derivationes. Sovente li sense
+del derivates (p. ex. fruktajho, flugilo etc) es purmen conventional, ne
+logical o almen ne clar. Li complicationes grammatical (acusative,
+acordation del adjective al substantive in casu e númere, corelativ
+paroles, differentiation inter sia, lia, shia, ghia, ilia, finitiones
+-ig e -igh, etc) es un immens desfacilitá, quel on ne trova in Occ. In
+li ortografie li ks o kz vice x, li kv vice qu es apartmen repugnant. Ma
+li possibilitá de reformas in Esp es null. Comensar li reformas vell
+significar li comensa del fin. E sin reformas Esp nequande va esser
+acceptat; pri to yo es convictet.\
+\
+Li present tendentie introducter li paroles international apu li autonom
+formes, va esser fatal. On ne posse haver in Esp plen internationalitá e
+regularitá --- sive li un sive li altri deve esser sacrificat. Occ posse
+satisfar ambi postulationes, do es multissim plu facil.\
+\
+Li fortie del Esp-movement es cardinalmen sur paper. Chascun activ
+laborator save que un tre micri percentage del studiantes resta fidel.
+Ca to es li culpe del studiantes? Til un cert gradu, yes; ma it es anc
+li culpe del lingue. Yo es convictet que Occ va retener su studentes
+mult plu bon, nam un aprendente posse leer Occ pos un mult plu curt
+témpore quam vell esser necessi por leer Esp. E quande on posse leer un
+lingue, it es plu probabil que on va retener li interesse pri
+
+ 
+
+-154-
+
+ 
+
+it. Li númere del Esperantistes queles lee mem un gazette esperantistic,
+es tre micri, secun mi experientie, quel es certmen ne unic.\
+\
+Li progress de Esp, exter li circules comunistic, ne es satisfant e
+vermen it sembla me que on ne plu va ganiar nov successes. Un trist
+situation pos 40 annus! Yo peti li Esperantistes considerar li factes e
+questionar se esque ili ne es sur un fals via. Li beson del L.I. es
+imens, li simpatie por li idé es vast diffuset, ma Esp ne gania li
+victorie. Ca to es un absolut pruva que li sistema es defectiv?\
+\
+Yo es convictet que Esperanto nequande va victoriar. Li sol alternative
+es Occidental. Per it noi posse offertar al munde un lingue conform a
+nor cultura. Al batallie!\
+\
+Eric Biddle, Grosvenor Rd., Tarvin near Chester (Anglia).\
+\
+Max bon metode de aprension por Occidental.\
+Ante un annu, Sr J. Prorok scrit in Cosmoglotta No 42, in su excellent
+articul: «Stabilità e Evolution» li sequent lineas: «Nu es témpor
+comensar li activ propagande. Li stabilitá por un suficent long futur es
+garantit per li experienties de 5 annus de infantie, pos un embrional
+periode de 30 annus. Nu, Occidental es matur por prender in su manus li
+guidantie del mundlingual affere.»\
+\
+Versimilmen, noi omnis --- ancian e nov adherentes --- opine li sam. It
+es témpor por presentar Occidental al publica, quel til nu ha conosset
+solmen caricaturas de lingues international. Ma ante comensar li activ
+propagande, it es necessi haver un excellent libre de apprension quel
+noi va posser dar a omni studiantes. Consequentmen, ante far grand
+expenses de editiones, noi deve questionar nos: «Quel va esser li max
+bon metode de aprension specialmen por li lingue Occidental. Ca li
+traductiv o li direct metode?»\
+\
+Havente quelc experientie in li diferent pedagogic sistemas usat por
+docer lingues in scoles, yo strax responde: «Por lingues national, con
+lor desfacilitás in grammatica e vocabularium, on ne posse forjettar
+totalmen li traductiv metode. Yo ne crede que instructores va contradir
+me si yo di que presc omni pedagogos queles experit li direct metode
+devet agnoscer,
+
+ 
+
+-155-
+
+ 
+
+pos quelc témpore, que su integri aplication ne da li expectat
+resultates.\
+\
+Ma por un sistema «a posteriori» de lingue international, e principalmen
+por li lingue Occidental, li question es totalmen diferent. Li Europanes
+e li Americanes, si ili es solmen un poc cultivat, ne besona aprender
+Occidental. Ili ja conosse it. Por les, it es solmen necessi preciser li
+contures del lingue per exemples. Yo es cert que noi ne va incontrar,
+quande noi va docer Occidental per li direct metode, ti desfacilitás
+queles noi incontrat in li instruction del lingues national. Ergo, si li
+metode direct ne es li max bon metode por lingues national, yo crede que
+it es in contrari tre convenent por Occ in omni landes in queles on
+parla lingues europan. Solmen in li oriental landes, it va forsan esser
+necessi usar li traductiv metode proque lor lingues have un totalmen
+altri base quam tis de Europa e America.\
+\
+Li consequentie de ti statu de coses es tre important por li
+organisation de nor propagande. Noi ne va besonar editer libres de
+aprension por chascun popul separatmen. It va esser suficent presentar
+al publica un excellent manuale scrit solmen in Occidental, usabil sur
+li du bordes del Atlantic e li expenses por editiones ne va esser tam
+grand. Talmen, it va esser possibil far un ovre perfect, seriosmen
+perstudiat, per li colaboration de nor max bon filologos e pedagogos e
+pri quel on va posser dir que it es un ovre unic in li historie del
+lingue international.\
+\
+G. Bohin.\
+\
+Remarca.\
+Con plesur noi publicat li articul de sr. G. Bohin, director del «École
+Moderne», Strasbourg, pedagogo qualificat e experientiós in lingues. Li
+opiniones expresset certmen es tre rect e merite plen attention de omni
+scop-conform Occidental-propagatores.\
+\
+Li Central Comité del Occidental-Union ocupa se pri li organisation del
+labores por composir un Complet Occidental-Grammatica in Occidental e un
+Occidental-Crestomatie. Ambi ovres va esser quasi un resumation e
+completation del sistematic manuale de aprension direct de sr Bohin. Li
+complet grammatica ja es presc finit in manuscrite de sr Janotta e posse
+esser publicat in un tom con li crestomatie e li direct aprens-cursu.
+Tis de nor colaboratores queles es parat auxiliar in li composition del
+crestomatie, es petit comunicar nos to.
+
+ 
+
+-156-
+
+ 
+
+Ti libre va esser un bon vademecum por omnes queles ja possede li lingue
+impressivmen, sive per afin lingues natural, sive per studie de un micri
+manuale in un lingue national p. ex. che Orientales.\
+\
+On deve transferer omni detal'at explicationes e paradigmas prolix e
+altri complicationes ad-in un complet gramatica in Occidental self. It
+es vermen li max rational metode por Occidental e specialmen por su
+actual stadie de unesim introduction.\
+\
+Noi advoca nor colaboratores utilisar nor ancor poc forties commun per
+concentrar les in li labores necessissim e editer in lingues national
+solmen curt o micri manuales. Tales existe ja in pluri lingues, printat:
+German, Frances, Tchec, Sved; in preparation: Angles, Hollandes, Hungar
+etc. Plu grand manuales es justificat adver anc in Angles, Frances e
+precipue German, pro que ti ci lingues es usat quam international
+lingues, do libres in ili es studiat anc de interessates de altri
+nationes.\
+\
+Apartmen important es un plu complet manuale solmen por pur german
+letores pro que por ili Occidental naturalmen es comprensibil ne in tant
+gradu quam p. ex. por Franceses o Angleses. Nor letores save que just un
+tal manuale bentost va aparir in li german Occidental propaganda-ovre,
+li elaboration de quel regretabilmen retardat se, pro supercargation del
+co-autores.\
+\
+Nu es in printería un «Manuale de Conversation e Corespondentie» de L.
+M. de Guesnet, quel es composit anc secun li directives del direct
+metode. It have 20 págines e va aparir durant ti mensu. Precie fr. Fr.
+1,50 plus fr. Fr. 0,30 porte exter Francia, fr. Fr. 0,15 in Francia.\
+\
+E.P.\
+\
+Saxonic genitive de Jespersen per -n.\
+Prof. Jespersen ha introductet in su Novial un sintetic tal nominat
+saxonic genitive contrari al evolution del hodial lingues. On posse
+discusser pri to, ca un saxonic genitive es necessi, proque omni romanic
+e slavic lingues ne possede it. Ma on deve conceder que in mult casus un
+tal form, existent in li germanic lingues, vell esser util por precision
+e curtitá. Li germanic lingues usa por it li finale -s. Do li sam quel
+nu in omni modern sistema de L. I. es usat por li plural quam li max apt
+e international form por ti idé. Do li adoption del s have cert
+desfacilitás, e in un sistema quam che prof. Jespersen excludet se ja
+per su in ante statuet principies.\
+\
+-157-
+
+ 
+
+Li orígine de ti -s ne es ancor ínrecusabilmen fundat, ma it sembla
+esser in relation con li parol sunn (filio). Un process analog noi vide
+in li modern nómines de familie: Peters = Peterson. Li psicologic
+afinitá del conception de possession e de filio es suficent clar.\
+\
+Prof. Jespersen nu prende per su genitive saxonic li finale -n, quel es
+li form del genitiv in li finnic lingue. Por plu fundar ti un poc
+strangi finale in un inter-europan lingue il cita paralel formes D mein,
+A mine, Sk min, F mon, e deriva nu in Novial de me -- men, e extende ti
+form al altri pronómines vu -- vun, vus -- vusen, nus -- nusen, les --
+lesen etc. On posse solmen mirar que un conosset linguist posse dir tal
+coses.\
+\
+Unesimmen on ne posse posir paralel li germanic formes quam min e li F
+mon. Li scrition del F mon per un n es solmen un miscomprense, sammen
+quam li scrition F ligne paralel a signe, de L linea (totmen ne egal con
+L signum). Ti n in F mon es solmen un fonetic signe del son nasal
+introductet in F e Portugales e ne have necos comun con li germanic min,
+quel representa un tre antiqui forsan prearic form, quel ne es
+caracteristica del pronomine possessiv, ma del personal quel contene it
+ancor in mult indoeuropan, p. ex. slavic, lituanic e mem in li turanic
+(turco-ugro-finnic) lingues (T min, Est mina).\
+\
+Duesimmen in li german «des Bären» li finale totmen ne es ti del
+genitive, ma sammen bon ti del dative, acusative e mem plurale. Ultra to
+on anc ne save ca forsan ti n ne es radical, proque ja in antiqui nordic
+li parol es björn.\
+\
+Do in omni casu li citat de prof. J. finale de genitiv n in li
+indoeuropan lingues es adminim un erra.\
+\
+Resta do solmen li argument que n es li finale in finnic.\
+\
+Ma it es un facte conosset in linguistica que ni pronómines, ni
+grammatical flexiones nequande es pruntat che altri lingues. On prende
+ex altri lingues precipue substantives, verbes, adjectives, mem sufixes,
+ja mult rarmen prepositiones, interjectiones, ma nequande ni pronómines,
+ni grammatical flexiones. Li quelc tre poc exemples anc ne es absolut
+fundat e posse haver anc altri explication.\
+\
+Do prender li finnic n quam signe de genitiv in un absolut europan
+lingue es un grav manca de Novial, scienticmen ne defensibil.\
+\
+To es just sam quam in Esperanto li grec finales -oj, -aj, e mem plu mal
+proque grec apartene al fundament de nor occidental cultura.\
+\
+E. de Wahl.\
+\
+Li present e li altris de nor recensiones de Novial es fundat
+principalmen sur li ovre: Otto Jespersen, Ph.D., Litt.D., L.L.D., An
+International Language, London, George Allen & Unwin Ltd., Ruskin House,
+40 Museum Street. Price (Postage enclosed): 5 s.\
+\
+De ti libre ha aparit anc un german traduction de Dr. S. Auerbach che
+Winter's Universitätsbuchhandlung, Heidelberg (Preis 5 RM) e un curt
+extracte in dan lingue de Prof. Jespersen self sub titul «Et
+Verdenssprog» in li collection «Kultur og Videnskab», V, Pios Boghandel,
+Povl Branner, Nörregade, Köbenhavn (1 Kr. dan).\
+\
+Red.\
+\
+-158-\
+\
+Naturalitá e artificialitá.\
+In un articul «Naturaleso ed artificaleso» Franco Veramido analisa in
+L\'Idiste Français nr 30 e 31 li du fundamental principies de Ido e de
+Occidental e veni naturalmen al conclusion que Occ ne have futuritá e
+que Ido es li final «solvuro» del question. Li articul quel es tenet in
+un simpatic ton, monstra que li autor ancor ne ha totalmen penetrat li
+tema e sovente cita coses queles just demonstra lu contrari a to quo il
+asserte. Por exemple por combatter li ne totalmen fonetic ortografie de
+Occ, specialmen li duplic pronunciation de c e g, il cita quam exemple
+de perductet fonetic ortografie li lingue hispan e italian. Il sembla
+obliviar que just in ti du lingues li du lítteres c e g, have du divers
+pronunciationes!\
+\
+Sammen il di que li etimologic structura ne auxilia li slaves o
+germanes, proque ili ne conosse li tal nominal extran paroles.\
+\
+Ad unesim yo vole constatar que un L.I. probabilmen ne es reservat
+(almen in li unesim témpore) al analfabetes. Do omni hom in Germania e
+Russia leent gazettes conosse un grandissim stock de paroles, e che clar
+e bon instruction anc radicas e sufixes queles il save usar. Yo self
+possede completmen li du lingues e yo posse dir que li percentage de
+extran paroles e parolformativ partes es tre grand, p. ex. in russ
+«con-fide-nt-i-al-no, re-volu-t-ion-nyi, form-at-ia, corpor-at-iv-ny,
+co-oper-at-iv, re-solu-t-ia, inter-nat-ion-al-ny, com-press-or,
+avi-at-or, pro-fess-or, doct-or, san-it-ar, san-at-or-ia, pro-pag-and-a,
+con-tri-bu-t-ia etc»; paroles queles conosse chascun russ soldat, anc li
+analfabetes. In ti quelc hasardmen prendet paroles trova se ja li
+sufixes max usat e qualificat quam tre desfacil in li derivation. Anc si
+li ínerudit ne va comprender li finesses del radica «present» e radica
+«perfect», il va p. ex. conossente «revolutia -- revolutionny», totmen
+per analogie formar resolutia -- resolutionny, formatia - formationny
+etc.\
+\
+Ma in Esperanto e Ido ti instinctiv metode es ínpossibil quam yo ha
+monstrat to ja sovente. On me di, que támen li ínerudit sempre va far
+erras in Occ. Nu bon, on mey monstrar me que almen li erudites ne fa
+erras in Ido o Esp! Yo e sr Pigal ha monstrat sufficent vezes que mem
+ductores de Esp e Ido havent ja long practica ancor fa grav erras.\
+\
+Un ínerudit person, si il aprende un foren lingue, sempre va far erras,
+si il ne have ocasion aprender it instinctivmen per practica, quam su
+lingue matrin. On mey solmen leer li epistules e post-cartes de tal
+persones scrit in Esp o Ido, e on va sentir un horrore.\
+\
+Interessant es un logic erra del autor. Il scri: «Si til nu on aprendet
+li international lingues precipue per scrit textu, on deve considerar ti
+metode quam absolut anormal e ínnatural, imposat al studiantes
+simplicmen per li relativ poc diffusion del lingue ... Céterimen li
+exemple del infante quel apropria se li conossentie de su lingue matrin
+solmen per audida, es un suficent frappant pruva del debilitá de punctu
+de visa Occidentalistic». Just ci es li quintessentie del question! Ma
+li autor oblivia que li L.I. es essentialmen foren a omnes! E til quande
+li tot munde ne va parlar ti lingue quam quasi matrin, it va esser un
+lingue extran: Altricos es aprender un lingue
+
+ 
+
+-159-
+
+ 
+
+vivent che su parlantes, e altricos introducter un lingue ancor ne
+parlat. E ti lingue on va aprender naturalmen plu per scrit quam per
+audida. Ma si un vez li L.I. va esser parlat in omniloc quam su propri e
+li infantes va audir it in tendri yunesse e aprender it naturalmen,
+tande si li grand lingues europan va introducter un absolut fonetic
+ortografie, on va posser far to anc in li L.I. To va esser ne plu
+desfacil quam in li altri vivent lingues.\
+\
+Ma yo nequande ha audit que li duplic pronunciation de c e g in A F S P
+I (e anc in D Sv Holl) ha causat quantcunc desfacilitá al studiantes. Yo
+vell esser interessat far conossentie con tal fenomenal homes!\
+\
+Dir tal coses, es sive bluff, sive manca de índependent judicie, e
+repetition de formules audit sin pensar.\
+\
+Li autor concede que li scientic circules ha poc interessat se ye Esp e
+Ido, ma il emfasa que li proletariatu seque in grand masses, e Occ ancor
+ne ha monstrat, que it es bon por li masses. In li unesim témpores de
+Esp e Ido li proletariatu anc ne esset representat inter li adherentes.
+Por ili es necessi special manuales e metodes de instruction, necessi
+fervent instructores. Tal coses ancor manca che Occ quel ha usat su
+unesim 5---6 annus a propri perfectionament e ne a propaganda in li
+grand publica.\*) Pro to noi ha contentat nos ye li micri claves, queles
+ha monstrat se totalmen suficent por persones un poc instructet in
+medial scoles. Quande noi va haver lexicos e manuales e bon pedagogos,
+instructores, noi va posser interessar li proletariatu. Til tande noi
+trova plu util recrutar li scientistes e erudit persones stant in li
+conexe international, quo posse esser efectuat plu rapidmen e haver plu
+grand valor in li unesim témpore. On deve prender in calcul, que li
+metode de instruction de un lingue con li etimologic structura de Occ,
+va esser un altri quam ti del altri lingues, e noi sta just in li
+elaboration de un tal metode.\
+\
+Li ínmediat comprensibilitá de Occ, in juntion con grand simplicitá e
+regularitá de derivation, es un grand avantage proque it destructe li
+antagonisme in li cultivat publica, evocat per li ínnatural e repugnant
+formes de Esp e Ido. Anc si ili es adversarios e ne vole saver necos pri
+L.I., ili comprende Occ, e ili anc ínvoluntarimen es «passiv»
+Occidentalistes. Por devenir «activ» e posser strax scrir, mem sin
+lexicos, sufice quelc semanes, sovente quelc dies, quam ha monstrat mult
+exemples. Do li desfacilitás mentionat in li articul de sr Veramido es
+pur fantomes, e yo es cert, que si il vell dever scrir me «expromptu» e
+sin lexico un epistul in Occ, yo vell trovar ta minu erras, quam si yo
+vell scrir un tal epistul in Ido, quel yo ha sequet desde su apparition
+in 1908, do nu durant 20 annus. Noi mey far li experiment! Un clave yo
+vell misser gratuitmen.\
+\
+E. de Wahl. Eha 10, Reval (Estonia)\
+\
+\*) Nor libres ancor ne es vendibil in li magazines, ma solmen recivibil
+in Vienna e Reval, e che quelc Occidental-informatorias.\
+\
+Noi ne fa changes pro variation, ma noi nequande hesita comensar un
+mutation, quande it es monstrat, que li nov via es plu bon quam li
+anteyan metode.\
+\
+H. Ford.\
+\
+-160-\
+\
+L. s. F.\
+Li periodico de L. s. F. (Latino sine Flexione) o Interlingua: «Schola
+et Vita» (Redaction e Administration: Director Nicola Mastropaolo, Via
+Washington 12., Milano 125, Italia. --- Abonnament annual: L it. 22, --)
+in li ultim numerós consacra spacie a discussiones pri linguistic
+questiones. Nu quande on agresse anc altri temas quam matematic, li
+superextendet analitisme e primitivisme de Interlingua junt con
+antiqui-latin pesositá da sentir se quam impediment e pro to on nu
+discusse li question del conditionale. Advere li discussion es vermen
+scolastic. Por ne introducter ti omniconosset modo on sive 1) sercha
+ínacustomat primitiv cirumscritiones, sive 2) curios auxiliares.\
+\
+P. ex. 1) «Si li medico (o forsan un medico?) vell esser ci, yo vell
+joyar» es expresset in L. s. F. talmen: «Medico non ades, et me non es
+laeto» o «ad me dole quod medico es ab».\
+\
+Altris proposi formes quam «me e i scribe» = yo vell scrir etc.\
+\
+On vide ci clar li pesos ínhabilitá de L. s. F. Un novum in «Schola et
+Vita» es, que it publica articules in altri L. I., in Nro 5---6 p. ex.
+Neolatine de P. Lundström, un tre desfacilmen comprensibil lingue, con
+un sistema de vocal harmonisation u-o-a, o-a-e, a-e-i, talmen que li
+unesim finale es masculin, li duesim índiferent e li triesim feminin, e
+mult altri arbitraritás.\
+\
+Anc es publicat un articul de Wilbur M. L. Beatty in li totalmen
+íncomprensibil lingue «Qosmiani».\
+\
+J. P.\
+\
+Solmen nu noi aprende que prof. G. Peano in Torino, li creator de L. s.
+F. e presidente del Academia pro Interlingua (A. p. I.) ye li 27 august
+a. c. pervenit a su 70-esim annu. Ye ci ocasion, etsi tard, noi
+transmisse al jubileario nor cordial felicitationes e sinceri agnoscion
+pro su ínfatigabil labores quel il desde plu quam du decennies ha
+consacrat al idé de un Lingue International cultural. Prof. Peano have
+apart merites por li scientie anc per su matematic ovres.\
+\
+E. P.\
+\
+Li old parol ja long usat in li lingue, have, quam li old hom un plu
+grand contenentie de vive, e pro to es li parol del poet. Li yun e ancor
+plu li extran parol es ancor povri ye tal valore, it es li parol del
+scientie o del frigid munde.\
+\
+August Pauly.\
+\
+-161-\
+\
+Esperanto-Statistica.\
+Li oficial organe «Esperanto», Genève in su nr 335---336 (7---8) publica
+li resultates del grand Statistica del expansion de Esperanto
+interprendet per Dr. Dietterle, Leipzig.\
+\
+Ex ti statistica, fat tre conscientiosmen, printat sur 25 págines-octav,
+noi posse ci citar solmen quelc por nos max interessant resultates.\
+\
+Unesimmen es interessant que al apelle misset a omni conosset gruppes e
+associationes ha respondet solmen 2/3. To monstra que mult tal gruppes
+ha existet solmen sur li paper e pro desinteresse ha dissoluet se.
+Respondet ha 1228 gruppes vice li supposit 1776. --- Isolat
+esperantistes on ha posset constatar presc 17080. Por li gruppes quel ne
+ha respondet al apelle sr Dietterle calcula 5 membres pro gruppe, do
+junte a su calcul ancor 3000 persones in gruppes. To ne fa mult, ma
+sembla anc esser fals, proque on vell dever calcular que almen li demí
+de ti gruppes ha finit lor existentie. Talmen in su final resultate Dr.
+D. calcula 1776 gruppes (1228 ya ha solmen respondet) con 41751 membres.
+In total in plu quam 7000 locs in li munde existe in summa 126.508
+esperantistes. Ma on save que in societés, gruppes etc sempre almen li
+demí es solmen nominal membres e ne interesse se pri li cose. Mult de
+ili comprensibilmen subtene li movement solmen pro li idé, sin occupar
+se self pri li lingue e sin comprender it e leer li revúes. Plu efectiv
+do vell esser calcular li cifres del editiones Esperantistic, e tande
+probabilmen li resultate vell esser fortmen altri. Regretabilmen un tal
+statistica manca.\
+\
+Si secun li statistica circa 700.000 persones ha sequet Esperanto-curses
+de 10 til 30 letiones, to in null maniere posse esser criterium pri li
+númere de conossores. Quo on vell dir si on vell calcular li conossentie
+p. ex. del lingue frances secun li numeró del persones quel in li scoles
+ha studiat ti lingue durant 2---3 annus. On vell atinger 50---100
+million persones extra li landes parlant F. quam lingue matrin!\
+\
+Ne sin interesse es quelc indicationes queles Dr. D. elimina del calcul
+in su statistica quam fals e sin sense, p. ex. que in un loc pos 88
+curses existe solmen 15 esperantistes o in altri loc pos 400 curses
+solmen 60 esperantistes exter li gruppe. Ti informationes probabilmen
+deve esser corectet talmen que esset 400 participantes de curses, ma que
+solmen 60 ex ili ha devenit esperantistes. To vell esser ancor un sat
+bon resultate.
+
+ 
+
+-162-
+
+ 
+
+Ma it monstra nos qualmen calcular li 700000 persones.\
+\
+Si on hat occasion vider li generalmen miserabil conossentie de Esp che
+su adherentes, sovente anc redactores de revúes, on va haver un plu just
+judicie pri li ver expansion e conossentie de Esperanto. Yo self ha
+constatat durant un congress, que mem li functionarios decorat per verdi
+rosette ne posset comprender Esp e petit me parlar in li local lingue.\
+\
+Simptomatic es li nota de Dr. Edmond Privat, que li max rapid crescentie
+inter 1922 e 1928 certmen esset a constatar in li circules del
+laboreros. Ma it es clar que ti crescentie es attribuend ni al
+perfection del lingue, ni anc al beson in ti circules, ma a politic
+considerationes, por haver un max numerosi auditorie por extranational
+propagandistes in meetings. Li circules vermen interessat in
+international communicationes, specialmen li scientie, li comercie,
+industrie etc tene se ancor tre reservat, e contenta se per índiferent
+resolutiones in favor del Esperanto, scilicet (i.e.) al idé de un L. I.,
+quel in van li Esperantistes identifica con li sistema de Dr. Zamenhof.
+In 1886 ti idé esset identificat con Volapük, 1926 con Esperanto. Noi va
+vider con quo on va identificar it in 1946.\
+\
+Julian Prorók.\
+\
+Economic e social problemas.\
+Special redactor: Dr. Heinrich Nidecker, 12 Blauenstrasse, Basel,
+Svissia.\
+\
+Noi successat ganiar nor estimat coidealist, li sociolog Dr. H.
+Nidecker, president del Sviss Ido-Federation, por redacter li present,
+nov rubrica, pri quel noi suposi que it interessa nor letores. Ples
+misser omni responses e articules relatent al adresse del special
+redactor.\
+\
+E. P.\
+\
+Li perfect circulation.\
+In li social órdine reciprocitá es li formul del equitá. Li reciprocitá
+es expresset per li prescrition: Fa a altris, qualmen tu vole que on mey
+far a te; e in li lingue del economie national: changea vor productes
+contra altri productes, compra mutualmen vor coses. Li organisation del
+reciproc relationes, to es li tot sociologie! Da al social córpore un
+perfect circulation, to es, perfect e regulari change de servicies
+contra servicies, e li homan social contracte es etablisset, li labor
+organisat.\
+\
+Proudhon.\
+\
+Introductiv remarcas.\
+Noi homes vive del fructes del terre. Sin li terre nullhom posse viver.
+Nor alimentes e altri necessitás del vive es li productes ex du
+factores: natural energies provenient ex li suol
+
+ 
+
+-163-
+
+ 
+
+e mediat del terre, e nor propri labor-fortie, quel essaya extraer
+sempre plu e plu ex li terre.\
+\
+Production. Noi sempre ameliora li metodes de production per li
+invention de plu bon e precisi machines, e to con grand success: noi
+posse dir que li production del suficent quantitá de victuales ne
+presenta alquel desfacilitá. E tamen multis deve carir li max necessi
+victuales. Max diligent e activ laboreres ne have decent habitation pro
+manca de pecunie. Altris vole laborar, ma ne posse trovar employa; ili
+deve chomar e esser subventionat ye li expense de altris, qui self ne
+have tro multcos.\
+\
+Ci noi trova li unesim grand problema: qualmen it eveni que multis
+labora e támen resta povri, durant que altris, qui ne labora, vive in
+abundantie?\
+\
+Change. Tre probabilmen ti problema ne es un problema de production, ma
+un problema de change, o un problema de distribution. Ú es li cause, que
+li productes ne es distribuet talmen, que li laborere anc recive su tot
+producte? Probabilmen, si on vell posser changear solmen su propri
+labor-productes, to vell esser li regul. Ma, ínfortunatmen, in nor
+social órdine it es anc possibil changear labor-productes contra alquo
+quel ne es labor. Ci es, to sembla me, li sam problema expresset in
+altri form. Qualmen to es possibil?\
+\
+Si noi vole trovar li cause de ti ínequitabil change, noi deve examinar
+li medie de change, e interrogar, si ti medie vermen es un medie e ne un
+impediment del change. Noi do deve profundmen examinar li tot
+problem-complex del pecunie e del financies.\
+\
+Ples retornar al terre e al ressurses provenient ex li terre, anc al
+mercates, u li productes oferta se al compratores. Pro quo li homes
+combatte se in sempre novi guerres? Pro quo ili ne interauxilia? Ci es
+un altri grand problema: li problema del cause del guerres inter li
+homes e nationes, quel deve auxiliar se mutualmen. Si noi va trovar li
+ver cause de omni guerres, noi anc va posser indicar li ínfallibil
+remedie, to es li medie por adducter li mund-pace.\
+\
+Omnicos quo concerne pecunie, financies, bastament, chomage, stagnation,
+misere del agricultura, revolution, guerre, social movimentes e parties,
+omni ti appartene a nor tema; noi va esser grat a omnis queles pro
+interesse va contribuer al solution de ti urgent problemas per articules
+por nor social e economie rubrica.\
+\
+H. N.\
+\
+-164-\
+\
+Anecdotes pri Aristipp.\
+Un die li grec filosof Aristipp petit li tirann Denis pro salvation del
+vive de su carissim amic condamnat. Denis retropulset le e ne volet dar
+ti favor. Ma Aristipp jettat se a su pedes. Alcun trovat ti bassesse
+índigni e blamat li filosof, qui respondet: «Ne es mi culpe, ma ti de
+Denis, qui have li oreles ye li pedes!».\
+\
+Un altri die, in Siracus, Aristipp esset invitat de Simon, li tresorario
+de Denis. Simon fa admirar le su splendid palace, de quel li parquete in
+precios ligne, esset brilliant quam glacie. Aristipp comensat tussar,
+poy sputat sur li visage de Simon, quo mult incolerat li offensato. «Mi
+amico», Aristipp dit le, «yo ne vide un loc plu sordid u yo posse
+sputar».\
+\
+Trad. Ric. Berger.\
+\
+Avise a nor colaboratores.\
+Li ultim folies del lexico german-Occidental de Joseph Gär es nu
+dismisset al abonnates. It es nu desirabil adjunter a ti lexico un liste
+de printerras e forsan quelc mancant paroles. Pro to omni usatores es
+petit misser tal informationes a E. de Wahl, Eha 10, Reval, Estonia, e
+quam bentost possibil, pro que it es necessi bentost ligar li singul
+cadernes por posser metter les in vendida in li librerias.\
+\
+E.W.\
+\
+Anuncia.\
+Coidealist Karl Janotta ha editet in 1921 li ovre «La libro del 100
+marveli», un brochure presc exhaustet e contenent 30 articules facticmen
+interessant in Ido. Ti brochure in bell coloros covriment have historic
+importantie por li problema de L. I. It es recivibil contra ---,60
+austrian Schilling anc del officie de Cosmoglotta in Mauer bei Wien.\
+\
+Subventiones por Cosmoglotta.\
+O. W. Ferguson-Jeffersonville: 2,8 Dol.; Regierungsrat Dr.
+Mell-Rudolstadt: 10 RM; «Cerka»: 10 Kč. Cordial mersias!\
+\
+Erras.\
+Ples leer in nr 50 (julí): pag. 101, lin. 3 de supra: ínpremeditat
+(vice: impremediat); pag. 103, lin. 3 de supra: va (vice: ve); pag. 108,
+lin. 1 de infra: ya superflue (vice: ne superflue); pag. 113, lin. 10 de
+supra: mundlingue (vice: mudlingue); pag. 114, lin. 18 de supra: in
+(vice: il); pag. 115, lin. 12 de infra: arrangeament (vice:
+arrageament); pag. 116, lin 3 de supra: demí- (vice: domí-).\
+\
+Eigentümer, Herausgeber u. Verleger: Gesellschaft Cosmoglotta, Mauer bei
+Wien, Verantwortlicher Schriftleiter: Ing. E. Pigal, Liesing bei Wien.
+Druck: Milan Nedvídek, Tábor.
+:::

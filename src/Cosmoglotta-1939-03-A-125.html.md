@@ -1,0 +1,1208 @@
+Cosmoglotta A 125 (mar 1939)
+============================
+
+\
+
+::: {#displaycontent}
+Annu XVIII  \-- Marte 1939  \-- No 2 (125)
+
+ 
+
+COSMOGLOTTA 
+
+ 
+
+HISTORIE DEL ALFABET 
+
+ 
+
+Qui es li Inventores del alfabet ?
+
+ 
+
+Li nómin self, alfabet, veni del lingue grec, in quel li du unesim
+lítteres del alfabet nominat se alfa e beta. Por designar li totalité de
+lor lítteres, li Grecos dit li « alfa-beta », quam noi di li «
+abecedarium » de A, B, C, D.
+
+ 
+
+Por comensar on deve conceder que nor alfabet grecolatin es composit in
+tre strangi maniere. Li vocales e consonantes es inmixtet ye hasard ; on
+vell facilmen har posset trovar un arangeament plu bon.
+
+ 
+
+Ti bizarritá explica se per li fenician scritura. Nor alfabet veni del
+Latinos, queles hat prendet it del Grecos, queles hat recivet it del
+Fenicianes. 
+
+ 
+
+Li Fenicianes ne ha inventet li scritura. Long ante ili, altri popules,
+quam li Egiptianes e li Chineses, hat creat signes por transmisser li
+idés, ma ti unesim signes esset ideografic : chascun de ili representat
+un parol, un idé e ne un son. On besonat do tant signes diferent quant
+idés. Li actual scritura chinés contene circa 40.000 signes. In li
+ancian [Egiptian li complicationes esset ancor plu grand, pro que cert
+signes, o hieroglifes, representat idés, altres síllabes, e altres
+sones. On comprende do pro quo li scritura egiptian, expandet
+abundantmen sur omni monumentes del Valley del Nil, restat
+índechiffrabil desde li unesim secules del Era Cristian til 1821, quande
+li francés scientist Champollion successat trovar li « clave
+». ]{style="font-size:13px;"}
+
+ 
+
+Li Fenicianes, li grand mercatores e viageatores del antiquitá, besonat
+un scritura rapid por redacter lor contos. Pro que ili esset in constant
+relation con li Egiptianes, de queles ili imitat li artes e utilisat mem
+li sarcos por metter in ili lor propri mortos, ili prendet anc li
+elementes de lor scritura. Ma quam practic homes ili selectet inter li
+enorm quantitá de hieroglifes solmen un duantene de signes, tis queles
+representat li consonantes.
+
+ 
+
+Modificante e simplificante ti signes, li Fenicianes obtenet li unesim
+fonetic alfabet : noi reproducte it in li unesim linea de nor sinoptic
+tabelle (Fig. 1) . 
+
+ 
+
+On vell posser questionar pro quo li popul egiptian, quel esset tam
+inteligent, ne creat self un fonetic alfabet, vice embarassar se con un
+masse de complicat hieroglifes. Li cause es que li Egiptianes possedet
+tre bentost un abundant litteratura quel hat fixat li scrit lingue. A
+ili esset do desfacil, presc ínpossibil, transformar li traditional
+scritura. On save que hodie presc omni tentatives supresser li
+ortografic complicationes in francés e anglés fat fiasco, principalmen
+pro li enorm litteratura existent in ti lingues. 
+
+ 
+
+-17-
+
+ 
+
+ 
+
+(Image)
+
+ 
+
+ 
+
+Li alfabet fenician.
+
+ 
+
+Li Fenicianes ne havet litteratura. Necos impedit les crear un sistema
+de scritura tam simplic quam ili volet. Con rason, on fat remarcar que
+li fonetic alfabet posset nascer solmen che un popul ne ligat per un
+long litterari tradition. 
+
+ 
+
+Lass nos nu studiar ti fonetic alfabet, li unesim quel aparit in li
+munde. (Fig. 1) . Nor sinoptic tabelle adver ne es complet. Por
+simplificar noi eliminat du lítteres fenician queles ne intrat in li
+grec lingue. Li fenician alfabet havet do 22 lítteres. 
+
+ 
+
+Reascendente del demi-unciale (Fig. 10) quel es familiari a nos, til li
+orígine, on divina strax li filiation de nor A, Z, H, K, L, M, N, O, Q.
+Li altri lítteres fenician ne sembla comprensibil, ili va esser tal pos
+li sequent demonstration. 
+
+ 
+
+Li nómines, queles li Fenicianes dat a chascun de lor lítteres, explica
+se per un ínvoluntari similitá. Constatante que lor signes simileat
+pluminu a images conosset, lor creatores dat les li nómin del concernet
+image. It es extra dúbit, por exemple, que Alef similea a un 
+
+ 
+
+-18-
+
+ 
+
+ 
+
+(Image)
+
+ 
+
+(Li explicationes ne es in Occidental ma in francés) 
+
+ 
+
+cap de bove con li jug, que Daleth suggeste li triangulari porta de un
+tenda, que Vau sembla esser un clove, Lamed : un croc, Ain : un ocul,
+Sin : dentes, Tau : un cruce. 
+
+ 
+
+Por li altri signes li similitá ne es evident, forsan pro que noi ne
+conosse suficentmen li lingue fenician. Tamen it es cert que li parol
+Bet (= dom in fenician e canaanés) es precismen ti quel retrova se in
+mult nómines de locs quam Bet---lehem, Bet-esda, Bet---el. Poc persones
+save que li paroles alfabet e Betlehem contene un síllabe de sam
+signification. 
+
+ 
+
+Li primitiv grec alfabet.
+
+ 
+
+Li Fenicianes, queles esset li comiso-viageros del antiquitá, hat
+etablisset contores in li tot Mediterrania. Naturalmen, ili intrat in
+contact con li Grecos per li insules del mare Egeic. Ta, secun li
+historicos, on trova li unesim tracies de ti scritura aportat del
+Fenicianes al Grecos de quel li civilisation esset minu avansat. In li
+insules Thera, Milos, Creta on ha decovrit numerosi inscritiones gravet
+sur petre e queles data del epoca de ti introduction del alfabet in
+Grecia. (It es ver que ti fenician orígine es hodie contestat) . 
+
+ 
+
+-19- 
+
+ 
+
+ 
+
+(Image) 
+
+ 
+
+In li fig. 12 noi da un exemple de ti arcaic scritura ; to es li famosi
+lápid trovat in li [insul de Thera (hodie Santorin). On reconosse tre
+bon li lítteres fenician Rho, Há, Kaf, caracteristic del fenician
+scritura. Ma on constata ja in it un important modification
+: ]{style="font-size:13px;"}[Durant que li Fenicianes scrit sempre de
+dextri a levul quam li altri popules semitic (p. ex. li Judéos) , li
+unesim Grecos ne tardat innovar. Pos har comensat per scrir anc de
+dextri a levul, ili provat li altri direction. On constata in lor
+historie un periode de hesitationes, de quel li lápid de Thera es un
+bell exemple: Li 1-im e 4-im lineas ea de dextri a levul, li 2-im e li
+3-im lineas, in contrari, ea de levul a dextri, li lítteres essente
+tornat in li sam direction. ]{style="font-size:13px;"}
+
+ 
+
+On nu comprende pro quo in nor lítteres quam B, D, R, K, etc. li streca
+vertical es in levul e li altri strecas avansa vers dextri. It es causat
+per li direction del scritura. Li sol exception, J, explica se per su
+recent creation, it ne existet in grec e latin. 
+
+ 
+
+Li Grecos transforma li fenician alfabet. 
+
+ 
+
+Recivente li scritura del Fenicianes, li Grecos fat progressivmen tri
+essential modificationes in it :
+
+ 
+
+\(1) ili adoptet finalmen li direction de levul a dextri ; 
+
+\(2) ili creat li vocales ; 
+
+\(3) ili fat li lítteres vertical. 
+
+ 
+
+Pos li epoca del inscrition de Thera, li Grecos prendet li custom scrir
+alternativmen levul e vers dextri:
+
+ 
+
+\-\-\-\--\>
+
+\<\-\-\-\--
+
+\-\-\-\--\>
+
+ 
+
+Ti disposition, quel fat memorar li sulcas cavat de un plug, esset
+nominat bustrofedon, i.e. reveniente sur su tracie quam li boves
+plugant. 
+
+ 
+
+Ma li bustrofedon presentat li íncomoditá mutar li form del lítteres de
+un linea al altri. Bentost on renunciat a it por adopter un uniform
+direction, de levul a dextri, disposition poy adoptet de omni scrituras
+originat del grec, it es : de omni europan scrituras. 
+
+ 
+
+Li direction vers dextri, quel apare nos li max natural, pro que li
+scritura fat ne es celat del manu quel scri, tamen ne es universal.
+Talmen li hebréic scritura (sam quam li Fenician), li arab, li persan,
+li caldean, li tatar es scrit de dextri a levul. Li chinés e japanés es
+scrit generalmen de supra a infra, durant que ii ancian Mexicanes o
+Aztecos scrit de infra a supra. On vide que chascun direction havet su
+partisanes.
+
+ 
+
+-20-
+
+ 
+
+ 
+
+Li invention del vocales. 
+
+ 
+
+Li Fenicianes ne scrit omni sones de lor lingue, solmen li consonantes,
+ne li vocales. Ma li grec esset un lingue sonori, rich in vocales, it
+aparet índispensabil, por evitar confusiones, scrir anc li vocales, a,
+e, i, o, u, y. Esque on devet inventer nov lítteres por representar les
+? Ples consultar li duesim range de nor sinoptic tabelle por comprender
+qualmen li problema esset soluet. 
+
+ 
+
+Li Fenician alfabet ne possedet vocales, ma esset rich in gutturales e
+demí-vocales, p. ex. Alef, Vau, Hé, Iod, Ain. Pro que ti sones ne
+existet in Grec, li lítteres devenit disponibil. Tande li Grecos havet
+li genial idé adopter les por traducter li 5 vocales. Li Alef devenit A,
+li Hé = E, Iod = I, li Ain = O. 
+
+ 
+
+Poy ili duplicat li Vau fenician, quel esset pronunciat tande quam w
+(anglés), e traet de it li digamma F (pronunciat quam w in Anglés e
+Occidental), poy li Y (pronunciat quam in Occidental), quel ili plazzat
+in li fine del alfabet, quam it dece a un nov-arivat. 
+
+ 
+
+Li fenician Vau nominat se in Grec digamma pro que it simileat a un
+duplic gamma (E) . (Poc a poc it devenit mut in pronunciation e
+desaparit anc ex li scritura. Li son U esset representat in Grec, analog
+quam plu tard in francés, por combinar li lítteres representant li sones
+O e Y.) Li gamma esset, quam monstra nor sinoptic tabelle, li 3-esim
+lítter del alfabet. De gamma ha venit li expression « cruce gammat »
+(format de 4 gammas formant un rote), usat in quelc lingues por li cruce
+Swastika, simbol del sole ascendent e del rote del vive o del
+reincarnationes, in recent témpores adoptet quam emblema del
+national-socialisme. 
+
+ 
+
+Li verticalisation del lítteres.
+
+ 
+
+Transprendente li alfabet del Fenicianes, li Grecos ne solmen completat
+it, ma ili ancor fat li lítteres plu vertical. Por comprender ti
+transformation on deve memorar li gust instinctiv de ti litt popul por
+li artes. Null altri popul possedet plu bon li sensu del ponderation,
+del equilibrie. Li Fenicianes, in contrari, esset plu comerciant quam
+artistic ; por ili it esset un creation essentialmen utilitari ; ili
+traciat li lítteres ínregularimen. 
+
+ 
+
+Li Grecos verticalisat les, dessinat les plu geometric, deprendente
+omnicos quo preterpassat supra e infra. Li comparation inter li 1-esim e
+2-esim linea de nor tabelle sinoptic es instructiv pri to. Li obliqui
+lineas de Alfa, Delta, My, Ny prende nu egal inclination. Poy, durant li
+secules, li barre del Alfa deveni horizontal, li principal streca de
+Gamma, Delta, Epsilon, Iota, Lambda, deveni vertical pos har esset
+obliqui.
+
+ 
+
+Quelc lítteres, quam H, I, S, X, simplifica se. Sol PI (= P) vide su
+gambe alongar se. On divina li cause de to : reerectente Gamma, on fat
+it simil a Pi. Por evitar un confusion, on adjuntet un triesim streca a
+ti ultim lítter, quo dat li pi bon conosset in aritmetica. 
+
+ 
+
+Plu tard Gamma subisset un nov mutation : li cude esset plazzat ye
+demí-altore. Li lítter C, quel li Greco-latines pronunciat Q dur, in
+comensa ha surtit de Gamma per li arondation del lítter. 
+
+ 
+
+-21- 
+
+ 
+
+ 
+
+Li arondation del lítteres.
+
+ 
+
+Quam monstra li ranges 5, 6, 7 de nor tabelle sinoptic, un nov evolution
+evenit in li formes del lítteres durant li grec historie. Antey
+angulosi, li lítteres devenit rond. Li cause de ti arondation esser
+serchat in li natura del instrument usat por scrir. In comensa,
+li [scritura esset gravet in ligne, in petre, sur li monumentes. Ma, in
+un dur materie, it es plu facil graver rect lineas quam curvat tales ;
+de to veni li formes angulosi del primitiv alfabet. Ma li usation del
+cálame sur papire e li necessitá scrir rapidmen ductet li scritores a
+arondar li angules, a vicear les per curves. Por exemple it es plu facil
+traciar li O per un sol curve (C) quam per du rect lineas (\<). Sam
+remarca por D, S, etc.]{style="font-size:13px;"}
+
+ 
+
+Li custom scrir rapidmen ductet anc li Grecos a crear cursiv lítteres,
+analog a nor minuscules e bon conosset hodie, nam ili es constantmen
+usat in scientie : alfa, beta, gamma, etc. Ti cursiv lítteres finalmen
+viceat li lítteres primitiv in li ordinari scritura. 
+
+ 
+
+Por monstrar til quel punctu li natura del instrument influe li form del
+lítteres, on vell posser citar li casu del lingue chinés. Li alfabet
+chinés, quam omni scrituras, comensat per esser dessin, it es per
+representar li object self : Talmen in prim li sole esset figurat [per
+un disco (fig. 14) , li lune un crescent (fig. 16) . Ma li chineses scri
+ne per un plum o per un crayon ma per un pinsel, quel tracia plu
+facilmen rect lineas quam curves. Pro to li chinés scritura, de secul a
+secul, ha devenit sempre plu angulosi. Hodie it traducte
+li ]{style="font-size:13px;"}
+
+idé del sole per li figura 15. e ti del lune per li fig. 17.
+
+ 
+
+On posse do afirmar que li scritura chinés ha evoluet in un direction
+exactemen contrari [a ti del grec scritura, pro li diferentie del
+instrument : de rond it devenit
+angulosi, ]{style="font-size:13px;"}[durant que li greco-roman scritura
+de angulosi devenit rond. ]{style="font-size:13px;"}
+
+ 
+
+Li nov lítteres del grec alfabet. 
+
+ 
+
+Extra li vocales Alfa, Iota, Omicron, Ypsilon, li Grecos creat quelc
+altri signes queles havet un vive plu o minu long, por exemple Phi, Khi,
+Psi, queles servit plu tard a far li roman ciffres D = 500, L = 50, e X
+= 10 (de u venit nor X = 10). Finalmen ili creat O long, [nominat Omega,
+per oposition a O curt, nominat Omicron. Omega esset plazzat in li fine
+del grec alfabet ; De to venit li expression : « li Alfa e Omega »
+significant : « li comensa e li fine ».]{style="font-size:13px;"}
+
+ 
+
+Li Chalcidian. 
+
+ 
+
+On ne deve creder que li grec alfabet evoluet regularimen e simultanmen
+in li tot peninsul, quam sembla far creder nor tabelle sinoptic. In
+realitá existet pluri varietás de alfabetes, quar principal. Ti quel max
+interessa nos es li chalcidian, talmen nominat pro que it esset usat in
+li region de Chalcidia in li insul Euboea. Efectivmen ti 
+
+ 
+
+-22-
+
+ 
+
+ 
+
+alfabet nascentat li alfabet latin, pro circumstanties queles noi va
+studiar in sequent. Ti alfabet dat a Lambda ne li form usual V ma li
+form L, quo explica li orígine de actual L.
+
+ 
+
+Long pos que li hat adoptet li alfabet chalcidian, li Grecos continuat
+usar simultanmen li altri varietás. Solmen in li epoca de Socrates, li
+unitá esset fat in Grecia. In 403 ante J.-C., un decret del popul
+athenian decidet adopter oficialmen li alfabet ionian e bentost omni
+altri grec popules sequet ti exemple. Ma tande li progress del
+instruction causat ti duplication del scritura pri quel noi parlat supra
+: li capital utilisat por li monumentes, e li cursiv por li ordinari
+besones e li libres. 
+
+ 
+
+Li roman alfabet. 
+
+ 
+
+Del VIIIesim al VIesim secul (a.C.), Chalcis in Li insul Euboea esset un
+del max rich cités de Grecia. Precipue de ta departet li unesim grec
+colonies queles venit etablisser se in li Sud de Italia e queles fundat
+inter altri li cité de Cumes proxim Napoli, circum li annu 800 [ante
+J-C. Naturalmen li Chalcidianes aportat con se li grec artes e lor
+particulari sistema de scritura. (Alcun historicos asserte que li
+intermediatores esset li Etruscos). ]{style="font-size:13px;"}
+
+ 
+
+Li Romanes ne adoptet ti alfabet quam it esset ; ili adaptat it a lor
+lingue, lassante cader li signes queles ili judicat ínutil, Theta,
+Omega, Phi, Khi. Pri li altres on va constatar, comparante li lineas 6 e
+7 que ili retrova se in latin sin mult changes, exceptet que Z es viceat
+de G. Ci un explication es necessi.
+
+ 
+
+In li unesim secules del roman historie, li C latin servit traducter li
+son G (= pronunciation guttural) quam fat li grec lítter Gamma de quel
+it veni. Li K traductet li sam son, ma dur, quam ancor hodie. Bentost li
+distintion inter ti du consonantes dur e dulci obscurat se, li C sol
+servit traducter ambi sones (G e K). Poy li Romanes denove sentit li
+beson distinter per scrit inter li du sones K e G. Por expresser li son
+G, ili modificat levimen li C adjuntente a it un litt apendice, poy ili
+serchat un plazza in lor alfabet por metter li nov lítter. 
+
+ 
+
+Ma it existet just un plazza líber inter F e H pro li desaparition de
+Zeta quel esset ínutil al Romanes. On mettet do ta li nov lítter G. 
+
+ 
+
+E pro que li C ne plu servit expresser li C dur, li K heredat del Grecos
+ne plu havet utilitá. Tamen it ne desaparit completmen ; on conservat it
+in li comensa de quelc rar paroles, quam Kalendae, Kaeso, benque li
+grammaticos considerat it quam superflú. 
+
+ 
+
+Pos li conquestation de li Romanes interessat se mult al litteratura de
+ti land. Li grec cultura, plu rafinat quam lor propri, aquisitet un
+grand prestigie in lor ocules. On comensat traducter li ovres grec in
+latin ; li paroles grec invadet li lingue latin. It aparit posser in
+latin li sones v e z. On reprendet tande, in li unesim secul ante J-C.,
+li du grec lítteres eliminat antey, Y e Z, durant que til ti epoca li
+alfabet roman haltat ye X, quel Quintilianus nomina « Li ultim de nor
+lítteres ».
+
+ 
+
+-23-
+
+ 
+
+ 
+
+ 
+
+Li invasion del grec paroles in latin fat ancor necessi li admission de
+Theta e Phi queles li Romanes in comensa hat rejectet. Por evitar li
+introduction de nov lítteres on usat li medie de diagrammas : Theta
+esset traductet per th e Phi per ph (Ex. Theosophie). 
+
+ 
+
+Un altri lítter, P, changeat su form. Remarca que li Romanes hat cludet
+li bucle del Pi chalcidian por far ex it nor P. Ma tande ti líttere
+esset confuset con Rho (= R) ; pro to on decidet modificar ti ultim
+líttere adjuntente a it un obliqui streca, in comensa tre curt, poy
+alongat til li linea de base. Talmen nascet li actual form del R.
+
+ 
+
+Pri li F o Digamma, quel in grec esset pronunciat quam w demí-consonant,
+it prendet li valore del F in latin. 
+
+ 
+
+Li latin alfabet, talmen format, esset composit de 23 lítteres. 3
+lítteres do manca por formar nor alfabet modern. Ti tri lítteres es J, V
+e W, queles esset introductet in un recent epoca. Desde li unesim secul
+ante J-C. til li fine del Medievie, ti alfabet restat sin mutation. 
+
+ 
+
+Influent persones, grammaticos o imperatores provat pluri vezes far
+admisser nov lítteres, ma sin durabil success. Li imperator Claudius,
+por exemple, ordonat li adoption del vertet digamma (image) por
+representar V consonant (in ti epoca V representat li son u), li
+antisigma li son psi e un signe (image) expressent un intermediari son
+inter ü e i. Alcun inscritiones, pervenit til nos, monstra quelc
+exemples u li reform esset aplicat durant quelc témpor. Ma pos li morte
+del imperator, ti lítteres desaparit del alfabet. 
+
+ 
+
+Li proportiones del lítteres roman. 
+
+ 
+
+Assertente que desde li Romanes li form del lítteres ne ha changeat, noi
+deve preciser que li proportion de chascun lítter tamen ha evoluet un
+poc. On va comprender it studiante atentivmen un roman inscrition del
+grand roman epoca, poc exemples ti del trajanic colonne 
+
+(fig. 18) gravet in 114 pos J-C. (altore del lítteres : 12 cm.) 
+
+ 
+
+(Image)
+
+ 
+
+To es li perfect tip del roman scritura monumental. It es interessant
+serchar per quo it difere de nor capital scritura. 
+
+ 
+
+Li modern capital lítteres dessina se presc omnis in un rectangul con
+constant proportiones, generalmen 4 a 3. Ma li Romanes dat a ili tre
+diferent largores. Li C, D, Q, O, Q, esset presc circules o fragmentes
+de circules. In revancha, li E, B, F, P, R, S esset plu strett quam
+hodie. Li Romanes dessinat les con du quadrates superposit ; lor
+proportiones esset do 2 a l.
+
+ 
+
+Li sones V e li U esset scrit sammen ; to es li rason pro quo ancor
+hodie in li monumental inscritiones on scri in imitation del stil roman
+: MVSEVM.
+
+ 
+
+-24-
+
+ 
+
+ 
+
+Ples remarcar anc que li gambes del M es escartat durant que noi tracia
+les hodie vertical. Regardante denov al figura 5 de nor sinoptic
+tabelle, on constata que li Romanes conservat li form recivet del
+Grecos. 
+
+ 
+
+Li monumental latin scritura es ancor caracterisat per li elargation del
+streca in extremitá del gambes. Ti elargation, nominat \'\'apis\'\'
+contribue mult a dar a lítteres ti aspect solid e imposant ; pro to ti
+specie de lítteres es utilisat hodie por li titules. 
+
+ 
+
+Ultim remarca : In li latin inscritiones omni lítteres have li sam
+altore, exceptet li L quel es sovente plu curt o plu long quam li
+altres. 
+
+ 
+
+Li cursiv roman scritura. 
+
+ 
+
+Sam quam li Grecos, anc li Romanes utilisat, apu li capitales, un rapid
+cursiv scritura por li omnidial besones, por exemple por li notation sur
+li tabulette ex cire (li paper ancor ne existet). Ha restat numerosi
+exemples de ti cursiv scritura, specialmen tabulettes de cire [retrovat
+in li ruinas de Pompeii. Noi da in li fig 19 un linea de tal scritura
+con transscrition in modern minuscules. ]{style="font-size:13px;"}
+
+ 
+
+(Fig. 19 Tablette de cire de Pompei: privatus colonorum coloniae vener)
+
+ 
+
+On suposi que ti cursiv scritura esset solmen capital scritura deformat
+per li rapiditá. In it li circules es viceat del rect strecas tre poc
+curvat, nam in li cire li stil tende sempre ear secun rect lineas. Anc
+ta li specie del instrument ha modificat li form del lítteres. 
+
+ 
+
+Tamen ne ex ti scritura surtit nor ordinari scritura. Li evolution ha
+esset plu complicat. Ti orígine deve esser serchat in li capitales
+queles per un lent transformation e passante per li unciale e li
+demí-unciale finalmen nascentat li minuscules queles noi usa hodie. 
+
+ 
+
+Li uncial scritura. 
+
+ 
+
+Durant que su formes manet ínchangeat sur li monumentes, li roman
+capitales evoluet poc a poc in li manuscrites. Sur li petre o metall, u
+on avansa lentmen, li capitales con rect lineas es in fact facil a
+graver ; ma sur un materie plu tendri u on avansa rapidmen per li [medie
+de un plum (cálame) , it es avantagiosi arondar li angules. Noi ja
+constatat it parlante pri li evolution del grec
+scritura. ]{style="font-size:13px;"}
+
+ 
+
+Noi mey prender un exemple : Por traciar li capital líttere E, on ne
+besona minu quam quar strecas de plum, quo postula tro long témpor.
+(Fig. 20). 
+
+ 
+
+Instinctivmen li scritor sercha simplificar it traciante per sol colp de
+plum li vertical e li superiori e inferiori strecas (fig. 21). Finalmen
+pro que li cudes alenta ancor tro li movement, on aronda plu e plu li 
+
+ 
+
+-25-
+
+ 
+
+ 
+
+angules superiori e inferiori e on obtene tot naturalmen li fig. 22. 
+
+ 
+
+(Francés: Evolution du E, Evolution du H)
+
+ 
+
+Talmen ha esset creat li scritura nominat unciale quel apari circum li
+IV secul. Plu tard ancor on ha format li \'\'e\'\' per un sol streca de
+plum e on creat li \'\'e\'\' minuscul del fig. 23. Sam evolution por li
+H (fig. 24-29), li A, li V, etc. 
+
+ 
+
+Ples remarcar passante que si li U vicea li V in li unciale, to ne
+significa que evenit un change de pronunciation. Li U continua traducter
+quam li V li sones V e U. Li du lítteres va esser distintet solmen plu
+tard. 
+
+ 
+
+Li unciale difere del capitale solmen per li form arondat del lítteres
+indicat in grass in nor fig. 9. In li lítteres conservant li sam form,
+alcun vertical strecas comensa preterpassar li trunc del scritura, supra
+e infra, por exemple D, G, H, P, G. Li unciale constituet do un unesim
+passu vers li creation del minuscules. 
+
+ 
+
+(Fig. 30 - Onciale VI\' Siècle - Nemo enim vult esse freniticus etiam si
+videat frenetici vires\...)
+
+ 
+
+On ha serchat saver de u proveni ti término de unciale quel caracterisa
+ti scritura. In li antiquité li \'\'uncie\'\' esset li deciduesim parte
+del pede (circa 3 cm). On crede do que ti término de unciale servit a
+designar lítteres de grand dimensiones, in oposition al current
+scritura. Tamen li caracteristica del unciale ne trova se in li altore
+ma in li arondat form de un decene de lítteres queles esset angulosi in
+li capital alfabet. 
+
+ 
+
+(Fig. 31 - Onciale - Bible (Codex Amiontinus) \-- et ipse stabat secus
+stagnum genesareth et vidit duas naves stantes secus stagnum)
+
+ 
+
+Del IV-im al VII-im secules, presc omni libres esset scrit in unciale,
+si ne in un mixtura de lítteres uncial e capital. Inplu, li constant
+usation del célame causat li diferentiation del strecas in larg e strett
+lineas. 
+
+ 
+
+-26-
+
+ 
+
+ 
+
+Li demí-unciale.
+
+ 
+
+Li tendentie del unciale a prolongar li verticales supra e infra del
+lítteres por facilisar li letura e a traciar tis ci per un sol streca
+por scrir les plu rapidmen causat li creation del scritura nominat
+demí---unciale, quel esset usat del VI. al VIII. secul, just ante li
+reform de Carolus Magnus, de u su nómine de pre-carolin quel on da it
+quelc vezes. 
+
+ 
+
+(Fig. 32 - Demi-onciale - Commencement du IXe s. \-- Ubi oleum sub eius
+benedictione crevit et ampulla cum oleo)
+
+ 
+
+Comparante li lineas 9 e 10 del sinoptic tabelle, on vide li
+transformation finit : li demí-unciale ha creat li minuscules. Li formes
+es presc tis de nor minuscul alfabet actual, exceptet li t, de quel li
+cap ancor ne súpera li trunc del scritura, e li n, quel conserva su form
+de capitale. Ti superviventie del majuscul es sin dúbit al necessitá
+evitar li confusion con li r de quel li duesim streca esset in ti epoca
+tre alongat. 
+
+ 
+
+Li minuscules do ne esset creat per un sol colp ; ili resulta de un lent
+evolution quel ea del III-esim al VI-esim secul pos J.-C. 
+
+ 
+
+Pro quo minuscules es plu usat quam li capitales? 
+
+ 
+
+To veni ne solmen pro que ili es plu simplic e plu rapidmen scrit. In li
+printerías, it ne es plu long composir textus per capitales quam per
+minuscules. Ti preferentie es debit a un rason plu grav : si vu mette
+vis-a-vis du textus printat de sam grandore, li un in majuscules, li
+altri in minuscules, vu va constatar que li duesim es mult plu leibil.
+Li gambes queles surti supra e infra del trunc es quasi brasses queles
+signala li presentie de un cert lítter e permisse reconosser plu
+facilmen li paroles. Pro to li capitales ne plu es utilisat in nor dies
+exceptet por li titules in gross lítteres o por li propri nómines. 
+
+ 
+
+Li separation del paroles. 
+
+ 
+
+Li exemples de greco-latin textus queles noi da, monstra que in li
+antiquitá on scrit max sovente sin separar li paroles, quo esset tre
+genant por li letura. De altri láter, li lítteres de chascun parol ne
+esset interlineat quam hodie, mem ne in li cursiv (fig. 30). Poc a poc
+li scritores ligat li lítteres por ne esser obligat interrupter li
+streca de [plum. Li ligaturas ha mult contribuet a modificar li form del
+lítteres e a crear li minuscules. ]{style="font-size:13px;"}
+
+ 
+
+Li national scrituras.
+
+ 
+
+In omni landes submisset del Romanes, li scritura latin expandet se in
+sam témpor quam li lingue latin. Ma pos li invasion del Barbares e li
+disruption del roman Imperia in índependent nationes, li latin scritura
+transforma in tam mult national scrituras, adver ne tre 
+
+ 
+
+-27-
+
+ 
+
+ 
+
+diferent. Sur li continente li demí-unciale nascentat li lombardic
+scritura in Italia, li wisigotic in Hispania, li merovingian in
+Francia. 
+
+ 
+
+Li wisigotic scritura aparit in li VIII e desaparit in li XII secul, pro
+li penetration del carolin scritura pri quel noi va parlar in sequent.
+Secun li exemple quel noi da in li fig. 33 con transscrition in modern
+minuscules, on vide que poc lítteres esset diferent de tis del
+demí-unciale ; li \'\'a\'\' es scrit quam c, li \'\'t\'\' quam a, li
+\'\'s\'\' quam f. 
+
+ 
+
+(Fig. 33 Écriture Wisigothique 919 - Tunc astacius comes. Iussit eum
+capite plecti: quuq (= quumquei) decollatus esset)
+
+ 
+
+Li scritura carolin chassat progressivmen li wisigotic, unesimmen in li
+nord, mersí al monacos quel li celebri abatia de Cluny in Francia hat
+inviat in li altri láter del Pirenés. 
+
+ 
+
+Li merovingian scritura es caracterisat precipue per li a quel es scrit
+cc e per li u quel es scrit presc quam un a, in li majuscules quam in li
+minuscules. 
+
+ 
+
+Li lombardic scritura es li scritura del Italianes del IX-esim til li
+XIII-im secules. It reyet principalmen in li Sud del peninsul u it esset
+expandet del monacos del Monte Cassini proxim Napoli e tis de La Cava
+proxim Salerna.
+
+ 
+
+(Fig. 34 Écriture lombardique: In sanguine suo\' et fecit nrm (=
+nostrum) regnum sacerdotes do (=deo) et patri suo. ipsi gla)
+
+ 
+
+In li nord, li domination de Carolus Magnus fat preferer li carolin
+scritura. - In li lombardic scritura, li caracteristic lítteres es li
+\'\'a\'\' quel es scrit quam cc e li \'\'t\'\' quel es scrit quam un a
+prolongat per un horizontal streca in li angul superiori. In fine, li
+lombardic prendet un special aspect, quam monstra li fig. 34. Usante un
+larg plum, tenet con li manu ad-extra, on dat li max grand largore al
+strecas obliqui durant que li vertical gambes es strangulat in lor
+medie. De to resulta un tre bell aspect ornamental, ma anc un leibilitá
+reductet. 
+
+ 
+
+Li reform de Carolus Magnus. 
+
+ 
+
+Carolus Magnus esset un calid partisan del developament del instruction.
+IIlcreat numerosi scoles e un movement de renovation del artes e del
+litteratura. In consequentie li arte scrir, quel esset in plen
+decadentie, prendet un nov elan. Li abatia de Tours in li annu 800,
+developat un grand activitá in ti dominia e creat un nov form de
+scritura
+
+ 
+
+-28- 
+
+ 
+
+ 
+
+nominat carolin. In it li V es sempre scrit U, quam in unciale, ma li a
+prende finalmen li form \'\'a\'\' e plu ne \'\'cc\'\'. 
+
+ 
+
+Li gotic scritura o Fractura.
+
+ 
+
+Li término « gotic » aplicat al scritura e al architectura es absolutmen
+fals. It es debit al Italianes del Renascentie por queles omnicos
+venient del Nord esset barbaric o « gotic », mem si li gotic popul ne
+esset concernet. In fact li scritura del Gotes, conosset sub li nómin «
+runes », esset totalmen diferent del scritura nominat « gotic ». 
+
+ 
+
+(Fig. 35)
+
+ 
+
+Durant li medievie li latin alfabet expandet se lentmen in li tot Europa
+mersí al prestigie del lingue e del civilisation latin. It finalmen
+viceat completmen li particulari scrituras del barbares, mem in li
+landes scandinav (dan, sved, norvegian) e in li landes germanic (anglés,
+hollandés, german) de queles li lingues esset tamen foren al latin. It
+ha mem intrudet se al lingues completmen extra li familie indo-europan,
+quam li hungarian (madyar) e li basc (e recentmen mem al turc). 
+
+ 
+
+Pos li XII secul, li latin caracteres devenit plu angulosi, sin dúbit
+sub li influentie del architectura gotic in quel dominat li verticale.
+Ti gotic scritura durat tam long quam li architectura de sam nómin, til
+li XV secul u it esset viceat del cursiv o italic. It ancor dominat in
+Germania quande li printation esset inventet ; li unesim caracteres de
+printería esset do gravet in gotic e li unesim libres difuset ti génere
+de scritura in li de lingue german. On posse dir que li printeríe ha
+fixat in Germania li gotic scritura. Ma pro que li gotic es solmen un
+deformation general del latin scritura ye un cert epoca, it ne
+existe [rasones considerar it quam un scritura specialmen « german
+».]{style="font-size:13px;"}
+
+ 
+
+Li gotic scritura del medievie ne havet proportiones e formes tam rigid
+quam li gotic docet hodie in li scoles. In realitá, it mult variat e ti
+variationes es tre preciosi por li archeolog e li historico a queles ili
+permisse determinar li date de un in un maniere sat precis. 
+
+ 
+
+-29-
+
+ 
+
+ 
+
+ 
+
+Por exemple li gotic del XV-esim secul es plu strett quam ti del XIV, e
+li vertical strecas dómina tant que it es tre desfacil distinter li
+lítteres. 
+
+ 
+
+In omni casu li gotic majuscules del medievie esset mult plu simplic e
+plu bell (vide fig. 35) quam li formes ínutilmen complicat trovabil in
+omni manuales de calligrafie e queles es imitat de un gotic scritura
+decadent del XVI secul ! Noi va citar inter altris li lítter E [quel in
+li gotic scritura del bell epoca es format de un C e de un verticale
+ligat de un barre transversal ; li M quel similat a un O reposant sur un
+barre horizontal e separat in du partes per un linea vertical ; li H e
+li N, de quel li duesim gambe esset format in fine quam un
+croc. ]{style="font-size:13px;"}
+
+ 
+
+Li scritura del Renascentie.
+
+ 
+
+In li fine del XV-esim secul, sub li influentie del humanistes, on
+abandonat li gotic scritura por reprender li arondat demí-unciale plu
+leibil e plu conform al gustes latin. Li reform esset propagat
+principalmen de un Italiano nominat Aldo Manuce (1449-1515), pro to
+li [nov scritura esset nominat italic. Manuce fat graver li caracteres
+per li juvelero Francia, secun li scritura de
+Petrarca. ]{style="font-size:13px;"}
+
+ 
+
+Li scritura nominat « anglés » in li scoles de lingue francés ne es
+altricos quam li italic tal, ornat del gravores amant li jolli curves.
+Li término « anglés » es do ínexact, ma pro que li usage vole que on
+nomina « italic » li scritura inclinat in li printation (in landes de
+lingue francés), on esset obligat serchar un altri nómin. 
+
+ 
+
+Li difusion del printeríe havet un felici influentie sur li manuscrit
+scritura quel devenit plu leibil in li XVII-esim secul.
+
+ 
+
+Li 3 ultim lítteres in nor scritura : 
+
+ 
+
+Noi videt in li fig. 7 que li alfabet latin havet solmen 23 lítteres :
+ABCDEFGHIKLMNOPQRSTVXYZ. Li J e li I esset un sol lítter I, scrit
+quelcvez J. Adplu, pos har longmen representat li consonante V e li
+vocale U per li sam form angulosi V, li Latines [arondat li lítter desde
+li fine del II-esim secul a U. In li XI-esim secul, li form angulosi
+reaparit e por li consonant e por li vocale. ]{style="font-size:13px;"}
+
+ 
+
+Ancor in li XVI-esim secul, on usat alternativmen I e J, poy U e V por
+sones queles on distintet tre bon in li parlada, e on scrit por exemple
+in francés auec, avra, jl, jnutile, etc. por avec, aura, il, inutile. Ja
+in 1530 un francés grammatico hat proposit atribuer un líttere a un son
+determinat, por far cessar ti confusion. Ma solmen in 1762 li
+lexico [del francés Academie admisset ti reform in li 4-esim edition de
+su dictionarium. ]{style="font-size:13px;"}
+
+ 
+
+Li W es un líttere foren al latin alfabet. It veni de nordic landes. On
+admisset it in li romanic lingues por posser ortografiar li paroles de
+germanic orígine, quam William, wagon, etc. On memora que li sam casu
+hat presentat se in latin con Y e Z queles esset admisset in ti lingue
+por posser ortografiar li paroles venient del grec. 
+
+ 
+
+-30-
+
+ 
+
+ 
+
+L punctu sur li I.
+
+ 
+
+In comensa, li Grecos representat li son I per un streca in zigzag (fig.
+2), heredat del Fenicianes. Desde que ili fat it rect, li lítter ne ha
+mutat su form, exceptet que on adjuntet un punctu. Ti punctu quel ne
+existet in li antiquitá, origina del epoca u on adoptet li gotic
+scritura in quel pluri lítteres havet gambes de sam formes. Por
+distinter du I successiv de un u, on mettet sur it un accentu e on scrit
+thesauraríí, filíí. In li XV-esim secul, li accentu esset viceat per un
+simplic punctu. Durant long témpor anc y esset accentuat, poy ti custom
+extintet. 
+
+ 
+
+Quande in li XVII secul, on creat li J modificante levimen li I, on
+plazzat sur it anc un punctu, pro analogie. Tamen ti punctu ne esset
+índispensabil pro que null confusion esset possibil inter du J e un
+altri líttere. Li analogie ci ha esset plu fort quam li lege del minimal
+efortie. 
+
+ 
+
+Li punctuation (interpunctuation).
+
+ 
+
+Li punctuation esset admisset e regularisat long pos li nascentie del
+scritura. Ancor in li antiquitá e in medievie on ne separat li paroles,
+quo fat tre desfacil li letion de textus. Cert autores scrit per verses
+por dar un poc de claritá in lor textus, ma generalmen li punctuation es
+absent in ili. 
+
+ 
+
+Li unesim sistema de punctuation esset inventet circum li annu 200 ante
+J.-C. per li grammatico Aristophanes de Byzanz. Li plazza del punctu
+constituet li principie de it, de u li parol punctuation. Plazzat in
+infra, li punctu indicat un litt pause (hodie on vell metter un comma) ;
+in li medie del linea it indicat un pause plu long (= punctu-comma
+(semicolon) hodie). In fine on plazzat it in supra quande li frase esset
+finit (= un punctu hodie). 
+
+ 
+
+In li curs del secules ti metode ha constantmen variat, e li historicos
+basa se sovente sur li punctuation de un manuscrit por determinar li
+epoca de it. In li comensa del secules del Era Cristian, por exemple, on
+usat li punctu sive unic, sive duplic, triplic, o quadriplic, disposit
+in pluri manieres. Por marcar plu bon li fine del frases, li principal
+separation, on usat figuras plu frappant, p. ex. cordies, rosettes,
+folies, etc. 
+
+ 
+
+In medievie, li punctu es viceat per un specie de 7 ; in li XI secul per
+li arab cifre 5. 
+
+ 
+
+Li comma aparit solmen li IV-esim secul pos J.-C. ; unesimmen it servit
+solmen a marcar li erras. Li parol francés « virgule », veni del latin «
+virgula » significant « litt flagell ». Esque to ne es deliciosi ironie
+! 
+
+ 
+
+Desde li XIII-esim secul, li regules del punctuation es plu e plu
+negliget ; ili comensa esser fixat solmen in li XV-esim, ye li invention
+del printeríe, e li unesim printeros punctuat sovente sin metode. 
+
+ 
+
+Punctu de interrogation. 
+
+ 
+
+Por marcar li interrogation, li grecos usat li punctu-comma ; li Latinos
+adoptet ti signe por marcar un medial pause, it es in li sam casu quam
+hodie; poy, mettende li comma sur li punctu (!), ili creat li punctu de
+interrogation (?).
+
+ 
+
+-31-
+
+ 
+
+ 
+
+Li ciffres roman.
+
+ 
+
+Du species de cifres es usat hodie simultanmen : li ciffres arab in
+aritmetica, e li ciffres roman in cert numerotationes (p. ex. secules,
+cloccas, reyes, etc.) Durant que li roman ciffres ha esset usat
+constantmen del antiquité, li cifres arab esset introductet in Europa in
+li X-esim secul. 
+
+ 
+
+In comensa on vell creder que li essential signes del roman
+numerotationes I, V, X, L, C, D, M, es omnes traet del lítteres. To es
+ver solmen por C e M queles es vermen li iniciales de Cent e Mill.
+Concernent li altri signes, on deve revenir al sinoptic tabelle por
+comprender lor orígine. Quam on constata in li fig. 7, li Romanes hat
+renunciat a pluri lítteres del alfabet grec, specialmen al aspirates
+chalcidian Theta, Phi e Khi. Sam quam li Grecos hat atribuet un nov
+signification, ti de vocales, a ti lítteres fenician queles ili ne
+besonat, [sammen li Romanes utilisat li tri chalcidian aspirates por un
+nov scope. ]{style="font-size:13px;"}
+
+ 
+
+Li scientistes es presc cert que primitivmen li signe de Khi servit
+representar 100 in latin, e Phi 1000, e que plu tard on preferet li
+iniciales de Centum e Mille. Tamen on continuat usar li dextri demí de
+Phi (= D) por indicar li demí de 1000, it es 500 ; durant que Psi,
+adoptet por 100, prendet li form \_\|\_, perdit su demí de levul por
+significar L = 50, quo ha restat. 
+
+ 
+
+Pri X significant 10, on crede que su orígine es etrusc ; it es probabil
+que li Romanes adoptet su superiori demí por representar li demí de 10,
+it es 5. 
+
+ 
+
+Li oiffres arab. 
+
+ 
+
+It es un erra nominar les arabe In realitá ili esset creat del Hindus.
+Li Arabes ha solmen transmisset les al Cristianes, in li X-esim secul,
+con lor scientie matematic quel havet un grand avansa sur ti del altri
+popules. 
+
+ 
+
+Li null (zero) esset inventet solmen plu tard, in li XII-esim secul, e
+tamen it dat su nómin al totalité del signes. Li parol « ciffre » veni
+efectivmen de ciffra, o zifra (sifr), quo significa \'\'null\'\' in
+arab. 
+
+ 
+
+Long pos li adoption del ciffres arab per li matematicos, li popul
+continuat usar li roman ciffres por li calculation. On deve atender til
+li XV-esim secul por vider li usage del ciffres arab devenir populari. 
+
+ 
+
+Al Hindus on debi ne solmen li invention del cifres ma anc ti del
+decimal sistema quel Schleger considera quam li max important del homan
+decovritiones pos li invention del lítteres. On trova li ciffres usat in
+li edictes del rey Açoka, 256 annus ante J.-C. On atribue finalmen al
+Hindu Bhaskara li idé plazzar li numerator del fractiones súper
+li [denominator. ]{style="font-size:13px;"}
+
+ 
+
+(Ex li libre « Manuel d\'écriture » (Payot, Lausanne 1937) de prof. R.
+BERGER. Traduction ex francés del autor.) 
+
+ 
+
+N.-B. --- Li titules del figuras es in francés proque ili apartene al
+clichés del original textu. 
+
+ 
+
+-32- 
+
+ 
+:::

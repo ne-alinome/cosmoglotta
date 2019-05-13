@@ -1,0 +1,1693 @@
+Cosmoglotta A 133 (apr 1947)
+============================
+
+\
+
+::: {#displaycontent}
+Annu XXVI    April 1947    No 1 (133)
+
+ 
+
+COSMOGLOTTA
+
+ 
+
+CONTENETE: Martinet A.: Li lingue de IALA. - Waringhien G. : Un lettre.
+- Tambures de Africa. - Berger R.: Li Neo-latin. - Gilbert W. : Quel es
+li max facil lingue auxiliari. - Cortinas A.E.: Li incarcerat princessa.
+- Littlewood H. : Li scientie e li verge divinatori. - Berger R.: Li
+Moral Rearmament. - Sauvageot A.: Li scole del norvegian paisane. -
+Diverses.
+
+\-\-\-\-\--
+
+ 
+
+LI LINGUE DE IALA
+
+ 
+
+(Comunication fat in li Radio sur li parisan caten, de Professor André
+Martinet li 10 februar 1947, ye 13 h. 35 trad. ex francesi.)
+
+ 
+
+Ante 20 annus esset fundat un association por li studie del question del
+lingue international auxiliari. Ti association, nominat generalmen IALA
+(del iniciales del anglesi paroles « International Auxiliary Language
+Association ») have su sede in New-York. Li fundatores de IALA opinet
+que li homanité besona un lingue neutral quel mey esser li instrument de
+nequel imperialisme e quel deve posser leer, comprender, scrir e parlar
+omni person de quel li horizonte ne es limitat per li frontieres de su
+land natal. In un spíritu de absolut ínpartialitá, li Association
+informat se pri li possibilitás ofertat del lingues auxiliari existent.
+Pos pluri annus, it ha arivat al conviction que nequel inter ili posse
+esperar posser imposir se al munde quam lingue general de
+intercomunication. Chascun ha presentat, in li movent de su aparition,
+un progresse sentibil sur su predecessores, ma omnes posse ancor esser
+largmen ameliorat. Nequel have, hodie, un difusion suficent por que on
+posse hesitar reprender li problema si on posse esperar far plu bon quam
+to quo existe.
+
+ 
+
+(image: Mrs Morris, fundatora de IALA)
+
+ 
+
+Quande on studia li historie del lingues constructet, on percepte que
+solmen tis havet un cert successe, queles savet reducter li parte de lu
+arbitrari por inspirar se del existent realitás. Un lingue vermen
+international va dever pruntar omni su elementes al international
+vocabularium, it es al totalité del paroles queles, con formes poc
+diferent, es comun al grand lingues de Europa, medies actual de
+expression de nor civilisaation.
+
+ 
+
+In ti conditiones, IALA decidet proceder al extration de ti
+international vocabularium. Ti labor, quel veni a su fine, ha liverat un
+enorm summa de materies quel it es possibil organisar in un lingue tre
+manuabil e utilisabil in omni in omni dominias del practica e del
+pensada.
+
+ 
+
+Concernent li presentation de ti materies, IALA ha retenet til hodie
+pluri diferent solutiones. Talmen que su lingue presenta se actualmen
+sub li forme de pluri modelles quel difere in detallies. Ta u un modelle
+di \"un conditione favorabile\", un altri va haver \"un condition
+favorabil\" e un triesim \"un konditiono favorable\". IALA va bentost
+efecter, che li international publica, sondages queles va permisser a it
+determinar quel de su modelles es capabil reciver li max mult sufragies.
+Tande it va restar solmen a fixar li definitiv forme del lingue, e a
+publicar manuales e dictionariums.
+
+ 
+
+-1-
+
+ 
+
+Ti lingue va esser facil, ne pro que su vocabularium va esser
+squelettic, ma pro que it va utilisar in maximum li paroles queles omni
+homes un poc cultivat conosse, quelcunc mey esser li nation a quel ili
+apartene. It va esser facil pro que it ne va contener sones rar o
+desfacil, pro que su grammatica va haver nequel subtilitás queles
+incombra ancor tant mult li lingues constructet sin permisser a ti quel
+parla les, nuanciar utilmen su pensada.
+
+ 
+
+It va haver li grand avantage practic esser ínmediatmen utilisabil nam,
+sub su forme scrit, e mem parlat, it va esser comprendet practicmen sin
+anterior studie del instructet homes in li max diversi landes.
+
+ 
+
+Vi quelc frases in un del modelles del lingue de IALA:
+
+ 
+
+« IALA es un association fundat per studiar le question del lingue
+international. Su collaboratores labora in New-York per crear un nove
+lingue. On pote sperar que este lingue va devenir le secunde idioma del
+homes cultivat de omni nationes. »
+
+ 
+
+ANDRÉ MARTINET.
+
+ 
+
+Nota del redaction. Noi nota con satisfation que li lingue in favore che
+IALA simila sempre plu\... Occidental, con tre poc diferenties in li
+selection del radicas. Noi fa memorar que li verbe poter (vice nor
+posser) esset usat de de Wahl in su unesim projecte Auli, ma esset
+bentost abandonat pro que su participie present potent significa in sam
+témpor F pouvent e puissant, D könnend e mächtig, du notionel queles un
+lingue international ne posse confuser. Pro to de Wahl preferet adopter
+du radicas diferent: poss/er, de quel es derivat poss/ibil,
+poss/ibil/itá, ín/poss/ibil, etc., poy potent, quel forma potent/ie (F.
+puissance), potent/i/al/e, ín/potent, ín/potent/ie.
+
+ 
+
+Un altri parol este (in Occ.: ti) es in facte natural, ma regretabilmen
+in audition posse esser comprendet es te (= a te). Just pro to, li
+pluparte del projectes de LI preferet iste. LI parol Occ. ti have li
+avantage far memorar (e ancor plu per su plurale) li demonstratives
+anglesi this e german dies(e). It es bon egardar li naturalitá, ma
+sovente altri considerationes interveni, por exemple li necessitá
+impedir confusiones.    RIC BERGER.
+
+\-\-\-\-\-\-\-\-\--
+
+ 
+
+LI FORMES DEL PLURALE IN LI LINGUES INTERNATIONAL
+
+ 
+
+Secun li revúe Mondi-linguo, vi quelc precisiones pri ti punctu
+grammatical:
+
+ 
+
+1° Li finale -aj, -oj de Esperanto ha esset evidentmen pruntat del
+classic grec; on incontra it in nequel modern lingue.
+
+ 
+
+2° Li finale -i de Idiom Neutral e de Ido es sat international. It es
+comun, in practica, a omni idiomas del Oriental Europa, a italian e al
+modern grec, e de rumanian til russ.
+
+ 
+
+3° Li finale -n de Unilingue, de Antido e de Nov-Esperanto posse invocar
+un universal usa: it ea de septentrional e central Europa til diferent
+dialectes arab, persan e hindustan; on trova it \*sporadicmen\* in
+anglesi. LI plurale sanscrit fini per -ni.
+
+ 
+
+4° Li finale -s, -as es tre ancian e es comun a omni arian classic
+lingues; it es usat del litorale de west-Europa til Australia; it es
+pan-Atlantic e exclusivmen pan-american. It es ordinari in anglesi,
+hispan, francesi, portugalesi. Nederlandesi anc conosse it. Modificat (o
+viceat)  in russ, on incontra it egalmen in german e in scandinav
+lingues.
+
+ 
+
+Ti finale -s, quam marca del plurale, es usat in Volapük, Mundilingue,
+Latino sine flexione, Romanal, Occidental, Medial, Monario, Novilatin,
+Mundilatin, Novial, Mundi-linguo.
+
+ 
+
+Exb li revúe l\'Unique, trad. ex francesi J. ROUX (Francia).
+
+ 
+
+-2-
+
+ 
+
+UN LETTRE DE Sr. WARINGHIEN
+
+ 
+
+Tours, li 23 Januar 1947.
+
+ 
+
+Car senior,
+
+ 
+
+Yo mersia vos vivmen del articul tam cortesi e tam pertinent, quel vu ha
+dedicat a mi micri brochura.
+
+ 
+
+Yo ci ne vole responder a criticas tot natural del látere de un
+occidentalist: in céteri, yo have li impression, que mem si noi concorda
+pri li detallies, noi ne regarda li factes del sam vispunctu.
+
+ 
+
+Yo permisse támen a me inviar vos, con petida de insertion, du
+rectificationes, quel sembla me important: nam yo ha sempre prescrit a
+me self far citationes li max honestmen exact quam possibil.
+
+ 
+
+1° Vu di: « li linguist Meillet, quel Sr. W. sempre invoca in su
+demonstrationes. » Nu, yo ha fat solmen un citation de Meillet (p. 60),
+e it concerne li latin!
+
+ 
+
+2° Vu contesta, que li citat frase de Sr. de Wahl posse haver du senses.
+Si yo bon comprendet vor rasonament, it sembla, que on deve leer in vor
+articul: « in Occidental it have solmen li duesim sense », vice « li
+unesim », i.e. in Occidental li verbe abuser have solmen li sense de far
+abuse de (« quam monstra bon li altri paroles del sam familie abuse,
+abusiv e li etimologie: usar\... con excesse »), e li frase significa in
+francesi: Mr R. O. abuse de l\'idée que seul le latin est international.
+
+ 
+
+Nu, lu max comic, quam di suavimen Sr. Matejka in su remarca, es que
+ti-ci, in su excellent vocabularium Occidental-Deutsch, da al verbe
+abuser li sol sense, quel vu refusa a it (« täuschen, hintergehen » =
+dupar), e que ti sense es just li signification, quel it have in li
+frase de Sr. de Wahl: « l\'idée que le latin est international abuse Mr
+R.O. » - quam vu va vider, si vu va leer li contextu (Cosmoglotta VI, N°
+39, p. 27, lin. 12). Mi exemple es dunc li « fals » ni « ínexact »; li
+frase de Sr. de Wahl ne es dunc « perfectmen clar », pro que un tam
+expert linguist (Red. !) quam vu ha fat contrasense pri it. Quod erat
+demonstrandum.
+
+ 
+
+Con mi anticipat mersi,    G. WARINGHIEN.
+
+ 
+
+Ti lettre, quel Sr. Waringhien scrit nos in Occidental (e quasi sin
+erras!) subleva un interessant problema lexicologic. It acte se pri un
+parol prefixat per ab- e havent dunc primitivmen, li sense de un «
+deviation », poy un translatet sense, ti de « dupar ». Ti duesim sense
+es hodie plu ordinari, ma regretabilmen existe un derivate
+international: abusiv, quel concerne preferetmen li unesim sense, plu
+quam ti de « dupativ ». It es exact que li dictionarium Matejka, e
+probabilmen de Wahl anc, accepta li unesim signification, e pro to Sr.
+Waringhien es rect. Yo mersia le har signalat me ti casu curiosi, ma yo
+fa remarcar le que ti constatation nequant justifica, quam il credet, li
+necessitá de un acusative, nam on ne etablisse un regul tam íntolerabil
+quam li acusative obligatori por li simplic plesura evitar duplicitá de
+sense in un sol parol, quande it es plu simplic preciser ti sense in un
+vocabularium. E si Sr. Waringhien opine que per li contextu li frase de
+de Wahl have solmen li unesim sense, tande ti acusative resta ancor plu
+superflú. Ta existe ne un problema grammatical ma de vocabul: it es
+fixar un sol signification al verbe abusar, forsan adoptente abuser por
+li notion usar con excesse por posser retrovar li derivate abus/iv, e
+adoptente abusar por li altri sense de dupar. Noi submisse li question
+al judica del Academie de Occidental.
+
+ 
+
+In un apart lettre, Sr. Waringhien questione me pro quo de Wahl ne
+adoptet li serie men, ten, sen, por F. mon, ton, son. Sr. We. mey
+excusar me, ma si yo reprochat le dar in su brochura fantastic
+explicationes pri li selection del formes in Esperanto yo ne intente far
+li sam erra furniente imaginari argumentes de E. de Wahl pri li
+vocabularium de Occidental! Pro que Sr. de Wahl es felicimen ancor
+vivent il mey scrir le directmen por obtener li ver explication, nam,
+quam di li proverbie, it es plu bon adressar se a Deo quam a su santos! 
+  RIC BERGER.
+
+ 
+
+-3-
+
+ 
+
+ 
+
+TAMBURES DE AFRICA
+
+ 
+
+Súper tenebrosi Africa rula li sones del signal-tambures, quelcvez surd
+e pesant, repercussente se contra montes e forestes virginal, quelcvez
+levi e apen audibil in proximitá de lor fonte. « Bu-um, tep, bu-u-um » -
+percurrente enorm distanties, ili porta novas de diversi specie, de
+nascentie e morte, de chasse e festas e guerre e to probabilmen ja desde
+millenes de annus. Quande on audi les in un clar e ardent nocte,
+contemplante li nigri ciel trasemat de stelles, e li ancor plu nigri
+terra extendente se sub it, ili apare enigmatic e misteriosi quam li
+tenebrosi e misteriosi continente nigri self; misteriosi quam li ritme e
+li pulsationes del vive in li foreste african, ili supervive in li
+memorie ancor mult annus pos que tant mult altri sones e images del
+nigri continente ha definitivmen evanescet.
+
+ 
+
+Ma ti aureol ne es completmen meritet. Necú in li munde, homes primitiv
+ha realmen sentit alquel desfacilitá difuser simplic novas med un
+simplic code intra limitat regiones. Li max grand miracul de ti
+signal-tambures es que ili ha preterpassat li lingual confines african,
+que ci negros ha creat un specie de lingue universal, subdividet in
+code-sones e que talmen ili successa transmisser un nova in un sol die e
+quelcvez mem in poc hores sur distanties de centenes de milies. Null
+village african es tro lontan por que tá li signal-tambur ne mey esser
+usat e comprendet. It sembla exister un tambur-lingue conosset solmen
+del max habil negro-telegrafistes de omni rasses del continente. It es
+un real lingue, nam li tambures realmen parla. Ili ne transmisse
+punctu-strec signes queles on vell posser assimilar a telegrafie.
+
+ 
+
+Marvelosi ili es sovente, ti tambures. It existe tales havent un longore
+de 3 metres e un diametre de plu quam un metre, format ex un sol e unic
+pezze de arbor-trunc excavat del interiori tra un fensura ne plu larg
+quam 2-3 centimetres. Exteriorimen ti tambures max sovente have li
+aspecte de horribil idole, richmen sculptet in ligne. Tal tambures
+apartene generalmen al chef de tribe e ili es conservat in un loc
+special. Li mann quel usa it ne have un altri tache, ma ti-ci es anc
+suficentmen absorptent. IL deve ne solmen haver un grand rutine in li
+usa de un instrument tre particulari, ma il anc deve conosser li «
+tamburlingue-nómines » de coses e homes, nómines queles es tabú por
+alquel altri usa. Li signalero senti se protectet per su professional
+habilitá. Il ne es facilmen remplazzabil e a un signalero minu exercit
+un litt erra posse custar cap o manus.
+
+ 
+
+Talmen li tambures transmisse paroles e mem complet frases per un sol
+signale, nam li son-altore da a mult paroles un diferent sense. In un
+cadentie quel have null signification por oreles europan li sones del
+tambures burdona súper Africa, alt, bass, quelcvez raslant, quelcvez
+tonnerant, quelcvez staccato, quelcvez prolongat. Ili comensa lontan in
+li trement calmie, propaga se rulante, evanesce, augmenta denov, deveni
+plu sonori e es talmen captet e retransmisset de village a village. E
+secun quant ili alontana se, lor sonoritá gradualmen diminua e dissolue
+se in nequó. Ma intertémpore ili expande se quam files de un invisibil
+rete de arané til in li max distant locs del misteriosi Africa.
+
+ 
+
+Ex De Haagsche Post (autorisat trad. de A. Koning.)
+
+\-\-\-\--
+
+ 
+
+It existe circa 620 448 401 733 239 439 360 000 manieres combinar li
+lítteres del alfabete. (Leer li númere talmen: 620 trilliardes, 448
+trilliones, 401 billiardes, 733 billiones, 239 milliardes, 439
+milliones, e 360 mill.).
+
+ 
+
+Quelc scientistes crede que lingues posse influer li fisionomie de
+popules: per parlada, li partes del bocca e laringe, labies, maxilles, e
+li altri partes proxim li boccas ha changeat durante li secules.
+
+ 
+
+Francesi es parlat ye un medial rapiditá de 350 síllabes per minute,
+durante que cert polinesian tribes parla 50 síllabes per minute. Anglesi
+es parlat relativmen lentmen, 220 síllabes, e german ye 250 síllabes per
+minute.
+
+ 
+
+-4-
+
+ 
+
+ 
+
+LI NEO-LATIN
+
+ 
+
+Quande, in 1907, li famosi Delegation de Couturat apertet un concurse
+por li adoption del max bon lingue international, on videt ínnumerabil
+autores publicar in hasta projectes plu o minu complet e in omni
+tendenties, ma precipue esperantatri pro que, in ti epoca, Esperanto
+juit li max grand successe. Hodie li information que IALA de New-York va
+recomensar li sam concurse sembla haver li sam efecte, ma hodie li
+projectes publicat, in preferentie naturalistic, sembla tornar circum
+Occidental vice Esperanto.
+
+ 
+
+Li decision de nor coidealist, Sr. A. Schild de Basel, publicar su
+propri sistema, nominat NEO-LATIN, es dunc natural, e, benque it sembla
+nos un erra que li partisanes del naturalitá presenta se in « disperset
+órdine » vice far un comun fronte plu solid, noi ne va reprochar le
+voler provar su chance. Occidental nequande esset un sistema íntuchabil
+quam Esperanto. Desde su publication, in 1922, omni coidealistes
+competent o havent bon idés posset proposir ameliorationes in it, con li
+condition pruvar lor excellentie. Chascun vez quande un propositor esset
+índubitabilmen rect, il obtenet finalmen li vota del Academie. Ti labor
+de equip have li avantage obligar li reformatores far controlar li
+valore de lor argumentes, e impedi les contentar se per ínsatisfant
+solutiones. Talmen fat de Wahl durante li 30 unesim annus de su activitá
+interlinguistic, laborante e discussente sin cessa con Lott, Zamenhof,
+Rosenberger, etc.
+
+ 
+
+Quande, in contrari, on elabora un sistema in li solitá, on
+ínmancabilmen decide éxter ti salutari control e critica. On tande
+contempla li avantage de tal solution sin vider li desavantages queles
+altri persones vell strax percepter.
+
+ 
+
+Pri to noi posse parlar per experientie, nam, hante colaborat in li
+Comité explorativ de Occidental, poy in li Academie interimari, durante
+20 annus, noi constatat quant mult conossenties e profund
+investigationes postula li max micri detallies de un lingue constructet.
+Li complexitá de tal labor es tam grand que noi sempre mira vider homes
+parturir un lingue international in curt témpor, pos lor professional
+labor.
+
+ 
+
+Neo-Latin de Sr. Schild es basat sur li naturalitá, quam Occidental, ma
+ne egarda li simplicitá tam mult quam nor lingue. It ti desfacil
+combination del naturalitá e del regularitá Sr. Schild decide presc
+sempre in favore del naturalitá, criticante mem Occidental pro que su
+derivation es « tro rigid » (Ti critica es a dedicar a tis quel reprocha
+a ti derivation esser ínsuficentmen precis !!!).
+
+ 
+
+Sr. Schild adopte in general li grammatica de Occidental, e mem li Regul
+de Wahl, ma por numerosi verbes il admisse du radicas diferent, por
+queles on deve consultar li dictionarium. To esset just li solution
+adoptet in 1910 de Rosenberger in su Idiom Neutral reformed. On save que
+it satisfat nequí, exceptet su autor. On posse dir que apu li
+complicationes de Neo-Latin, nor lingue, su grammatica e su derivation
+apare astonantmen\... simplic per contraste. Li pluparte del afixes de
+Neo-Latin es identic a tis de Occidental. Li quelc sufixes in plu sembla
+nos tre discussibil. Por posser formar li parol client/ela, por exemple,
+Sr. Schild admisse li sufixe -ela significant « reunion de persones », e
+il da quam altri exemple li derivate parent/ela! Támen it sembla nos que
+li derivation Occ. parent/é (parent/ité) es ancor plu natural sin
+postular li intervention de un nov sufixe! Un erra a ne far in li
+construction de un lingue international es justmen instituer un afixe
+por solmen un o du paroles. Un tal solution ne es un economie! In
+Occidental on ha anc volet proposir li admission del sufixes -il,
+-itude, -est, etc., por posser « regularisar » quelc rari paroles, ma
+tal complicationes esset felicimen rejectet. Li labor in equip just
+fortia renunciar a tal exagerationes, o, quam di de Wahl, tal «
+derelamentes ».
+
+ 
+
+Sr. Shild indica in li introduction de su brochura que il volet far ante
+omnicos un « sintese del romanic lingues ». In facte il obtene un specie
+de hispanatri idioma, de quel es excludet omni radicas german o nordic.
+Benque hispan es certmen un bell lingue, li conossores opine que li
+abundantie de su finales sibilant noce su eufonie.
+
+ 
+
+-5-
+
+ 
+
+ 
+
+E pro que in Neo-Latin li adjectives e li articules prende li plurale
+per -s (esque to es necessi? Vide li simplicitá de anglesi!), it contene
+un quantité vermen genant de sibilant sones. Ples audir li sequent
+specimenes:
+
+ 
+
+« Las moleculas poten glissar las unas sur las altras\... Inter los max
+grossos ex questos pisces\... Los congres e las murenas e diversos
+pisces extraordinarios\... »
+
+ 
+
+Li exagerat domination del naturalitá sur li regularitá ductet Sr.
+Schild a adopter un complication quel nequel autor de L.I., si noi ne
+erra, acceptat til hodie; it es formes verbal diferent por li persones.
+Li verbe esser, pro exemple, es conjugat talmen in li presente: yo sun,
+tu ses, il es, nus somos, vus estis, iles son.
+
+ 
+
+It es tre dubitabil ca li gania in naturalitá obtenet per li diferent
+formes proposit de Sr. Schild compensa li perde de simplicitá e
+regularitá quel caracterisa li sistema de conjugation de Occidental. Por
+un Francese, por exemple tu ses es minu natural quam tu es!
+
+ 
+
+Li selection del paroles apare nos anc ne tre clar. Ta u ti paroles
+difere de Occ., noi ne comprende li rasones de Sr. Schild. Por exemple
+F. douter = dutar in Neo-Latin. Ma qualmen formar li derivate
+international índubitabil con dutar? On save que Ido, quel havet in prim
+dubar, changeat it a dubitar secun li proposition self de de Beaufront,
+conosset támen quam un ultra-conservator! Esque li erras va sempre
+recomensar in li historie del L.I. e li sam corectiones sempre esser
+refat? It sembla nos que li experienties de nor predecessores ne deve
+cader in oblivia.    RIC BERGER
+
+\-\-\-\-\-\-\--
+
+ 
+
+Li « Vocoder ».
+
+ 
+
+Ti nómine de Vocoder va semblar strangi a mult persones: it es ti de un
+instrument constructet del administration britannic pos mult annus de
+scientic serchas e quel permisse utilisar simultanmen li sam fil por
+pluri telefonic conversationes. Li scientistes laborant in li
+laboratoria de serchas del Administration ha departet del fundamental
+idé que li parol homan es format de diferent acustic unitás de queles
+chascun have su special frequentie. Chascun unitá apari quam un
+ínarticulat son e it es solmen mersí a lor perfect combination que li
+total summa deveni un intelligibil parol.
+
+ 
+
+Li problema consistet in divider li parol in su diversi unitás, in
+transmisser les separatmen, poy in assemblar les denov in li receptori
+extremitá del fil in tal maniere que on reconstitue li total númere in
+un normal parol. Li « Vocoder », constructet sur li base de ti
+experienties, solue li problema quel li serchatores hat interprendet
+elucidar. Li emissori aparate, li « analisator » desintegra li voce in
+su constituent partes queles es reunit in li altri extremitá del fil,
+per li « sintesator » quel reproducte un sintetic parol havent omni
+caracteristicas del original son. Li « Vocoder » va dunc permisser far
+passar pluri conversationes sur li sam fil, quo va economisar mult
+materiales.
+
+\-\-\-\-\-\--
+
+ 
+
+\-- No, senior comissario, dit li trincard in li buró de policie. Li
+sergente menti. Yo totmen ne esset ebrie!
+
+ 
+
+\-- Támen li sergente ha surprisat vos quande vu provat grimpar sur un
+candelabre.
+
+ 
+
+\-- Yes, senior comissario, yo confesse it. Ma ples prender in calcul
+que yo esset tre nervosi pro li du maledit crocodiles queles obstinatmen
+persecutet me in li strade.
+
+\-\-\-\-\-\--
+
+ 
+
+In Europa on parla circa 600 separat lingues e dialectes.
+
+In Soviet-Russia on parla 146 diferent lingues.
+
+Li unesim lexico aparit in chinesi.
+
+ 
+
+-6-
+
+ 
+
+QUEL ES LI MAX FACIL LINGUE AUXILIARI?
+
+ 
+
+Esperantistes e Idistes asserte sovente que OCCIDENTAL es desfacil,
+utilisante quam principal argument que su grammatica contene «
+exceptiones ».
+
+ 
+
+Cert prejudicas es vermen tenaci: Ti interlinguistes crede ancor, secun
+un conception infantesc, que li facilitá de aprension de un lingue
+depende precipue, si ne unicmen, del simplicitá formal del grammatica.
+
+ 
+
+Noi vell posser demandar les pro quo hispan es generalmen plu facil a
+aprender por Franceses o Italianes, quam Anglesi, benque su grammatica
+es mult plu complicat quam in ti ultim idioma.
+
+ 
+
+Ili save tamen quant es desfacil li practic aplication de regules
+grammatical rigorosimen matematic e « logic », in lingues « filosofic »
+quam RO o SOL-RE-SOL.
+
+ 
+
+In omni lingues auxiliari, li grammatica es reductet al minimum. Quelc
+minutes sufice por memorar omni regules essential. Si noi introducte 3 o
+4 exceptiones, noi va besonar 3 o 4 minutes suplementari por retener
+les. Nor contraditores oblivia simplicmen que pos har aprendet li
+grammatica de un idioma national o international, on nullmen conosse e
+save parlar ti lingue, e que li max grand parte del labor resta a far!
+To ne plu es un question de minutes, ma de centenes de hores. Altrimen
+dit, li témpor necessi por studiar li grammatica es relativmen
+ínsignificant, specialmen in un L.I., e on ne posse alegar li existentie
+de quelc exceptiones por justificar un pretendet desfacilitá de
+aprension de un lingue.
+
+ 
+
+Nequí posse seriosimen contestar que li ver desfacilitás es:
+
+ 
+
+1° Li traduction del idiotismes.
+
+2° Li amemoration del vocabularium.
+
+3° Li rect usation del prepositiones.
+
+ 
+
+Por li national lingues, on deve adjunter li amemoration de multissim
+idiotismes e li usation del prepositiones, quel ne es sempre conform a
+un minimal logica.
+
+ 
+
+Pri li punctus 1 e 3, null diferentie inter OCCIDENTAL e li altri L.I.
+
+ 
+
+Pri li punctu 2, li quelc « exceptiones » de nor lingue permisse
+retrovar paroles familiari, e memorar talmen un enorm vocabularium,
+ínfinitmen plu rapidmen quam in omni altri idiomas auxiliari. \*Li
+ci-supra 3 o 4 minutes suplementari es compensat per centenes de hores
+sparniat in li studie del vocabularium! U es li desfacilitá, si ne
+precismen in Esperanto-Ido\*?
+
+ 
+
+Por exemple, li regul DE WAHL, li duplic son de C, etc\... permisse
+retrovar, quam on save, millenes de paroles international sub lor form
+natural, durante que li artificial, rigid regules de ESPERANTO-IDO da
+nascentie a monstrus tam plu desfacilmen memorabil que ili es plu lontan
+del formes natural.
+
+ 
+
+Ad-plu, li « exceptiones » de OCCIDENTAL ne deve esser utilisat por
+celar li facte que \*ESPERANTO e IDO have exceptiones e complicationes
+grammatical vermen ínexcusabil\*.
+
+ 
+
+Li diferentie jace in to, que li regules grammatical de OCCIDENTAL
+facilisa li aprension del vocabularium, durante que tis de ESPERANTO-IDO
+(mem si ili vell esser plu facil in se self) fa plu desfacil li practic
+usation del lingue (Exemples, li acusative de ESPERANTO, li témpores
+composit del conjugation, e li parol-formation de ESPERANTO-IDO,
+etc\...). Altrimen dit, \*on ne deve regardar li grammatica in se self,
+ma su practic consequenties\*. Li studie del grammatica ne es li
+\*scope\* a atinger, it es li \*medie\* por facilisar li aprension del
+lingue.
+
+ 
+
+Ma on responde nos: « To es ver por Anglo-latin popules, qui ja conosse
+ti vocabules international, ne por li altres. »
+
+ 
+
+On mey considerar in prim que ti popules representa li tot America e un
+parte important de Europa, que nequi til nu posset negar li influentie
+del greco-latin in omni grand lingues de civilisation europan e su quasi
+exclusiv usation in li vocabularium scientific e tecnic international,
+que li lingues europan expande se tra li tot terra, durante que lu
+invers ne existe, que in oriental landes on ne posse concepter li
+relationes international sin li conossentie de un europan idioma\...
+
+ 
+
+-7-
+
+ 
+
+Tal es li situation linguistic tra li munde, tal es li factes, e on deve
+regardar li factes in facie, e ne far revas utopic in li nubes, lontan
+del terra!
+
+ 
+
+Ma noi mey prender quelcunc rurano in China o Japan e docer le in sam
+témpore ESPERANTO, IDO e OCCIDENTAL\... Si on vole atribuer tant
+importantie al grammatica, esque on crede vermen que ti rurano va
+assimilar se plu facilmen li acusative de ESPERANTO, li conjugation
+sintetic e li complicat témpores composit de ESPERANTO-IDO? Resta li
+vocabularium, quo es vermen lu important: On asserte nos que li
+derivation de OCCIDENTAL ne es « logic » e que ta jace li real
+desfacilitá por Orientales. Noi ha sovente monstrat in COSMOGLOTTA que
+li famosi logica de ESPERANTO-IDO es un ver duperíe, que it existe
+solmen in teorie. Li hiperlogica quel nor contraditores sercha vanmen es
+un principie aplicabil solmen in matematica, e matematica e
+interlinguistica es du coses extremmen diferent.
+
+ 
+
+Adplu, li paroles international have tant fortie que ti sistemas adopte
+les plu e plu, quam « extran radicas » (Ples notar ti cúlmine de
+inlogisme: li paroles \*international\*, in un lingue \*international\*,
+es considerat quam \*extran\*!!!). Resultate: ú on deve aprender \*un\*
+radica in OCCIDENTAL, 2 , 3 es necessi in ESPERANTO-IDO, e li revúes
+esperantistic self ha devet signalar li protestationes de loor oriental
+coidealistes que ne comprende ti acumulation de vocabules con sam
+signification (Exemple: AERFLUGADO e AVIACIO). In OCCIDENTAL, it sufice
+conosser un derivate international (Ex.: AVIA-T-ION) por haver li clave
+de omni paroles del sam familie e talmen far comprender se ínmediatmen
+de milliones de homes civilisat, quo es particularimen atrativ e util
+por ne anglo-romanic popules!
+
+ 
+
+Dunc, egal qualmen on torna li question, li conclusion es evident:
+OCCIDENTAL es ya mult plu facil quam ESPERANTO-IDO, it es li tip del
+lingue mundal del future!
+
+ 
+
+WILLIAM GILBERT (Paris).
+
+\-\-\-\--
+
+ 
+
+BASIC ENGLISH ES COMPRAT
+
+ 
+
+Quelc jurnales ha publicat in februar 1947 li sequent noticie:
+
+ 
+
+« Li britannic guvernament ha comprat por 23 000 pounds li metode de
+simplificat anglesi « Basic English » quel ha esset inventet de un
+professor del Universitá de Cambridge T.K. Ogden. Ti metode ha expandet
+se in comense per li radio in quel esset dat leciones de anglesi
+destinat al extran auditores. Pro que it reducte li vocabularium til 850
+paroles in tot, li Londonesi jurnalistes ha calculat que li anglesi
+guvernament ha payat 27 pounds por chascun parol.
+
+\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+Li novmen maritat cuple esset ocupat per li revision del contos de
+menage pos lor miellune. Inter li expenses inregistrat del marita, li
+notation « DSPQ » sequent de alquel summa: frs. 20.-, frs. 50.- o mem
+frs. 100.- frappat li marito per su constant repetition. Benque ne
+desiranto monstrar se ínutilmen inquisitiv, ti-ci finalmen esset victet
+per su curiositá.
+
+ 
+
+\- Carissima, il dit quo significa DSPQ?
+
+\- Oh, ella dit, it sta por « Deo save por quo ! »
+
+\-\-\--
+
+ 
+
+Yun marita (in ton excusatori): « Yo ha prendet li recepte por ti cake
+ex mi libre de cocine ».
+
+ 
+
+Marito (tactosimen): « Tu ha fat tre bon, carissima, it nequande vell
+har devet intrar in it. »
+
+\-\-\-\-\-\--
+
+ 
+
+Piscator: Ja desde plu quam 3 hores vu regarda me piscar. Pro quo vu ne
+prova piscar self?
+
+Spectator: Yo ne have li necessi patientie.
+
+ 
+
+-8-
+
+ 
+
+LI INCARCERAT PRINCESSA
+
+ 
+
+Save vu alquó pri li Alcázar de Toledo, infantes?
+
+ 
+
+It es un antiqui castelle, tam fort que solmen un terr-tremore posse
+destructer it.
+
+ 
+
+Vis a vis, al altri rive del fluvie Tajo elevat se ante mult secules li
+castelle de un potent principe. Su filia Nénufar passat quam bell e
+esset cortesat de numerosi solicitantes; támen, nequel ex ili semblat
+suficent a su guste. To contrariat li volentie del patre, pro que inter
+ili trovat se yun mannes de nóbil rang, e quande li filia ne cessat su
+refusa dar un « yes » a un del solicitantes, li principe furosijat tant
+que il incarcerat la in li turre del castelle, u li fate menaciat la
+maner til que su obstination vell esser finit. Pos har languit du dies
+in ti cárcere, li puella revelat al gardator curiosi e loquaci on
+conservat li clave por li vin-cava. To il profitat strax, furtente, junt
+con li portario, durante que crepusculat li véspere, in li locales quel
+servit quam depó del max exquisit trincages; e ambi juit quant lor
+boccas demandat, til abandonar li vulte solmen con pena. Totalmen
+inebriat ili cadet sur un banca in li vestibul del castelle.
+
+ 
+
+To esset li moment expectat de Nénufar. Ella glissat ex li cellul apert,
+monta sur li optim cavalle de su patre e forcavalcat, volante simil a un
+storm, trans montes e polvosi planuras, son cessa vers li sud. Li fugida
+durat tri dies. In prim vez ella pernoctet che un paisano, poy che un
+caprero, e in últim che un old fémina qui havet li reputation esser un
+sorciera. E in facte, apen li princessa hat cadet in dorme, quande ti
+feminacha venit al lette e regardat la con invidiosi ocules; odiante
+quelcunc bellitá, ella aportat un pott, plongeat su fingres in it e
+covrit li facie del forena per un unguente; per to li yun e frisc visage
+devenit brun; ugli\* e tumorosi, ma, pro trovar null spegul in li
+chambre, pos har levat se in matine, Nénufar ne remarcat alcun
+alteration sur se self, e it surprisat la solmen in li instante de
+arivar al rive del Guadalquivir quel percurre li floreant valleyes de
+Andalusia, proque li undes brilliant reflexet su image.
+
+ 
+
+Poy un cri terribil yellat ex su gúttur; desgustat del vive, ella
+precipitat se in li fluvie, cap-ad-avan.Totvez, li Deo del Aqua sentit
+misericordie con ella; il lassat la perir, ma ductet la in su blu
+castelle e dit:
+
+ 
+
+« Tu va esser líber retornar al terra e devenir felici, si un hom
+vertuosi salva te intra tri dies. »
+
+ 
+
+Nénufar plorat, audiente to, nam ella pensat ínpossibil que in tri dies
+un vertuosi hom vell aparir. In comensant crepuscul, li Deo del Aqua
+ordonat la ascender li rive e vestit quam un paisana, colier figues del
+arborettes crescent a, durante que un mul pastet apu ella. Tam bentost
+quam li Deo del Aqua da un signe, ella have a cader in li fluvie e
+clamar por auxilie.
+
+ 
+
+Dunc, sur strett via, ínmediatmen al rive abrupt ella colectet li figues
+e jettat les in un corbe, quel li mul portat sur su dorse.
+
+ 
+
+Poy arivat per cavalle un yun mann, saltat a terra e reposat in un altri
+loc del scarpe. Il esset standartario del armé reyal, hat perdit li via
+pos un battallie e hastat retrovar unition con su truppe.
+
+ 
+
+Li colines circumsituat aspectet blu-nigri in li obscuritá noctal; lune
+e stelles brilliat e lor luce videntat un svelt córpor quel con glatt
+brasses partit li verd fluvie. It esset un nimfa, un del spirites
+subject al Deo del Aqua. Ella svimmat vers li nov-arivate, submerset se
+quelcvez e jettat manuades de lápides preciosi avan il sur li terra. Li
+yuno regardat con admiration li diamantes, rubines e smeraldes quel
+scintillat e splendet in li luce lunari, ma ancor plu atraet le li blanc
+nimfa per su bocca rubi quam granate, li long e nigri capilles. Nu ella
+questionat le:
+
+ 
+
+« Vole tu que yo fa te companie, yuno? »
+
+ 
+
+Il petit: « Yes, nimfa graciosi. Veni a me ».
+
+ 
+
+Ella ascendet, e su labies tuchat tis del yuno quam foy.
+
+ 
+
+Ma in lor proximitá, alquó con clacca in li fluvie, e un voce criat
+desesperatmen por auxilie.
+
+ 
+
+« Escuta ! » li nimfa dit, stoppante su caresses. « A qui evenit un
+accidente? »
+
+ 
+
+« A ti ugli\* paisana », esset li despectosi aclaration del
+standartario. « Quo ella concerne nos? »
+
+ 
+
+Apen enunciat ti parol, il sentit se inbrassat del nimfa e tirat in li
+fluvie. Il resistet in li comensa, combattet quelc témpor ínutilmen con
+li undes e dronat.
+
+ 
+
+Quande li proxim vésper descendet. Nénufar stat denov al rive, coliente
+figues, quam si necos hat evenit. Ye su látere pastet li mul.
+
+ 
+
+Vi, un mercant advenit per cavalle, acompaniat de su servitor. Il hat
+vendit merces in li cité e viageat ad hem; ma il esset fatigat e decidet
+juir al fluvie quelc minutes de reposa.
+
+ 
+
+E li luce del ascendent lune brilliat li córpor lubric del nimfa, quel
+svimmat a ci agilmen quam un pisc acustomat al aqua. Ja ella inpassionat
+li mercant; ma quande ella jettat manuades de juveles avan il sur li
+terra, il detornat se strax de ella, ordonante al servitor raffar junt
+con il ti-ci tresores. Ili plenat grand cutin saccos, e lor avid fingres
+ne mem cessat, quande tot proxim resonat un bruiosi clacca de aqua e pos
+un cri por auxilie.
+
+ 
+
+« Audi vu li clama, senior? » li nimfa questionat. « Esque vu ne vole
+ear ta por sucursar? »
+
+ 
+
+« Quem? »? il replicat índiferentmen. « A ti farm-garsona abominabil?
+Pro to yo ne va riscar que un altre prende con se tal juveles ».
+
+ 
+
+Apen li últim parol hat escapat le, li lápides preciosi perdit lor magic
+splendore e quande li mercant e su servitor con surprise tenet les vers
+li luce, ili decovrit que li magic tresores hat alterat se totmen e ne
+esset plu altricos quam ordinari lápides.
+
+ 
+
+Ili lansat les colerosimen in li sand, vocat li nimfa por postular un
+explication, ma sin successe: ella hat desaparit e ne revenit. In fine,
+ili foreat blasfemante e insultante, e li obscur colines del circumité
+respondet per un ecó mocaci.
+
+ 
+
+Li triesim vésper comensat e Nénufar deruptet figues anc hodie, sin
+espera, ja resignante se a su cert fate esser abandonat bentost al
+profund aqua por sempre.
+
+ 
+
+ 
+
+ 
+
+Ma -- denov un ped-frappada de cavalles! Du mannes arivat e preparat se
+un sede comfortabil al rive del fluvie. To esset li cavaliero Don
+Octavio de Miranda de Aragon, con su scudero. Il havet solmen un
+castelle povrachi e demí-discadet, e desde pluri dies ili travagat ti-ci
+region, con li intention acquisiter ci terrenes plu fertil quam tis quel
+il possedet in su país natal; nam il volet viver quam agricultor
+laboriosi e esser util a homes.
+
+ 
+
+Calm fluet in luce lunari li Guadalquivir inter su rives ornat de olives
+e palmes. Li cavaliero desmettet li armatura, comodmen extendet su
+membres e delectat se per li benefant silentie del nocte comensant.
+
+ 
+
+Alcun témpor hat passat, quande li scudero captet su dómino al brasse e
+dit:
+
+ 
+
+« Regarda ta, senior! Quant mirabil! »
+
+ 
+
+Il monstrat li nimfa svimmant plu próxim in torsiones serpentosi. Don
+Octavio videt la, támen, su ócules strax forglissat de ella, fascinat
+per un altri spectacul: li yun paisana in li ombre del figuiero, qui
+penat sin cessa plenar un grand corbe per dulci fructes.
+
+ 
+
+« Ella in su diligentie », Don Ocatavio dit, « es plu mult mirabil ».
+
+ 
+
+« Ma vi! », li scudero replicat e indicat li suol. « Senior, noi posse
+devenir rich! ».
+
+ 
+
+E in facte, qual brillie del juveles jettat del nimfa sur terra, in omni
+colores imaginabil! Li scudero ja esset tre propensi levar quant
+possibil, ma su dómino impedit le:
+
+ 
+
+« Ne tuchar! Lass nos meriter to quo noi possede. Escuta! », il haltat
+-- « qui cria ta por auxilie? »
+
+ 
+
+Captet de terrore Don Octavio videt que li puella cadet in li aqua. Sin
+hesitar il sequet la per un salta, luctat bravmen contra li element
+dangerosi e atinget li presc-dronanta pos alcun fort colpes.
+
+ 
+
+-10-
+
+ 
+
+Ella inbrassat su col e semblat tam pesant quam un masse de plumbe: Don
+Octavio ja credet perir con ella in li profundore. Ma ili sentit un
+funde solid sub lor pedes. Lucid radies circumfluet les, ex li medie
+elevat se un palace de cristall blu-scintillant, al portas de quel stat
+quar guardianes mauresc de color cafeatri, armat per halebardes. Poy
+apertet se li battentes del intradas, e al cap de spirites multicolori,
+con li tridente in manu aparit li Deo del Aqua.
+
+ 
+
+In lévul de Don Octavio, li scudero observat li tot spectacul con
+astonament e timore. Per su brasse dextri Don Octavio tenet un creatura
+completmen alterat; ne plu ti demí-marcid paisana de antey, ma un fémina
+con facie iradiant friscore e yunitá. Exempt del insorciation, ella hat
+recuperat su aspecte anteriori e ultra to pur joya pri viver. Solmen su
+silkin veste, verd quam li mare, amemorat que ella hat passat tri dies
+in un profundore subaquatic.
+
+ 
+
+« Foren cavaliero », li Deo del Aqua parlat con alt voce, « yo transda
+te mi protecteta, li princessa Nénufar. Pro timore a su cruel patre ella
+refugit se a mi imperie, u yo concedet la un asil. Ella va esser tui
+sponsa, in recompense por har apreciat tu li vertús plu quam benes
+mundan. Yo congedia vos -- mey li felicitá favorisar vos ambi! »
+
+ 
+
+Poy li palace submerset se, li undes confluet. Don Octavio, Nénufar e li
+scudero stat denov al borde del rive, credente revar. In sam témpor ili
+audit un fort hinnida; Nénufar videt su blanc cavalle quel secun
+aparentie hat forcurret, ma in realitá transformat se in un mul e nu
+reprendet su figura original. Li Deo del Aqua misset les ancor in ultim
+du del guardianes mauresc, ili havet a plenar li sede-tascas per
+juveles. Finalmen li forenas saltat sur lor cavalles, e levi hufes
+portat les per flechesc velocitá vers Aragon.
+
+ 
+
+Don Octavio trovat su castelle caduc in ruines; it hat crulat. Per
+chance il possedet li medies reconstructer it plu bell, e con li restant
+tresores il mitigat li misere de povres qui hat perdit lor logís pro
+incendie o terr-tremore. Ci esset li car dom seniorial de su preavos in
+medie de laure e oleandres, con vista sur alt montes roccosi; de ci ne
+plu alquel desires fortraet le. Il sequet li vive de agricultor, secun
+su long albergat intentiones, havente a su láter un fidel consorta, li
+líber e felici Nénufar.
+
+ 
+
+Fabul original in Occidental, de A.E. Cortinas (Lugano, Svissia.)
+
+ 
+
+Remarca del redaction: Li precedent contribution de Sr. Cortinas contene
+quel neologismes queles noi ha marcat per un asterisco.
+
+ 
+
+\* fiaba = F conte (de fée), A fairy-tale, I fiaba, H cuento, G Märchen.
+Noi trova por ti notion in nor lexicos: raconta, saga, legende, fabul.
+Saga, legende e fabul have un sense plu specialisat. Raconta anc ne
+expresse precismen li idé de A fairy-tale. \* Fiaba, prendet ex italian,
+sembla convener sat bon.
+
+ 
+
+\* ugli = F laid, A ugly, H feo, I brutto, G hässlich. Nor « desbell »
+es tro debil por expresser li senses indicat in supra. Li radica
+francesi « led » ne convene pro que it ja have un altri sense: leder,
+lesion. Li proposition vicear « desbell » per « ugli » ja hat esset fat
+in li INTAC. Ma it existe un general resistentie contra tipicmen anglesi
+paroles queles in lor adaptation fonetic a Occidental plu ne es
+reconossibil (cf. Espo: birdo, boato, etc.) Pro to ti proposition
+finalmen esset escartat. Ma li discussion resta apert, pro que it es
+realmen desirabil trovar un plu marcant parol por vicear nor debil «
+desbell ».
+
+\-\-\-\-\-\-\--
+
+ 
+
+Du lunaticos amusa se directente li radies de un electric tasca-lampe
+vers li plafon de un obscur chambre. « Esque vu vell esser capabil »,
+questionat li uno, « grimpar al plafon along li radie de mi tasca-lampe?
+» « Naturalmen », respondet li altri, « ma yo save quo va evenir. Quande
+yo va har grimpat li demí-via, vu va descomutar li lúmine. »
+
+ 
+
+-11-
+
+ 
+
+ 
+
+LI SCIENTIE E LI VERGE DIVINATORI
+
+ 
+
+Esque it es possibil divinar, per medie de un furcat verge o branchette,
+li presentie de aqua in li suol?
+
+ 
+
+Benque li tal-nominat hidroscopie es un profession antiqui, li
+scientistes til recentmen ne ha dat it lor seriosi atention. Sin basar
+lor judicament sur experimentes personal, ili max sovente ha restat
+sceptic pri su valore.
+
+ 
+
+It támen nu sembla esser etablisset que ne solmen aqua, ma anc li max
+mult altri substanties, emisse radiationes queles posse influentiar li
+verge divinatori, o plutost li muscules del person quel tene it.
+
+ 
+
+Substituente instrumentes electric por li furcat verge, on ha demonstrat
+que anc li maladies es registrabil in maniere analog. Li idé que chascun
+organ, maladie e drogue have su specific radiation es confirmat del
+constatation que anc li elementes chimic lassa se in cert conditiones
+identificar per tal metodes - chascun element dante, por talmen dir, su
+« signale » vers un specific punctu del bussol, sin dúbite sub
+influentie del polaritá terral.
+
+ 
+
+On mem ha constructet instrumentes ultra-sensibil queles registra actes
+de pense; forsan hay ci alquel conexion con li observat facte que
+machinalmen jettat ossettes responde a directives mental del
+spectatores.   H. LITTLEWOOD (London).
+
+ 
+
+(Condensat version de un articul de Sr. Charles Davy, in the Observer de
+soledí, 20 octobre, 1945. COn autorisation del redaction del jurnale
+nominat.)
+
+\-\-\-\-\-\--
+
+ 
+
+Pasca.
+
+ 
+
+Ti parol es derivat del hebreic « passah » quel significat in prim
+sparniar, poy passar. Li solemni festa de Pasca fat, in facte, memorar
+al Hebreos un duplic passage, ti del ángel exterminatori quel, per li
+morte del unesim nascetes del Egiptianes, obligat li Faraon retrodar li
+libertá al Hebreos; poy li miraculosi passage del Rubi Mare.
+
+ 
+
+Instituet de Mosa, li festa durat sett dies. In li cristian Eclesia, li
+festa de Pasca have quam scope celebrar li resurection de Jesu-Cristo.
+
+ 
+
+It es in 325 pos J-C que li Consilie de Nicea decidet que in future li
+pascal solemnitá vell evenir li unesim soledí pos li plen lune quel
+seque li equinoctie de verne, it es inter li 22 marte e li 25 april. Del
+mobilitá del festa de Pasca resulta li mobilitá de altri cristian
+festas: Ascension, Pentecoste, Trinitá, Festa-Deo. Ti mobilitá, in li
+practic vive, have numerosi ínconvenenties. Un quantitá de problemas
+concernent li scolari annus, li aprentisages, li labor in li firmas de
+chapeles, de vestimentes, etc., posi se, e it es necessi resoluer les.
+
+ 
+
+On ha sovente provat far de Pasca un festa fixat. Ante li guerre li
+question esset studiat del competent organes del S.d.N.e e del BIT
+(International Buró del Labor), ma null decision ha esset prendet.
+
+ 
+
+Li vagones por fumatores have 100 annus.
+
+ 
+
+It es in 1846 que li Companie del Ferrovias del Ost-Comtia, in Anglia,
+mettet in servicie sur su rete li prim vagon reservat al fumatores.
+Támen li ferventes del herbe de Nicot devet atender ancor 22 annus ante
+vider li Britannic Parlament obligar li companies de ferrovias admisser
+un o pluri vagones por fumatores in chascun de lor trenes.
+
+ 
+
+Ante 1846, li facte fumar in un ferrovia-vagon esset considerat in
+Anglia quam tre íncorect e provocat severi punitiones al delinquentes.
+On cita li casu de un Scote quel, viageante inter Glascow e Edinburg,
+plendit que un vag odore de tabac hat manet in su compartiment. LI
+conductor, tre conscientiosi, redactet un raporte ye li demande del
+viageator quel obtenet del Companie, quam indemnisation, li summa
+considerabil in ti epoca de 8 pounds 6 shillings e 8 pences.
+
+ 
+
+-12-
+
+ 
+
+LI MORAL REARMAMENT
+
+ 
+
+Ti nómine pruntat al terminologie militari designa un idealistic
+movement fundat de Dr Buchman e de quel li scope es etablisser nov
+relationes ne solmen inter li popules ma anc inter li individues de
+diferent classes social, relationes basat sur li ver principies
+evangelic.
+
+ 
+
+Li Moral Rearmament ne es un nov religion, ni un nov filosofie: « Noi ne
+posse etablisser li pace inter li nationes, proclama su adeptes, si in
+li interior de ti nationes, li individues es in statu de íncessant
+guerre. Li bastamentes, li conflictes del labor e li guerre es
+ínevitabil tam long quam noi ne changea nor maniere de pensar. Chascun
+desira vider su vicinos changear. Chascun nation desira vider li altri
+nationes changear, ma chascun atende que li altris comensa! Li idé del
+Moral Rearmament es comensar per se self. »
+
+ 
+
+Tre extendet ja ante li guerre sub li nómine de « Gruppes de Oxford »,
+li Moral Rearmament ha incontrat in comensa mult oposition del
+íntolerantes. Mult adeptes de it ha esset suspectet, difamat e
+persecutet, precipue in li landes totalitari. Hodie li Movement ha
+victoriosimen trapassat li desfacilitá del comensa e extende se sempre
+plu in omni landes del terra.
+
+ 
+
+Du centres ha esset ja fundat. In America li Island-House, in Mackinac
+(Michigan). In Europa li Mountain-House, in Caux sur Montreux.
+Mountain-House esset antey li Caux-Palace, un luxuosi palace. Recentmen,
+pos har contenet milles de internates e refugites durante li guerre, li
+hotel vat just esser demolit e li mobles vendit in extrania quande, in
+verne 1946, Svisses de omni partes del land decidet comprar ti grand dom
+e donar it al Moral Rearmament. Li scope de ti centre ha incontrat un
+tam grand respecte que li sviss autorités decidet liberar li Rearmament
+de omni impostes pri li donationes e mutationes.
+
+ 
+
+Ma un idé vale solmen per su real efectes. In Caux lor aplication
+constitue un ver miracul. « To, quo es astonant in Caux, scri li «
+Tribune de Genève » (28 oct. 1946) es li spíritu de auxilie ». Un
+extraordinari solidaritá in li dominia material quam in li dominia
+spiritual mette sin cessa in action li habitantes del dom laborant in
+equipes. Per li labor combinat de omnes li locales es sempre nett e in
+órdine, li repastes es excellent e servit just ye li hora por 700 a 800
+persones.
+
+ 
+
+Pro que li adeptes del Moral Rearmament veni de omni landes, mem de
+China e de India, li discussiones es naturalmen desfacilisat per li
+diversitá del lingues. Inter ti homes tam proxim per li cordie li
+íncomprension oral es li sol barriere ancor existent, precipue si ili ne
+conosse un del tri lingues principal: anglesi, francesi e german. In
+null loc plu quam ci es sentit li maledition quel pesa sur li homes
+desde li construction del turre de Babel. Quel aleviament vell aportar
+un lingue auxiliari neutral! E quant fructosi vell esser un colaboration
+inter ti Moral Rearmament laborant in li dominia social e nor movement
+laborant in li dominia linguistic!
+
+ 
+
+Li Rearmament in Caux just edite un brochura in francesi, in german e in
+italian \"Nouvelles d\'un Monde Neuf\" abundantmen ilustrat e quel
+contene mult interessantissim informationes pri li resultates obtenet in
+ti nov cruceada por li pace social. On posse obtener ti brochura in un
+del tri editiones supra mentionat, por li precie de 1 fr. sviss,
+scriente a: Servicie del publicationes del Moral Rearmament in Caux sur
+Montreux, Svissia.   RIC BERGER.
+
+\-\-\-\-\-\-\--
+
+ 
+
+Li instruction del litt lapones.
+
+ 
+
+Li departament del Sved public instruction ha ordonat que li instruction
+del Lapones in li Grand-Nord va esser confidet solmen a un personale
+indigen apt a docer al puellas li tressage e li textage, e al garsones
+li sculptura sur ligne, sur osse e sur corne, anc li dressage del
+rennes.
+
+ 
+
+-13-
+
+ 
+
+ 
+
+LI SCOL DEL NORVEGIAN PAISANE
+
+ 
+
+Ante plu quam duant annus, in un cave de valley innivat, in funde de un
+fiord, yo sedet sur li bancas del Folkehogskule de Voss, Norvegia, un ex
+ti « scoles superior populari » u li paisanes de ambi sexus profita li
+stagnation del hiverne por venir instructer se. Yo partiprendet lor vive
+durante pluri semanes e yo sequet li docentie quel esset dat tande sub
+li direction del ardent scritor Lars Eskeland. Yo manjat ye li table u
+li director sedet con su scoleres, yo dormit in un chambrette, sub li
+tegmentes, impregnat del odore del abiet-ligne; in altri paroles, yo
+vivet li vive studiosi de ti grand yunos e de ti alt puellas queles
+lassat lor farmer por cultivar li spíritu pos har cultivat li terra. Yo
+ne posse dir con quel emotion yo regardat les, durante que, por lor
+ínhabil fingres, ili foliettat studiosimen lor libres, ni con quel
+simpatie yo guatat, sur lor atentiv visages, li efecte productet del
+explicationes del instructor quel ili escutat religiosimen.
+
+ 
+
+Li materies quel esset in li programma esset diversi. Li scoleros posset
+iniciar se tam pri li terra-mesuration e li agricultural chimie quam pri
+matematica, historie del litteratura o antiqui islandesi, quel esset por
+les, to quo esset por me li latin in li licéo. In ti témpor, yo esset
+just exeant del Scole Normal Superior (Scole por professores del
+secundari docentie) e yo ne posse dir quant yo esset astonat vidente, in
+ti Alt Nord, un litt gruppe de ti paisanes luctant contra li original
+textu del comentaries de Julius Caesar pri li guerre de Gallia, nam
+alcunes havet li audacie voler aprender li latin.
+
+ 
+
+ 
+
+Ili petit me auxiliar les por comprender li textu. Yo provat it, e
+volente explicar in lor lingue neo-norvegian tant concret e tant vivid,
+yo deve confesser que, forsan, yo comprendet it por li prim vez. It es
+pro que yo esset obligat traducter it precisimen in ti lingue, nov e
+antiqui in sam témpor, e quel scientistes e poetes constructet
+specialmen por li usantie del norvegian paisanes. Talmen, li yun mann o
+li yun fémina queles esset avan me, sentit null confusion expressente se
+per li términos max abstrat, pro que tis esset constructet con elementes
+queles ili bon conosset e de queles ili comprendet ínmediatmen li sense
+e li sapore. Ili penetrat directmen in li munde del idés pos har vivet
+in ti del objectes. Ili fat to per medie de ti neo-norvegian lingue quel
+gradualmen devenit li lingue del tot popul de Norvegia. E, in sam témpor
+quam li neo-norvegian difuset se, li homes, descendent del profund
+strates del nation, ascendet gradualmen vers li potentie. E talmen, li
+norvegian paisane, quasi sin changear su lingue, posset acceder al max
+alt nivelle del instruction, iniciar se al aferes del state, guvernar
+con plen conossentie. Li neo-norvegian lingue, constructet de Ivar Aasen
+a su companes, extraet del dialectes, devenit li max secur e max eficaci
+instrument por li emancipation political e social del norvegian masses.
+Vi es to, quo yo aprendet in li scol del norvegian paisanes. Yo opine
+que noi vell bon far, meditante ti docentie.
+
+ 
+
+AURÉLIEN SAUVAGEOT.
+
+ 
+
+« Le Populaire » - Paris - 19 Marte 1947 (trad. L.M. de Guesnet.)
+
+ 
+
+N.B. Noi traductet ti interessant articul pri li fate de un constructet
+lingue, quam homage a Sr. Prof. Aurélien SAUVAGEOT, Professor in li
+Scole del Modern Lingues Oriental in Paris, quel introductet con
+competentie e afabilitá li radio-emission « Li Unit States del Spíritu »
+consacrat al international lingues in li radio-station de Paris li 10
+Feb. 1947.
+
+ 
+
+L.M.G.
+
+\-\-\-\-\-\-\-\--
+
+ 
+
+Un long labor
+
+ 
+
+Li dictionarium del francesi Academie, quel ha esset recomensat ante
+quelc annus, va esser finit solmen circum li annu 2000. Un altri
+dictionarium, ti de Oxford, postula « solmen » 50 annus.
+
+ 
+
+-14-
+
+ 
+
+DIVERSES
+
+ 
+
+Li grand forestes.
+
+ 
+
+Malgré li deforestationes, it existe ancor bell forestes sur nor terra.
+Li max vast es probabilmen ti quel extende se sur li tot central Africa.
+It have, in facte, ne minu quam 4800 km in longore del nord al sud e un
+largore egalmen considerabil.
+
+ 
+
+In li valley del Amazona, li forestes covri un region havent presc 3500
+km in long e 2000 km in larg.
+
+ 
+
+Li forestes del provincias de Quebec e Ontario, in Canada, es 2700 km
+long e 1000 km larg.
+
+ 
+
+Finalmen Siberia contene anc tre vast forestes, format precipue per
+coniferes de quel li truncos es tam proxim li unes al altres que it es
+quasi ínpossibil far se in via inter ili.
+
+ 
+
+Numerotation del domes
+
+ 
+
+Til ante 150 annus on ne conosset ti procede de indication, ni in
+LOndon, ni in Paris. It es in Berlin, in 1795 que on comensat numerotar
+li particulari domes, ma in maniere tre defectosi. On prendet quam
+punctu de departe li porta de Brandenburg e li numerós succedet se in li
+tot cité sin distintion de strades!
+
+ 
+
+Vienna, desde 1803, sequet li sistema inaugurat in Paris in 1795: li
+ciffres pari in un látere del strade e li ciffres ínpari in li altri
+látere.
+
+ 
+
+Un strangi avie
+
+ 
+
+On just anuncia de Australia que zoologos de ti land ha successat capter
+vivent li sol avie venenosi existent sur li terra, adminu li sol quel on
+conosse til hodie.
+
+ 
+
+Ti avie, quel li indigenes de Nov-Guinea nomina li « avie del morte »
+have in su bec un venen de quel li efecte es fulminant. It sufice que it
+pica, mem levimen, su adversario por que ti-ci es sucusset de
+convulsiones quel aporta li morte.
+
+ 
+
+Li Avie del Morte simila un poc li luscinia e vive solmen in Nov-Guinea.
+It es tre rari.
+
+ 
+
+Qualmen manja li homes.
+
+ 
+
+Secun un curiosi statistica publicat in Japan ante curt témpor, li homes
+quel utilisa, por manjar, un furcette e un cultelle constitue solmen un
+ters del population del terra.
+
+ 
+
+Un altri ters es format de tis quel utilisa bastonettes. E un triesim de
+tis quel utilisa plu simplicmen lor\... fingres.
+
+ 
+
+Viages al lune.
+
+ 
+
+Anglia interessa se vividmen al problema cielari. Ta existe un « Société
+britannic interplanetari » fundat in 1933 de Sr. Cleator, un fisico de
+Liverpool, e quel atrae mult yun scientistes.
+
+ 
+
+Instructet per li experientie del ultim guerre, li membres de ti societé
+labora nu basante se sur li suposition que, secun omni probabilitás,
+projectiles in prim sin pilotes, poy con pilotes, va atinger li lune.
+Ili pensa que to es possibil nu per aparates con reaction propulset med
+un chimic combustibile, a quel li scientie nucleari va furnir li fortie
+necessi in un volúmine tre micri.
+
+ 
+
+Li societé, quel have circa 300 membres, de quel li 2/3 es scientistes,
+publica un revúe tecnic. It organisa reuniones, conferenties,
+expositiones. Su membres es persuadet que li unesim machine sin pilote
+va posser atinger li satelite del terra ante 10 annus e que li unesim
+viage quel li homes va posser far til li lude va evenir ante que 30
+annus ha passat.
+
+ 
+
+Támen, li lune ne plu es considerat quam li principal scope, ma quam un
+etappe inter li lune e li altri planetes.
+
+ 
+
+-15-
+
+ 
+
+Un mestiere original e fructosi.
+
+ 
+
+Richard Bilkowski, ex-jardinero, ha abandonat su profession por
+consacrar se a un plu fructosi mestiere: li elevage del lumbricos. Il ha
+luat in California un terren de circa un quart de hectare por installar
+ta su bizarr explotation. Li terra contenente ja mult lumbricos,
+Bilkowski ha ancor ameliorat it jettante sur it mult jettallias de
+farine, de mosses e vegetal restes. Pro que chascun verme, tant
+abundantmen nutrit, posi adminu 400 oves, on vide li rendiment del
+terren, expurgat in antey de omni animales destructori de vermes.
+Chascun verne, li max grand lumbricos quel ha atinget adminu 2 annus, es
+extraet del suol e posit in recipiente con nutriment por 4 mensus. Tal
+collis es facilmen transportabil. Li merce es demandat til li nord de
+Canada e li afere nutri largmen su ingeniosi proprietario.
+
+ 
+
+Un land quel debi su nómine a un tintur-ligne.
+
+ 
+
+Durante que tam mult exotic lignes, utilisat in fin-carpenteríe, in
+apotecas e tinturerías, debe lor nómine (por ex.: Nicaragua, Pánama,
+Campeche, Surinam, etc.) al regiones in queles ili origina, it existe un
+quel ha dat su nómine a un grand sud-american land, it es li \*bresil\*,
+con un b minuscul.
+
+ 
+
+Li « berzi », quam nominat it ja in li XII-esim secul Marco Polo, quel
+hat conosset it in Ceylon, es un ligne dant un tintura quel Europa
+recivet tra Egiptia mult secules ante li decovrition de America e
+Brasil. Ti ligne debi su nómine al rubi tintura quel it furni e quel on
+ha comparat a ti del \*brase\*.
+
+ 
+
+Li unesim Portugaleses qual abordat li ost-litorale de Sud-America, dat
+a ti terra li nómine de Vera-Cruz, poy de Santa-Cruz. Quande plu tard on
+decovrit que it esset tre rich in ligne de rubi tintura, li nómine del
+asiatic ligne viceat tis de Ver-Cruce e Sant-Cruce, queles persistet in
+altri locs de Sud e Central-America, e sol li nómine de Brasil restat.
+
+ 
+
+Li dactilografa es obedient.
+
+ 
+
+(Ex li « Revue sténographique belge »).
+
+ 
+
+\- Senioretta, di li patron, releente lettres, yo vole que vu tippa to
+quo yo dicta vos, e ne to, quo vu pensa. Esque vu audi?
+
+ 
+
+\- Yes, Senior.
+
+ 
+
+Li sequent die un senior Squizz recivet li sequent lettre:
+
+ 
+
+« Car senior Squizz, hum, hum, hum. Vu es un excellent hom de aferes.
+No, ples recomensar. Il es un furtero, ma yo ne posse insultar le, il
+vell far me un processu. Li ultim cargament de sapones, quel vu inviat
+me es de inferior qualitá. No, ples efaciar. Si vu ne posse furnir me,
+no, furnir nos sapon de melior qualitá. - Mi cigarre es ancor extintet,
+diábol de diábol, ples excusar me, Senioretta. U donc yo esset in mi
+lettre? Sacri Deo, vu es bon friset, hodie. Vor devoet. Uf! Ancor un
+idiot expedit. Ples signar vice me, Senioretta. »
+
+ 
+
+Ah, ti ortografie!
+
+ 
+
+Li marito es in li lette, malad. Botellettes, pillules, medicamentes
+vicina pelmel sur li nocte-table. Il senti se tre mal e es persuadet que
+il va passar in li altri munde. Subitmen li porta del chambre mi-aperte
+se. Blond e subrident, quam sempre, su gentil litt marita, quel cuida le
+con amore, avansa su cap in li apertura.
+
+ 
+
+\- Car, mi litte, ella di, yo es scrient un lettre a mi mamá. Qualmen
+dunc on ortografia \*forne crematori\*? Con un c o plu bon con un k?
+
+\-\-\-\-\-\--
+
+ 
+
+JUST APARIT
+
+ 
+
+Ric Berger: Fundamental Vocabularium, cadernes 1 e 2.
+
+Ric Berger: Lexico del finales in li L.I. \.... Fr. 1.20
+
+ 
+
+-16-
+
+ 
+:::

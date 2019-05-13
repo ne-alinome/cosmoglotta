@@ -1,0 +1,986 @@
+Cosmoglotta B 067 (feb 1945)
+============================
+
+\
+
+::: {#displaycontent}
+COSMOGLOTTA
+
+ 
+
+OFICIAL MENSUAL ORGAN DEL OCCIDENTAL-UNION
+
+ 
+
+Redaction e Administration:
+
+ 
+
+INSTITUTE OCCIDENTAL, CHAPELLE (Vaud), SVISSIA
+
+ 
+
+Abonnament líber. Postchec-contos: SVISSIA: 11.1969. SVEDIA: Stockholm
+743 95
+
+ 
+
+Serie B, poligrafat (Tel 9 56 56) Februar 1945 - Nró 67 (2)
+
+ 
+
+\-\-\-\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+ 
+
+ 
+
+FUSION DEL INTERLINGUES ?
+
+ 
+
+Un de nor letores habitant Genève, Sr. G. H., calid partisan de un
+europan federation, proposi nos iniciar un fusion del tri cardinal
+interlingues : Esperanto, Ido, Occidental in un ideal lingue
+international unient li qualitás del tri lingues e presentant se quam un
+unificat sistema al publica.
+
+ 
+
+Yo comprende tre bon ti desir del neutrales haver un sol sistema a
+studiar e a propagar vice ti bizarr trilogie quel deruta li max
+convictes e partisanes del lingue auxiliari.
+
+ 
+
+Ma li remedie proposit por far cessar ti triplic propaganda, it es li
+creation de un lingue de compromiss, va solmen complicar li situation
+vice simplificar it, pro li sequent rasones :
+
+ 
+
+In prim li situation ne es tam inbrolliat quam nor corespondent crede.
+In realitá it ne existe 3 concurrentes principal, ma solmen 2,
+Esperanto, e Occidental. Li triesim, Ido, posse esser considerat quam
+practicmen eliminat por li simplic cause que li pluparte de su adeptes
+ha adheret a Occ. durant li 15 ultim annus. Secun li cifre indicat de
+lor secretario, Sr. Jacob, li númere del restant adherentes, in 1937
+atinget apen 100, pos har esset 1500 in 1914, e li guerre ha ancor
+certimen diminuet ti númere.
+
+ 
+
+Ma li facte essential es que li rari restant partisanes de Ido es
+ínreductibil, it es \"atachat\" talmen a lor sistema pro conservatisme e
+sentimental motives, que on ne posse esperar vider les changear lor
+opinion por adherer a un nov sistema, ne mem a un lingue de compromiss
+incorporant elementes extra-idistic.
+
+ 
+
+Ido representa un etappe forsan índispensabil, ma in omni casu hodie
+preterpassat del historie del lingue international. Li pruva es que li
+ductor del movement idistic e secretario de lor Unione International til
+1935, Sr. Matejka, es hodie li presidente del Occ.-Union, e que li
+pluparte de nor colaboratores in omni landes es ancian propagatores de
+Ido. On posse mem dir que li Occidentalistes conosse in general plu bon
+Ido que li restant adeptes de ti-ci!
+
+ 
+
+-13-
+
+ 
+
+ 
+
+ 
+
+Ido ha forsan ludet un rol util desde 1907 til li aparition de Occ. in
+1922 uniante durante quelc annus li partisanes del progresse, ma hodie
+it have solmen un valore historic, quam li directibil ballones in li
+evolution del aeronautica.
+
+ 
+
+In summa li problema resta : sive Esperanto, sive Occidental.
+
+ 
+
+Esque un combination inter li du lingues es per hasard un possibil
+solution?
+
+ 
+
+Por responder a ti question it es clar que on deve in prim bon conosser
+ti lingues. Pri to, yo posse far me un opinion plu exacti quam quicunc,
+nam yo es probabilmen li sol in Svissia quel practicat durante pluri
+annus intensivmen e conosse completmen li 3 sistemas : Espo, Ido, Occ.
+Nu ! Li spiritu, o plu bon li stil de ti tri lingues es passabilmen
+diferent, e un hibridisation ne sembla me realisabil, ne plu quam inter
+un avion e un Zeppelin.
+
+ 
+
+Li matematico de Saussure ha provat plur vezes tal combinationes inter
+Esperanto e Ido, ma obtenet chascun vez un risibil monstru quel ne fat
+un sol adepte malgré enorm summas expenset, nam de Saussure esset tre
+rich. Plu tard li danesi linguist Jespersen serchat combinat Ido e Occ.
+in un sol lingue nominat Novial. Li practic resultate esset tam
+descorageant que Jespersen tande glissat francmen vers Occ., viceante su
+unesim projecte abortet per Novial 2, tam simil a Occ. que su quelc
+adeptes venit colaborar con noi, nam ili usat presc li sam lingue.
+
+ 
+
+Ad-plu, qualmen operar un tal combination inter Esp-o e Occ. ? Prendente
+li gramatica de un lingue e li vocabularium del altri ? O li sufixes del
+un e li prefixes del altri ? Ma secun quel regul ? Li max bon element
+chascun vez? In ti casu it es facil divinar a qual sistema va esser
+identic ? Ne vale li pena changear li etiquette ! Alor, prender anc
+elementes esperantic por atraer quelc\"fideluloj\" \...pardon : quelc
+fidelulojn !
+
+ 
+
+Noi tro bon conosse li li conservatisme e \... stretesse de spíritu de
+mult ( ne omnes ! ) Esperantistes por ilusionar nos : si un compromisse
+va esser sat bon por incontrar li adhesion de omni altri
+interlinguistes, it va tamen restar sempre un certi proportion de
+conservatores Esperantistic quel nequande va renunciar Esperanto
+primitiv a quel ili es acustomat. It sufice discusser 10 minutes con ti
+Esperantistes por comprender que li argumentes linguistic have null
+efecte sur lor mente e que lor decision es ínrevocabil : o Esperanto o
+nequó altri ! Ergo un lingue de compromiss nequande va eliminar
+Esperanto del domene public ma solmen augmentar de un unitá li sistemas
+in presentie
+
+ 
+
+Ric Berger
+
+ 
+
+-14-
+
+ 
+
+ 
+
+ 
+
+OCCIDENTAL E LI TELEGRAFIE
+
+ 
+
+Nor confratres in Esperanto ha decovrit un nov argument contra Occ.!
+Tranquillisa vos : it ne es un argument linguistic ! Ili dismisse partú
+un lettre, datat del \"Bureau del international Union del
+telecomunicationes\" in Bern, signat de Dr. von Ernst, e talmen redactet
+: (Noi traducte de francesi a Occ.)
+
+ 
+
+\"In response a vor lettre del 11.8.1944, noi informa vos que li usa del
+lingue Occidental ne es autorisat por li corespondentie telegrafic
+international quam lingue clar. Li conferenties de nor Union ne recivet,
+til hodie, un demande concernent li admission de ti lingue. Li admission
+de Esperanto inter li autorisat lingues ha esset votat in li
+international telegrafic Conferentie de Paris 1925.\"
+
+ 
+
+In 1925 Occ. esset apen nascet e su autor, tro povri por editer
+manuales, esset ancor li sol adepte de su lingue o apen plu mult ! It es
+do tre natural que, in ti annu, Esperanto trovat se sol in concurse por
+obtener li oficial acceptation de ti conferentie quam lingue clar. Ma
+plu tard anc Ido obtenet li sam oficial aconossentie, do ti avantage
+\"telegrafic\" ne es li monopol del \"unic\" lingue international
+Esperanto, detalie quel li supra-dit circulare cela naturalmen a su
+letores.
+
+ 
+
+On va forsan questionar me : Pro quo Occ. ne obtenet til hodie anc li
+sam oficialisation ? Nu !, por li bon rason que in normal témpor, ante
+li guerre noi ne besonat ti oficialisation. Li lettre de Dr. von Ernst
+di explicitmen que su Union, til hodie, ne recivet un demande de
+admission. Do on refusat nos nequó.
+
+ 
+
+In facte, Occ. havent un aspecte tot natural e presentant un ínmediat
+comprensibilitá, omni telegrammas in Occ. expedit de land a land desde
+10 annus esset transmisset, anc a Svissia e de Svissia a Extrania sin
+alcun impediment. Noi posse mem revelar que telegrammas in Occ. continua
+esser transmisset desde li guerre pro que li functionarios crede que ili
+es redactet in\... romanch o hispan !
+
+ 
+
+Por li telegrammas in Espo, lingue contenent un fort proportion de
+paroles deformat e mem inventet, un autorisation oficial esset in
+contrari necessi por esser considerat quam scrit in lingue \"clar\".
+
+ 
+
+Ma si li Esperantistes crede posser explotar lor aconossentie oficial
+quam argument contra noi, strax pos li guerre noi va naturalmen
+demarchar che li Conferentie telegrafic, e omnicos va esser in órdine!
+
+ 
+
+Ric Berger
+
+ 
+
+-15-
+
+ 
+
+ 
+
+ 
+
+ESPERANTO ES UN OCCIDENTAL LINGUE.
+
+ 
+
+Yo esset in corespondentie con un Esperantist. Il comprendet sin
+desfacilitá mi lettres in Occ., malgré que il ne hat studiat nor lingue.
+Su response esset scrit in su lingue matrin e il esperat, quam il scri,
+\"que yo, in mi qualitá de poliglotto, va comprender it\". Ma, pro quo
+il ne utilisa Esp-o ? yo questionat me.
+
+ 
+
+Ti Esperantist aconosse que nor idioma \"es facilissim\", ma il adjunte
+\"ne por Japaneses e Indianes\". Il do vole dir que nor lingue es tro
+Occidental. Per hasard quelc dies poy, yo apertet un \"Manualo de
+Esperanto\" e a mi astonament trovat ta li frase : \"La vortaro ( de
+Esperanto ) enhavas multajn vortojn internaciajn konatajn de ĉiuj
+popoloj europaj. Se oni malfermas vortaron esperantan-anglan,
+esperantan-germanan, esperantan-hispanan, k.t.p., oni, kun granda miro,
+konstatas, ke preskau ĉiuj fundamentaj vortoj de la lingvo Esperanto
+apartenas al la angla, germana au hispana lingvoj. \"
+
+ 
+
+In Occ. : \" Li vocabularium (de Esp-o) contene multi paroles
+international, conosset de omni popules europan. Si on aperte un
+vocabularium esperanto-anglesi, esperanto-german, esperanto-hispan,
+etc., on constata, con grand astonament, que presc omni fundamental
+paroles del lingue Esperanto apartene al anglesi, german o hispan
+lingues. \"
+
+ 
+
+Kurt Hamburger, St. Gallen, St Leonhard str N-ro 69
+
+ 
+
+Nota del redaction : Por evitar mem un semblantie de acusation que li
+testimonies publicat ci ne es autentic, noi da li adresse de Sr.
+Hamburger a fin que nor letores posse demandar precisiones.
+
+ 
+
+\-\-\-\-\-\-\-\-\--
+
+ 
+
+UN MAL PREFIXE.
+
+ 
+
+Li prefixe \"mal\" de Esperanto repugnat me sempre quande yo esset ancor
+Esperantist. E yo have li conviction que mem por Occ. it es preferibil
+restricter li númere de tal indirecti expressiones per li prefixe
+\"des\", ..Por li síllabe \"des\" li lingue hispan, de u it proveni,
+oferta un bon modell : ci it es aplicat solmen por formes de quelcunc
+activitá, to vole dir : por verbes e lor derivationes ; por exemple
+\"desilusionar\", quel es in german \"enttäuschen\". Tamen, secun mi
+opinion, li form Occidental \"desfacil\" sembla me ínreprochabil, pro
+que li contenete conceptiv de ti parol es acompaniat de un general idé
+de action. A.E. Cortinas, Lugano.
+
+ 
+
+Red. : On save que ti prefixe \"mal\", quel Esp-o abusa con
+super-abundantie, es traet de francesi u it significa ne li contrarie ma
+un \"mal\" action o statu, exactimen quam in Occ. Pro to li usation de
+ti prefixe in Espo es penibil just por li Franceses, quel it vell dever
+facilitar.
+
+ 
+
+-16-
+
+ 
+
+ 
+
+ 
+
+LI PLANCAS DEL PASTOR QUINCHE
+
+ 
+
+Vi qualmen li revúe \"nos Montagnes\" raconta li aparition del skis in
+Svissia:
+
+ 
+
+In 1889 un primari instructor bernesi Juras, reveniente in Svissia pos
+un sejorn de pluri annus in extrania u il hat laborat quam preceptor,
+aportat con se un pare de skis quel il hat utilisat in Norvegia.
+
+ 
+
+Pro que il esset electet in un cité, il provat vendir les, esperante
+obtener de ti vende 20 frs, summa considerabil in ti epoca. Ma nequi in
+su village desirat ti plancas. In li sequent estive nor instructor esset
+informat que un yun neuchatelosi pastor, Hermann Quinche, quel just hat
+maritat se con un Anglesa, hat installat se in un vicin parocia e fat
+grand promenadas per ped. Ti sportives vell forsan comprar su skis ? Li
+pastor acceptat sin hesitar e pos un unic lecion, dat sur li herb, in
+mensu august, il interprendet serchas por comprar un secund pare de skis
+per su fémina. E to ne esset facil; lettres adressat a firmas de sport
+in Lausanne, Neuchatel, Genève aportat negativ responses. Nequi conosset
+li skis. Och(?) Fratres, in Genève, dat du adresses de firmas, li un in
+Lucerna, li altri in Zürich. Lucerne assertet que li instrumentes ne
+existet in Svissia e consiliat adressar se al legation de Norvegia in
+Bern. Kromfelz in Zürich transmisset li demanda a un sport-firma in
+München, quel scrit al sam firma in Berlin. Ti-ci, finalmen, acceptat
+far venir li articul de Stockholm e postulat un comenda firm, con li
+dimensiones del fémina del pastor, dimensiones prendet con brasses
+tendet horizontalmen, del extremitás del fingres del levul manu til ti
+del fingres del dextri manu.
+
+ 
+
+Sett mensus plu tard, li skis arivat. Ma to esset in may; un retorn de
+frigore, durante quelc dies, permisset al pastor e a su fémina comensar
+skiar sur 50 cm de nive, li 2 junio 1891.
+
+ 
+
+Li sequent hiverne esset rud, e ja in fine de octobre li skis exeat del
+hangare. Tande on posset vider omni dies sur li declives nivosi del
+village li pastor e su fémina exercir se sur lor skis, al grand
+amusament del parocianes queles regardat de lor portas, ma desaparit
+quande li un o li altre del skiatores cadet con li cap ad-avan in li
+nive.
+
+ 
+
+Li aprentisage ne esset facil, li skis essent primitiv: null fixation,
+solmen un bande de cute por li extremitá del ped e un stip de junc in un
+estuche cutin circum li talon. Li fracturas de gamb ne esset a timer,
+nam pos li minim falsi movement, li ski abandonat li ped.
+
+ 
+
+Durant un pos-midi proxim nov-annu, li pastor esset vocat che un malade
+e vadet sur su skis tra li rure. Il manet plu longmen ta quam il
+intentet e
+
+ 
+
+-17-
+
+ 
+
+ 
+
+ 
+
+mettet se in via quande li nocte ja hat venit, sub li nive cadent per
+gross floccs. Sequent su propri tracies, il lansat se in li direction de
+su dos, ma pos un moment li tracies ne plu esset visibil, efaciat per li
+nive cadent sin halta. Il devet aconosser que il hat misductet se.
+
+ 
+
+In li pastor-dom, su familie interim esset ínquiet pro ti long absentie.
+Quo far? Li telefon ne ja existet. On eat petir consilie che li
+presidente del Consilie de parocia: \"Un sol cose resta a far, il dit,
+far sonar li cloches del eclesia por que li pastor audi les e posse
+directer se secun ili\".
+
+ 
+
+Talmen on fat. Durant du hores li tri cloches del eclesia sonat in li
+nocte, tra li montes, semant in prim li terrore, poy li curiositá in li
+vicin villages. Solmen ye 10 cloccas in vésper li pastor arivat,
+exhaustet, del funde del morasses u il hat errat til li moment quande
+venit a il li son del cloches.
+
+ 
+
+Li sequent die, li population esset informat per li postilion del
+diligentie pri li cause del ínexpectat sonada del cloches e, durant
+quelc dies, li \"plancas\" del pastor esset li tema de omni
+conversationes. Li féminas descendent al mercat de Neuchatel racontat
+partú li eveniment del sonada. Yun mannes del cités, li filios del
+medico e del avocat, atraet pro curiositá, ascendet til li village por
+vider li famosi plancas e quar comendas departet strax a Stockholm.
+
+ 
+
+Li sequent hiverne, 6 pares de skis sulcat li declives del Juras, e
+quande in 1892 un banda de 6 skiatores traversat li Chasseral por
+descender in li valley de St. Imier, li prodigie esset racontat in omni
+jurnales del region.
+
+ 
+
+Li ski esset do introductet in Svissia. Oficeros del truppes de montania
+venit vider les e un capitane de \"Alpini\" de Torino fat inviar tri
+pares por se. Solmen plu tard on posset comprar skis por li turistes in
+Svissia.
+
+ 
+
+Li skis primitiv del pastor Quinche existet ancor ante tri annus in
+Lausanne, ma un jardinero tro zelat, quel ne conosset su historic
+valore, fat ex ili litt ligne por accender su foy.
+
+ 
+
+Ex francesi trad. R. Berger
+
+ 
+
+LI SVIN
+
+ 
+
+Li Chineses esset li unesim eleveros de ti animales. Del cielest imperie
+it multiplicat se sur li tot terra. On posse dir ancor hodie que li
+svinin rasse, in qualcunc land, have chinesi sangue in su arteries.
+
+ 
+
+Li fisic adaptabilitá del svin es sin egalitá in li animalic munde. Un
+famosi biologo declara que il vell posser formar, in 50 generationes, un
+svin quel vell currer plu rapidmen quam quelcunc levriero (can de curse)
+
+ 
+
+-18-
+
+ 
+
+ 
+
+ 
+
+LI DICTIONARIUM DEL DIÁBOL
+
+ 
+
+Ti ovre, debit a un jurnalist american morit in 1914, esset famosi in
+U.S.A. e fat un grand scandale ye su aparition. E tamen li definitiones,
+quel il da pri mult paroles, benque sarcastic e negativ, contene advente
+un grand parte de veritá. Ma li homes ne ama que on di les li franc
+veritá.
+
+ 
+
+Li original edition porta li nómine de \"Devil\'s Dictionary\" by
+Ambrose Bierce. Ti autor ha publicat numerosi ovres passionant de queles
+li principal es un \"Historie de soldates e de civilistes\" aparit in
+1891.
+
+ 
+
+Vi quelc extractes de ti dictionarium :
+
+ 
+
+Absurditá. - Declaration stant in contradition con vor opinion.
+
+ 
+
+Amico. - Person quel noi conosse suficentmen por pruntar moné a il, ma
+ne sat por prestar it a il. Un gradu de amicitá es nominat levi si su
+objecte es povri, e intim si ti-ci es rich e celebri.
+
+ 
+
+Consultar. - Serchar li aprobation de alqui por un decision quel on ha
+ja prendet.
+
+ 
+
+Enoyanto. - Person quel parla quande on vell desirar que it escuta vos.
+
+ 
+
+Deve. - To quo pussa nos ínresistibilmen in li direction del profite,
+sequente li lineas del desir.
+
+ 
+
+Egoist. - Person con bass instinctes, quel interessa se a il self plu
+quam a noi.
+
+ 
+
+Hospedalitá. - Vertú quel incita nos a nutrir e a logiar cert persones
+quel have null beson de nutritura e de logiment.
+
+ 
+
+Pace. - Periode de duperíe inter du periodes de combattes.
+
+ 
+
+Patientie. - Minori forme del desesperantie, mascat in vertú.
+
+ 
+
+Politesse. - Li max acceptabil del hipocrisies.
+
+ 
+
+Mode(?). Despot quel li sagio ridiculisa ma a quel il obedi.
+
+ 
+
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+CHANGE IN LI TITULES DEL LIBRES
+
+ 
+
+Un danesi bibliotecario ha fat recentmen un inqueste pri li evolution
+del titules del libres, e il concludet que anc tis-ci subisse li
+influentie del epocas e del changeant guste del letores.
+
+ 
+
+In 180(?)0, li vocabul moral mancat presc nequande sur li frontispicie
+del max populari libres.
+
+ 
+
+Li epitet \"poetic\" conosset poy un grand success in li romantic epoca.
+Plu tard li titules esset atinget del maladies del colores ; on videt
+aparir li yun blanc puellas, li blu ángeles, li azurat cieles. Poy
+aparit li ciffrat titules : li N-ro 3 indicat li famosi \"trio\", li
+N-ro 2 li fidel cuples, li N-ro 11 e li N-ro 14 corespondet a romanes in
+quel abundat conjurationes.
+
+ 
+
+-19-
+
+ 
+
+ 
+
+ 
+
+OCCIDENTAL IN LI COMERCIE
+
+ 
+
+It es interessant constatar quant vivid es li international terminologie
+in li lingue del comerciantes. Li plupart del nov nómines selectet del
+inventores (Queles totalmen ne conosse Occ.) es ja pur Occ. e conforma 
+su formation del paroles.
+
+ 
+
+Un de nor colaboratores visitant li ultim \"Sviss Contore\" in Lausanne
+ha notat li sequent nómines designant aparetes recentmen mettet in li
+comercie e patentat.
+
+ 
+
+Portator, litt aparate por portar li paccas(?).
+
+ 
+
+Lavator, aparate por lavar li linage.
+
+ 
+
+Renovator, liquide por capilles.
+
+ 
+
+Automatic, horloges Richard.
+
+ 
+
+Mercator, loco de comerciant.
+
+ 
+
+Fixcolor, specie de nov colorante.
+
+ 
+
+It es apen necessi remarcar que li traductiones in Esperanto o Ido de ti
+paroles monstra solmen que ti lingues max sovente torna li dorse al
+internationalitá in lor derivates. In Occ., in contrari, ti paroles es
+exactimen conform al ingeniosi regul de Wahl usat in li deverbal
+derivation.
+
+ 
+
+On memora que, in 50 annus, Esperanto ha lassat in Svissia un sol
+nómine, it es li marca de horloges MOVADO. Ti conosset marca coincide
+índubitabilmen con li parol Espo movado, derivat del verb mov-i e
+coresponde a nor parol movement.
+
+ 
+
+Secun li informationes, quel un de nor colaboratores obtenet de un del
+fundatores del fabrica, just morit ante poc témpor, li adoption de ti
+nómine apare quam curiosi :
+
+ 
+
+\"Li unesim marca de comercie usat por li proprietarios del hodial
+interprense FABRIQUES MOVADO esset \"sûreté\". Li usation de ti marca ne
+satisfat a cert dispositiones del legislatura in dominia del marcas
+comercial e li directores del firma comprendet li necessitá changear lor
+marca de fabrica.
+
+ 
+
+Un del usatores del firma ocupat se pri ti change. Il volet un nómine
+caracteristic e facilmen pronunciabil in omni lingues. Il havet li idé
+serchar ti nómine in li lingue Esperanto; il comprat un lexico,
+trafoliettat it e decovrit li parol \"movado\" quam equivalent die Fr.
+mouvement.
+
+ 
+
+Ti parol semblat le responder al condition de un marca caracteristic e
+pronunciabil e il pro to adoptet ti parol quam nov marca de fabrica por
+su interprense!
+
+ 
+
+Pri Ido yo conosse un sol marca evocant ti lingue, it es Toblerido. Ti
+nómine esset adaptat por designar un specie de chocolate, per li
+conosset bernesi fabrica in li epoca quante it usat Ido.
+
+ 
+
+Fred. Lagnel.
+
+ 
+
+-20-
+
+ 
+
+ 
+
+ 
+
+TRA LI PRESSE.
+
+ 
+
+Durante li ultim mensus, li sviss presse sembla har ocupat se tre poc
+pri li movement interlingual. Li noticies queles venit a nor conossentie
+consistet in lor pluparte ex li sempre repetit publication de du o tri
+ínsignificant comunicationes de propaganda esperantistic e quel
+inserates de Esperanto e basic English.
+
+ 
+
+Li perfid ataccas del Esperantistes (queles, quam nor letores ja save,
+inculpat nos esser un specie de quinesim colonne in li movement
+mundelingual, subventionat per li National-Socialistes) ha trovat presc
+null ecó in li presse. Li grand jurnales de nor land simplicmen ha
+ignorat it. Li Tat, de Zürich, in su numeró del 3 sept. 1944, citat
+quelc frases ex li pamflete esperantic por caracterisar it quam \"infam
+metode de combatte del Esperanto-fanaticos\", por adjunter : Noi ne vell
+esser si deman alqui vell pretender que Stalin prova mortar, per medie
+del Occidental, li Basic English de Churchill in favore de un Russ
+mundan\... In contrarie a ti jurnales queles reprintat li atacca del
+Esperantistes noi pensa que it es li tache del presse stigmatisar un tal
+inferior atitude mental.\"
+
+ 
+
+Céterimen poc jurnales solmen reprintat li textu del pamflete. Noi
+trovat it in li Aargauer Tagblatt e li Limmattaler Tagblatt de
+Altstätten (numeró de 23 aug. de ambi jurnales), ma li du redactiones
+esset sat loyal publicar anc un detaliat refutation del ataccas scrit de
+nor ínfatigabil coidealist Dr. F. Haas (2 e 16 sept. respectivmen.).
+
+ 
+
+Un prolongat discussion developat se in li Appenzeller Zeitung
+(Herisau), in un long articul redactional, li acusation esperantic esset
+prendet quam base de un tro clar exposite, in quel li argumentes de
+Occ., Esp-o e Basic English es dat in plen objectivitá. Li conclusion
+del autor adver es sat pessimistic : tam long quam li grand nationes
+refusa usar un lingue artificial, on posse recomandar al yunité de omni
+landes aprender solmen li max important lingues del munde. \"To vole dir
+necos contra li desirabilitá de un simplic e usabil mundelingue,\" noi
+lee in li fine del articul. \"Forsan generationes plu rasonabil de
+futuri secules va realisar li idés semat per pioneros quam Zamenhof, de
+Wahl, etc. Hodie li munde ne ja es matur por ili.\" Contra ti atitude
+pessimistic un Sr. T-r (nor coidealist major Tanner) defendet Occ. in li
+nr del 29 aug. de ti jurnal. Il monstrat precipue que Occ. posse esser
+docet quam preparation o fundament del aprension del max important
+lingues del munde.
+
+ 
+
+Un grand númere de revúes publicat in plen e acurtat li excellent
+articul \"Nachkriegsplanung und Welthilfssprache\" (Projectes posguerran
+e lingue auxiliari
+
+ 
+
+-21-
+
+ 
+
+ 
+
+ 
+
+international) de Dr. Haas.
+
+ 
+
+Un extremmen interessant articul, signat G.B., aparit in li Fögl Ladin,
+(Samedan, 22 aug.) sub li titul de \"il salvamaint dal rumantsch?\". Pos
+har citat un long passage in Occ. ex un scrite de Dr. Haas, li autor
+continua in su lingue matrin : \"E ti parol-mixtura deve esser li
+salvation de nor idioma? Yo crede que yes, suposit que it ne have li
+destin de omni altri provas far marchar un lingue international. Ma si
+it have li success maner, alor nor lingue es salvat. Ne que noi posse
+star con li manus in tasca o lassar tonnerar, no, alor noi have in plu
+li deve apoyar ti lingue international, in maniere que tam bentost quam
+possibil it chassa omni altri lingues foren ex nor scoles e ex omni
+functiones public e privat queles hodie ancor usa les. Qual bell cose to
+vell esser! Li paradise de ante Babilon vell revenir. Partu in terra
+romantch on vell audir parlar solmen romantch e Occidental. Nequande li
+lingue international vell devenir dangerosi a qualcunc lingue existent.
+Li tot avantage vell esser que noi ne vell plu esser obligat ocupar nos
+de plur lingues, ma concentrar nos a un lingue foren, e a ti quel omni
+homes in li tot munde, vell aprender. Lass nos do esperar lu max bon.\"
+
+ 
+
+Dr. Pg., Basel.
+
+ 
+
+\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+TESTIMONIE DE UN DEMI-FRATRE.
+
+ 
+
+In un esperantistic prospecte titulat \"Der gegenwärtige Stand der
+Weltsprachebewegung\" e scrit de Sr. Rud. Unger de Zürich, noi lee ti
+lineas publicat in 1931:
+
+ 
+
+\"\...Novial kaum irgendwo ernst genommen werden dürfte. Etwas mehr
+Gewicht kommt dem Occidental zu, das 1922 von Prof. De Wahl
+herausgegangen wurde, es ist eine ganz geschickt zusammengestellte
+Arbeit, die aber dem innern Wesen der Welthilfsprache in keiner Weise
+gerecht wird.\"
+
+ 
+
+Do, li grand ínamico de Occ. de hodie qualificat antey nor lingue quam
+\"tot habilmen combinat labor\", ma quel ne merite esser li ver
+international lingue. Inter li unesim constatation e li desdignant
+conclusion de Sr. Unger existe un contradition quel forsan ne gena un
+Esperantist ma quel va astonar li altri homes. Nam un cose \"tot
+habilmen combinat\" in null domenes posse restar long in detra-plan, anc
+ne in interlinguistica. Partú it es li max bon procede, li max bon
+machine quel es finalmen adoptet, e noi ne vide pro quo li lingues
+constructet vell escapar ex ti lege del progress.
+
+ 
+
+It es ver que li atestation de \"habil combination\", dat a Occ. per su
+max ínreductibil adversario in Svissia, data del témpore quande li
+extension de nor lingue ne ja menaciat li positiones de Esp-o. Alor Sr.
+Unger considerat it con ponderation\...Ma li témpores ha mutat! Ric
+Berger
+
+ 
+
+-22-
+
+ 
+
+ 
+
+ 
+
+LI ULTRA-SON.
+
+ 
+
+Li son ne audibil, nominat ultra-son, es un del max recent medies por
+tecnic scopes. Ti undes have 20000 vibrationes e plu in un seconde e pro
+to ne es audibil del orel homan. Ma ili possede surprisant fisical
+qualitás. Ja desde 20 annus on save que tre alt sonas contrari posse
+rupter vitres. Ti observationes ha dat orígine a un special scientie.
+
+ 
+
+Hodie li ultra-son es un del max important auxilies in chemic e fisical
+laboratorias. It permisse far bollir aqua e scumar sapon. Su aplication
+por li examination de materiales de omni sortes es specialmen conosset.
+Li max fin fensuras posse esser registrat, nam ili reflexe li undes.
+
+ 
+
+Durant li guerre on ha laborat specialmen intensiv al perfection del
+metodes e al multiplication del dominias de aplication del ultra-son. On
+descovrit que it permisse descalcear li aqua, ligar plu facilmen
+molecules sub su influentie e far morir microbies. In li production de
+carburantes it anc lude un eminent rol. Por li hidratation del carbon,
+catalisatores es índispensabil. Ili possibilisa e accelera li reactiones
+e por trovar les, milles de experimentes esset necessi. Ci ne existe
+chemic formules ; solmen li experimentes decide. A ti catalisatores nu
+adjunte se li ultra-son quel possibilisa reactiones in un gradu
+ínconosset til nu.
+
+ 
+
+Sistematic investigationes ha monstrat que li colloidal dissolution del
+carbon es tre favorabilmen influentiat per it e que li polimerisation,
+to es li concentration de cert molecules a oleos, es accelerat. Per li
+calentation de crud benzol sub pression e influentie del ultra-son, con
+un frequentie de 350 kilohertz, on successat producter oleo por motores
+in li demí del témpore usual. Per li aplication del ultra-son, on posset
+fabricar acetaldehid, quel es de grand importantie por li production de
+sintetic materies, sub conditiones in quel normalmen un success ne es
+possibil. Li rason de su efectivitá es, que ti undes, ne audibil por li
+orel homan, fracte molecules, talmen que ili poy posse formar plu
+rapidmen e facilmen nov combinationes.
+
+ 
+
+(Secun articules in St. Galler Tagblatt e Schweiz. Kaufmännisches
+Zentralblatt, composit de K. Hamburger)
+
+ 
+
+\-\-\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+Refar un Europa:
+
+ 
+
+It es evident que plu li comunicationes va devenir facil, plu li
+simpaties va devenir grand inter li nationes del terra. Malgré lor
+politic odies, ili va tro mult besonar unaltru, talmen que li mutual
+bonitá va finalmen superar li national mesquineries.
+
+ 
+
+Novicow, russ economist.
+
+ 
+
+-23-
+
+ 
+
+ 
+
+ 
+
+SUBVENTIONES E CONTRIBUTIONES RECIVET (31.1.1945)
+
+ 
+
+Sr. W. Haas, fr. 5.\--; H. Leuthold, fr. 10.\--; Aug. Erhard, fr.3.\--;
+Ing. J. Hilse, fr. 2.\--; Johalf 11.\--; A. Schild, fr. 5.\--; G.
+Ahlstrand, fr. 5.\--; F. Tjernström, fr. 15.\--; C. Segersstähl, fr.
+3.\--; O. Bresin, fr. 2.\--; A Kellenberg, fr. 6,50.
+
+ 
+
+Cordialissim mersí a omnes !
+
+ 
+
+LOCOS U EXISTE LETORES DE COSMOGLOTTA
+
+ 
+
+Tre sovente nov interessates a Occ. questiona nos esque existe altri
+adeptes de Occ. in lor cité o vicinitá por posser visitar le, conversar
+con il pri interlinguistic aferes e mem exercir li parlation in Occ.. Ti
+desir es tre comprensibil e noi fortmen incoragea it. Ma, pro que it ne
+es nos possibil dar in nor litt revúe li adresses de omni interessates
+in Svissia, noi indica almen li locos u trova se hodie un o plur letores
+de Cosm. Li adresse complet de tis-ci va esser comunicat pos demanda
+adressat al administration in Chapelle-Vaud.
+
+ 
+
+Aarau, aesch, Arlesheim, Basel, Bern, Bettlach, Bevers, Bienne, Buchler
+(App.), Buttisholz, Chaux-de-Fonds, Chapelle-Vaud, Chesières, Chiasso,
+Chur, Couvetz, Donatyre, Emmenbrücke, Erstfeld, Escholzmett, Fleurier,
+Frauenfeld, Freidorf, Genève, Grenchen, Hünibach, Kosthofen, Küsnacht,
+Lausanne, Leytron, Locarno, Lugano, Luzern, Montreux, Morges, Neuchâtel,
+Olten, Oberburg, Pieterlen, Rotenburg, St. Gallen, Solothurn, Soyères,
+Stans, Steckborn, Stettfurt, St. Maurice, St Ursanne, Tavannes, Thun,
+Vaduz, Widen, Wil, Winterthur, Yvonand, Zofingen, Zug, Zürich.
+
+ 
+
+\-\-\-\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+DISCO IN OCCIDENTAL JUST APARIT
+
+ 
+
+Noi amemora a nor letores nor ultim edition :
+
+ 
+
+\"Discurs in Occidental\", per Dr. F. Haas, obtenibil che omni venditor
+de discos o che : Institute Occidental in Chapelle-Vaud, por li precie
+de fr. 5.05. Ti disco deve mancar che nequel Occidentalist possedent un
+gramofon.
+
+ 
+
+\-\-\-\-\-\-\--
+
+ 
+
+CONTENETE: Fusion del interlingues. \-- Occidental e li telegrafie. \--
+Esperanto es un Occidental Lingue. \-- Li plancas del pastor Quinche.
+\-- Li svin. \-- Li dictionarium del diabol. \-- Changes in li titules
+del libres. \-- Occidental in li comercie. \-- Tra li presse. \--
+Testimonie de un demi-fratre. \-- Li ultra-son. \-- Subventiones.
+
+ 
+:::

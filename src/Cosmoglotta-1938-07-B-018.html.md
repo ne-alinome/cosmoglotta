@@ -1,0 +1,1284 @@
+Cosmoglotta B 018 (jul 1938)
+============================
+
+\
+
+::: {#displaycontent}
+COSMOGLOTTA
+
+ 
+
+Serie B, poligrafat - \"INFORMATIONES\" - Julí 1938 - Nró 18 (4)
+
+ 
+
+Edgar de Wahl:
+
+ 
+
+Li pronómines personal
+
+ 
+
+1\. Li personal pronómines apartene al max ancian lingual elementes. Ili
+es max tenacimen conservat. Li notiones del Yo e del Tu ya forma li base
+del expression del consciositá pri se self, per quel li hom distinte se
+del animale.
+
+ 
+
+2\. Quam grand es ti tenacitá, e quam ancian, to noi posse constatar ex
+li grand coincidentie inter li conjugationes del lingues indo-europan e
+ural-altáic. In li plu ancian stadies aglutinat-flectent del
+cultur-lingues li pronómin ancor ne es separat del verbe quam hodie, ma
+it es solmen un desinentie formant un tot con it. Li similitá del
+tractation de ti elementes indica un grand originari parentitá inter ti
+du grand e tam diferent lingue-gruppes, e pro to it have grand
+importantie por li conossentie pri li essentie intern de ti paroles. Li
+ural-altáic lingues representa li plu ancian stadie.
+
+ 
+
+3\. Exemples (ples comparar anotationes in fine del present articul)
+
+(In chascun exemple li formes del singulare trova se a levul, tis del
+plurale a dextri.)
+
+ 
+
+Tatar: bul-mak = esser (1)
+
+I. bul-a-min bul-a-mis
+
+II\. bul-a-sin bul-a-sis
+
+III\. bul-a bul-a-ler (2)
+
+ 
+
+Li índependent formes pronominal es
+
+I. min mis
+
+II\. sin sis
+
+ 
+
+Ples comparar in estonian
+
+mina me(ie)
+
+sina se(ie)
+
+ 
+
+Sanscrit
+
+I. bhara-mi -mas
+
+II\. -si -tha
+
+III\. -ti -nti
+
+ 
+
+Grec ancian:
+
+I. -mi, (-o) -men
+
+II\. -s -te
+
+III\. -si -easi (-ousi)
+
+ 
+
+Slav ancian:
+
+I. jes-m(i) jes-me
+
+II\. jes-i jes-te
+
+III\. jes-t (3) \'s-ut (4)
+
+ 
+
+Polonés:
+
+I. czyta-m czyta-my
+
+II\. czyta-sz czyta-cie
+
+III\. czyta czyta-ja (5)
+
+ 
+
+-41-
+
+ 
+
+ 
+
+ 
+
+Latin:
+
+I. \'s-u-m \'s-u-mus
+
+II\. es es-tis
+
+III\. es-t \'s-u-nt
+
+ 
+
+I. am-o  (6) am-a-mus
+
+II\. am-a-s am-a-tis
+
+III\. am-a-t (3) am-a-nt
+
+ 
+
+German:
+
+I. leb-e leb-e-n (7)
+
+II\. leb-st leb-(e)-t
+
+III\. leb-t (3) leb-e-n (8)
+
+ 
+
+Hispan:
+
+I. cant-o (6) cant-a-mos
+
+II\. cant-a-s cant-a-is
+
+III\. cant-a cant-a-n (8)
+
+ 
+
+Italian:
+
+I. am-o (6) am-ia-mo
+
+II\. am-i (9) am-a-te
+
+III\. am-a am-a-no (8,9)
+
+ 
+
+Cp. con to Estonian: tule-ma = venir (10)
+
+I. tule-n (7) tule-me
+
+II\. tule-t tule-te
+
+III\. tule-b (11) tule-va-d
+
+ 
+
+4\. Ex ti exemples noi posse constatar lu sequent:
+
+4.1 Plu li lingues progresse in evolution, plu li desinenties simplifica
+se e cade.
+
+4.2 In li du unesim persones reye grand coincidentie partú.
+
+4.3 In contrari noi trova divers metodes aplicat ye li triesim persones.
+
+4.31. (a) Absentie total de pronómin. In li plurale on simplicmen usa li
+general finale pluralic. (Tatar).
+
+4.32. (b) In li 3. person del singulare apari un finale t. To clarmen
+indica su provenientie del pronómines demonstrativ, che queles li son t
+es extraordinarimen frequent.
+
+4.33 (c) In li plurale noi trova partú - exceptet in Tatar -
+coincidentie con li participie present activ (12). In Estonian mem in li
+singulare.
+
+4.4 Per altri paroles: li triesim person totmen ne es un pronómin
+originari. In li modern lingues it es expresset per pronómines
+demonstrativ.
+
+ 
+
+5\. Per to it explica se, que li completmen diferent psicologic
+installation del homes de Eurasia (= Europa + Asia) vers li 1-esim e
+2-esim person in un láter e li 3-esim in altri láter ha evocat anc un
+diferent tractation. Li du unesimes es plu diferentiat, plu personal,
+plu individual, durant que li formes del triesim es preferibilmen
+submisset al regul general, essente un cose plu lontan.
+
+ 
+
+6\. In nor casu to significa lu sequent:
+
+ 
+
+Durant que ye li unesim du persones li casus de subject e de object
+(nominative e acusative-dative) es strictmen individualmen diferentiat,
+to ne es tam rigorosi in li 3-esim person. Ci li form del nominative mem
+vell posser forsan esser egal a ti del acusative. Li diferentie tande es
+quasi in li emfase.
+
+ 
+
+7\. Pro que in li 3-esim person ne hay coincidentie general, li unitá del
+stil postula restriction de ti considerationes al gruppe romanic. In
+Occidental it do
+
+ 
+
+-42-
+
+ 
+
+ 
+
+ 
+
+deve esser un form modern del latin ille, illa (noi abstrae del neutri
+form.)
+
+ 
+
+8\. Or, in li romanic lingues ha fat se un remarcabil separation. Li
+unesim demí de ti pronómines, accentuat, representa li subject; li
+duesim, ínaccentuat, li object: P.ex. Francés il-le, elle (pron. el) -
+la. Ti duesim demís es juntet al verbe encliticmen, do ínaccentuat.
+
+ 
+
+Ma si li object es expresset per un (sempre ínaccentuat) preposition, li
+pronómin recive li accentu, do logicmen F. pour elle, e ne pour la.
+
+ 
+
+9\. Pro to in Occidental li fom complet (il(lo), illa, illos, illas, ili)
+posse secun li regul general esser et nominativic et acusativic; ti
+ultim NB quande it es accentuat: yo vide \*illa\* (ne il); yo \*vide\*
+la (ma ne audi quo illa di).
+
+ 
+
+10\. Pro to noi posse formular in Occidental li regul del propositiones
+quam seque: Omni prepositiones reye li nominative. Solmen ye li
+pronómines personal del 1-esim e 2-esim person ili reye li casu obliqui.
+(me, te, nos, vos.) Secun lu precedent, ti metode es fundat et
+psicologicmen, et lingual-historicmen.
+
+ 
+
+(Li originale de ti articul, essente un memorandum por
+interlinguisticmen interessat linguistes, esset redactet de sr de Wahl
+in lingue german. Autorisat traduction de Ilmari Federn. Ples comparar
+linguistic consilies in li sam nró.)
+
+ 
+
+Anotationes: (de sr de Wahl)
+
+ 
+
+\(1) Cp. russ by-l = esset, de by-t\' = esser. Li sam radica retrova se
+in L. fu-i.
+
+\(2) -ler es general desinentie del plurale. Cp. beg = prince, beg-ler =
+princes.
+
+\(3) Cp. li slav demonstrativ pronómin tot, ta, to, li grec tis, ti =
+alquí; german: da, dort, der, dies.
+
+\(4) Li u es originarimen un son nasal (Fr. on), cp. slav sut e latin
+sunt.
+
+ 
+
+\(5) a con cedille pronuncia se nasal quam on francés.
+
+ 
+
+\(6) m quam desinentie ha desaparit ja in Latin presc totalmen.
+
+ 
+
+\(7) n final pronuncia se plu facilmen quam m.
+
+ 
+
+\(8) t final ha cadet.
+
+ 
+
+\(9) Li lingue italian evita consonantic finales.
+
+ 
+
+\(10) Cp. -ma con -mak tatar.
+
+ 
+
+\(11) b es v indurat. Ti form do es identic con li participie present:
+tulev, tulev-a-d. Ti d es in estonian li general desinentie pluralic,
+sam quam -ler in tatar.
+
+ 
+
+\(12) Li participie present activ es caracterisat in li lingues
+indo-europan per li consonantie nt, quel plu tard mutat se a on nasal e
+poy in u(nt), v in estonian, quel es conservat in li slav participie
+present activ (Russ dela-v-si). Ti psicologic coincidentie apu li
+egalitá del formes in li pronómines del 1-esim e 2-esim person obliga a
+suposir un originari conexion del du grand lingue-gruppes. Cp. adplu in
+tchec, que li passate in li triesim person es expresset per li pur form
+participial (byl), durant que li unesim e duesim person addi li form
+conjugat del verb \"esser\" (byl jsem).
+
+ 
+
+-43-
+
+ 
+
+ 
+
+ 
+
+ON SCRI NOS
+
+ 
+
+Du Esperantistes, e du mentalitás quasi oposit! On mey comparar li du
+lettres, queles noi reproducte ci, oposiente li originales in Esperanto
+con li traductiones in Occidental. Li unesim lettre have quam autor sr
+Rollet de l\'Isle, ex-presidente del Esperanto-Academie, li sam quel
+unquande desconsiliat li usation in propaganda-textus sur covertes pro
+su íncomprensibilitá.
+
+ 
+
+Parizo, 27-an de junio 38
+
+Paris, 27. junio 38
+
+ 
+
+ 
+
+Mi ne konas Occidetal, kaj mi ne deziras koni ĝin; nur mi scias ke ĝi
+estas imitaĵo de Esperanto, kaj tio sufiĉas por ke mi konsideru ĝian
+aŭtoron kaj ĝiajn partianojn kiel la plej certaj - eble rekonsciaj -
+malamikoj de la idea de lingvo internacia.
+
+Yo ne conosse Occidental, e yo ne desira conossir it; yo solmen save que
+it es un imitation de Esperanto, e to sufice me por considerar su autor
+e su partisanes quam li max cert - forsan ínconsciosi - ínamicos del idé
+del lingue international.
+
+ 
+
+Mi forlasos Esperanton nur kiam oni nmonstros al mi lingvon, kiu superos
+Esperanton tiom kiom Esperanto superas Volapükon - sed D.ro Zamenhof
+pruvis ke tio estas neebla. Rollet de l\'Isle.
+
+Yo va abandonar Esperanto solmen quande on va monstrar me un lingue,
+quel supera Esperanto tant quant Esperanto supera Volapük - ma dr
+Zamenhof pruvat que to es ínpossibil.
+
+ 
+
+Ples releer ti preciosi missage e admirar li logica del argumentation:
+ne conosse Occidental - ma save que it es un imitation; ne vole conosser
+it - ma demanda que on monstra un lingue superiori\... Ma noi vell far
+ínjusticie a nor esperantistic confratres presentante ti exemple quam
+simptoma del mentalitá general. Un carte de un tot altri, amabilissim,
+caractere arivat de sr Boucon, membre del Lingva Komitato, in Annecy, ye
+li 22. januar 1938:
+
+ 
+
+Altestimata sinjoro, Mi kore dankas vin pro la sendo de via tre interesa
+revuo kaj se mi jam de longe ne estus Esperantisto, mi facile povus
+fariĝi Occidentalisto.
+
+Altestimat senior, Yo cordialmen mersía vos pro li invitation de vor tre
+interessant revúe e si yo ne vell esser ja desde long Esperantist, yo
+vell facilmen posser devenir Occ\'ist.
+
+ 
+
+Cetere iaj honestaj kaj kleraj kontraŭuloj helpas ankaŭ al nia afero,
+multe pli, eble, ol fanatikaj, blindaj adeptoj.
+
+Céterimen omni honest e erudit adversarios auxilia anc nor afere, plu
+mult, forsan, quam fanatic, ciec adeptes.
+
+ 
+
+Mi bone konas Sojn de Wahl kaj Berger kaj mi tre ŝatas ilin; sed vi
+facile komprenos, ke ni ne povas tamen facilanime forlasi nian amatan
+Esperanton, por adopti senplue iun alian sistemon laŭdire pli bonan.
+
+Yo bon conosse srs de Wahl e Berger e tre aprecia les; ma vu facilmen
+comprende, que noi tamen ne posse con levi anima abandonar nor amat
+Esp\'o por adopter sin altricos un altri sistema dit plu bon.
+
+ 
+
+-44-
+
+ 
+
+Ni preferas ĝin plibonigi laŭeble kaj laŭgrade per li praktiko,
+utiligante eĉ en tio, dankeme, vian propran sperton kaj vian valoran
+laboron.
+
+Noi prefere ameliorar it secun possibilitá e gradualmen per li practica,
+utilisante por to, con mersí, mem vor propri experientie e vor valorosi
+labore.
+
+ 
+
+Kun alta estimo, Samideane Via \-- Boucon
+
+Con alt estima, coidealisticmen \-- Vor B.
+
+ 
+
+Esque li accentuat lítteres de Esperanto constitue un embarass o ne? Noi
+ne vole contradir a ti Esperantistes, queles considera les quam un
+genial simplification, ma noi peti les excusar si Cosmoglotta A in
+future plu ne posse inserter Esperanto-textus in li ortografie oficial,
+e peti les creder que to ne es debit a malevolentie o ignorantie
+deformant li Esperanto-textus, ma l lettre sequent, quel noi recivet de
+nor printería, \"Imprimerie Centrale\", un del max important printerías
+de Svissia. Li originale del lettre esset in francés.
+
+ 
+
+\"Seniores, Inter li manuscritus queles vu ha inviat nos por li numeró
+de Cosmoglotta (it acte se pri ti de may 1938 con li version del
+document 125), noi ha trovat lítteres ínexistent in li matricies usual,
+i.e: ĝ, ŝ, ĉ, ĥ, ĵ. - Noi vell posser procurar nos les, ma noi vell
+esser obligat facturar vos li summa de Fr. 52.50. Ples responder\... \"
+
+ 
+
+Nor letores atentiv va har remarcat que in anteriori Esperanto-textus in
+Cosmoglotta li lítteres tegmentat ne esset productet in normal
+composition machinal quam li rest del textu, ma specialmen composit ex
+un tipe normal e un accentu; un procede demandant penosi e minuciosi
+manipulationes, quel li printería comprensibilmen ne vole repetir tro
+sovente. Pro que nor facturas es calculat - vé - in francs sviss, de
+queles chascun vale plu quam 8 francs francés, noi deve renunciar al
+corect Esperanto-lítteres\... til que un esperantistic mecen prende
+suficent interesse pri Cosmoglotta por donar Esperanto-matricies a nor
+printería\...
+
+ 
+
+Philéas Lebesgue, li famosi e populari poet-paisan francés e redactor
+che li \"Mercure de France\", adressat a nor coidealist Poujet li
+paroles sequent in version occidental:
+
+ 
+
+10\. junio 38
+
+\"Car senior, Yo es vos ínfinitmen grat pri que vu ha cuidat far me
+conosser li nov lingue international Occidental per medie de
+Cosmoglotta. Yo havet li curiositá iniciar me un poc subsequentmen a
+Volapük, al \"Langue Bleue\", a Esperanto e a Idiom Neutral. Li grand
+merite de Occidental es esser ínmediatmen comprensibil a omni person un
+poc cultivat. In ti látere it sembla me superiori a Esperanto, quel
+tamen ha recivet extraordinari incorageamentes, ma quel es mult minu
+facil, quam on ha assertet. Ples creder, car senior, mi sentimentes
+cordialmen grat e devoet.   Philéas Lebesgue  \"
+
+ 
+
+-45-
+
+ 
+
+ 
+
+Cinta Ro:  \"Mondilingwo\"
+
+ 
+
+On ha dit, que li grand economic crise havet adminim ún avantage por li
+movement del lingue international: nettar su camp del duantene de litt
+projectes vegetant intra o extra \"Tolero-Interlanguages\" e movent se
+inter li gambes del grand sistemas. In li decennie passat on audit
+parlar pri Novam, Optoez, Medial, Etem, Nov-Esperanto, Esperanto,
+Cosman, Uniti Langue etc. etc. Hodie ili ha desaparit; lor autores e
+eventual altri adherentes ha morit, resignat o adheret al grand
+movementes queles prepara se al decision final.
+
+ 
+
+It do astona, e mem evoca sensation, si un nov project audacia aparir
+sur li scene pos li terrent experientie de ti grand morida.
+\"Mondilingwo\" es li ultim creation de nor italo-mexican confratre sr
+Aldo Lavagnini. Anteriori sistemas del sam autor, \"Eklexi\" e
+\"Monario\" sta mentionat in ancian tomes de \"Cosmoglotta\".
+Mondilingwo declara ne voler far concurrentie al existent sistemas, ma
+invita omni mundlinguistes per cordial paroles a cooperation. Alcunes de
+su bon printat o poligrafat prospectes es dedicat a IALA, e su bell
+printat jurnale mensual \"Mondilingwo\" (4 pág. formate 20 x 27 cm)
+mentiona IALA con simpatie. Noi gratula sr Lavagnini har trovat mecenes
+permissent le, malgré li desfacilitás del epoca, far aparir un
+visibilmen custosi gazette e far propaganda che altri mundlinguistes.
+Anc pluri Occidentalistes ha recivet \"Mondilingwo\" e petit li
+redaction de Cosmoglotta publicar un recension. Vi ti recension resumat
+in tri paroles: \"Interessant - simpatic - sin chance.\"
+
+ 
+
+Sin chance: nam Mondilingwo ne es ínmediatmen comprensibil, e por li
+amatores de poc-comprensibil lingues on ja have Esperanto. Malgré li
+vast lingue-conossenties del autor (grec, sanscrit, hebreic, arab), li
+principies inspirant su sistema es ne linguistic ma - ocultistic tales!
+Pri li selection del formes ne decide li practic usanties international,
+ma speculationes filosofic: pro tales es conservat p.ex. li duale inter
+singulare e plurale, complication abandonat del quasi totalité del
+lingues modern. Hay un declination per vocalic finales in modo de
+Volapük, e li international paroles es deformat in modo de Esperanto, ma
+minu radicalmen. Li grammatical parolettes fa memorar li tabelle
+corelativ de - Saussure.
+
+ 
+
+Interessant: nam li autor es un fenomen rar inter interlinguistes;
+benque eclectico, il ne es un imitator, ma un spíritu selectiv e creativ
+con idés original. Su sistema clarmen difere et del tip Esperanto et del
+tip Occidental; it es ni unibasic quam L.s.F., ni un diform conglomerate
+quam Uniti Langue. Mondilingwo have un caracter edistint e individual.
+Li selection del vocabules sembla esser fat secun un principie de
+neutralitá distributiv con base alargat. Vi un textu:
+
+ 
+
+\"Qenqe el revui speciale naturo ne permitta un vere en propre
+kolaborazo - multe fuas resultante in steril e non util diskutazas - nos
+komuna en kolabora in nis kordio kon allas dezirante el ùnito
+interlingwiste en cercante el manero
+
+ 
+
+-46-
+
+ 
+
+ 
+
+en medias mais konveniante pro le adapan. Ce nos acepta, danka en
+bonvenia ca sujeriazo, kritiko en kooperazi formo morale, intellektuale
+en materiale: in allas nos fandarà un impulso et inspirazo. Alle
+interlingwistas ea pro nes vere samideanas. Qia allas spiritualum et
+efektivum labora, in sui differante vayas, pro el same buto en realizo
+finale: el avento de un solle Interlingwo, uniante alle hòmines in sui
+relaçiones en nel ùnito de lis aspirazas. El Interlingwo verum
+unifikante el civílizo aktuale en permittante el mais strikte kooperazo
+de alle poples.\"
+
+ 
+
+Un plen recension vell exceder nor cadre; vi solmen un trate specialmen
+original: in ti lingue (in quel on crede posser vider un particularimen
+fort influentie hispan e anglés tendenta  sintese) \"li tonic vocal del
+presente es diftongat (un linguistic fenomen observabil in omni
+Indoeuropan lingues) et por preventer confusion con un acusativic form
+del substantive et por compensar li perde del finales personal\". a
+deveni ai: aima (ama); e deveni ei: leija (lee); i muta a ie o iei:
+vie(i)da (vide); o a oi: poiva (posse); u a ui: uiza (usa); au a ou:
+louda (lauda). Ti procede, mentionat in ún prospect por li indicative,
+in un altri por un possibil subjunctive, sembla esser abandonat in li
+revúe; yo es tentat dir: regretabilmen! nam malgré li justificat
+objection, que it es un complication ínutil, vi un idé original in
+interlinguistica, un nov via.
+
+ 
+
+Simpatic: Yes, Mondilingnwo, li gazette, es simpatic pro li alt nivelle
+del considerationes publicat in it e li nobil spíritu in quel it es
+redactet: it spira un ton de amicalitá sincer, un desire a cooperation;
+e li redaction de Cosmoglotta confirma, que li autor ha demonstrat anc
+per action, que il considera se quam amico e ne quam concurrent del
+grand sistemas existent. Pro quo, tande, il lansa se in un aventura, a
+quel noi - sur base de custosi experienties - ne posse profetisar un
+practic success? Ci interveni li motives ocult - o forsan un desire
+demonstrar li necessitá del tentatives por unification del lingue
+international.
+
+ 
+
+Coidealistes interessabil pri delicatesses interlinguistic e pret a
+inprofundar se in li arcanes de \"Mondilingwo\" posse demandar
+specimenes del revúe e prospectes (in lingues hispan e anglés)
+gratuitmen de sr Aldo Lavagnini, Apartado postal 2929, Mexico Cité, D.F.
+
+\-\-\-\--
+
+ 
+
+Un acord con li Idistes? \"Progreso\" de april-junio contene pluri
+mentiones pri Occidental, nor movement e quelc coidealistes. Exceptet un
+perfectmen objectiv e tre interessatn articul de dr. Auerbach, ili es
+redactet in tam misductiv maniere, que ili ha pluri energic replicas, ma
+queles noi ancor prefere ne publicar: noi ha interim respondet a ún
+ínjustificat reproche, ti \"que li idistic eforties pri cooperation ne
+trova un suol fertil che nos\". In un lettre al president-cassero del
+Ido-Union e al redaction e administration de \"Progreso\", li
+administration de \"Cosmoglotta\" ha 
+
+\*) fat concret propositiones pri un plu strett cooperation, quam
+response a lor purmen retoric manifestes. Nor futur atitude va depender
+de lor reaction.     [\*) provocat]{style="font-size:13px;"}
+
+ 
+
+-47-
+
+ 
+
+ 
+
+Doc. 167 O   Quelc factes concret pri li Occidental-movement
+
+ 
+
+Gazettes redactet in Occidental:
+
+ 
+
+Cosmoglotta (neutral organ oficial del Occidental-Union).
+
+Occidental-Bulletin (organ del tchec movement).
+
+Li Sved Occidentalist (organ del sved movement).
+
+Class-Combatte (politic organ).
+
+Sempre (politic organ).
+
+Catalonia in lucta (politic organ).
+
+ 
+
+Gazettes con regulari publicationes in o pri Occidental:
+
+ 
+
+Revue Internationale de Sténographie
+
+Mitteilungen des Hoerbiger-Instituts (Austro-Germania).
+
+Italia Filatelica (Italia).
+
+Pax (Tchecoslovacia).
+
+Nezávislá Politika (Tchecoslovacia).
+
+ 
+
+Medies de aprension de Occidental existe in lingues:
+
+ 
+
+Anglés. Finn. Francés. German. Hispan. Portugalés. Ruman. Sved. chec. In
+preparation: Catalan.
+
+ 
+
+Lexicos (vocabulariums) existe in Occidental in lingues:
+
+ 
+
+Anglés. Finn. Francés. German. Italian. Portugalés. Russ. Tchec. Sved.
+Dan. In preparation: Catalan. Estonian. Madyar. Rumanian. Polonés.
+
+ 
+
+Medies de information pri Occidental existe in lingues:
+
+ 
+
+Anglés. Francés. German. Hispan. Catalan. Italian. Nederlandés.
+Portugalés. Romanch. Russ. sved. Tchec.
+
+ 
+
+Cosmoglotta have oficial representantes in li sequent landes:
+
+ 
+
+Anglia. Belgia. Cuba. Estonia. Francia. Hispania (Catalonia). Italia.
+Nederland. Portugal. Rumania. Svedia. Svissia. Tchecoslovacia. U.S.A. Un
+representante comercial existe in Germania (con Austria).
+
+ 
+
+On posse abonnar Cosmoglotta per payar directmen a postchecconto in:
+
+ 
+
+Belgia. Dania. Francia. Germania (representante). Svedia. Svissia.
+Tchecoslovacia (representante).
+
+ 
+
+Cosmoglotta es abonnat in:
+
+ 
+
+Belgia. Bulgaria. Dania. Estonia. Francia. Finnland. Anglia. Irland.
+Hispania (con Catalonia). Germania (con Austria). Italia. Latvia.
+Lithuania. Nederland. Polonia. Portugal. Hungaria. Rumania. Norvegia.
+Svedia. Tchecoslovacia. U.S.S.R. Svissia. Canada. Cuba. Australia.
+Madagascar. Mexico. Japan. Honduras. India nederlandés. U.S.A.
+
+ 
+
+-48-
+
+ 
+
+ 
+
+Doc. 169 O.   Esque Occidental es un imitation de Esperanto?
+
+ 
+
+It es un erra creder, que Occidental es un specie de Esperanto developat
+e evoluet. Con mult plu grand justification on vell posser dir, que
+Occidental es in chascun detalie li strict contrast de Esperanto.
+Occidental e Esperanto es situat sur diferent branches del
+\"interlinguistic curve\". 
+
+ 
+
+(Image: dominia del speculation (a priori) \-- Dominia del lingues
+natural (a posteriori))
+
+ 
+
+Departente del filosofic sistemas (F), un branche passa Volapük (V),
+avansa vers lu natural, Esperanto, e furca se poy in un logistic
+branche, Ido (I), e un naturalistic, Novial (N). Li altri branche ducte
+del lingues etnic (occidental) tra Pirro (P) e Lott (L) in li direction
+del construction simplificant, por atinger in Occidental (O) li
+antingibil maximum de naturalitá, international reconossibilitá e
+regularitá. Antey separa se un parte de ti curve-branche e ducte tra li
+provas de simplification sur base de un sol lingue, Latino sine Flexion
+e(LsF), Anglic (A) e Basic English (B), a retro in li direction del
+etnic lingues.
+
+ 
+
+(Ex li ovre presentat del Occidental-Union: \"Logica e Autonomie in li
+structura de un international auxiliari lingue\".)
+
+ 
+
+-49-
+
+ 
+
+ 
+
+BIBLIOGRAFIE
+
+ 
+
+Recensente li brochura Interlingua quam universal lingue auxiliari (Cg B
+17, p. 36), yo expresset li desir que li Academie pro Interlingua mey
+editer un simil librette, eventualmen un poc plu ampli, in un del
+occidental cultur-lingues. Quelc dies plu tard yo recivet un exemplare
+del libre \"Interlingua - Il Latino vivente come Lingua usiliaria
+internazionale\", redactet de srs U. Cassina e M. Gliozzi e editet del
+firma \"Le Lingue Estere\" in Milano. Yo ne save quo yo deve admirar
+plu: li habilitá del autores queles ha fat un litt mastro-ovre; o ti del
+editores queles successat posir it al disposition del letores por li
+modic precie de solmen Lit. 5.\--. Li librette da sur 126 págines: un
+introduction pri li problema del L.I., un complet exposite del
+principies de Interlingua con su grammatica, un Antologie contenent un
+serie de exercicies de vocabularium, un selection de interessant letura,
+un capital dedicat al ovre de Peano e un liste de vocabules (adverbies,
+conjunctiones, prepositiones) specialmen compilat por non-conossores del
+Latin. Li cardinal objection contra Interlingua es generalmen que un
+Latin simplificat ne posse satisfar li besones del modern vive caus li
+manca de mult vocabules necessi in tecnica, scientie etc. Noi deve
+aconosser que li autores del librette save defender se contra ti
+acusation. Li antologie tracta justmen li temas max modern e per to da
+al letores li possibilitá formar se un opinion tre exact pri li valore
+del solution adoptet. Yo cita solmen poc exemples ex li temas tractat:
+\"aedificios, acquisitione, habitatione, itinere (viage), zoolologia,
+metallos, industria textile, charta et libro, artes, athletica aut
+sport, etc.\" Yo calidmen recomanda li librette a omni interlinguistes.
+On posse obtener it de \"Le Lingue Estere\" Via Cantù 2, Milano, Italia.
+Yo in ultra permisse me, recomandar al atention de poliglottes anc quelc
+altri publicationes del sam editoría: Unesimmen li revúe \"Le Lingue
+Estere\" contenent linguistic articules, exercicies, questiones
+grammatical e complet curses in e pri German, Francés, Anglés, Hispan,
+Croat, Arab, Amharic e Latin. Precie: Lit. 25.\-- per annu (12 nrós).
+Duesimmen li \"Quaderni di Cultura Linguistica\", colection de librettes
+ex queles yo cita quam exemples: Surprises del Hispan, Trappes del
+lingue anglés, Manuale de nomenclatura linguistic, Li facil misteries
+del lingue japanés, Talmen on parla in America, etc. Precies: Lit. 5-6.-
+Anc li librette pri L.s.F. apartene a ti serie.
+
+A. Matejka
+
+ 
+
+In sam témpor noi recive un altri manuale in li sam lingue de su autor,
+Leonard Weber in Polonia, quel sembla esser adepte de Ido e L.s.F. in
+sam témpor e sin dúbit esset anc li autor del libre recenset de sr
+Matejka in li numeró precedent de Cg B. It nómina se \"Lectiones de
+lingua auxiliari Interlingua (Latino sine flexione\" e contene sur 32
+págines graduat letiones pri divers practic
+
+ 
+
+-50-
+
+ 
+
+ 
+
+temas sequet de brevi regules, li tot textu exclusivmen in L.s.F. Anc ci
+on posse parlar pri un mastro-ovre concernent composition e disposition
+del textus. Concernent li vocabularium del lingue presentat on ne posse
+evitar cert remarcas: Li parol \"brass\" es traductet per \"armo\",
+parol ni latin, ni international in ti sens, ma purmen germanic. E it
+denove convicte nos, que a un modern epoca on ne posse presentar
+vocabules mort o íninternational quam \"tege, aegro, re, pulcro,
+manduca, cras, disce, loque, atele, líttera, involucro, nimis, tessera,
+etc. etc.\" vice li formes modern e plu conosset \"covrir, alad, cose,
+bell, manjar, deman, aprender, parlar, post-marca, lettre, covert, tro,
+billet etc. etc.\" On vell posser prolongar ti liste considerabilmen. Li
+marca del -r in li infinitive e del regulari distintion inter passate e
+presente verbal, li omission del pluralic -s pos adjectives quam
+\"pluri, mult\", e in fine li manca del articul definit fa li lingue
+foren al modern spíritu del lingues europan; li adjectives con
+obligatori finale -o ne es minu chocant ante paroles feminin quam li usu
+contrari in Esperanto. Malgré nor simpatie por li altri membres del
+scole naturalistic, noi ne posse evitar dar expression a nor gust: it es
+un lingue quel malgré omni simplification porta li atmosfere pesant de
+un epoca lontan, antiqui, e ínrevocabilmen passat.   I.F.
+
+\-\-\-\--
+
+ 
+
+Sempre li sam objetiones, ja millvez refutat e respondet\... Public
+lettre de un Occidentalist a un de su corespondentes:
+
+ 
+
+\"Tre estimat senior: Mult mersí pro vor lettre interessant, in quel vu
+havet li amabilitá expresser nos vor opinion pri li lingue auxiliari
+Occidental. Pro que it contene li usual objetiones ja refutat in
+multissim de nor scrites, it posse semblar que vor conossentie pri ti
+nov lingue es ancor un poc íncomplet. Ples do permisser, que noi
+suggeste que it vell esser util, que vu informa vos plu detalliatmen pri
+it, ante que noi continua li corespondentie pri ti tema. Si vu vole far
+vos li litt pena inviar li ci-junt carte al Institute Occidental,
+Chapelle, Vaud, Svissia, vu va strax reciver li complet catalog del
+Occidental-litteratura. Si poy vu vell trovar alqual question o
+objection ne respondet, it va esser nos un plesura dar vos ulteriori
+explicationes. Con grand estima, vor \...\"
+
+ 
+
+Li crescent difusion de nor movement causa, que sovente nor max bon
+propagatores exhauste se in un corespondentie simultan con 4,5,6
+novicios ex li publica o adherentes de schematic sistemas por afirmar
+les, que Occidental ne es un imitation de Esperanto, que it es tam bon
+por chineses quam por eskimós, que it ne es plu ínregulari quam altri
+sistemas, que it ne servi un specific scope politic, etc. etc. To es un
+terribil dissipation de labore, témpor e porte postal, si on considera
+que noi possede documentes pri quasi omni usual questiones. Li Institute
+Occidental ha editet un \"Formularium 20\" con li textu supra citat in
+lingues Occidental, Esperanto, Anglés, Francés, German, Tchec. Bentost
+it va exister anc in lingues Italian, Sved, Hispan, Catalan, Portugalés,
+Nederlandés. It es inviat gratuitmen (1-5 exemplares) con carte
+acompaniant a omni demandantes.
+
+ 
+
+-51-
+
+ 
+
+ 
+
+CRONICA
+
+ 
+
+Omni coidealistes viageant, e tis queles accepte viageatores, es petit
+inviar curt raportes pri occidentalistic incontras al \"Cronica\" de
+\"Cosmoglotta\". Mersí!
+
+ 
+
+FRANCIA: Paris. Con grand plesura, in fine de April, noi esset visitat
+de Dr. Med. Bengt Hammar de Stockholm. Noi successat auxiliar le in su
+demarches per introducter le in li nov Institute de Studie e de
+Prevention del Professional Maladies.
+
+ 
+
+\-- Saumur. (Maine-et-Loire). Durant li pascal vacanties mult
+participantes del viages in Albergas de Yunité visitat li Alberga de
+Yunité in Saumur, bon installat in un insul del fluvie Loire. Chascun
+vésper nor coidealist Mérgino venit al yun viageatores e parlat les pri
+Occidental. Plures esset entusiasmat, anc un Esperantist. On deve
+esperar que Institute Occidental va reciver mult demandes pri
+informationes. Tal propaganda es bonissim.  L.B.
+
+ 
+
+\-- Angers. Un litt gruppe occidentalistic es fundat inter li eleves del
+Scol Normal por instructores in Angers. Li iniciator es sr Ch.
+Delaporte, Scol Normal. Noi desira bon success a ti nov gruppe
+simpatic.   L.B.
+
+ 
+
+\-- Paris. Pluri eleves del Scol Normal Superiori por li professoratu in
+Fontenay-aux-Roses, proxim Paris, ha demandat informationes pri
+Occidental.  L.B.
+
+ 
+
+\-- Aparit nró 5, junio 1938, del revúe \"Sempre\"; li purmen politic
+contenete impedi nos recenser it. Li folie poligrafat comensa nu anc
+inserter dessinat caricaturas de politicos. Redaction-administration: J.
+Toublet, 21 rue de Loos, Paris.
+
+ 
+
+ITALIA: Sr Ing. Alberto Picchi, director del Scol Industrial \"Leonardo
+da Vinci\" ha fat un discurs \"Considerationes pri li lingues
+auxiliari\" ye li 13. junio in li \"Istituto nazionale di cultura
+fascista\" in Firenze. Li jurnale \"La Nazione\" del 29. junio da un
+detalliat raport: Li orator demonstrat li desfacilitá del lingues
+national, impedient les devenir international. Il demonstrat que Latin
+ne posse esser revivificat al usa modern; il revuat li diferent sistemas
+e demonstrat lor crescent cronologic aproximation vers naturalitá. Li
+orator comparat li special interesses de Italia, queles vell esser
+servit plu bon per L.s.F. o tot specialmen per Occidental, lingues
+proxim al Italian, quam per Basic English, quel trova un cert apoy in
+landes anglo-saxon. Li alusion que Basic English es favorisat per un
+cert institution anglo-saxon aspirant a selecter li max bon sistema,
+atribue se probabilmen a un miscomprense del raportero: IALA ne mem
+mentiona Basic English in su materiale. Omni reproches pri partialitá
+adressat a it til nu coincidet pri un favorisation de Esperanto. Li
+discurs de sr Ing. Picchi marca un nov passu adavan in ni historie de
+nor movement in Italia.   Lu Gan.
+
+ 
+
+(Continuation del \"Cronica\" sur págine 56)
+
+ 
+
+-52-
+
+ 
+
+LINGUES VIVENT
+
+ 
+
+In omni lingues national hay libres, jurnal-rubricas etc. queles
+consilia pri bon stil, adverti contra erras de grammatica o lexico,
+discusse neologismes e barbarismes. Quant plu necessi es to por un
+lingue international, quel ya hodie es aprendet exclusivmen quam lingue
+extran, e in mult lingues mem ancor ne existe materiale de studie o
+adminim ne suficent. In future infantes nascet ex mixtet maritage va
+parlar Occidental quam unesim lingue, ma tam long quam it ancor es
+lingue extran, tam long erras e dúbites va persister. Li erras lingual
+veni ex li diferentie inter custom del lingue matrin e custom del lingue
+extran. Qui, ante Occidental, ha practicat un mecanistic sistema de
+L.I., constata con plesura que in Occidental li erras es considerabilmen
+minu frequent; pro du motives: pro su natural structura Occidental sta
+mult plu proxim al customes de nor lingues matrin quam li sistemas
+aspirant servir li chimere de alqual non-linguistic ideale abstract; e
+li elasticitá de Occidental admisse cert libertás, u lor schemas rigid e
+foren del vive conosse solmen un form corect e condamna omni deviation
+quam erra.
+
+ 
+
+In response a pluri desires, Cosmoglotta installa un lettre-bux, un
+\"responsoria\", a quel on posse adressar lingual questiones, a queles
+li competent coidealistes va provar dar response. Anc senior de Wahl ha
+promesset su benevolent colaboration. Tamen - ples esser patient e ples
+ne considerar nos quam omniscient. Nor lingue es yun, e multcos va esser
+decidet ne per formulation de un regul, ma per practica e experientie.
+
+ 
+
+Lass nos comensar per un declaration de modestie. Null Academie, nequí,
+anc ne noi, have medies policial por far accepter decretes. Que cert
+Academies, national o interlinguistic, cultiva li ilusion de lor
+omnipotentie, ne pruva lu contrari. Noi solmen consilia, e nor autoritá
+basa se sur un bon conossentie de nor lingue, de pluri lingues national,
+e sur un sentiment pri li stil e li spíritu de Occidental. Qui va sequer
+nor consilies, ti have jure al conviction scrir un Occidental corect, de
+bon stil, e internationalmen comprensibil. Que ne seque les, deve
+responsar to córam su propri conscientie - tam long quam il ne fa creder
+a altres que su lingue es li oficial Occidental e melior quam ti de
+Cosmoglotta. Ma it apare util delinear strax un essential diferentie
+inter li linguistic administration de Occidental e ti de Esperanto e
+Ido. Che Esperanto omni discussion es interdit; qui ne conforma se -
+adío! Che Ido on discusse omnicos, e omni Idist sembla haver li jure
+introducter su preferenties personal apu li \"querko-stabila Ido
+klasika\". In Occidental it es altri. Noi ne have ni rigidisme, ni
+anarchie, ma stabilisation progressiv. Cert coses es decidet; on plu ne
+discusse les, e qui seque capricies personal, deve accepter li reproche
+que il usa in lingue ínpur e íncorect. To vale p.ex. pri li articul, li
+conjugation, li regul
+
+ 
+
+-53-
+
+ 
+
+de Wahl e un quantitá de vocabules. In altri casus un decision ancor ne
+es fat, e ta reye libertá. Lass nos evitar omni pedantisme e adopter li
+principie: Admisset es omnicos quo es internationalmen comprensibil e
+quo ne choca sentibilmen contra li stil usual de Occidental.   Ilmari
+Federn, Secretario del Academie
+
+ 
+
+Concernent linguistic questiones ples observar li regulament sequent:
+
+ 
+
+1\. Controlar esque li question ne trova se ja respondet in un manuale,
+in un ancian caderne de Cosmoglotta, o in \"Spíritu de Occidental\".
+
+ 
+
+2\. Adressar li question al Secretariatu del Occidental-Academie,
+Chapelle, Vaud, Svissia. It posse esser juntet in li sam covert con un
+lettre al Institute Occidental, e al Occidental-Union, e inviat a tis
+ci, ma it deve esser materialmen separat de omni lettre acompaniant.
+Chascun question deve esser scrit sur un folie apart (si possibil, de
+formate normal A 4 (297 x 210 mm).
+
+ 
+
+3\. Li folie deve contener li sequent indicationes:
+
+ 
+
+a\. in alt a levul: complet nómin e adresse del expeditor.
+
+b\. in alt a dextri: indication \"Por Lingue Vivent\".
+
+c\. in li medie del págin li question self, clarmen e brevimen formulat.
+
+d\. sub li question: indication esque li question deve esser publicat con
+plen nómin, con iniciales, con chiffre, con pseudonim.
+
+ 
+
+4\. \"Lingue vivent\" responde solmen a questiones de general interesse.
+
+ 
+
+5\. Si un response per lettre es desirat, ples junter un respons-cupon o
+un Bon del Institute Occidental in valore de 30 cts. sviss.
+
+ 
+
+6\. Li jure questionar es reservat in unesim linea al membres del
+Occidental-Union, al practicantes de Occidental e abonnatores de
+Cosmoglotta.
+
+ 
+
+Prepositiones e pronómines, a sr L.B. in S. (Francia): [Vor eleves
+questiona quel casu del pronómines deve esser prendet pos
+prepositiones.]{style="font-size:13px;"}
+
+ 
+
+In li comensa de ti numeró de Cg B vu trova un articul de sr de Wahl,
+quel da li scientic motives por un stabilisation in ti question, in quel
+til hodie reyet un cert libertá. Quam ye li substantives, queles ne
+conosse un acusativic form in Occidental, anc ye li pronómines, omni
+prepositiones sta con li nominative, ma con li formes me, te, nos, vos:
+Vor eleves do mey dir: con me, a te, vers il, apu ella, sur it, de nos,
+contra vos, pri ili, por ellas, per quo, pro qui, a nequi, de alqui, per
+alquicos etc.
+
+ 
+
+P.O. in St. (Svedia): No, li parol \"sendar\" ne existe in Occidental.
+Secun li sens on deve dir \"misser, inviar, expedir\", max usual es
+\"inviar\". Vor corespondent ha esset Esperantist o Idist, e li custom
+es tenaci. Ples anc ne confuser dar e donar. Li verb general es \"dar\".
+\"Donar\" traducte se in francés plu bon per \"faire cadeau\" quam per
+\"donner\", it significa dar alquicos ex su propri possession in li
+possession del recivente. On dona p.ex. ye festas, ye Cristnascentie,
+Nov-Annu, anniversarie.
+
+ 
+
+-54-
+
+ 
+
+ 
+
+ 
+
+CRONICA (Continuation de págine 52)
+
+ 
+
+SVISSIA: Chapelle. Li estive es li seson del viages e da ocasion a
+occidentalistic incontras. Li Institute Occidental havet li grand
+plesura accepter ye li 26 may un visite de dr. Bengt Hammar in
+Stockholm, e in sam témpor de sr Bieller, director del Revue
+Internationale de Sténographie, ex Bienne, con marita e filietta. Ye su
+retorn, dr Hammer incontrat in Lausanne srs Berger e Moeckli. Durant un
+mensu, coidealist dr. Karel Stastný ex Praha, con marita e genitores
+esset gast de coidealist A. Moeckli in Lausanne. Srs Stastný e Moeckli
+visitat Chapelle ye li 19.6. Li visites esset grand plesuras a omnes, e
+dat excellent ocasion parlar e practicar nor vivaci lingue Occidental. 
+  F.L.
+
+ 
+
+\-- Li plagiat-afere. Li sviss Esperanto-chef Dr. E. Spielmann, autor
+del reproche pri plagiate de Esperanto contra sr de Wahl in li oficial
+organ del sviss posteros e doaneros, ha morit. Noi es content posser
+comunicar que ante su morte il havet ancor ocasion reparar su insulte
+per un public revocation del plagiat-reproche in li sam jurnale.
+Considerante li situation, noi renuncia descrir e comentar ci
+detalliatmen li circumstanties precedent e acompaniant ti revocation; si
+persones specialmen interessat desira it, noi va pos quelc témpor
+preparar un traduction del actes del casu Spielmann.   F.L.
+
+ 
+
+TCHECOSLOVACIA: Occidental-Bulletin, junio 1938, es quam sempre
+excellentmen redactet. Li cardinal articul redactional tracta ti ci vez
+exceptionalmen un actual politic problema e escapa pro to a nor
+recension. Remarcabil es mult noticies pri recensiones de Occidental in
+tchec jurnales, e li cuidat e ampli traductiones de tchec fraseologie in
+Occidental.
+
+ 
+
+\-- Nezávislá Politika continua su rubrica Occidental. Nró 13 del 9.
+april contene un articul in Occidental pri un missage del yunité del
+rubi cruce tchecoslovac al infantes del munde, con tchec glossarium. Nró
+16 del 7. may mentiona informationes pri Occidental in li jurnales
+\"Lidové noviný\" e \"Týden\"; ti ultim jurnale inaugurat un rubrica
+\"Occidental e Esperanto\", li parte Occidental es redactet de sr
+Podmele. Nró 18 recense Cg A 120, Nouvel Âge, Sempre e Revue
+Internationale de Stenographie. Nró 19 sublinea que li studie de
+Occidental, in contrari a Esperanto, ne es témpor perdit, pro que on
+aprende li vocabularium international. It revúa li practic aplication de
+Occidental in Mitteilungen des Hoerbiger-Instituts e in Catalonia in
+Lucta.    F.L.
+
+ 
+
+ 
+
+\-\-\-\--
+
+ 
+
+Editorial informationes: Li famosi articul de A.Z. Ramstedt: \"Li
+psicologic e sociologic caractere del lingues\" ha esset reeditet quam
+Doc. 165, 12 pág, formate Cg. Precie afrancat -.20 cts. \-- Li complet
+\"Vocabularium del centres de interesse\" de R. Berger va esser
+liverabil ye fine de julí. Poligrafat in maniere de Cg B, it va contener
+100 capitules sur ca. 120 pág. Precie afrancat SFr. 2.\-- Li unesim
+liveration de \"Spíritu de  Occidental\" es exhaustet. Nov subscritores
+es petit patientar se un poc. Un nov edition es in preparation.
+
+ 
+
+-55-
+
+ 
+
+ 
+
+Viageant Occidentalistes:
+
+ 
+
+Ples comunicar a Chapelle li rute de vor tur. Noi va comunicar vos
+adresses de Occidentalistes habitant in vor via! - Li marca de
+reconossentie ye occidentalistic incontras es li Occidental-insignie,
+Tilde-in-Circul. Preci afrancat SFr. 1.50 del Institute Occidental,
+Chapelle.
+
+ 
+
+Membres de A.P.I.S. SOlmen ti quel ha inviat li \*yelb\* carte de
+adhesion e payat li contribution de SFr. 5.- annual por li
+Occidental-Union (includent li abonnament de Cosmoglotta) es un
+Occidentalist vermen organisat!
+
+ 
+
+Spíritu de Occidental es un success! Li precie de subscrition de SFr.
+3.- ancor ne es definitiv. It va esser augmentat probabilmen ancor ante
+aparition complet del ovre. Ples inviar nos vor subscrition ante tro
+tard!
+
+ 
+
+Li Rubricas: Ex altri campes - APIS - Ex li Paper-Corb - Casse de
+propaganda - Liste de nov documentes - esset ajornat pro manca de
+spacie. Ili va esser contenet in li numeró de August.
+
+ 
+
+\-\--
+
+ 
+
+Contene: E. de Wahl: Li pronómines personal. \-- On scri nos. \-- Cinta
+Ro: Mondilingwo. \-- Quelc factes concret pri li Occidental-movement.
+\-- Esque Occidental es un imitation de Esperanto. \-- Bibliografie. \--
+Cronica. \-- Lingue vivent.
+
+ 
+
+\-\--
+
+ 
+
+Demandatores de nor \"yelb\" prospecte in Occidental: It esset exhaustet
+desde long, ma un nov edition es in preparation. It va esser in li sam
+colores quam li ancian edition, ma haver 8 págines in formate A6 - carte
+postal, talmen que on posse metter it sin plicar in covertes normal. It
+va contener pluri ilustrationes e portal li nómine \"Doc. 200\". Precie
+de 100 ex. SFr. 2.\--. Noi denove accepte comendas.
+
+ 
+
+-56-
+
+ 
+:::

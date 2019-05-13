@@ -1,0 +1,1551 @@
+Cosmoglotta B 008 (nov-dec 1936)
+================================
+
+\
+
+::: {#displaycontent}
+COSMOGLOTTA-INFORMATIONES
+
+ 
+
+Numeró 4 (8)     Novembre-Decembre 1936
+
+ 
+
+ 
+
+Contene: Extraordinari oferta al membres del Occidental Union \-- Litt
+anuncias \-- Elastic Occidental (Un practic experiment de traduction)
+\-- Sones \"ínaudibil\" \-- Nov tecnic terminologie \-- Li developation
+de Occidental - Un simplic regul\...! (Li participies de Espo) \-- Pro
+quo yo aprende Occidental etc.? \-- Concurse de abonnamentes por 1937
+\-- Redactional noticies \-- Un nov medie por payar litt summas \--
+\"Introduction\" \-- Qualmen demandar autorisation de traduction \-- Li
+nov regulament del exámines por docentie de Occidental \-- Li Regulament
+del Occidental-Academie.
+
+ 
+
+Extraordinari oferta al membres del Occidental-Union:   Multiplication
+de circulares e folies volant
+
+ 
+
+Per aquisition de un nov scri-machine con strett tipes e special claves
+por omni usual accentus, li Institute Occidental es nu capabil
+multiplicar ampli textus in presc omni lingues usant li alfabet latin.
+Sur un págin in formate normal A 4 (297 x 210) noi posse plazzar un
+textu de ca. 1000 (mill) paroles. Un folie con textu sur ambi págines
+posse contener 2000 (du mill) paroles!
+
+ 
+
+Li precies, solmen por membres del Occidental-Union e solmen por textus
+concernent li (??? propagande?) o aplication de Occidental, va esser -
+afrancat - por: 
+
+ 
+
+50 expls. \-- 100 expls. \-- 150 expls. \-- 200 expls.
+
+Por folies con textu sur 1 págine (til 1000 paroles: SFr. 2.50 \-- SFr.
+3.50 \-- SFr. 4.50 \-- SFr. 5.\--
+
+Por folies con textu sur 2 págines (til 2000 paroles): SFr. 4.50 \--
+SFr. 6.\-- \-- SFr. 7\-- \-- SFr. 8.\--
+
+ 
+
+NB Ti precie ne contene il porte.
+
+ 
+
+Li indicat precies vale por textus in li sequent lingues: Occidental e
+altri natural sistemas de L.I. (p.e. Novial), anc Esperanto, Ido, L.s.F.
+(ma ne Volapük!), - anglés, francés, german, italian, e li lingues del
+peninsules iberic e scandinav. Por lingues ne enumerat in ti liste es
+demandat un payament aditional de SFr. 1.\-- por chascun págine. Por
+labores con tirage plu grand quam ci indicat, o con specialmen curt
+textu, o sin relation a Occidental, ples demandar nor calculationes
+special.
+
+ 
+
+Li manuscrites deve esser scrit per machine e esser cuidosimen corectet,
+talmen que copiation sin controle es possibil. Li Institute Occidental
+refusa responsabilitá pri corectesse del textus. Li Institute Occidental
+reserva se li jure, far de omni demandat labor ulterior exemplares ye
+propri custas e por propri usu.
+
+\-\-\-\--
+
+ 
+
+ 
+
+Guérard: A short History\... Coidealistes possedent li curt historie del
+Lingue International mentionat, mey haver li amabilitá \*prestar\* it a
+sr Géza Hant, Calea Regele Ferdinand 90, CLUJ, Rumonia.
+
+\-\-\-\--
+
+ 
+
+Sr prof. R. Berger desira pruntar li Esperanto-dictionarium de
+Bennemann. Possedentes mey haver li amabilitá informar li Institute
+Occidental.
+
+\-\-\-\--
+
+ 
+
+Li unesim numerós del circulares del Occidental-Union (OUC 1-3) e del
+Occidental-Academie (OAC 1-4) es completmen exhaustet. Pro que on
+demandat les de pluri láteres, noi vell posser considerar un re-edition
+de ti 7 circulares, si almen 10 coidealistes autorisat reciver ti
+confidential circulares declara se pret comprar les por li precie de
+SFr. 2.\-- por li du series afrancat. Ti relativmen alt precie explica
+se per li tre restrictet númere de eventual interessates e li consequent
+micrissim tirage. Interessates ples tornar se al Institute Occidental,
+Chapelle.
+
+\-\-\-\--
+
+ 
+
+Li ancor ne exhaustet exemplares del documentes del SAPO, circa 200
+folies, va esser vendit li serie total por SFr. 3.- (in vice de SFr.
+4.-) durant 1937. Ti rabatte ne vale por li nov numerós editet in 1937
+self.
+
+\-\-\-\--
+
+ 
+
+-39-
+
+ 
+
+ 
+
+Elastic Occidental - Un practic experiment de traduction
+
+ 
+
+De témpor a témpor on audi li objection, que un lingue international
+deve necessimen esser rigid e povri in expression. Tal objection sembla
+in facte esser justificat per li strangi teories pri \"coincidentie
+inter parol e idé\" etablisset de naiv teoricos de sistemas artificial.
+In omni casu it ne vale por Occidental, quel permisse un rich variation
+del expressiones, e to sin implicar in null maniere un complication del
+lingue, quam un superficial critico vell posser deducter. Noi va
+demonstrar to per un experiment.
+
+ 
+
+In octobre 1935, un gruppe de ca. 350 psichiatres adressat un manifeste
+al statmannes. Noi recivet de ti document tri versiones, francés,
+anglés, e german. Benque li tri versiones expresse absolutmen li sam
+idés general, li fort divergenties de stil e expression in detallie es
+frappant ye li unesim vide. Noi ha fat li experiment traducter li tri
+versiones tam fidelmen quam possibil a Occidental, por demonstrar in
+quant gradu it posse adaptar se al divers particularitás national. To
+monstra nos li ver problemas e desfacilitás de un mastric traduction in
+lingues national, ne solmen corectmen representar li idés, ma dar les
+just ti vestiment quel convene anc al mentalitá del propri nation.
+
+ 
+
+In nor traductiones noi ha presc exclusivmen aspirat a sequer li
+diferent lingues max proxim possibil. Forsan it va pleser un o altri de
+nor letores inviar nos un version quel expresse li sam serie de idés in
+bon stil autonom Occidental.    Ilmari Federn
+
+ 
+
+Francés version
+
+Anglés version
+
+German version
+
+ 
+
+Senior li ministro,
+
+Senior,
+
+Excellentie,
+
+ 
+
+Nor vocation quam medicos specialmen destinat a studiar li normal e
+psicologic manifestationes del vive mental del homes, va justificar in
+vor ocules li present e urgent adresse:
+
+Noi psichiatres, de queles li devore es investigar li mente normal e
+malad, e servir li homanité per nor saventie, senti nos obligat adressar
+a vos un parol seriosi in nor qualitá de medicos.
+
+Noi psichiatres, de queles it es li tache, explorar li vive del mente e
+ánima del san e malad homanité, senti nos obligat directer quam medicos
+un seriosi parol a vos.
+
+ 
+
+In li actual témpor reye partú un statu de spíritu quel gravmen menacia
+li securitá del popules, e quel vell posser, de un die al altri,
+degenerar a un nov colectiv psicose de guerre.
+
+It sembla nos que in li munde hay un mentalitá quel fa consequer grav
+dangeres por li homanité, possente eventualmen ducter a un evident
+psicose de guerre.
+
+In li munde ho-témpor reye un mental statu, quel menacia li vive del
+popules per enorm dangeres, pro que it posse ducter a un explicit
+psicose de guerre.
+
+ 
+
+Li guerre mobilisa omni destructori potenties del homanité, it ducte al
+anihilament del hom per li tecnica debit a su genie creatori.
+
+Guerre significa que omni destructiv forties es laxat per li homanité
+contra se self. Guerre significa li anihilation del homanité per tecnic
+scientie.
+
+Guerre significa activar omni forties de destruction contra li homanité,
+significa anihilation del hom per li tecnica.
+
+ 
+
+Quam in omnicos quo tucha li vive homan, li factor psicologic lude un
+rol cardinal in li problemas de guerre e pace.
+
+Quam in omni coses homan, psicologic factores lude un tre important rol
+in li complicat problema del guerre.
+
+Quam ye omni fenomenes homan, anc ye li complicat problemas de guerre li
+mental constitution del popules es de altissim importantie.
+
+ 
+
+Si on vole preventer nov guerres, li popules e tis queles have li
+mission directer lor destines, deve con sangue frigid preciser lor
+atitude in egard al guerre.
+
+Si guerre deve esser preventet, li nationes e lor ductores deve
+comprender clarmen lor propri atitude concernent li guerre.
+
+Si li guerre deve esser evitat, popules e ductores deve devenir plu
+consciosi pri lor atitude al guerre.
+
+ 
+
+Solmen un tre clarmen etablisset enunciation del crede posse preventer
+un catastrofe universal.
+
+Per self-conossentie un mundal calamitá posse esser preventet.
+
+Solmen selfconossentie posse preventer un catastrofe mundal.
+
+ 
+
+Li sequent considerationes apare nos essential:
+
+Pro to noi trae vor atention a lu sequent:
+
+Fundamental por to es li comprension de lu sequent:
+
+ 
+
+1\. Li antagonisme inter li pacific tendenties del individues e li
+guerraci inclinationes del colectivités es debit al  facte que li hom
+rasona e reacte diferentmen quande il es sol quam quande il es in grand
+númere.
+
+1\. Hay un semblant contradition inter li consciosi individual aversion
+contra li guerre e li colectiv preparatesse a far guerre. To es explicat
+per li facte, que li conduida, li sentimentes, li pensas de un
+índependent individue es sat diferent de tis de un mann quel forma un
+parte de un colectiv tot.
+
+1\. Semblantmen existe un contrast inter li consciosi aversion del
+individue contra li guerre e li pretesse del totalité a far guerre. Nam
+li hom senti e pensa altrimen quam singul individue quam quam parte de
+un tot.
+
+ 
+
+Mem in li spíritu del cultivat homes de nor epoca subsiste ti tenaci
+restages de instinctes destructori e primitiv, queles deveni omnipotent
+in li moment quande un dangere sembla menaciar li colectivité.
+
+Li mann del civilisat duantesim secul possede ancor fort, feroci e
+destructiv instinctes, queles ne ha esset sublimat, o solmen in parte, e
+queles erupte quande li comunité, a quel il apartene, senti se menaciat
+per dangere.
+
+In li cultur-hom del 20-esim secul es vivent ancor savagi e destructiv
+instinctes del hom primitiv, queles ancor ne es nobilisat e expresse se
+sin scrupules quande un dangere sembla menaciar li comunité.
+
+ 
+
+On posse mem dir que hay in li ente homan li secret o ínconfesset desir,
+dar, in ínpunitá, in espera a un recompense i.e. glorie, líber curs a ti
+primitiv instinctes, e ti tendentie contribue grandmen a mantener li
+spíritu guerraci.
+
+Li ínconsciosi desire, dar curs al primitiv instincte ne solmen sin
+punition, ne mem con recompensa, favorisa in grand mesura li paratesse
+por guerre.
+
+Li ínconsciosi desire lassar acter ti primitiv instinctes, ínpunitmen,
+mem recompensatmen, favorisa in alt gradu li pretesse a guerre.
+
+ 
+
+Noi deve sempre denove comprender que solmen li spíritu e li volentie
+posse mastrisar ti brutal instinctes. Li forties destructori, queles
+vell conducter fatalmen li popules al cáos, posse, altrimen directet,
+dar profite al homanité.
+
+It vell dever esser comprendet que li instincte combattori, si bonmen
+directet, da energie por multcos quel es bon e bell. Ma li sam instincte
+posse crear cáos si it erupte de omni restrictiones, utilisante li max
+grand decovritiones del intellectu homan.
+
+It es necessi sempre denove devenir consciosi pri que solmen li spíritu
+posse domitar ti rud instinctes. Li guerral instinctes, directet in bon
+vias, furni forties queles es un benedition por li homanitá, li sam
+forties queles sin fren deve ducter al cáos.
+
+ 
+
+2\. Li índifferentie e li fatalisme del popules in concern al guerre es
+ínquietant.
+
+2\. It es stupefant vider quam poc li popules es clar pri li realitá.
+
+2\. Li manca de sens de realitá che li popules es terrent.
+
+ 
+
+Li hom \"civil\" ne fa se un clar opinion pri li horrores del guerre, e
+li defiladas del truppes in témpor de pace, li parades falsifica su
+idés.
+
+Li populari idés pri guerre, queles trova expression in gala-uniformes,
+militari demonstrationes etc. ne relate plu li realitás del guerre self.
+
+Imaginationes pri li guerre, queles expresse se in uniformes de parade
+etc. have null relationes al guerre qualmen it eveni in realitá.
+
+ 
+
+Li índiferentie in concern del intrigas e del cinicisme del
+munitionarios es egalmen ínquietant.
+
+Li apatie in concerne al actiones e intrigas del international comercie
+de armes es surprisant a chascun quel comprende clarmen li dangeres a
+quel ti comercie menacia ducter les.
+
+Strangi-astonant es anc li índiferentie córam li criminal actida e li
+intrigas del international industrie de armes.
+
+ 
+
+It es ínadmissibil que quelc individues sin scrupules profita del
+massacres de milliones de entes homan.
+
+It vell dever esser comprendet que it es folli, tolerar que cert gruppes
+de persones extrae personal profite del morte de milliones de homes.
+
+It es dementie, tolerar que poc singules trae lor personal avantages ex
+li massacrada de milliones.
+
+ 
+
+Noi deve revigilar li sens del realitás e li instincte del conservation
+del masses, nam ti tendenties es nor natural alliates contra li guerre,
+sam quam li sentimentes religiosi e li sens moral.
+
+Noi veni a vos con li urgent consilie avigilar li nationes al clar
+comprension de factes e al sense de colectiv self-preservation; ti
+potent instinctes essente li max fort alliates por li elimination del
+guerre. Li augmentation del moral e religiosi sens in vor popul tende al
+sam scope.
+
+On deve avigilar li sens de realitá e li instincte de self-mantentie del
+masses, pro que ti instinctes es li max fort confederates contra li
+guerre. In li sam direction efecte li infortiament del moral e religiosi
+sentiment in li popul.
+
+ 
+
+(Remarca redactional: Ti textus, queles representa circa li unesim demí
+del mentionat circulare, sta publicat ci pro exclusivmen filologic
+motives. Ili ne mey esset considerat quam expression de un opinion ni de
+nor colaborator, ni del redaction, quel repeti ye ti ocasion, que nor
+revúe es strictmen neutral in omni politic questiones.)
+
+\-\-\-\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+Sones \"ínaudibil\"
+
+ 
+
+Li homan orel percepte un son solmen quande li aer es perturbat de un
+númer de duplic vibrationes includet inter 16 minimum e 37 000 maximum.
+Ni omni vivent entes percepte li vibrationes (sive luminosi, sive
+sonori) in li sam maniere, sam quam ne omni radio-aparates detecte li
+sam gamme de radiofonic undes.
+
+ 
+
+Talmen, li ja ancian experimentes del scientist Francisco Galton ha
+demonstrat que li límite de perception del acut sones del cane es plu
+alt quam ti del hom, e que ti del cat es ancor plu alt. Galton utilisat
+un specie de flite, un vitrin tube con fores ci e ta, ex quel il extraet
+sones con variabil altore.
+
+ 
+
+Ascendente li scala del sones e preterpassante li max acutis, li homan
+orel ne perceptet plu necos benque li serchator sempre sofflat. Un can,
+introductet in ti moment in li laboratoria, strax levat su oreles pro un
+son quel it sol perceptet. Per ascender ancor plu in li scala del
+\"sones\", on determinat li límite súper quel un cat perceptet ancor
+alquicos, contra que li hom e li can ne plu perceptet necos.
+
+ 
+
+Do, it existe \"sones\" ínaudibil, queles, desde circa deci annus,
+obtenet important aplicationes, principalmen in li mesura del sub-marin
+profunditás.
+
+ 
+
+Antey, on ja utilisat li ordinari sonori undes: on productet un
+explosion sub un nave, e on inregistrat sur li nave li ecó, li bruida
+del retrovenida de ti explosion.
+
+ 
+
+Pro que li son propaga se in aqua con li rapiditá de 1500 metres in
+seconde - si li ecó esset inregistrat 3 secondes pos li explosion, to
+significat que li total via del son - vade e retro - ha esset 4500 m. e
+que li nave stat súper un funde de 2250 m.
+
+ 
+
+Ti metode havet un desavantage: li son propaga se ad omni directiones e
+por grand profunditás, it vell har esset necessi expenser un enorm
+quantitá de energie por que un ecó es perceptet, e utilisar gigantesc
+\"spegules\" acustic.
+
+ 
+
+Per utilisar \"ultra-sones\", con unde-longore de quelc millimetres, ma
+queles propaga se ye li sam rapiditá quam li sones perceptibil per nor
+orel, Langevin e Chilowski ha successat constructer emissores e
+projectores con micri dimensiones, queles concentra e directe tre
+exactmen li energie acustic. Ti nov metode va permisser mesurar tre
+exactmen li grandissim profunditás del Ocean.
+
+ 
+
+(Ex francés traductet G.W. Angers)
+
+ 
+
+ 
+
+Nov tecnic terminologie
+
+ 
+
+Benque to es li competentie del Academie e de Celia, yo crede que it es
+oportun tractar ti ci tema avan omni coidealistes, pro que it es
+principalmen un question de practica.
+
+ 
+
+In omni vivent lingues noi observa que nov expressiones nasce secun li
+progresse de scientie e tecnica. On sercha ti paroles in van in li
+ancian lexicos, benque mem li litt garsones conosse les ja ante li
+unesim annu de scol. Un modern lingue international quel have li
+ambition esser introductet bentost in li tot munde, deve esser \"up tu
+date\" (actualissim) in ti relation
+
+ 
+
+Li tecnica del grammofon es conosset; ma nu on comensa far quasi acustic
+portretes por conservar su voce por su nepotes o misser it trans li
+oceanes a lontan amicos por to on besona un special parol. Quande
+\"Cosmoglotta\" raportat nos que sono-discos con textu in Occidental ha
+esset fabricat, li redaction expresset to per li frase \"far inregistrar
+un textu sur un sono-disco\"; evidentmen pro manca de un plu bon special
+parol. Ci quelc altri propositiones: \"far accepter\", \"ingraver\",
+\"far incepter\". In li Radicarium li derivation \"incepter\" es
+mentionat, ma it es tre poc usat in li vivent lingues, do líber por un
+nov término.
+
+ 
+
+Dr. Peipers (Köln)
+
+ 
+
+Save vu, que \"foresto\" in Esperanto significa \"absentie\", que
+\"turisto\" significa \"guardian de turre\"?
+
+ 
+
+-41-
+
+ 
+
+ 
+
+E. de Wahl: Li developation de Occidental (Cronologic tabelle)
+
+ 
+
+1887 - Yo studia Volapük, benque repugnat, pro que li difusion de
+Volapük - quel tande esset plu grand quam poy ti de Esperanto pos 25
+annus - dat li suggestion que Volapük va esser bentost li Lingue
+International e plu ne remplazzabil per alquicos plu bon.
+
+ 
+
+1888 - Conossentie con Esperanto. Activ colaboration. Provas ameliorar
+Esperanto durant que it ancor esset in stadie de comensa.
+
+ 
+
+1894 - Pos stabilisation de Esperanto yo transi a índependent linguistic
+studies, explorationes, e experimentes.
+
+ 
+
+1896 - Colaboration al revúe \"Linguist\". Corespondentie con autores de
+divers sistemas de L.I.: Grabowski, Lott, Beerman, Molenaar,
+Rosenberger, Couturat, Meysmans, Peano.
+
+Lott plurivez relabora su \"Mundolingue\" secun mi consilies.
+
+ 
+
+1906 - Pos long corespondentie con me (excerptes publicat in \"Progres\"
+1906 e 1907), Rosenberger visita me in Tallinn (tande Reval). Pos un
+conferentie de du dies il transforma su \"Idiom neutral\" a \"Reform
+Neutral\", ma sin executer omni mi consilies.
+
+ 
+
+1909 - In \"Discussiones de Academia pro Interlingua\" Nr. 1. apari li
+unesim projecte del fundamentes del futur lingue, scrit in li
+experimental provisori dialecte \"Auli\" (auxiliari lingue) in li
+articul \"Abstracti Verbal-Substantives\".
+
+ 
+
+1911 - Colaboration permanent e exposition del ductent idés e metodes
+del construction de un L.I. in li revúe \"Lingua Internationale\" editet
+de Prof. I. Meysmans in Bruxelles.
+
+In nrós. 1. e 2. (errata) yo publica ye unesim vez li lege del formation
+del verbal derivationes, queles es li quintessentie de Occidental (hodie
+nominat \"Regul de Wahl\").
+
+ 
+
+Til 1921 - Privat studies e labores de construction - nequí possente
+auxiliar me in mi direction - specialmen pri li real signification del
+afixes, queles esset interpretat íncorect in li anteyan projectes, e pri
+queles anc in li scientic litteratura trovat se solmen tre poc
+important.
+
+ 
+
+1921 - Li deliberation del question de Esperanto in li Liga del Nationes
+da li instigation publicar Occidental.
+
+ 
+
+1922 februar - Publication del revúe \"Kosmoglott\" quel quam unesim
+pledi por Occidental, e \*in\* Occidental.
+
+Quelc mensus plu tard publication del unesim claves (grammatica e
+formation de paroles) in anglés, francés, german, russ.
+
+ 
+
+1925 - Aparition del unesim lexico \"Radicarium directiv\" in 8 lingues
+anglés, francés, german, hispan, italian, portugalés, russ, sved.
+
+ 
+
+1927 - Fundation del Occidental-Union in Vienna, e translocation del
+revúe, quel transforma su nómine a \"Cosmoglotta\" e es til ho-témpor li
+oficial organ del Occidental-movement.
+
+\-\-\-\--
+
+ 
+
+Un simplic regul\...!
+
+ 
+
+In \"Esperanto Internacia\" nró 3., decembre 1936, p. 11, noi lee:
+
+ 
+
+\"Concernent li composit formes del verbe, usualmen solmen \*li passiv
+formes causa embarasse pro li facte que in li europan lingues existe
+usualmen solmen un passiv participie.\* E inter li passiv formes del
+esperantic verbe, erras es max sovente fat pri -is -ata e -is -ita.
+Benque ne grav, ti erra es evitabil, si on antey \"traducte\" li passiv
+forme in activ e poy usa -is -ita solmen si li corespondent activ forme
+es -is -inta. Ti regul es simplic e in general anc suficent por li
+practica. (Sublineationes de nos)
+
+ 
+
+Save vu, que Esperanto have 6 participies? -anta, -inta, -onta por
+indicar li activ forme de presente, passate e future, e paralelmen -ata,
+-ita, -ota por li passiv formes del tri témpores.
+
+ 
+
+ 
+
+Pro quo yo aprende Occidental e pro quo li problema del lingue
+international interessa me?
+
+ 
+
+Pro quo yo trova que it es un tre important cose: colaborar ye expander
+un lingue international quel sol es creat por servicie al homanité, e
+to, quo - yo trova - es lu max valorosi in li cose del L.I., es que on
+partiprende in li labor por crear un international comprension e amicitá
+quel es tam necessi nu u li guerre furia completmen sin necessitá e sin
+conscientie destructe omni homan esperanties pri libertá e pace. Ta, yo
+crede, que li L.I. va esser sur li rect plazza. Nam li amicitá e li
+comprension quel in ti maniere va esser constructet inter omni nationes
+va certmen esser de tre plu grand durantie e valore quam omni species de
+tractates e paragrafes.    Else Jönsson (Copenhag)
+
+(16 annus; pos ca. un annu de aprension)
+
+\-\-\-\--
+
+ 
+
+CONCURSE DE ABONNAMENTES POR 1937
+
+ 
+
+Noi fa rememorar nor letores, que li administration de Cosmoglotta
+institue 6 premies por tis queles va recrutar li max grand númer de
+abonnamentes por 1937 til li 1-esim octobre 1937:
+
+ 
+
+Unesim premie: 1 lexico Occ.-Occ. Fr. 10.\-- sviss (in litteratura o in
+Bons del Institute Occidental)
+
+Duesim premie: 1 lexico Occ.-Occ. Fr. 5.\-- sviss
+
+Triesim premie: 1 lexico Occ.-Occ. Fr. 2.50 sviss 
+
+Quaresim premie: 1 lexico Occ.-Occ. Fr. 1.50 sviss 
+
+Quinesim premie: 1 lexico Occ.-Occ. Fr. 1.\-- sviss 
+
+Sixesim premie: 1 lexico Occ.-Occ.
+
+ 
+
+Li premies va esser distribuet li 1-esim novembre 1937.
+
+\-\-\-\--
+
+ 
+
+Li unesim liveration del Lexico Occidental-Occidental de Ilmari Federn
+va probabilmen aparir in april o may 1937.
+
+\-\-\-\--
+
+ 
+
+Ples observar que li 4 folies del present numeró de
+Cosmoglotta-Informationes contene li sam quantité de textu quam 16
+págines in machin-scritura normal.
+
+In 1937, Cosmoglotta-Informationes va aparir in li sam formate quam
+Cosmoglotta self.
+
+\-\-\--
+
+ 
+
+On aproba\...
+
+ 
+
+Yo ha bon recivet li expedit libres e tre mersía vos. Pos har examinat
+les, mi opinion es que Occidental es plu perfect quam Ido.
+
+Yo exea ULI, demissiona del consulatu, ne reabonna Progreso e
+Centerbladet pro que in vice yo vole abonnar Cosmoglotta.
+
+Stefan Lippai, Gyula, Hungaria
+
+(Ex un lettre del 18.12.36)
+
+\-\-\-\--
+
+ 
+
+Sr Petro V. Dimitriev, Asparuh 22, Pleven, Bulgaria, nu composi un libre
+de aprension con un litt vocabularium.
+
+\-\-\-\--
+
+ 
+
+Li Institute Occidental, Chapelle (Vaud) Svissia e omni altri instanties
+de nor movement
+
+ 
+
+peti vos
+
+ 
+
+1\) strax responder a lor lettres
+
+2\) indicar sur chascun comunication \*vor complet adresse\* por evitar
+perde de témpor per serchada in li adressarium.
+
+ 
+
+Nor movement es un movement de action. Chascun action composi se ex un
+multitá de singul actionettes. Li minutes perdit per negligentie in
+detallies additiona se a hores e dies. Ples auxiliar nos economisar ti
+dies!
+
+ 
+
+-42-
+
+ 
+
+ 
+
+00
+
+ 
+
+Serie A Numeró: 0000
+
+ 
+
+Li Institute Occidental
+
+Chapelle (Vaud) Svissia, obliga se exchangear ti provisori Bon til li
+31.12.1938 contra un quantité de su editiones, in li valore de:
+
+Null centesimes sviss
+
+o contra un nov Bon del sam valore con durada de validitá prolongat. ==
+Li 1. januar 1937
+
+ 
+
+(Stampe blu:) Institute Occidental
+
+Li Director:
+
+(Signatura Fred. Lagnel
+
+per incre e propri manu)
+
+ 
+
+Quo es to?
+
+Un nov medie por payar litt summas
+
+ 
+
+Un urgent beson ja sentit desde long témpor
+
+ 
+
+Ja desde long témpor noi ha considerat li problema del payation de litt
+summas. Mult coidealistes ha questionat nos pri li possibilitá trovar un
+medie por soluer it, nam li general medies existent es ínsuficent e mult
+tro custosi: li portes por payar 30 cts. per postmandate es tam grand
+quam por payar deci francs e implica scrition del sam multitá de divers
+formulariums. E por postal respons-cupones on deve payar circa li demí
+ultra lor real valore. On ha provat auxiliar se in divers manieres in
+altri campes: per fabrication de moné sur un base artificial
+international o sur li base de sviss postmarcas glutinat in litt
+covertes de celofane. Noi ne ha audit que ti metodes pruvat se
+successosi.
+
+ 
+
+Nor sistema de Bons
+
+ 
+
+In comensa de 1936, sr. I. Federn in Copenhag ha inviat nos un projecte
+quel sembla nos sat bon perlaborat, ma pro divers impedimentes noi
+solmen nu posse realisar it. Li idé es, basar li medie de payation ni
+sur un utopic non-existent unité, ni sur li moné de un land, am sur un
+concret valore existent: li litteratura editet del Institute Occidental,
+e sur li facte que it es conosset de omni Occidentalist, e que omni
+Occidentalist, ínmediatmen o mediatmen, alquande compra de ti editiones,
+almen por abonnar Cosmoglotta. Pro que un numeral graduation del valores
+deve exister, e omni nor precies es calculat in sviss francs, it esset
+natural, que noi adoptet li sviss franc quam unité indicatori.
+
+ 
+
+Li aspect del Bons
+
+ 
+
+Noi ha editet un serie de Bons poligrafat in formate normal A 7 (106 x
+74 mm) i.e. demí postcarte, con un textu de quel on vide in supra un
+specimen sin valore. Chascun Bon porta in infra li stampe del Institute
+Occidental e mi signatura per incre e propri manu. In li levul quart in
+supra it porta li indication del valore in grand tipes, in medie un
+numeró individual, e in infra li insigne de Occidental in colores
+variant secun li valore. Noi ha editet li sequent sett valores:
+
+ 
+
+Sviss francs -.05 con insigne in yelb
+
+Sviss francs -.10 con insigne in verb
+
+Sviss francs -.20 con insigne in blu
+
+Sviss francs -.30 con insigne in rubi
+
+Sviss francs -.50 con insigne in brun
+
+Sviss francs 1.\-- con insigne in orangi
+
+Sviss francs 2.\-- con insigne in violett
+
+ 
+
+Li Bons de -.30 va, noi suposi, trovar special interesse, pro que ili
+coresponde al porte de un lettre a extrania. Noi do ha fat de les un
+tirage specialmen grand. - Por cert arangeamentes e un special sistema
+de controle omni abuse o imitation de nor Bons es ínpossibilisat.
+
+ 
+
+Noi considera ti Bons (Serie A) provisorimen quam experimental. Si ili
+pruva se utilisabil, noi va editer in comensa de 1938 un nov serie
+fabricat per un procede plu bell. Pro to noi ha provisorimen fixat li
+durada de lor validitá til li fine de 1938, talmen que va esser un tot
+annu por li exchange contra nov Bons.
+
+ 
+
+Noi peti explicitmen atenter, que li sviss franc ne es li base, ma
+solmen li indicator de valore de nor Bons. Quelcunc li valore del sviss
+moné mey esser, noi va sempre exchangear nor Bons contra un quantité de
+editiones havent li indicat valore secun li precies valid ye li
+1.1.1937. Noi reserva nos li jure, revocar li validitá de nor Bons ye un
+termine de six mensus pos li publication del revocation il li oficial
+organes del Occidental-Union.
+
+ 
+
+It es comprensibil, que si noi abassa li precie valent hodie de alcun de
+nor editiones, li payatores per Bons jui li sam rabatte quam omni
+altris.
+
+ 
+
+Solmen Bons queles porta li signatura per manu e incre del Director del
+Institute Occidental (vide infra) va esser valid.
+
+ 
+
+Qualmen usar nor Bons?
+
+ 
+
+Li coidealistes queles desira usar li nov medie de payation, posse
+reciver it de nos contra inviation del valore per mandate international
+o chec postal al Institute Occidental. Noi anc accepte checs de banca -
+ma in ti casu ne minu quam li valore de SFr. 10.- pro li alt expenses de
+incassation. Ples ne obliviar indicar quel valores vu desira! Si vu
+comenda litteratura, li Bons corespondent a un eventual saldo va esser
+adjuntet al pacca. Noi reserva nos li jure, in casu de exhaustion de
+cert valores, inviar li sam summa per altris.
+
+ 
+
+Ti Bons va possibilisar litt payamentes anc a omni persones queles
+accepte les!
+
+ 
+
+Li reverses del Bons es blanc. Noi invita li reciventes de Bons notar
+sur li reverses nómin e date. It va plu tard esser interessant vider li
+Odissé de nor Bons.
+
+ 
+
+Noi peti omni organisationes de Occidental, specialmen li landal
+federationes, scrir nos esque ili es pret accepter li Bons. Noi tande va
+publicar un liste de oficial acceptores in Cosmoglotta-Informationes.
+
+ 
+
+Qui invia nos SFr. 10.- in Bons con un comende pri nor editiones, va
+sive reciver editiones in valore de SFr. 11.- (ples far un liste strax
+pri SFr. 11.-!) sive un retorn de nov Bons in valore de SF.1.- juntet al
+pacca.
+
+ 
+
+Un consilie ancor: in vor propri interesse it va esser preferibil, ne
+inviar li Bons quam printates, ma junter les in lettres!
+
+ 
+
+Li devise de Occidental es: Servicie al homanité. Li devise del
+Institute Occidental es: Servicie a nor coidealistes.
+
+ 
+
+ 
+
+Institute Occidental
+
+Li director:
+
+ 
+
+Fred Lagnel (signatura)
+
+ 
+
+(Signatura Fred Lagnel per propri manu poligrafat quam specimen)
+
+\-\-\-\-\-\-\--
+
+ 
+
+Unic oferta al abonnates de Cosmoglotta-Informationes. Ples exciser li
+infra cupon e junter it a Vor comende:
+
+ 
+
+\-\-\-\--
+
+Ti cupon, inviat al Institute Occidental Chapelle (Vaud) Svissia,
+acompaniat per un comende pri editiones del sam institute in un valore
+de almen SFr. 3.- (abonnament a Cosmoglotta exceptet), va esser
+exchangeat contra un o pluri Bons del Institute Occidental in li valore
+total de SFr. -.30. \-\-\--
+
+Chapelle, 1.1.1937    Fred. Lagnel
+
+ 
+
+\"Introduction\"
+
+ 
+
+Save vu, que it es possibil scrir vor textu in un tal lingue, que it es
+ínmediatmen accessibil por quasi li totalité del persones cultivat de
+omni nationalitá?
+
+ 
+
+Save vu, que vu posse parlar in un del mult congresses de nor témpor in
+tal maniere, que vu va esser comprendet per li majorité del persones
+present, sin traduction in lor respectiv lingue.
+
+ 
+
+E vu deve bon comprender, in omni du casus, it ne es necessi que li
+letores o auditores ha studiat ti lingue. Li quantité de erudition quel
+ja es in lor possession, e un quantitá minimal de bon volentie es plu
+quam suficent.
+
+ 
+
+It es un fact, que noi possede nu un medie facil por comunication inter
+europanes de omni specie. \"Europanes\" ne deve significar exclusivmen
+habitantes de Europa, ma de omni partes del munde, u descendentes de
+europan orígine ha etablisset se. It es un fact que li \"lingue
+europan\" existe, e que on nu conosse su existentie.
+
+ 
+
+\"On\"? Qui on? Nu bon, persones, queles ha ocupat se pri li question
+del lingue universal, ma queles ha restat tro long in lor \"turres de
+ivor\". Pro ti rason it ne es surprisant que li munde ignora, que
+realmen un lingue international, inter-europan existe.
+
+ 
+
+Quel es li nómin de ti lingue? Esque it es Volapük, o Esperanto? No. Sin
+dúbite ti sistemas have grand merites e lor autores msr Schelyer e dr
+Samenhof va restar celebri in li historie del lingue universal. Ma on ne
+deve pensar que lor sistemas es li max bon incarnationes del idé del
+lingue international.
+
+ 
+
+Li plu o minu fortunosi fates de ti sistemas ne tucha li idé. Li fisaco
+de Volapük ne posset obscurar li idé. Li momentan semblant successe de
+Esperanto ne es tam favorabil al idé quam multes es inclinat suposir.
+
+ 
+
+Li lingue quasi miraculos, pri quel noi constantmen parla, es
+Occidental\...
+
+ 
+
+\*\*\*
+
+ 
+
+Li precedent articul - recomandat a nor atention de nor sempre activ
+amico L.M. de Guesnet in Paris - introductet al unesim numeró del unesim
+annu (januar 1907) del interlinguistic revúe \"Idei international\",
+redactet de sr. W.B. van Bylevelt (Bruxelles) in \"Idiom Neutral\" poc
+changeat. In nor líber traduction es adjuntet li ultim parol; li
+originale dit, que li \"lingue miraculosi\" ancor ne have un nómin, e
+continuat per parlar pri su divers dialectes \"Mundolingu, Nuovo-Roman,
+Lingue komun, Panroman, Latino sine flexione\", queles gruppat se circum
+li idé de un lingue internationalmen comprensibil. Idiom neutral in su
+divers formes, e li altri sistemas con exception del ultim ha desaparit.
+Hodie, Occidental es li factic hereditario e representant de lor ideale.
+Noi invita nor letores traducter ti brilliant textu a lor lingues
+national e usar les quam introduction de un prospecte por Occidental. 
+ IF
+
+\-\-\-\--
+
+ 
+
+Reverse del cupon juntet a
+
+Cosmoglotta-Informationes
+
+ 
+
+Reverse del cupon juntet a
+
+Cosmoglotta-Informationes
+
+ 
+
+Reverse del cupon juntet a
+
+Cosmoglotta-Informationes
+
+ 
+
+ 
+
+Qualmen demandar autorisation de traduction?
+
+ 
+
+(Du modelles de lettre inviat a autores. Ili posse e deve esser
+modificat secun li ocasion e circumstanties.)    IF
+
+\*\*\*
+
+ 
+
+ 
+
+Tre estimat senior:
+
+ 
+
+In li ultim numeró del gazette \"Nor Hem\" aparit Vor charmant novelle
+\"Li ultim amore de Don Juan\". Yo ha traductet it ni li lingue
+international auxiliari \"Occidental\", e li gazette \"Cosmoglotta\",
+quel es redactet in ti lingue, vole publicar it, si Vu da li permission.
+
+ 
+
+Yo junte un exemplare de \"Cosmoglotta\", un copie del traduction, e un
+folie volant, ex queles Vu va vider que Occidental - in contrast a
+artificial lingues - es un lingue vivent, capabil a litteratura e
+artistic nuancies, e strax comprensibil, quasi si anteriori studie, a
+omni hom cultivat.
+
+ 
+
+Li movement de Occidental trova se in comensa de su propaganda, e nor
+gazette ancor ne posse recompensar su colaboratores. In compensa, Vor
+novelle vell esser leet in mult landes, u li gazette Cosmoglotta have
+letores, specialmen in circules cultivat.
+
+ 
+
+Yo do peti Vos, amabilmen autorisar me al traduction. Vu va reciver
+copies de pruva strax pos aparition, probabilmen in comensa de may.
+
+ 
+
+Yo junte un coverte adressat e afrancat por Vor response, e con
+anteriori mersí pro un afirmativ decision, yo es con sincer
+salutationes, Vor devoet
+
+ 
+
+Occidentalist
+
+\*\*\*
+
+ 
+
+ 
+
+Altestimat senior professor:
+
+ 
+
+Li tom XIV del colection \"Vita e Doctrina\" contene Vor interessant
+articul pri li \"Manifestationes de un psichic viva del mosquitos\". Vor
+excellent exposition merite vermen esser difuset, e yo desira contribuer
+a to per traducter it in li lingue auxiliari Occidental, por li gazette
+Cosmoglotta, quel apari in ti lingue.
+
+ 
+
+Ex li ci-junt caderne de Cosmoglotta, e un folie volant, Vu vide
+facilmen, que Occidental es un lingue de scientic principies, capabil a
+clarmen expresser omni scientic pensa, e leibil sin alcun pena por omni
+scientist.
+
+ 
+
+Li movement de Occidental trova se in comensa de su propaganda, e nor
+gazette ancor ne posse recompensar su colaboratores. In compensa, Vor
+argumentes vell aparir córam un forum international, pro que Cosmoglotta
+es inviat a mult scientistes e bibliotecas del cultur-circul
+europan-american.
+
+ 
+
+Ples do haver li amabilitá autorisar me a traducter de Vor dissertation
+li passage de \"Si noi regarda\...\" til \"\...esset a demonstrar.\" Yo
+va cuidar, qui on invia Vos quelc exemplares pos aparition. Ples usar
+por Vor response li adjuntet coverte.
+
+ 
+
+Con anticipat mersí pro Vor amabilitá, yo peti Vos, senior professor,
+accepter li expression de mi sincer devotion.
+
+ 
+
+Vor Occidentalist
+
+ 
+
+\*\*\*
+
+ 
+
+Regulament del exámines por Docentie de Occidental
+
+ 
+
+§ 1. Secun li articules 2c, 2d e 11 del Regulament del
+Occidental-Academie es instituet du species de exámines: por li Diploma
+por Docentes de Occ e por li Certificat pri Studie de Occ. (v. § 17.)
+
+ 
+
+§ 2. (a) Li promotion a Docent de Occ apartene al competentie del
+Academie. (b) Omni concernent questiones e petitiones mey esser directet
+sive al local (landal) membre del Academie, sive al secretario o
+vice-secretario (junter postmarcas o un respons-cupon.)
+
+ 
+
+§ 3. (a) Li Academie o su secretario (vice-secretario) delega li censor
+del ovre examinal e li jurie por li exámine personal. (b) Omnes deve
+self esser Docentes de Occ. (c) Li censor del ovre examinal (v. § 5) mey
+preferibilmen haver un altri lingue matrin, li jurie li sam quam li
+candidate.
+
+ 
+
+§ 4. (a) Témpor e loc del exámine es fixat per convention inter li
+candidate e li examinatores. (b) Recomanda se preferer colectiv exámines
+ye congresses. (c) In special casus li exámine posse esser arangeat per
+corespondentie.
+
+ 
+
+§ bis. (a) Ti ci paragraf es transitori e expira automaticmen per li
+inauguration del unesim Occ-congresse. (b) Por crear un comensatori stab
+de docentes quel in futur posse directer regulari exámines, li autor de
+Occ sive presidente del Ac. have li jure proposir a direct promotion a
+Docent de Occ sin exámine persones de queles li lingual possession de
+Occ apare le suficent. (c) Su propositiones deve esser ratificat del Ac.
+per simplic majorité del votantes. (d) Desde li comensa de validitá de
+ti paragraf, omni membres del Occ.-Ac. es automaticmen promoet a
+Docentes de Occ. (e) Sammen, omni nov-electet membre del Ac. deveni
+automaticmen Docente per li election. (f) Omni membre del Ac. have li
+jure presentar al autor de Occ sive president del Ac. nómines de
+persones apt por proposition a promotion direct.
+
+ 
+
+§ 5. (a) Li petition pri promotion deve fundar se sur li presentation de
+un ovre examinal (original o traductet) in Occ. (b) Su longore mey esser
+almen 5000 (quin mill) paroles (20 pgs. de 30 lineas de 8 paroles). (c)
+It posse consister ex pluri minor ovres. (d) Li manuscrite deve esser
+scrit leibilmen, preferibilmen per machine. (e) Li petition posse esser
+fundat anc sur un ovre ja aparit in printe. (f) Li tema del ovre mey
+haver un alt valore litterari, scientic (p.ex. linguistic) o
+propagandistic, sive tractar pedagogic questiones, pedagogic activitá
+del candidate o su planes futur. (g) It mey eventualmen esser apt por
+publication in li central representativ Occ-gazette.
+
+ 
+
+§ 6. Ultra ti ovre, al petition deve esser juntet: (a) Un autobiografie
+de ca. 20 lineas, concernent precipue linguistic conossenties e
+mundlinguistic activitá. (b) Un fotogramma. (c) Precis indication del
+adresse. Changes de adresse durant li procedura mey strax esser
+comunicat al examinator(es), sive al secretariatu del Ac. (d) Li taxe
+por li censura del ovre. (e) Un declaration (v. § 15).
+
+ 
+
+§ 7. (a) Li ovre examinal posse esser considerat quam satisfant solmen
+si it pruva li capabilitá del candidate composir sin auxilie valorosi
+textus in Occ. (b) Bon stil e corect expression lingual es absolutmen
+necessi. (c) Si li ovre contene erras queles monstra que li candidate
+ancor ne possede Occ, li ovre deve absolutmen esser refusat. (d) Li
+notes por li censura del ovre es: I - tre bon, II - bon, III - suficent;
+IV - ínsuficent, V - totalmen ínsuficent. (e) In extraordinari casus li
+note I posse esser remplazzat per li expression distintiv \"excellent\".
+(f) Li censor posse retornar li ovre por revision de detallies; to ne es
+considerat quam refusa. (g) Li candidate deve presentar li ovre reviset
+denove pos admaxim 3 mensus. (h) Ti termin es es prolongabil si li
+candidate demanda.
+
+ 
+
+§ 8. (a) Si li ovre es admisset, seque li exámine personal. (b) In it on
+constata esque li candidate posse expresser su penses fluentmen in Occ,
+esque su teoric e practic capabilitás suficer por docer Occ in curses, e
+esque il posse traducter in e ex Occ un textu general sin auxilie de
+lexico. (c) Li examinatores mey egardar esque li candidat ha havet
+suficent possibilitá practicar Occ in parla, e p. ex. reducter li
+postulationes ye un person isolat de altri Occ.istes. (d) Ili mey
+egardar li centres de interesse e li consequent vocabularium personal
+del candidate. (e) Si li ovre ha obtenet li note censural I = tre bon,
+li candidate have li jure demandar dispensation del exámine personal.
+
+ 
+
+§ 9. (a) Jurie in li personal exámine deve esser tri Occ-Docentes, de
+queles un mey si possibil esser un membre del Ac. (b) Jurie, loc e
+termin es fixat per convention inter examinatores e candidate,
+preferibilmen ye un congresse. (c) Li notes es sam quam ye li ovre.
+
+ 
+
+§ 10. Li exámine personal have li sequent programma: (a) Letion e oral
+traduction de Occ al lingue matrin. (b) Grammatical questiones. (c)
+Conversation. (d) Scrit traduction de Occ al lingue matrin. (e) Scrit
+traduction del lingue matrin a Occ. - (f) Chascun del quin examinatori
+provas es censurat per dar un cert númere de punctus (max bon = 10, max
+mal = 0). (g) Por successar in li total exámine, it es necessi obtener
+almen 5 x 7 = 35 punctus. (h) Tamen li candidate deve obtener almen 6
+punctus in chascun prova. (i) Demí punctus es admisset. (j) Li oral
+provas dura chascun ca. un quart hore. (k) Prova b. comprende ca. 10
+questiones. (1) Inter les deve esser permanent li explication del
+derivation deverbal (\"Regul de Wahl\"). (m) Por li provas \"d\" e \"e\"
+es dat textus de ca. 150 paroles chascun; (n) lor desfacilitá mey esser
+ca. ti de un general politic articul in un jurnale diari. (o) Lexico ne
+deve esser usat. (p) Li du provas mey durar admaxim du hores chascun.
+(q) In li personal exámine es dat li sequent notes: Til 34 punctus =
+ínsuficent. 35-40 punctus = note note III: \"suficent\". 41-45 punctus =
+note II: \"bon\". 46-49 punctus = note I: \"tre bon\". 50 punctus =
+\"excellent\".
+
+ 
+
+§ 11: (a) In casus exceptional posse esser admisset promotion sin
+exámine personal, si li president del Ac. ha convictet se per
+requisitiones, informationes de Occ-docentes, p per personal
+corespondentie, que li candidat possede Occ completmen, e si li note del
+ovre examinal ha obtenet almen li note II.
+
+ 
+
+§ 12. (a) Si li personal exámine resta sin success, li candidat posse
+repetir it, ma ne ante 6 mensus passat (sive ye li proxim congresse).
+
+ 
+
+§ 13. (a) Pos successosi exámines, li candidate es promoet del Academie.
+(b) Il recive li jure titular se \"Docente de Occidental\" per un
+diploma del textu sequent: (c) \"Academie del lingue international
+auxiliari Occidental. \-- DOCENT-DIPLOMA \-- Li presidente e secretario
+del Occidental-Academie certifica que senior\...nascet in\...date\...ha
+presentat un ovre examinal intitulat\..., admisset del censor,
+sr\....in\...con note\...., e que un jurie consistent ex srs. (1)\.....,
+(2)\...., (3)\..., in \... ha personalmen examinat le pri su conossentie
+de Occidental, su capabilitá parlar fluentmen e docer Occidental in
+curses, con note \.... (que il esset dispensat del personal exámine /
+que in fortie de su lingual capabilitá il esset proposit del autor de
+Occidental sive del presidente del Occidental-Academie por promotion
+direct) talmen que li Academie ha promoet le a Docente de Occidental e
+ha dat le ti ci diploma nró \.... Loc\... Date: \... (Signaturas del
+autor de Occidental, de presidente e secretario del Academie, del
+censor, e del tri membres del jurie. Oficial stamp del Academie,
+eventualmen anc del congresse).\"
+
+ 
+
+§ 14. (a) Li taxes a payar del candidate es stipulat per li senate del
+Occ-Union. (b) Ex to es payat li diploma e li corespondentie del
+examinatores. (c) Li reste es dividet in tri egal partes al casse del
+Academie, del Union e al administration de Cosmoglotta. (d) Til altri
+decision, li taxes es fixat a 10 (deci) Francs sviss. (e) Li taxes 
+
+ 
+
+es ligat al promotion e al diploma e deve esser payat anc ye
+dispensation del exámine.
+
+ 
+
+§ 15. Li declaration a far (v. § 6) es sequent: \"Yo peti acordar me li
+diploma por docentie e declara per honore, que li ovre examinal
+presentat quam base del promotion e intitulat\...es composit de me self
+sin auxilie de altri. Yo declara conosser li regulament del exámines por
+li promotion.\" Loc, date, signatura.
+
+ 
+
+§ 16. Contra decisiones del secretario del Academie, li censura del
+censor o del jurie, li candidate posse apellar al plenum del Ac.
+
+ 
+
+Regulament del exámines pri Studie de Occidental.
+
+ 
+
+§ 17. (a) Li exámine pri Studie de Occ sta in li competentie del Ac., ma
+quel transda it per delegation al landal organisationes del Occ-Union.
+(b) Li Occ-Ac. lassa a les li arangeament del exámine e del textu del
+certificate, in analogie a exámines scolari, pro que li Certificate pri
+Studie es instituet specialmen por yun persones. (c) Quam modelle
+recomanda se un textu analog al Docent-Diploma, reductet e sur un papere
+de minor grandore. (d) Do li administration del exámines posse diferer
+in li divers landes, ma intern de un land it mey esser unitari. (e) Li
+national regulamentes pri li administration del exámines deve esser
+presentat al Ac. por aprobation. (f) Li Ac. posse refusar li aprobation,
+si it considera li regulament quam ínapt. (g) Li Ac. recomanda
+directives sequent: (h) Li programma del exámine mey esser egal al
+exámine por Docentie. (i) Un ovre examinal ne es demandat. (j) Li temas
+del exámine personal mey esser selectet in desfacilitá corespondent al
+letura del manuale usat ye instruction del candidate: fabules,
+anecdotes,; (k) grammatical questiones simplic e elementari; (l)
+conversationes pri temas corespondent al circumages e interesses del
+candidate. (m) Li jurie mey consister ex tri Occ-Docentes, inter les li
+instructor del candidate. (n) Li taxes mey esser li demí del taxes por
+li Docent-Diploma. (o) Li organisationes national posse transdar, per
+delegation secundari, li competentie por li exámines a organisationes
+local.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Regulament del Occidental-Academie
+
+ 
+
+§ 1. Li Occidental-Academie es un comission instituet del
+Occidental-Union secun su statutes.
+
+ 
+
+§ 2. Li programma del Occ-Ac. es (a) explorar propositiones pri li
+grammatica e glossarium del lingue international Occ e far li necessi
+decisiones. (OAD 12), (b) dar linguistic consilies e aprobationes por
+dictionariums, manuales e altri medies por aprension e aplication de
+Occ, (c) dar certificates por docentes de Occ, (d) validar certificates
+de aprension, (e) representar li Occ-Union in linguistic questiones.
+
+ 
+
+§ 3. Li Ac. consiste ex li autor de Occ quam membre honorari e ex
+admaxim 15 membres ordinari. In ultra li Ac. posse coopter un til six
+universitari professores de linguistica o litteratura quam extraordinari
+membres con li titul Protectores, un de ili anc con li titul Presidente
+honorari. Pri li election e cooption de su membres li Ac. self decide in
+consense con li Central Oficie del Occ-Union e secun propositiones fat
+sive del Comité Linguistic, sive del Protectores, sive del Senat del
+Union.
+
+ 
+
+§ 4. Chascun membre, quel evidentmen refusa subordinar se al
+resolutiones del Ac., cessa automaticmen esser membre, pri quo il deve
+esser informat per li direction del Ac.
+
+ 
+
+§ 5. Chascun membre ordinari, quel, sin motive valid, ne ha respondet a
+tri succedent circulares del Academie, cessa automaticmen esser membre,
+pri quo il deve esser informat per li direction del Academie. (OAD 18)
+(Li sequent frase es completmen ínleibil)
+
+ 
+
+§ 6. Li Direction del Academie consiste ex un Presidente, un Secretario
+e tam mult altri membres quam li Academie judica quam necessi.
+
+ 
+
+§ 7. Omni decision del Academie deve esser insertet in li oficial revúe
+del Occ-Union, ma sin indication del númere e del nómines del votantes.
+Ti ci dates es comunicat solmen al membres del Ac.
+
+ 
+
+§ 8. Per li simplic ratification (nominat \"admission\") de un nov form
+o regul per li Ac., li corespondent form o regul valid til tande ne es
+oficialmen abolit. Li abolition deve esser expressivmen decidet; ma mem
+in ti casu li form o regul valid til tande es oficialmen tolerat ancor
+durant un periode de transition de quar (4) annus.
+
+ 
+
+§ 9. In li grammatical e vocabulariums editet o aprobat per li
+Occ-Academie deve esser aplicat li sequent signes: + (cruce) por obsolet
+o abolit formes, con li eventual indication del periode de transition;
+asterisc por nov formes ancor ne admisset del Academie. Un quadrate,
+i.e. un libre, por términos special, queles es tolerat por usation in li
+scientic o tecnic litteratura; ti ultim signe posse esser remplazzat per
+altri signes indicant li special scientie e tecnica.
+
+ 
+
+§ 10. Por li revision e aprobation de alquel ovre grammatical etc. li
+editor deve payar un taxe de 2/100 del complet edition, ma adminim 10
+exemplares.
+
+ 
+
+§ 11. Li exámines, promotiones, e acordation de certificates es
+administrat del Academie secun li regulament special. (OAD 27)
+
+ 
+
+§ 12. Li Academie ne es obligat admisser al discussion linguistic
+propositiones de persones, queles ne mastrisa completmen Occ, o ne
+posse, in casu de dúbite, pruvar que ili ha practicat Occ o apartene a
+su movement (al Occ-Union) ja durant un annu. In special casus, li
+presidente del Ac. posse dispensar. Li Ac. ne es obligat admisser al
+discussion propositiones contrari al spíritu intern de Occ. (OAD 17, OAD
+27).
+
+ 
+
+§ 13. In votationes decide li absolut majorité del votantes; in
+electiones decide in li unesim votation li absolut majorité del
+votantes, in un eventual duesim votation li relativ majorité. Li Ac. usa
+in su votationes li votation-metode Pederson (anc nominat
+\"election-metode qualitativ\"). (OAD 15)
+
+ 
+
+§ 14. Omni scrites e publicationes oficial del Academie deve haver li
+signatura del presidente e del secretario del Academie, e li signatura
+del director del Occ-Union, o de lor vicarios respectiv. Omni
+certificate de un Occ-Docente deve haver in ultra li signatura del tri
+membres del Academie, queles ha examinat li candidate.
+
+ 
+
+§ 15. Li Ac. covri su expenses in general per (a) voluntari
+subventiones, queles deve esser quittat in li oficial organ del
+Occ-Union, (b) taxes por aprobationes e certificates, (c) subsidies del
+Occ-Union.
+
+ 
+
+§ 16. Divergenties de opiniones relatent li regulament o decisiones del
+Ac. es arbitrat del Ac. self per li absolut majorité del votantes.
+
+ 
+
+§ 17. Mutationes del regulament deve esser aprobat per li absolut
+majorité del membres del Ac. e per li senate del Occ-Union.
+
+ 
+
+§ 18. Propositiones pri li self-dissolution del Ac. deve esser signat
+per 1/3 del membres e aprobat per 2/3 del votantes.
+
+ 
+
+§ 19. In li casu de dissolution del Academie su eventual possessiones
+apartene al Occidental-Union.
+
+ 
+
+§ 20. Omni membre have li jure demandar un nov discussion e votation pri
+questiones ja decidet. Ma li Academie deve votar, ca it accepte un nov
+discussion. (OAD 13)
+
+ 
+
+§ 21. Li autor de Occ have li jure far un veto contra omni linguistic
+decisiones fat del Ac. In ti casu li Ac. deve far un nov discussion e
+votation pri li concernet objecte ne ante un annu. (OAD 14)
+
+ 
+
+(Publication oficial del Occidental-Academie. Nró 1. OAR-RED:
+\"Regulamentes del Academie e del exámines\" - Januar 1937)
+
+ 
+
+ 
+:::

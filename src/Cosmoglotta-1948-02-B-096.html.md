@@ -1,0 +1,1009 @@
+Cosmoglotta B 096 (feb 1948)
+============================
+
+\
+
+::: {#displaycontent}
+COSMOGLOTTA
+
+ 
+
+OFICIAL MENSUAL ORGANE DEL OCCIDENTAL-UNION
+
+Redaction e Administration:
+
+ 
+
+INSTITUTE OCCIDENTAL, CHAPELLE (Vaud), SVISSIA
+
+Expedition: Gilbert Pidoux, YVONAND (Vaud) SVISSIA
+
+Abonnament annual: simplic Fr 8, duplic: Fr. 14, de propaganda: Fr. 20
+sviss.
+
+Serie B, poligrafat   Tel. (021) 9 56 56  Februar 1948 - Nró 96 (1)
+
+ 
+
+ 
+
+DES LANGUE OU UNE LANGUE
+
+ 
+
+Sub ti titul, Sr. J.P. Vinay, professor in li Universitá de Montréal,
+publica che li \"Cie des publications provinciales, Edifice Canada
+Cement in Montréal\" li textu de un discurse quel il fat li 15 april
+1947 in li Clum musical e literari de ti cité.
+
+ 
+
+Li publicationes, quel tracta li problema del L.I. éxter omni partise
+interlinguistic es rari. On conosse tis de Couturat ante 1906 e ti de
+Guérard, aparit long plu tard. In 20 págines Sr Vinay, un del prominent
+functionaries de IALA, exposi li problema ínpartialmen, secun li
+vise-punctu modern, profitante li progresses aquisitet in lu ultim
+decennies. Pos har parlat pri li ínpossibilitá adopter un lingue
+national, mem simplificat quam Basic, Sr Vinay monstra sur quel base
+deve esse constructet un lingue international vermen conform a su scope.
+\"Li lingue de IALA, il di, ne es li ovre de un mann, ma ne un gruppe de
+scientistes de diversi nationalitás; it ne es li ovre de un popul o de
+un politica, ma li resultate e quasi li quintessentie de nor comun
+civilisation occidental, presentat in maniere esser acceptabil a omni
+popules\".
+
+ 
+
+Per quelc exemples bon selectet, Sr. Vinay, quel partiprendet li
+elaboration del lingue de IALA, monstra por exemple que li
+internationalitá imposi sin dubitá \*audibile\*. Pri to null discussion
+possibil! Occidental es dunc rect, secun nor opinion, e contra Esp-o e
+Ido queles di \*audebla\*.
+
+ 
+
+Por un serie de verbes quam \*describere\*, li solution es minu simplit.
+It es desfacil decider inter li ínregular, ma natural, derivation
+describere, descriptive, e li regulari, ma ínacustomat derivation
+describere, describetive. On save que ti problema preocupa li
+interlinguistes desde li témpor de Lott, it es desde 60 annus! Por
+finalmen soluer it de Wahl hat adoptet un triesim solution, quel esset
+mult apreciat; it combina li perfect regularitá con un naturalitá
+suficent, deviant tre poc del lingues natural: descr/ir, descr/ition,
+descr/itiv, analog a scr/ir, scr/itor, scr/ition, scr/itura, formes plu
+levi e plu fluent e presc simil al paroles del \"lingues de contral\"
+(Francesi have
+
+ 
+
+-1-
+
+ 
+
+écrire, décrire, écriture\..., italian; descrittive, descrizione,
+scrittura, scrittore\..., hispan: escritura, escritor.
+
+ 
+
+Ma ti látere del question es solmen secundari. Noi deve sublinear que li
+functionarios de IALA propaga nu li sam principies quam li adherentes de
+Occidental; it va esser probabil que un acorde va far desaparir li
+divergenties restant.
+
+ 
+
+Ric Berger
+
+\-\-\-\-\-\-\--
+
+ 
+
+LI ACCENTUATION DEL FINALES VERBAL IN OCCIDENTAL
+
+ 
+
+Per li regul del non-accentuation del síllabes -bil, -ic, -im, -ul,
+-men, Occ. ha obtenet un plu natural pronunciation quam Esperanto e
+forsan quam altri lingue-projectes. Ma it sembla me, que li accentu sur
+li finales del imperfecte sovente es ínnatural, specialmen li finale
+-et. In dan noi have imperfect-finales per -et, ma sempre ínaccentuat.
+In anglesi li finales -ed ya es anc ínaccentuat. In italian li finales
+-ato, -ito, -uto es accentuat, ma ta li finale -et ne existe, e li altri
+finales existe sol in li composit imperfecte e con li vocal-finales -o,
+-a, -i, -e. Yo pensat studiar li cose plu profundmen, ma usa li ocasion
+por questionar vos pri vor experientie in parlant usu de Occidental.
+
+ 
+
+S. Donhott, intr. de lingues
+
+Odensee, Dania
+
+ 
+
+Response:
+
+ 
+
+It existe null ínnaturalitá in li accentuation del finales del perfecte.
+Li transportation del accentu sur li finales es junt un trate comun del
+romanic lingues. It ne es possibil argumentar ci con li finales
+ínaccentuat -ed e -et existent in anglesi e in dan, ni alegar li facte
+que in italian li finales -at, -it e -ut es sequet de vocales e que in
+particulari li finale -et ne existe in ti lingue. Secun ti rasonament
+noi vell anc posser postular li accentual céntral vice centrál sub li
+pretexte que -al in anglesi ne es accentuat e que italian ne conta pro
+que ta -al es sempre sequet de -e.
+
+ 
+
+Li accentuation del finales resulta automaticmen ex nor regules de
+accentuation e it es conform al leges reyent li lingues romanic. Forsan
+mult letores ne save que noi have un box exemple vivent in li lingue
+ladin (parlat in Engiadina), in quel li unesim e triesim person del
+perfecte simplic es format in li sam maniere quam in Occ.:
+
+ 
+
+Ladin: eau avet, eau possedet, el savet, ella servit, ella demolit
+
+Occidental: yo havet, yo possedet, il savet, ella servit, ella demolit
+
+ 
+
+Noi have un congruentie quasi perfect ne solmen in li accentuation, ma
+mem in li formes grammatical. Noi pensa que ti exemple es conclusiv. A
+Matejka
+
+ 
+
+Nota: Letores queles interessa se pri li lingue reto-romantch (de quel
+ladin es un del cardinal dialectes) posse audir emissiones in ti lingue
+sur li radio-emissoria Beromünster (Svissia) unvez chascun mensu,
+venerdí ye 21 horas (HEC)
+
+ 
+
+-2-
+
+ 
+
+ 
+
+OCCIDENTAL E INTERNATIONALISME
+
+ 
+
+Esperanto-revúes pluri vezes raportat ne conform al factes pri li fate
+del Occidental-movement austrian in li annus ante 1945. Pro to quo in
+sequent presenta li historie quam yo conosse it.
+
+ 
+
+Ínmediatmen pos li anexion de Austria in annu 1938 li autorité statal de
+Germania per decrete declarat que li Occidental-organisation in Austria
+es dissoluet; li policie aparit in li logiment del presidente del
+Occidental-societé e confiscat li archive del societé. Per ti actiones
+omni organisation de Occidental, sam quam ti de Esperanto, esset posit
+exter function legal e efectiv, tam in Austria quam in Germania ja ante
+1938.
+
+ 
+
+Tamen poy yo ancor un vez audaciat continuar usar Occidental publicmen
+in li resumés del revúe scientic redactet de me. In consequentie un
+ínamic de Occ. in mi presentie denunciat me che li oficie de anexion in
+Vienna, que yo acte contra li interesses german por continuar usar
+publicmen Occ. vice german quam lingue international. Yo personalmen
+strax protestat che ti oficie contra tal metodes. Tamen li numerós
+sequent del revúe nominat ne plu esset redactet de me e anc ne ad-plu
+contenet resumés in Occidental.
+
+ 
+
+Ma anc in general yo posse asserter que li guvernament de Germania de
+1933 til 1945 \*nullmen, nequande e necú\* subtenet Occidental, sam quam
+Esperanto e altri lingues artificial havet null suporte. Yo posse
+enunciar con certitá ti assertion, pro que durante ti témpor yo restat
+in contacte con omni Occidental-representantes ancian in Germania e
+Austria e specialmen in Vienna, u Occidental nequande esset tolerat o
+mem subtenet de un oficie public del regime national-socialist.c
+
+ 
+
+Omni assertiones contrari es fals.
+
+ 
+
+Li atitude del autor de Occidental, senior Edgar de Wahl, quel, in etá
+de 80 annus, ancor hodie vive in Reval, vers li Hitlerisme es descrit in
+un lettre de su filio Hans de Wahl de 8.7.1946 a me. Ta ti-ci raporta me
+inter altricos: \"Yo videt mi patre in annu 1944, quande yo jacet
+vulnerat in li hospitale militari in Reval. Li dom e li archive de mi
+patre esset totalmen destructet per un bombe. Quande li Germanes
+abandonat Estonia, yo petit mi patre venir che me in Germania. Ma il
+refusat pro que il ne afectionat li nazis. Ja in novembre 1943 li
+Gestapo incarcerat le, pro que in un lettre a Germania il criticat li
+assassinationes de judéos per li SS\...\"
+
+ 
+
+In li ante-parol al manuale \"Occidental die Weltsprache\" (Stuttgart
+1930) yo scri: Occidental quam lingue international naturalmen ne es
+ligat a un idé politic, filosofic, religios o altri, sam quam omni
+lingue national posse esser usat por ti o altri idés\...\"
+
+ 
+
+Pro to li persones competent ignora li acusationes politic just o fals e
+
+ 
+
+-3-
+
+ 
+
+ili examina li lingue self por far lor decision.
+
+ 
+
+Esperantistes asserte que li occidentalistes per li propaganda por
+Occidental trubla li Esperanto-movement. E pro que anc nationalistes
+combatte Esperanto, dunc li occidentalistes (quam esperantistes crede)
+ci quasi es alliates de nationalistes. Ma existe anc mult
+antinationalistes ne-occidentalistic queles refusa Esperanto. Secun un
+tal conception anc ti ci antinationalistes vell far li labor del
+nationalistes.
+
+ 
+
+Un proverbie di que lu plu bon es li ínamic de lu bon. Ma ne omni ínamic
+es alliate del diábol. Si to vell esser ver, omni progresse homan vell
+esser diaboleríe. Un grand parte del publica refusa Esperanto pro su
+defectes lingual. Pro to Occidental plu bon quam Esperanto satisfa li
+postulates a un lingue international. Dunc yo crede que li
+occidentalistes (multes de ili quam yo antey propagat Esperanto) es
+servitores plu devoet al idé del lingue international quam li
+Esperantistes. Ma nequi es tam fanatic asserter que li esperantistes es
+anatemisand conspirates de nationalistes, pro que li esperantistes fa
+propaganda por un lingue international minu apt.
+
+ 
+
+Un lingue international es certmen li max bon medie por servir al idé
+del internationalisme e universalisme. Pro to li public neutral ne va
+creder que ti o un altri sistema de lingue international servi a un
+scope chovinistic, apartmen si li acusantes ne have pruvas plu convictiv
+por su acusas quam lis publicat til nu.
+
+Vienna, decembre 1947.    Ingeniero Engelbert Pigal
+
+\-\-\-\-\-\-\--
+
+ 
+
+DUESIM RECTIFICATION
+
+ 
+
+In nro. 94 de nor revúe (pag. 102) nor colaborator A. Matejka rectifica
+li ínexact informationes contenet in su articul \"Li usa del pronómines
+personal pos prepositiones\" (Cosmogl. 93 (pag. 88)) indicante i.a. que
+li \"corect\" formes hispan es conmigo, contigo, consigo, connosco,
+convosco\". Sr. Matejka ne have mult chance con su recficitationes: li
+formes connosco, convosco es tam fals quam tis citat in su unesim
+articul, nam ili es in facte ínexistent. Noi hasta retablisser li
+fortmen ledet reputation linguistic de nor colaborator declarante que ti
+duesim erra ne es debit a il ma al redactor de Cosm. quel regretabilmen
+omisset un linea in li transscrition del manuscrite. Li corect textu es
+li sequent: hispan: conmigo, contigo, consigo; portugalesi: comigo,
+contigo, consigo, connosco, convosco.
+
+ 
+
+E noi profita ti ocasion por rectificar por li bon órdine un tipp-erra
+quel inglissat se in li articul de Sr. Matejka (Cgl. 93 pg. 88), a saver
+li pronómine hispan del i-im person plural quel es \"nosotros\" e ne
+\"nosostros\".
+
+ 
+
+Noi peti li letores excusar ti \"desrelamentes\".
+
+ 
+
+Cosmoglotta
+
+ 
+
+-4-
+
+ 
+
+REGRETABIL INTERPRETATIONES
+
+ 
+
+In li organe del Idistes \"La langue internationale\" 4-im trimestre de
+1947, Sr. Philippe de Bourges publica un grand articul in francesi
+\"D\'où vient l\'Ido\", quel es tam astonant quam li libre de Sr Jakob,
+per su obstination a repetir factes dementit desde long.
+
+ 
+
+Sr. Philippe asserte denov que li autor de Ido es de Beaufront, quande
+li archives del Delegation contene li tot projecte de Ido, combinat de
+Couturat (e ne de un altri!) 6 mensus ante que de Beaufront comensat
+interessar se a un reforme de Esperanto, nam il restat ultra-conservator
+til li ultim moment!
+
+ 
+
+Sr. Philippe asserte anc que Ido es \"Li resultate de un labor
+colectiv\". Certmen ne plu quam Occidental, nam si Couturat acceptat
+quelc modificationes a su Ido, anc de Wahl fat lu sam.
+
+ 
+
+\"On ne posse negar, scri Sr. Philippe, que sive in li 18 reuniones del
+Commission in 1907, sive durante li 6 annus sequent in li revúe
+Progreso, linguistes quam Couturat, L de Beaufront, Jesperson, Ostwald e
+quelc altres ha compleet un ovre de alt valore quel\...obliga chascun
+hom seriosi prender in consideration li labor complet de ti
+scientistes\".
+
+ 
+
+Riscante esser catalogat de Sr. Philippe inter li homes \"ne seriosi\",
+yo fa remarcar le que it es li unesim vez que Couturat, de Beaufront e
+Ostwald figura quam \"linguistes\"! In realitá esset du linguistes in li
+Comité (ne li \"Comission\", quam scri Sr. Ph.) del Delegation: Baudoin
+de Courtenay e Jespersen. Or li unesim abandonat li Comité strax poy pro
+que il ne aprobat su hastosi decisiones, e in su ultim annus declarat se
+\"protector\" de Occidental. Pri li duesim, on conosse li historie: Pos
+har \"regretat\" publicmen su activitá durante li \"epoca del
+Delegation\" (Vide \"Mondo\" in 1927), il parturit Novial quel constitue
+un demí-via vers Occidental, e in su ultim annus aproximat se tam mult
+al idés de Wahl que su Novial reformat difere tre poc de nor lingue. It
+es regretabil que Sr. Ph. cela to a su letores por far les creder que
+Ido es li labor colectiv de \"linguistes\" inter queles il plazza de
+Beaufront, quel actet sempre contra li progresse (Vide Cosm. august
+1937, p. 65 e junio 1946, p. 19).
+
+ 
+
+Li exposite historic de Sr. Philippe es tam contrari al veritá que yo
+permisse me protestar ancor un vez; nam, quam di A. Grün \"Quicunc es in
+possession de un veritá have ne solmen li jure, ma anc li deve expander
+it!\" It es fals que li comité ha \"completat\" Ido in 18 reuniones.
+Solmen li 5 ultimes esset consacrat al exámine de ti projecte til tande
+ínconosset al assistentes, exceptet a de Beaufront. Yo have sub mi
+ocules li protocolle, scrit per machine, del \"Corrections adoptées dans
+les séances du COMITE\" (forsan li sol document
+
+ 
+
+-5-
+
+ 
+
+restant de ti memorabil judicie: It contene in tot 14 lineas,
+modificationes de detallies, apen digni esser mentionat. Por ex.: proxim
+adoptet vice prox printat in li projecte, cis vice sis, etc.
+
+ 
+
+Yo anc have sur mi table li lettres adressat de Ostwald al Commission
+permanente: null contribution de il pri li lingue self. Pri Jespersen il
+contenat se per presentar un nov projecte \"Eclecta\" quel esset tam mal
+que su autor self votat contra it! Li ameliorationes quel il proposit a
+Ido reducte se a presc necos. (Vide li articul: O. Jespersen e E de
+Wahl, in Cosm. 1934, pg. 21), e ili ne mem es tam important quam tis
+quel de Wahl proposit al Idistes, e pri quel tis-ci gratula se in lor
+propagatives (Por ex. li prefixe des- vice mal-, usat in comensa).
+
+ 
+
+Si Sr. Philippe persiste mantener li version idistic pri li orígine de
+Ido, apoyante se sur li \"Historio di Ido\", de Jespersen, publicat in
+1912, yo deve preciser que Jespersen personalmen, just ante su morte, ha
+definitivmen dementit ti version oficial, specialmen in un lettre quel
+il scrit me li 6.1.39 (Ti lettre posse esser submisset al dubitantes), e
+in quel il scrit me in francesi:
+
+ 
+
+\"\...En n1907 Couturat en nous soumettant le project d\'Ido a dit
+expressément que l\'auteur n\'était ni lui-même, ni Leau, ni un membre
+de notre comité. Dans les spécimens de vocabulaire (dactylographié) qui
+accompagnaient la grammaire imprimée les mots étaient traduits aussi en
+espagnol, et Couturat disait que l\'auteur était une personne très
+familière avec cette langue; il l\'a dit d\'une manière qui semblait
+exclure la possibilité qu\'il parlait de lui-même\" (Red.: A remarcar li
+astutie de Couturat quel, por alontanar tot suspection pri li identitá
+del autor del projecte, fat creder que il esset hispano, durante que ni
+il self, li ver autor, ni de Beaufront, li pseudo-autor, esset
+specialmen hispan!)
+
+ 
+
+\"\...Maintenant, adjunte Jespersen, je dois admettre que \*vous avez
+probablement raison dans votre supposition que Beaufront n\'avait pas
+assez de talent pour créer le projet; Couturat avait une tête
+incomparablement supérieure et évidemment avait très peu de
+scrupules\*\...\"
+
+ 
+
+Pos ti testimonie del ultim supervivente del Comité del Delegation,
+testimonie quel su autor autorisat me publicar, it ne plu es possibil
+invocar li nómine de Jespersen por mantener li mentie que de Beaufront
+es li genie quel parturit Ido.
+
+ 
+
+In li sam numeró del sam revúe, noi lee li nova del morte del old
+Idistes Janis Rosé, lector in Riga, e Saint-Martin in Montréal. Sr.
+Philippe fa memorar, quo es exact, que Saint Martin esset con Sr.
+Beauchemin li unesim pioneros de Espo in Canada in 1905, poy de Ido.
+Ambi redactet li esperantic revúe
+
+ 
+
+-6-
+
+ 
+
+\"La Lumo\", ma, adjunte nor confratre in Ido, \"pro la obstineso dil
+chefi esperantista qui ne volis supresar la literi chapelizita ili livis
+la movado espista ed adheris Ido quik de la Komenco\"\...
+
+ 
+
+Tre interessant, ti explication, til quande on aprende que li principal
+chef esperantistic quel fat morir La Lumo per su stupid \"obstineso\",
+su faruchi oposition a qualcunc supression de ti diábolic lítteres,
+esset just\...de Beaufront, a quel Sr. Philippe tressa tam mult corones
+de flores in li sequent págines de su revúe!
+
+ 
+
+Concernent li duesim redactor de \"La Lumo\", Sr Beauchemin, noi posse
+adjunter que il ha adheret a nor movement, e que, malgré su 88 annus il
+nu composi jolli poesies in Occidental, de queles noi va publicar li
+unesim pezzes.  Ric Berger
+
+\-\-\-\-\-\-\-\--
+
+ 
+
+PRI LI NÓMINE DE NOR LINGUE
+
+ 
+
+Li recent evenimentes politic e li division del munde in du sectores de
+influentie (occidental e oriental) ha mettet nor propagatores de quelc
+landes in delicat situation. It ha devenit desfacil nu parlar pri un
+lingue de quel li nómine in cert landes evoca suspectiones in li circul
+politic. Pro to nor Centrale ha recivet ti-ci mensus, precipue de
+Tchecoslovacia, propositiones usar vice li nómine de Occidental ti de
+Interal (=INTER/national Auxiliari lingue).
+
+ 
+
+Un altri colaborator francesi, propagat in li circules de levul, invia
+nos, con li aprobation de pluri eminent Occidentalistes de su land, un
+petition in quel il explica que mem li li vocabularium international es
+essentialmen occidental, pro motives de oportunitá e por ne chocar li
+Orientales e Russes it es preferibil ne tro marcar to in li nómine self
+del lingue. Il proposi dunc usar por Occidental tot simplicmen li nómine
+de Interlingue, sequet eventualmen de \"Occidental\" inter parenteses.
+
+ 
+
+Ti demande va esser submisset al Comité del Union. Interim noi crede que
+nequó impedi in facte usar \"Interlingue (Occidental)\", o mem solmen li
+unesim parol, si to es plu bon por li propaganda, nam Interlingue es un
+parol exact, format regularimen in Occidental, e Occ. es per definition
+li ver interlingue, essent basat sur li maximum de internationalitá. Ti
+solution, in omni casu, es plu bon quam Interal, de quel li sense deve
+esser explicat al publica, nam it es composit de abreviationes secun li
+mode american.
+
+ 
+
+Per un stampe it es facil supercargar nor brochuras e propagatives con
+li nómine de INTERLINGUE. Lu essential es conservar li unitá del lingue,
+qualcunc mey esser li etiquette.   R.Bg.
+
+ 
+
+-7-
+
+ 
+
+UN SOMNIE REALISABIL
+
+ 
+
+Unvez in nocte
+
+Yo ha revat
+
+Que omni nationes
+
+Ha se unionat.
+
+ 
+
+Nu existe solmen
+
+Un stat europan
+
+Finit nu es
+
+Li conflictes guerran.
+
+ 
+
+Passar li frontieres
+
+Ne es interdit
+
+Pro que li barrieres
+
+On ha abolit.
+
+ 
+
+Li comercie cresce
+
+Plu e plu,
+
+Europa-pecunie
+
+Vale partú
+
+ 
+
+In omni landes
+
+On posse comprar
+
+Li max bon merces
+
+Sin doan payar
+
+ 
+
+Por abolir anc
+
+Li pelmel lingual
+
+On ha introductet
+
+Un idioma neutral.
+
+ 
+
+Un lingue comprendet
+
+De chascun person
+
+De occidental
+
+Civilisation.
+
+ 
+
+Pro to li autor
+
+De ti ideal
+
+Ha dat it li nómine
+
+\"Occidental\"
+
+ 
+
+Europa deveni
+
+Un ideal-stat
+
+Si bentost mi somnie
+
+Es realisat
+
+ 
+
+Octobre 1947  \-- Rimastro.
+
+ 
+
+ 
+
+QUIN MILL ADDITIONES IN UN SECONDE!
+
+ 
+
+Un old scientist, havent quam laboratoria un chambre in un ciec-strade
+de Paris, tal es Louis Couffignal.
+
+ 
+
+In 1937 Francisco Campos, assistente de Louis Couffignal, montet li
+unesim machine a calcular, quel contenet 200 tubes e permisset
+ínnumerabil calcules. Il dat a it li nómine de \"Logabax\". It esset
+rapidmen superpassat del realisationes anglo-saxonic. Li machine del
+professor Aiken, del Universitá de Harward, in 1941, quel pesa 40 tonnes
+e fa 1000 operationes in un seconde; li Eniac, de 70 tonnes, constructet
+in li comensa del guerre, capabil realisar 5000 operationes in un
+seconde e quel fat, inter altris, li pluparte del operationes necessi
+por fabricar li atomic bombe; in fine li Edvac, del Universitá de
+Pennsylvania, quel realisat li sam combinationes, ma quel have sur su
+precessores li avantage posseder un \"memorie\", quel permisse a it
+retener 5000 númeres de deci ciffres.
+
+ 
+
+Desde nu, omni possibilitás es apertet. Li calcules max complet es
+resoluet in un fraction de seconde. Ne solmen li machine va calcular li
+trajectorie de un projectil in li témpor quel il besona por atinger su
+scope, ma it save ancor addir in un seconde 5000 númeres de deci
+ciffres, multiplicar deci milliones de ti númeres in 6 hores. Mem li max
+expert matematicos vell besonar pluri secules por obtener ti resultates.
+
+ 
+
+Li rapiditá de ti machine es stupefant. Solmen 1/10000 de seconde es
+necessi por addir du númeres de deci ciffres, e 1/500 de seconde por
+multiplicar les.
+
+ 
+
+-8-
+
+ 
+
+ 
+
+AL MEMBRES DEL OCCIDENTAL-UNION
+
+ 
+
+Pro que noi recivet cartes de adhesion de membres queles ja esset
+membres del Occidental-Union, noi informa omnes que un sol carte sufice.
+Ili resta membres \*til quande noi va reciver un scrit demission\*, quel
+posse evenir solmen li 31.12 del current annu. Ad-plu it ne es necessi
+informar nos pri un reabonnament a Cosm. Omni abonnamentes departe del
+1. januar. Tis queles abonna durante li annu recive li numerós ja aparit
+del revúe. Central Oficie
+
+ 
+
+ASSOCIATION POR INTERNATIONAL SERVICIE (APIS)
+
+ 
+
+153\. HENTHORNE William, Baxters Lane 98, SUTTON, St. Helens, Lancs /
+Anglia / laborero de fabrica / 1900 / A, Occ. 22.24.
+
+ 
+
+200\. AKERMAN, Herbert Douglas, 84 Fernleigh Road, Winchmore Hill,
+LONDON, N 21, ANGLIA. Tecnic redactor / 1887 / A Occ. / filologie e
+lexicografie de Occ.
+
+ 
+
+298\. DONNOLT Spren, Windegate 9, ODENSE / DANIA / Instructor de lingues
+/ Dan AGE sp. Occ., F.I. / Occ. e A / mundal guvernament, social pb,
+bellitá del landes
+
+ 
+
+Un bon nova: SR. Dr. H. Nidecker, 27 Nullenweg, ARLESHEIM (Bld),
+Svissia, ha benevolet prender sur se li preparation del Adressarium
+1948. Noi ci mersia le cordialmen por ti important labor. Omni
+corespondentie concernent li Adressarium, propositiones, suggestiones
+posse esser misset le directmen.
+
+ 
+
+CRONICA
+
+ 
+
+ANGLIA. - Noticies pri Occidental aparit in li semanal equivalente del
+del \"Times\" \-- li SUNDAY OBSERVER \-- de julí 13 e in li semanal
+organe del cooperatives, REYNOLDS NEWS, de augest 3. Li LONDON TEACHER
+organe del instructores de London, publicat un noticie pri IALA e Occ in
+su numeró de decembre 1947.
+
+ 
+
+Sr. de Guesnet iniciat un important controverse in li LINGUIST e Sr.
+Akerman continuat li propaganda por nor lingue per un excellent lettre.
+Per ti du actiones li BOA vendit mult literatura.
+
+ 
+
+Li comité del BOA convenit li 13 sept. e li 27 nov. Li nov secretario es
+S.W. Beer, SALTOUN, NORHEADS LANE, BIGGIN HILL, KENT. On projecte un
+excursion al dom de Sr. Beer a Pasca.
+
+ 
+
+Aparit \"International Memorandum\" (Nro de nov. 1947), organe del
+Britannic Occidental Societé, con un articul: The leaning tower of
+Babel, e un litt cronica.
+
+ 
+
+CANADA. - Prof. Jean-Paul VINAY (Paris), professor in li Universitá de
+MONTREAL, e membre del Comité de IALA fat du lecturas pri li question
+del L.I. in un Club musical et littéraire in april, e li altri in li
+M.I.T. de Cambridge, Mass (U.S.A.). Il exposit li conceptiones del
+modern interlinguistica, inter queles ti de nor lingue.
+
+ 
+
+-9-
+
+ 
+
+FRANCIA. Paris: In li reunion de oct., Sr. Georges Aguiré fat un
+improvisation in li variante C del lingue de IALA, tre proxim a
+Occidental. In novembre, de batte: Esque li ruranes es profitatores? In
+decembre, pro li bastamentes noi ne incontrat nos. In januar: esque noi
+posse supresser 95% de nor besones? Noi havet li plesura haver con nos
+nor yun britannic amico M.H. Holmstrom del etá de 13 annus 1/2, quel
+aprendet sol Occ. e parla it tre fluentmen.
+
+ 
+
+In Bordeaux, li gruppe del Amicos del L.I. 6, place Bourgogne, progresse
+bon. In li presse aparit articules pri lingues international in li
+socialistic diale Le Populaire, un de prof. Aurélien Sauvageot pri Basic
+English, un de prof. André Mirambel pri Bilinguisme, in quel il parla
+pri li lingues constructet e cita IALA e li simplificat lingues Basic.
+
+ 
+
+L\'Unique, de Orléans (septembre), insertet un long articul de G. Aguiré
+pri IALA. - La Vie Libre, naturistic mensuale de Avignon in decembre
+insertet un articul de Sr. de Guesnet por Occidental.
+
+ 
+
+GERMANIA.
+
+ 
+
+Nor gruppe in Stuttgart til nu reuni se chascun mensu.
+
+ 
+
+It es tre desfacil propagar nor idé ci, pro que li homes ocupa se
+generalmen pri altri plu proxim jacent cuidas, quo es comprensibil in li
+hodial situation in Germania.
+
+ 
+
+Nor cardinal efortie es ante omnicos aprender Occ. til perfection.
+Adresse: Fritz Kleinbeck, Steinlestr. 10, STUTTGART-Sillenbuch,
+Germania. USA-zone
+
+ 
+
+ITALIA
+
+ 
+
+Li revúe Aetme Post, important mensuale filatelic international,
+continua publicar un curse de Occidental in Occ., con historiettes e
+informationes pri li novitás filatelic, redactet del director de nor
+Central Oficie, Sr. Lagnel. Grand interesse sequet ti iniciative. Un
+altri revúe petit li sam colaboration por far conosser Occ.
+
+ 
+
+Sr. Giuseppe Bevilacqua, Pavullo nel Frignano, Italia, desira
+traductiones in Occ. de litt ovres. Il itente editer un manual de Occ.
+in italian e vole adjunter un antologie de divers autores.
+
+ 
+
+SVEDIA. - Aparit li nro de februar del \"Sved Occidentalist\", Organe
+del Sved-Occ.Federation. Li articul \"Quo vu desira de vor
+organisation\" parla pri li desfacilitás del propaganda e exhorta su
+letores ne lassar se decoragear.
+
+ 
+
+SVISSIA. - Li \"Neue Zürcher Nachrichten\" del 22.12.47, signala in su
+bibliografie li brochura de Dr. Haas: \"Wieso ist Occidental die
+endgültige Welthilfsprache\",.- \"Das Vaterland\", altri grand diale
+sviss, recense curtmen li Wörterbuch Occ-Deutsch und D.-Occ de A.
+Matejka.
+
+ 
+
+In li Editoría de Chapelle, li complet Fundamental Vocabularium de
+Occidental
+
+ 
+
+-10-
+
+ 
+
+es nu tippat e pret por li edition. Circa 10000 radicas es inregistrat,
+quel, con lor derivates, genite circa 40000 paroles. Un vocabularium
+geografic completa ti ovre quel exiget pluri annus de labor intensiv. It
+besonat in tot 7 cadernes de 24 págines. Provisorimen li libre es
+liverat con cadernes ne ligat.
+
+ 
+
+TCHECOSLOVACIA.
+
+ 
+
+Li societé Federali editet un prospecte bon printat in tchec, explicant
+li principies de nor lingue.
+
+ 
+
+SKM, organisation del catolic yunité in CSR, ha introductet Occidental
+in su programma quam un punctu cardinal.
+
+ 
+
+Li movement supra-nominat va editer un revuette poligrafat
+\"Corespondentie\", quel va esser dismisset a tis quel have interesse
+por interrelater con nos e devenir nor colaboratores, consules,
+traductores, informatores, etc. It va esser editet simultanimen anc in
+Esperanto e talmen anc Esp/istes va vider Occidental. Ma por to noi
+besona li apoy de omni activ occidentalistes de bon voluntá. Noi peti
+omni interessates desirant reciver nor \"Corespondentie\" scrir nor
+ínmediatmen, nam li tirage va depender del quantité de abonnatores.
+
+ 
+
+Omni jurnalistes, litterates, etc., de vor land noi peti misser nos
+interessant fotos, articules, informationes concernent religiones de
+omni tendenties e specialmen del catolic circules. ON ha arangeat ja
+mult discurses córam li catolic yunité pri interlingue Occidental. Li
+studie del interlingue es introductet obligatorimen. Cristano-viageantes
+in CSR comprendent Occidental va esser bon acceptat ci.
+
+ 
+
+Noi va editer li sequent libres: \"Complet grammatica de Occidental\",
+de Jaroslav Podobsky, e \"Li cantarium del national canzones tchec con
+li notation musical\". Si vu va misser nos libres de instruction editet
+in vor land vu va reciver por li sam valore ti libres quam exchange.
+
+ 
+
+Noi va editer anc adressarium por corespondentie e por interchange. Noi
+besona mult adresses. \-\-- Association del yunité catolic in
+Tchecoslovacia
+
+ 
+
+Vyrehradská 23, PRAHA II
+
+ 
+
+Li Voce de Praha, de nov. e dec. 1947 oferta abundant informationes pri
+nor movement durante li ultim mensus, ne solmen in Tchecoslovacia, ma
+anc in altri landes. A notar li testimonie de Slaves quel asserte, pos
+comparationes practic, que nor lingue es mult plu proxim a lor lingues
+(tchec, bulgar, etc) quam Esperanto.
+
+\-\-\-\-\--
+
+ 
+
+Un passante in statu de ebrietá aborda un old dama in li strade:
+
+ 
+
+\- Esque vu posse, il explica con mult desfacilitá, dar me li adresse
+del liga antialcoholic?
+
+ 
+
+\- Vu desira, sin dubitá, inscrir vos, mi brav mann?
+
+ 
+
+\- No! no!, yo vole demissionar!
+
+ 
+
+-11-
+
+ 
+
+BIBLIOGRAFIE
+
+ 
+
+LI CANALETTES DEL PALUDE: Mettente in practica con su scoleros li nov
+procede del printeríe in li scol, nor confratre Sr. Roux havet li
+excellent idé reunir li contributiones litterari de su yun eleves (8-10
+annus) in cadernes ilustrat de linogravuras, interessantissim per lor
+naivitá. Sur li lateral págine Sr. Roux ha traductet ti charmant
+compositiones infantin in Occ. Noi recomanda a nor letores demandar ti
+cadernes, contra 4 response-cupones che Sr. Roux, instructor, COULON,
+Deux-Sèvres, Francia.
+
+ 
+
+Li ultim nro de \"Interlinguistic Novas\", organe del Occidental-Societé
+de Francia (sept.-oct 1947) esset specialmen rich in documentes e
+informationes. On posse obtener it anc che Sr. Roux.
+
+ 
+
+Li \"CORRESPONDANCE INTERSCOLAIRE\", Nro 32 del \"Editions de l\'Ecole
+moderne française (in Cannes, Alpes-Maritimes) publica un tre
+interessant articul de su chef-redactor, li conosset pionero del nov
+pedagogie, pri li desfacilitás del corespondentie scolari inter li
+diversi landes, pro li \"barriere del lingues\". Il fa memorar que ante
+li guerre du grand militantes esperantistic, Sres Boubou e Bourguignon,
+mort in deportation in Germania, hat usat Esperanto por ti scope. Hodie
+du lingues es usat practicmen: Esperanto e Occidental; il proposi usar
+les paralelmen e da por chascun li adresse de un representant. Por
+Occidental es designat Sr. Roux, instructor in Coulon (Deux-Sèvres)
+FRANCIA.
+
+\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+Cosmoglotta in 1938:
+
+ 
+
+Durante li passat annu li redactores de nor revúe ha esset supercargat
+pro lor professional labor e li edition de du lexicos. In plu li
+Institute Occidental, pro li sempre augmentant movement, ne posset
+executer, pro manca de auxiliatores, sempre in just témpor omni necessi
+labores. Nu li situation va ameliorar se e nor revúe va aparir
+regularimen.
+
+ 
+
+Regretabilmen, in 1947 noi ne ha posset editer plu quam 2 numerós
+printat: li enorm augmentation del custas de printation e li
+desfacilitás transferter li credites queles acumula se in cert landes
+esset li causes pro queles noi restat prudent in expenses. Tamen aparit
+12 num. in 1947. In 1948 noi projecte far aparir 8 numerós A e 4 numerós
+B. Li printation per Offset va permisser nos inrichar chascun numeró con
+dessines, musica, forsan mem fotos, etc.
+
+ 
+
+Benque li custas de printation ha augmentat 5 vezes tis de ante li
+guerre li abonnament restat li sam. Con regret noi es fortiat elevar
+ho-annu ti abonnament a sviss Fr. 8.-, includet li contribution al
+Occ.-Union.
+
+\-\-\-\--
+
+ 
+
+Editor responsabil: Fred Lagnel, CHAPELLE-VD, SVISSIA
+
+Chef-redactor: Ric Berger, prof. MORGES, SVISSIA
+
+ 
+
+-12-
+
+ 
+:::

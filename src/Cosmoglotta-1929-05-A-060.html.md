@@ -1,0 +1,1045 @@
+Cosmoglotta A 060 (may 1929)
+============================
+
+\
+
+::: {#displaycontent}
+COSMOGLOTTA
+
+Annu VIII -- Mai 1929 -- Nr. 60 (5)
+
+ 
+
+Contene:
+
+ 
+
+Antagonist e ... profete
+
+Cronica
+
+Esperanto contra logica
+
+Litteratura
+
+Sociologie del film
+
+Pisc volant
+
+Du episodes
+
+Tolstoy
+
+Meyerbeer
+
+Corespondentie
+
+Antagonist e ... profete
+
+Fritz Mauthner
+
+ 
+
+Durant long témpore yo ha projectet introducter nor amicos in li idés de
+ti genial filosof, morit ante quelc annus, quel ha luctat con li
+problemas de lingue in grand ovres, apart del oficial academic
+doctrinas, e quel esset un heretico de titanic grandore. Ti projecte
+attraet me tant plu quam Mauthner, intim ínamico del idé de un
+artificial mundlingue e specialmen del sistemas Volapük-Esperanto, ha
+expresset un idé quel justmen monstra vers Occidental.
+
+ 
+
+Ma ... comensat ti labore, yo comprende li ínpossibilitá dar a nor
+letores un complet reproduction, e yo deve restricter me a un prova
+esquissatri e citates sin bon coherentie. Adplu li manca de un
+fundamental filosofic studie mey excusar me si yo ha miscomprendet ci e
+ta ...
+
+ 
+
+Por un superficial studie del idés de Mauthner sufice li litt ovre «Die
+Sprache» (li lingue), Frankfurt a. M., edit. Rütten & Loening. Ma qui
+vole studiar le profundmen, deve prender li grand ovres «Kritik der
+Sprache» (critica del lingue), 3 tomes, Leipzig, edition Felix Meiner, e
+«Wörterbuch der Filosofie» (lexico del filosofie), sam edition. Ex li
+unesim litt ovre yo prende li sequent passages.
+
+ 
+
+Yo premisse que Mauthner indentifica lingue e pensada; il asserte que it
+es ínpossibil pensar sin lingue; e del critica del lingue il perveni a
+un annihilant critica del homal pensada generalmen.
+
+ 
+
+«[...]{style="font-family:DengXian;" lang="zh-cn" lang="zh-cn"} li
+lingue, justmen pro li ínprecisitá del parol-contures, es un excellent
+instrument del poesie (arte de parol; ma scientie quam comprension del
+munde es sempre ínpossibil, proque ya li fin realitá ne es captibil per
+li rud pinces del lingue ... In li scientie li lingue revela su
+impotentie; in li poesie it demonstra li potentie de su bellitá ...» Do:
+li max acri negation del Idistic idés! Secun mi saventie Mauthner ha
+refusat Ido explicitmen in un articul in «Berliner Tageblatt».
+
+ 
+
+-86-
+
+ 
+
+Ma noi va vider que it esset solmen li singul sistemas queles Mauthner
+refusat e queles provocat su sarcasme per lor risibil e ínnatural
+experimentes, e que in veritá il esset plu proxim al just comprendet
+mundlingue, quam il self savet.
+
+ 
+
+Mauthner nómina li popul-lingue li «sensorium commune» (cerebre) de un
+nation: «inter li socios de un nation, do in li psicologie social, li
+populari lingue lude un simil rol quam li cerebre in li psicologie
+individual». (p. 30).
+
+ 
+
+Talmen il arriva al conception de un simil «sensorium communissimum» por
+li tot homanité. Malgré quelc sceptic remarcas pri li utopic idé de un
+general fraternal homanité (li modern constitutiones neplu es
+introductet per teses pri li jures del hom) il ne posse negar li
+existentie de un unité del civilisation, precipue del nationes de Europa
+e America, e il concede que li unification de ti nationes «sub» un unic
+lingue vell esser un action de immens revolutionari grandore. (On deve
+considerar que ti libre es scrit in li unesim annus de nor secul).
+
+ 
+
+Evidentmen li autor tande ha conosset solmen li sistemas Volapük e
+Esperanto, queles il ha combattet ye omni occasion, in su libres e in
+mult articules in jurnales. Ex su argumentes, partmen expresset anc de
+altris, yo excerpte solmen quelc passages apartmen interessant por nos.
+
+ 
+
+«Un ideal lingue quel vell posser evitar anomalies (ne solmen li
+grammatic anomalies) es hodie sammen ínpossibil quam in li témpore del
+episcopo Wilkins, proque li mundecatalog, quel vell esser li fundament
+de un tal ideal-lingue, ne ha esset composit de nor natur-scienties, e
+ne posse esser composit nequande ...»
+
+ 
+
+«[...]{style="font-family:DengXian;" lang="zh-cn" lang="zh-cn"} por li
+control vell exister ni un nation ni un complet lexico ...»
+
+ 
+
+«[...]{style="font-family:DengXian;" lang="zh-cn" lang="zh-cn"} in li
+artificial mundlingue li excellent aptitá del national lingue quam
+instrument del parol-arte vell dever perir fatalmen ...»
+
+ 
+
+Quáncam Mauthner ha videt clarmen li grand progress de Volapük a
+Esperanto (pag. 38, 40), il refusa energicmen li ultim pro li
+ínnaturalitá de su construction, e in su polemica il usa quelcvez
+totalmen ínjust argumentes. It sembla que il ne ha conosset li
+id[é]{style="font-family:DengXian;" lang="zh-cn" lang="zh-cn"}s de Lott
+e Liptay; tamen su meditationes ea in ti direction:
+
+ 
+
+«[...]{style="font-family:DengXian;" lang="zh-cn" lang="zh-cn"} inter li
+civilisat nationes ... malgré national odie e aviditá, malgré religiosi
+contrastes e etern dangere de guerre,
+
+ 
+
+-87-
+
+ 
+
+ha nascet quasi un spiritual unitá, quel similea un universalitá de
+pensada o de lingue. Quam in China existe un commun scritura, leet e
+pronunciat diversmen del divers tribus ma comprendet absolut egalmen,
+... anc ye li mundeconception del civilisat occidental nationes e ti de
+America existe un comunitá del psichic situation, quel, malgré li
+diversitá del dialectes o lingues, ha ductet a un internationalitá.
+Precipue li psichic situation del grand-citeanos de omni nationes es
+commun sur li dominias de saventie. ... Li ... saventie del homanité ha
+crescet e ha esset expandet ... per du fenomenes, queles ... strangimen
+omniloc es nominat per li sam parol «presse»: li printada de libres e li
+jurnalisme. Li crescentie del du formes del presse ... ha ductet a un
+novi fenomen, quel ha favet li internationalitá del mentalitá del
+nationes plu quam alcun artificial mundlingue vell har posset efectuar:
+li traductet litteratura, li ínfinit masse de traductiones, fluent de un
+nation al altri ... Li evenimentes in li tot munde, comunicat per li
+gazettes, producte identic sentimentes e idés in li tot civilisat
+homanité (il cita li afere Dreyfuss e ti del capitano de Köpenick); ...
+per li comun possession de inventiones e decovritiones, de conossenties
+e idés, abstractiones, deos e fetiches, ... per li comun possession de
+conceptiones, queles es comun quam li chinesi litterat ... ha nascet un
+commun mentalitá del civilisat homanité; yo posse comprender li
+expressiones (tipparoles, Schlagworte) de ti ci mundan psichic situation
+quam elementes de un ocult mundlingue» (pag. 45).
+
+ 
+
+Li max acri antagonist del ancian mundlingue-sistemas esset li
+clarvident profete del ver mundlingue del futur ...
+
+ 
+
+Dr. Peipers, Köln.
+
+ 
+
+Cronica
+
+OCCIDENTAL-ENGLISH VOCABULARY editet de The Ferguson Press,
+Jeffersonville, 125 E. Chestnut Street, Indiana, U. S. A. It consiste
+solmen de un micri folie plicat, contenent li max frequent paroles
+(circa 200) queles ne trova se in angles o adminim ne in li form
+Occidental. Per ti ci folie, quel es practicalmen adjuntibil a cadernes
+de Cosmoglotta, por omni hom conossent angles es tre afacilat li
+comprension de textes in Occidental. Precie: 100 expl. 1,50 doll.; 200
+expl. 2,50 doll.; 1000 expl. 10 doll.
+
+ 
+
+A. D.
+
+ 
+
+-88-
+
+ 
+
+BAYERISCHE LEHRERZEITUNG, Nürnberg (Germania), nr 8, sub titul
+«Internationale Sprache» contene un detalliat articul de sr Teodor L.
+Krebs, preceptor in München. Il descri li historie del problema del
+unesim projectes til Novial, dá specimenes del lingue-projectes e in fin
+ocupa se pri li problema del film parlant, quel sin lingue international
+universal va esser ne imaginabil. Li film-industrie va perdir su
+significantie mundan, li regiones de vende va diminuer, artistes de
+landes de micri lingues ne ad-plu posse esser vocat al grand centres del
+film-production. Li american film-industriales self declara, que angles
+ne es apt quam universal film-lingue, que mem li angleses va oposir
+contra presentationes in li idioma american e que li sol solution
+practic es un lingue international constructet, neutral. Unquande solmen
+revatores e utopistes ocupat se per tal problemas. On ridet e mocat les.
+Ma li via del L. I. ducte del utopist al grand-industriale. Li munde va
+escutar le, e su moné va parlar li fort lingue del persuasion. Ma inter
+li revator e li financiario sta li pionero --- li instructor. Il un die
+va esser vocat del munde instructer li junité del popules trovar paroles
+de comprension anc trans li límites del patria. Li autor dí que li idé
+self del L. I. es lu primari, li via selectend es secundari. Ma in un
+adnex al articul poy inviat al redaction del gazette sr Krebs explica
+que li projectes de L. I. in li ultim annus sempre devenit plu simil a
+un altri e li finale a ti evolution es Occidental quel pro su ínmediat
+comprensibilitá por persones con mediocri education strax posse esser
+usat quam L. I. To es li max grand avantage de Occidental, e li
+estimation pri quel Occidental joya precipue in circules de erudites, es
+explicabil per to. Li articul, finient per un alinea in Occidental, es
+scrit con verve e profund conossentie del cose e noi cordialmen gratula
+nor nov collaborator. In li present numeró sub rubrica «Corespondentie»
+noi inserte partes de un lettre de sr Krebs u il descrí qualmen il
+devenit adherent de Occidental.
+
+ 
+
+ERKENNTNIS UND BEFREIUNG, organ del anarchosocialism,
+Wien-Klosterneuburg (Austria), 10 marte, recense Cosmoglotta e sublinea
+li ínmediat comprensibilitá de Occidental simil a Universal de Prof.
+Molenaar. Li redactor questiona: «Si noi abstrae de nationalistic
+restriction mental, esque it ne vell esser plu avantageos, uniar se pri
+li max difuset vivent lingue quam lingue auxiliari, vice constructer nov
+mund-lingues,
+
+ 
+
+-89-
+
+ 
+
+queles ne satisfá li scope serchat». --- Si li solution proposit del
+recensente vell esser tam simplic, it certmen ja vell esser fat. Ti
+possibilitá existe ja tam long quam li problema del L. I. Esque li
+causes es rational o ne, to ne have importantie, si it acte se pri
+constatation de factes. In ultra ne solmen nationalistic
+considerationes, ma anc li desfacilitá del lingue angles ancor stimula
+preferer un lingue constructet por relationes international. Inter ti
+lingues constructet noi proposi Occidental, quel es ínmediatmen
+comprensibil anc por li anglese. Por un german scientist ne es permisset
+expresser su pensas in un angles con erras grammatical. Do vice esser
+condamnat a mutitá international, it es vermen plu just usar Occidental,
+quel ne have un grand lexico de propri fraseologie a aprender. Mem si in
+li comensa li angleses in international relationes ancor va usar angles,
+li usation de Occidental per li altres va esser profitabil anc por li
+angles: Li angles va comprender Occidental e li german es mult auxiliat
+per que il ne es coactet usar angles in maniere expressiv ma solmen
+receptiv. Durant ti concurrentie on ya va constatar, quel lingue va
+tener se: Occidental o angles. Certmen si noi vole ja nu efortiar
+introducter Occidental quam li unic mundlingue auxiliari, noi ne va
+successar. Ma pos que noi va haver li complet lexicos
+Occidental-national, it ja es témpore proposir Occidental quam lingue
+permisset in international revúes, corporationes, congresses etc. Tis
+qui ja usa angles e frances quam lingue international, comprende anc
+Occidental. Do li acceptation del supra-nominat propose postula de ili
+null perdition de témpore, quo vell esser necessi pri Esperanto.
+
+ 
+
+RIVISTA DEGLI STENOGRAFI, Firenze (Italia), nr 2, sub recensiones
+consacra un articul a Cosmoglotta e al Occidental-Union, «quel es un
+vast organisation universal con membres in omni partes de Europa», ma
+Occidental ultra to have mult avantages intrinsic contra Esperanto, quel
+per refusar omni reform, ha causat li aparition de centes de novi
+projectes.
+
+ 
+
+O. F. S. (Mitteilungen des Ordens freier Seefahrer), Duisburg
+(Germania), marte, nr 3, reprinta li textus propagativ por Cosmoglotta e
+Occidental ex li revue «Der Fremdsprachler».
+
+ 
+
+E. P.
+
+ 
+
+Qui senti se destinat destructer illusiones, self acte per illusion.
+
+ 
+
+Paul Mongré.
+
+ 
+
+-90-
+
+ 
+
+Esperanto contra logica
+
+Sub titul «Inter ni» (Inter nos) «Sennaciulo» (Anationalist), li organ
+del max grand Esperanto-Organisation «Sennacieca Asocio Tutmonda» (S. A.
+T.) (Anational Association Universal) nr 196 publica quelc alineas
+contra li hiperlogica de Ido, queles have apart valore tactic in li
+combatte por li L. I. Pro to noi conserva les ci integrimen in
+Occidental. Ne solmen Idistes ma anc Esperantistes con plesur usa quam
+cardinal argument agitatori contra Occidental, que it ne es constructet
+sur li postulationes del logica, ma secun li customes dominant in li
+lingues natural. Pro to li sequent passus prendet ex li plum del
+redactor E. Lanty self, sembla nos plu un apologie de Occidental quam de
+Esperanto.
+
+ 
+
+Red.
+
+ 
+
+Noi omni save quant li idistic interprension impedit li esperantistic
+movement. Un manuade de desespritos fanaticos arogantmen parlant in li
+nómine de un pseudoscientie, sovente successat atinger, que homes ja
+convictet pri li necessitá de un medie de intercomprension universal e
+pri li vivicapabilitá de un artefat lingue, tamen ne aprendet ni
+Esperanto, ni Ido.
+
+ 
+
+Nu li idistic movement liquida se. Quelc idistes totalmen abandonat li
+lucta, altres adheret a un nov project de lingue (i. e. Occidental.
+Red.), e céteris plu sagi, simplicmen intra li esperantic ranges. (On ne
+cita li nómine de un tal idist. Noi anc ne conosse mem ne un. Red.)
+
+ 
+
+Li lucta inter Esperanto e Ido durat 21 annus e it finit per complet
+ruina de Ido.
+
+ 
+
+Ma on vell errar opinente, que li mal influentie de Ido ne plu efecte
+sur nor movement. In li intern vive de nor lingue on senti ancor li
+pedant logistica inportat de amatores de Ido. Yo self con repente
+confesse, que durant quelc témpore yo fortmen esset influet del idistic
+criticas. Por obedir un semblant logica, noi tro sovent es inclinat far
+plu pesos nor simplic e flexibil lingue.
+
+ 
+
+Zamenhof tre clarmen ha scrit: «Resonat li cloches in li grand blanc
+«konstruo» (construction) e mult yun fliccas se monstrat in li jardin
+...» (Fabules de Andersen, pg. 56). Ma hodie nor Ido-amatores scri
+«konstruaj'o» (cose constructet), sub li pretext, que to es plu logic.
+Possibilmen, ma «konstruitaj'o» (cose quel ha esset constructet) vell
+contener mem plu logica! ...
+
+ 
+
+Mult simil exemples yo vell posser citar por monstrar, que
+
+ 
+
+-91-
+
+ 
+
+li semblant logica del idistes e Ido-amatores have mal influentie sur li
+intern vive de Esperanto.
+
+ 
+
+Un vivent lingue deve obedir li leges del vive. E ti leges have necos
+comun con logical principies aplicabil solmen a notiones abstract. Li
+vive obedi li lege de minimal resistentie. Pro to li ordinari hom
+ínconscientmen sempre have li tendentie usar, por far se comprendet,
+solmen li minimum de lingual elementes.
+
+ 
+
+It es bon conosset, que scientistes ne parla li sam lingue quam ordinari
+homes. Quo es necessi in sciential ovres, to aspecte pedantic in li
+quotidian usa de nor lingue.
+
+ 
+
+Li idistic misinterprension ha fat fiasco. Resta nos totalmen liberar
+nos del pedant idisme, quel insinuat se in nor ranges ...
+
+ 
+
+E. L.
+
+ 
+
+Litteratura
+
+Sociologie del film
+
+On va atinger un clar conception de ti strangi entitá: film, si on
+considera li problema, dat per li aparition del mobil image ne tant de
+vispunctu estetic quant societari-sociologic. Nor question relatent li
+tema film-cinema do va esser: Quel efect spiritual-societal sur li
+hodial homanité es dat med li fact, que omni die milles del
+film-«dramas», --- un specie quel ne lassa definir se precismen secun
+null homan o artistic maniere --- es versat sur li contemporanes in li
+noct-nigri cameras del cinema-teatres? Si intot on crede ye un effect de
+alcun public effortie changeant li societé --- e on vell esser un mal
+nihilist, si on ne vell creder it --- tande noi va dever atribuer un
+gravissim influentie sur li europan psichic vive a un talmen insistent,
+semanalmen repetit impressionament. Li intrada del film in li serie del
+organisationes masse-suggestiv noi posse posir in li témpore depos li
+guerre; que antey it ne possedet quelcunc propagandistic qualitá, seque
+del fact, que it apen esset utilisat in li mundguerre quam medie de
+mutual instigation del popules.
+
+ 
+
+Por averar anc in li film li innascet al hom impuls de voler definir:
+Noi sta avan un temporalmen defluent producte, quel have comun con li
+drama li sequentie de situationes de action --- sin posseder li
+possibilitá del parol ---, quel have comun con li dansepantomime li
+defluentie del movement, e tamen deve renunciar ye un congruent musica;
+nam li tal-nominat
+
+ 
+
+-92-
+
+ 
+
+film-musica --- ples atenter --- es presc sempre un acompaniment
+conglutinat «post festum», e in fine li film self anc sin it quam
+totalité es rond e pret. Ma un film-producte derulant sin musica effecte
+quam un fantom, e it es un argument por li profund problematism del
+«film-drama», que mem li max miserabil piano-ludache posse auxiliar su
+effect. Si on concede, pri que null invention es pensabil sin un
+temporal sense quel evoca it, tande li teorema es applicabil in alt
+gradu al film, quel per li max rafinat optic medies subtene li tendentie
+actual atinger un augmentat masse-sentiment. Desde li annu 1914 noi vide
+un tendentie del movement del homanité efectiv sub divers mascas,
+laborant con secur instincte ad gruppar plu fortmen li hom quam
+societari-social unité --- al far sentibil al singul ente li ligationes
+del societé anc til in su privat vive. Ca ti societal tendentie presenta
+se quam nationalisme, quam radical socialism o forsan in li ideologic
+tintura del nov Viennes individual psicologie (Alfr. Adler), sempre on
+posse sentir li penada del témpore atinger un maximum de social
+adaptation e destillar alquicos quasi psichic-spiritual nominator
+general por genie e spicero.
+
+ 
+
+Ni mem li presse omnidial posse effecter ye li psichic capabilitá de
+representation de su letores tam decisiv, tam til in li profundesses de
+ínreconosset desires, quam li cinema, quam li drama-filmes laborant med
+un definit e calculabil númere de societal situationes. Qui vole esser
+orientat pri li imagine del desires del micri gente, ti ne mey regardar
+in li mediborgesi dial gazettes, ma mey frequentar li cinema-teatres del
+suburbes: necú quam ta es tam preferet filmes del grand societé, queles
+monstra li industrie-capitanes con cesaric regarde marchant sur spess
+tapisses --- necú on senti li ascension de alcun prettietta in li
+atmosfere del clubfotel talmen essent poetic justicie e completion de
+desires.
+
+ 
+
+Li cinema, i. e. li filmdrama del presente es un instrument, quel labora
+pri li psichic fundamentes del futuri hom unitari. On ne posse adducter
+ci al comparation li teatre: Li parol, quel posse cader in li cerebres
+in tre divers manieres, crea diferentiation, postula continuation del
+spiritual construction, effecte sur un linguistic sense de form --- li
+mobil image effecte genericmen e ne perde nequande anc in li filmic lude
+un cert generalisant eficientie placatic. On mey solmen representar se,
+quel rapid possibilitás de spiritual reconstruction de un tot popul li
+russ soviet-governament tene in su manus per li
+
+ 
+
+-93-
+
+ 
+
+film: Un totalmen ínmiscomprensibil e fort ideologie parla ex
+«Potemkin», li «Matre» o «Lette e Sofa», un ideologie quel tam rapid e
+ínpermediat posse parlar al popul solmen in li traduction per filmtipes.
+Li lector de libres resta un isolat singulon; li film-visitator presc
+sempre succumbe a un ínperceptibil suggestion de masses.
+
+ 
+
+On mey pensar solmen al semanal revúes del film-societés. Esque li
+official e demí-oficial evenimentes de nor public vive ne es ja posit
+ínvoluntarimen in relation al film-operator, quel fixa li procedenties
+por li micri gente in li cinema. Ci noi posse considerar ex distint
+proximitá ti fantomic reciprocitá inter li vag desires del anonimic
+spectator e li arangement del vive del societé.
+
+ 
+
+Ne existe probabilmen un plu bell image del embarasse, con quel nor
+témpor contrasta a cert economic-politic problemas, quam li conosset
+film-monstru «Metropolis» in quel ex politic sauces del presente es
+mixtet un salate, quel ne vell dever esser apt a un intact stomac, qual
+tamen sembla ne havet mal sequenties che li grand «curvi», li publica.
+Li des-rassic tendentie al massivitá quel caracterisa nor témpore, e
+quel ja ha anunciat se ye li comensa del secul in li epic ovre del in su
+maniere grand Zola, hodie ha decidet sin contradition li linea de
+production del film. Ne ínpunitmen on ha inculcat al homanité li profund
+respect ante li grand númere; it ha comprendet li signe tre bon e tene
+li partie del plu grand filmbataliones egal ca ili es commandat per Otto
+Gebühr --- Fridericus o per Dieudonné --- Napoleon. On deve har travivet
+li total fiasco de un del max magnific german filmes --- yo parla pri
+«Hintertreppe» (detra-scaliere) de Feßner (manuscrite: Karl Mayer) ---
+por sentir que li clar representation de moviment, ci dat tam bell e
+ritmic precis, li nobil joya ye li evolution de pantomimic movet
+córpores, (li film curret sin film-titules) quel ti film mediat, que to
+absolut ne sufice por un success che li publica, si in it ne es contenet
+li possibilitá de un masse-traviventie. Romantica de ascension, politic
+collectiv-movimentes e un humor movimental quel permisse al plu habil,
+plu malin victer li plu fort, e ancor li tot inventare del
+borges-sentimental roman amoros --- ultra to ne va exister mult plu
+filmsituationes, queles posse esser secur pri su publica. Nietzsche vell
+haver su joya de observator, si il vell har reconosset in li filmic
+detalie ti «ressentiment» del homes, qui fatalmen deve preferer li
+índirect atacca al direct. Ta in «Potemkin» li «pincenez»
+
+ 
+
+-94-
+
+ 
+
+del submerset medico naval treme quelc secundes in li taclage, u it
+restat pender, ta --- quasi per hasard --- un yelm veni sub li pedes del
+marchantes (in li «Texteros») e es aplastat --- in ambi casus li micri
+hom in li cinema joya pri su capabilitá percepter li profund sense de ti
+detalie preparat por il. Anc in li comunmen acquisitet capabilitá, li
+detalliat psicologic observation, prepara se li elementes de un futuri
+«masse hom» educat per li sam optic modelle. Ti constatation ne vole dir
+ne-cos contra li artistic caractere del citat filmes, queles in su
+génere es excellent.
+
+ 
+
+It es comprensibil, que nor témpor, quel quam veritabil témpore de
+stil-mutation anc sufre ye superestimation de lu mimic, es tro
+precipitat con li predicate «producte de filmarte». Si li parol «arte»
+ne deve esser sacrificat a un mutation del conception, ma conserva su
+sense, tande sub ti parol on posse comprender solmen li coercition al
+form, al organic modellation.
+
+ 
+
+Mem li maximal-production del corporic-pantomimic dansa (p. ex. li
+balett de Diagilev o in Germania li experimentes de Mary Wigman) sempre
+fa solmen impression de artistic pre-form del grand drama; e tamen ti ci
+es acquisitet un alt perfection del córpore per medie de intensiv
+concentration e ínfatigabil corporal «training». Qualmen ta li film vell
+posser decisivmen aproximar se al ver essentie del drama, quel monstra
+se solmen in li parol? Qual inrudation ad-in lu plebeic-palpabil del
+deliciosi comedie borges de Sternheim «Li Pantalon» a un súper-accentuat
+film-fars! Ye to noi denove choca nos con li problema del tip, quem li
+film advere posse dessinar plu clar quam omni brochuras e folietones. Un
+futur cronist de nor dies va trovar in li filmarchives li essential
+social tipes de nor témpore ínmiscomprensibilmen juntet.
+
+ 
+
+Noi lee, que li press-magnate Hugenberg che li electiones ha inviat un
+tot parc de cinema-automobiles; li adversarios anc ne restat ocios sur
+li toale, e it ne esset necessi esser un profete por saver quel
+simplification del types on vell incontrar in li superpuntat dessin del
+politic adversario. Li foliette, li brochura --- to omnicos esset sempre
+ancor differentiat, to operat con conceptiones e ne sufficent fat
+marchar li imagination! Ve! si un guerre mundan vell exploder inter du
+film-popules!
+
+ 
+
+Ma noi ne vole parlar mal e moralisante pri li film; it have anc su
+merites quam social fenomen. Egalmen in Magdeburg
+
+ 
+
+-95-
+
+ 
+
+quam in Orléans it fa li cerebres líber por un nascent plu grand europan
+unité, e ti disciplinant e simplificant tipisation del brolliant
+populclasses, quel secun Nietzsche es un avantage del democratie --- ti
+tipisation trova in li film un psichic medie de admirabil precision.
+
+ 
+
+Qui ha videt p. ex. li film «Berlin» de Walter Ruttmann, ti save que ci
+un tot cité ha presentat se, quasi opticmen ha penetrat in su propri
+conscientie. Ancor un socialisant avantage del film: it aproxima al
+conscientie del hom processes de evolution, renovationes del societal
+vive, queles null libre vell har atinget. In li memorabilies del frances
+ambassador in Petroburg, Paléologue, es racontat pri un episcop quel
+plende al imperatressa pri li impression productet per li cinema sur li
+mushiks: «Lor imagination inflamma se, ili perde li rason». On ne mey
+comprender ti citate quam moralisant; ma sam grav quam li exploration,
+ca ti ci o ti ta regissor da bon excisiones, o ca li film
+«Meistersinger» (mastre-cantatores) deshonora Wagner, sam grav sembla me
+un reflexion pri to, que sub li dominie de un film-súper-alimentation
+cresce un generation, quel ye optic stimules, ye situationes e tipes,
+queles le es proxim del cinema, in totalmen altri maniere reacte, anc in
+li omnidial vive es determinat per ili, quam jamá un generation ante it.
+
+ 
+
+It vell esser Don-Quijoteríe, in alcun maniere assaltar contra li film;
+lass nos observar ante altricos su resultates in li societal-sociologic
+sfere, lass nos esser desfident ta, u on anuncia nos li supleation del
+lingual e dramatic art-producte per li film e lass nos ne reacter córam
+chascun habilmen ciset image-pantomime con ti solemni seriositá quel
+vell convener nos forsan ante Faust.
+
+ 
+
+Eugen Gürster.
+
+Trad. Jul. Prorók.
+
+ 
+
+Pisc volant
+
+Li pisc volant, «Dactilopterus volitans», un die visitat li piscs vivent
+in li profund-mar. Quam on save, ili es ti specie de piscs, li visori
+organes de queles plu e plu deveni rudimentari, pro que ti piscs plu e
+plu adapta se al obscuritá del profund-mar, e pro to ne plu besona
+organes visori.
+
+ 
+
+Nor dactiloptero esset un poc babillaci e il volet racontar a su morni,
+ne tre agil cusines alquo pri li superior regiones, in queles il self es
+vivent; il volet rapportar les quelc-cos de su
+
+ 
+
+-96-
+
+ 
+
+max recent experienties. Nam, talmen il pensat, ti ci car gentes ya tam
+rarmen audi alquo pri li coses existent súper ili.
+
+ 
+
+«Certmen vu save que existe aer, atmosferic aer?» il comensat
+tranquilmen.
+
+ 
+
+«Aer? Atmosferic aer? Ne audit jamá!» murmurat li reunit habitantes del
+marfund. «Evidentmen to es li max recent bluff del regiones superior!».
+
+ 
+
+«Ma yo di vos: aer existe, yo self ja ha volat in it! On ne vide it, on
+ne audi it, on ne gusta it, ma it existe! Vu posse creder me to!»
+
+ 
+
+«Nu, e quo ad-plu?» murmurat enoyatmen li sapientes del profund-mar.
+
+ 
+
+«Si on posse emerser ex li aqua, quam yo fa, tande on perveni in li
+splendidmen levi, limpid e tendri element, quel es nominat aer! E poy li
+scene deveni ancor plu fabulesc: on vide un immens ciel vultat, e in ti
+ciel brillia un gigantic glob con un tant intensiv splendore, que it es
+ínpossibil regardar a it! Ti ci glob on nomina li sole!»
+
+ 
+
+«Tu es un grand poet!» dit un del piscs del mar-fund. «On have un
+desagreabil sentiment quande tu comensa narrar tui fantasies!»
+
+ 
+
+«Fantasteríe es alquicos, ma ancor ne poetica!» adjuntet un altri pisc
+quel esset un criticastro e havet un temperament biliosi.
+
+ 
+
+Quelc piscs comensat trovar li afere amusant. Nam li micri dactiloptero
+racontat quelc-cos nov, advere.
+
+ 
+
+«Aer, ciel, sole ... tre interessant! Il mey continuar fabular!» circa
+talmen ili pensat inflammante lor pipes.
+
+ 
+
+«Quande li nocte veni, tande eveni un magic mutation del scene!»
+continuat li pisc del regiones superior. «Li sole poc a poc desapari e
+submerse ultra li bord del mar, e nu apari un nov bul lucent quel emisse
+un nov, argentin splendore e versa it sur li undes del mar. To es li
+lune! E circum li lune, tam lontan quam posse vider li ocul, scintillea
+e brillia ínnumerabil punctus luminosi ... plu grand, plu micri punctus
+blanc e colorosi! To es li stelles!»
+
+ 
+
+Li reunit marfund-piscs nu ja hat devenit tam gay que ili clamat
+«Bravo!», ma con ironie.
+
+ 
+
+«Lune, stelles ... grandios! Índisputabil. Ma quo eveni, tu car yuno, si
+noi ne crede li tot raconta? Qualmen tu posse pruvar it?» questionat un
+pisc, li discipline de quel esset li logica.
+
+ 
+
+-97-
+
+ 
+
+«Vu deve ascender al superficie e tande vu deve anc elevar vos súper li
+nivelle del mar ... e poy vu va posser vider omnicos: aer, ciel, sole,
+lune e stelles!»
+
+ 
+
+«Solmen ti coses existe queles es pruvabil!» dit un old professor del
+profund mar, quel esset un genie in matematica. «Un cos quel nequi posse
+pruvar me in li sfere in quel yo vive, es por me nonsens! Basta!»
+
+ 
+
+Un gruppe de per-sapient piscs aprobat clinante lor capes.
+
+ 
+
+«In céteri», addit un yun pisc, quem li altris considerat quam un talent
+pro esser insolent, «in céteri, noi ja havet che nos pluri gastes ex li
+tal-nominat regiones superior, e noi es un poc versat anc in
+litteratura, ma tal mithes ancor nequi ha volet far nos creder, exceptet
+tu estimatissimo!»
+
+ 
+
+«Yo solmen posse repetir», dit li pisc volant, «yo ne poetisa, yo
+raporta pri factes! Si vu tende elevar vos ex vor profundesse up al plu
+clar sferes, tande vu va haver un presentiment de to quo yo comunicat!
+Vu va posser constatar que aer e ciel, sole, lune e stelles reflecte se
+in li aqua ... e talmen vu va esser capabil almen presentir to quo por
+me devenit certitá per propri vision!»
+
+ 
+
+«On ne posse prender ti ci mann quam serios!» chuchotat un medico
+aquatic, «Patologie!» Diagnose: «Paranoia mistica!»
+
+ 
+
+«Lass le svimmar for!» un altri opinet. «Ti ci naiv novicio vole
+monstrar un nov luce a nos, emerit chefes del scientie del profund mar!
+Luce solari! Haha!»
+
+ 
+
+E il apertet su bocc ridente ex plen cordie e agitat gaymen su pinn de
+caude.
+
+ 
+
+«Quande yo audi pri li superior regiones, yo strax clude li ocules!»
+interclamat un pisc con bon humor. «Yo prefere esser totalmen ciec quam
+haver tal visiones!»
+
+ 
+
+E li reunion, quel evidentmen ja hat suficent amusat se, expresset su
+mersí al pisc volant pro li raport adver interessant pri aer, ciel,
+sole, lune e stelles, e ili preparat se por supear.
+
+ 
+
+«Nu, noi vole un poc regardar te!» dit in fine un yun espriton
+profundmarin. «Tu ya have pinnes quam noi, tu have ocules quam noi, have
+un figura quam noi, tu vive in aqua quam noi e spira per branchies quam
+noi! Ergo, tu es un pisc! O esque forsan tu ne es un tal? E nu, tu quam
+pisc genuin vole parlar a piscs genuin pri coses superpiscan?»
+
+ 
+
+«Yes, yo es un pisc,» replicat li dactiloptero,» yo es un pisc, ma yo es
+un pisc volant! Yo posse elevar me súper aqua e
+
+ 
+
+-98-
+
+ 
+
+spectar li ciel con omni su stelles. Yo posse respirar li aer e volar
+tra it. Adver ne durant long témpore, e ne sempre ... ma sat long
+témpore e sat sovent por posser experir: it existe aer, it existe li
+miracules cielesc!»
+
+ 
+
+E, desirante «Bon vésper», il svimmat for.
+
+ 
+
+E li gentes del profund mar intermurmurat con plesur: «Mersí a Deo, que
+noi denov es inter nos in nor comfortabil profundess e posse viver gay e
+quiet! Ta in supra, li vive sembla esser vermen horribil! Un foll rasse!
+Ínsuportabil!»
+
+ 
+
+E ili comensat lor supé.
+
+ 
+
+Ma li dactiloptero stirat vers li superficie del mar por associar se a
+su fratres e sestras, queles ne posse suppresser li impuls elevar se
+súper li aqua, súper ti element, quel tene captet omni altri piscs, e il
+pensat: «It es desfacil converter li inhabitantes del profund mar al
+crede pri li magnificenties del ciel! Ma ti ci magnificenties existe anc
+si on ne crede les!»
+
+ 
+
+Max Hayek.
+
+Trad. A. Deminger.
+
+ 
+
+Du episodes
+
+Tolstoy
+
+A Yasnaya Pol'ana venit mult forenes. Alquande ha venit un rich
+americano in li societé de su amics. Ili desirat almen vider li celebri
+mann e promisset ne trublar le ni per un parol. On ha permisset les ear
+préter li balcon, u li malad Tolstoy reposat. Li societé movet se
+lentmen e silentiosmen quam préter un statue de buddhistic deitá. Solmen
+un dama ne posset retener se e hante haltat por un moment, ha clamat:
+«Leo Tolstoy, Leo Tolstoy, omni vor nobli libres ha profundmen penetrat
+mi vive, ma max mult yo aprendet de vor libre ...» Ci li dama absolutmen
+ne posset rememorar, quel libre. Li malad poet clinat se súper li
+balustrade de balcon e con ridetta auxilia la: «Mort ánimes?» «Yes,
+yes», responde li dama. «Ma ti libre es de Gogol, ne de me», respondet
+Tolstoy.
+
+ 
+
+Meyerbeer
+
+Al music-compositor Meyerbeer venit un cantatressa, anteyan dansera, por
+que il mey dar su judicament pri su cantatori productiones. Meyerbeer
+demandat la cantar e dansar alquicos. Quande ella ha finit su
+production, Meyerbeer tacet. «Esque yo posse petir pri vor critica?» «Si
+vu ordona, yes. Quam un dansera vu ne canta mal, ma quam un cantatressa
+vu dansa tre bon».
+
+ 
+
+Trad. J. A. Kajš.
+
+ 
+
+-99-
+
+ 
+
+Corespondentie
+
+Tre estimat senior Pigal. Per sam posta yo invía vos li nr 8 de
+«Bayerische Lehrerzeitung», in quel trova se un articul de me pri li
+problema de L. I.\*) Ma ante que vu lee it, forsan va esser bon saver
+que it esset scrit in autune del annu passat quande yo stat sub
+impression del XX. Esperanto-Congress in Antwerpen. Occidental esset me
+conosset solmen superficial. Ma yo nequande esset vermen content per
+Esperanto; támen yo trovat it max scop-conform interessar mi colegos pri
+li idé de un L. I. in general e pri Esperanto in special (Esperanto
+tande ancor semblat me li realisation del idé). Interim, ante li
+crist-festa 1928, yo captet saventie pri Occidental, comensat aquisiter
+it per letura, strax intelectet su grand superioritá e abonnat
+Cosmoglotta. Pos har leet li annu-collectiones anterior, yo durant quelc
+semanes devenit de un Esperantist eternmen íncontent un adherent
+convictet de Occidental. Desde que yo conosse Cosmoglotta, yo finalmen
+save judicar justmen li tot movement de L. I. Li via natural de
+Occidental apare me li rect. Comprensibilmen yo devet relaborar li
+articul, conform al superior intellectiones. Yo do fat to e scrit
+totalmen in li sense de Occidental. Regretabilmen poc dies poy it ja
+aparit in li form original e havet solmen un extract del nov quam adnex.
+--- Bon prosper al Occidental-movement.
+
+ 
+
+\*) Vide alinea 2 sub «Cronica» in li present numeró. Red.
+
+ 
+
+Sincermen vor devoet
+
+ 
+
+Teodor L. Krebs.
+
+München, Germaniastr. 7/3.
+
+ 
+
+\*
+
+ 
+
+Al Redaction de Cosmoglotta, Mauer bei Wien.
+
+ 
+
+Ples permisser me expresser mi opinion pri Occidental. Yo ha esset Idist
+desde annu 1914, ma yo deve confesser que malgré mi eforties aprender
+perfectmen ti «logikoza linguo», yo támen nequande ha atinget li scope
+de mi desires. To es mi experienties pri li famosi facilitá de Ido. Pos
+que Occidental ha apertet mi ocules, yo nu vide clarmen que li pensa pri
+constructer un logic lingue sempre va esser un van pena --- quasi un
+reconstruction del turre de Babel --- ja de comensa necessimen
+predestinat a ruina total. Qui ha dat al chefes del Idistes e
+Esperantistes li jure a mutar li international paroles? It sembla me que
+ne Ido ni Esperanto vell haver li jure nominar se «Lingues
+International»; in omni casu ne pos li aparition de Occidental --- li
+lingue del international paroles. Noi, qui parla Occidental, deve
+nequande dir «nor lingue», nam noi ne possede to in sam maniere quam li
+Idistes e Esperantistes possede su special sistemas. Ma, in contrari,
+noi sempre have li jure dir «li mundlingue Occidental». Occidental deve
+evoluer se al maximum de possibil internationalitá e tal expressiones
+quam «nor sistema», «nor lingue» etc va haver un suggestiv effecte al
+evolution natural de Occidental. Egoisme es li via al fanatisme. Savente
+de experientie que un parol frequent repetit va haver influentie
+suggestiv a nor pensas e sentimentes, noi sempre deve gardar nos a far
+de Occidental un personal
+
+ 
+
+-100-
+
+afere, nam un lingue international es, e deve esser, un ínpersonal
+affere, ne corespondent al special guste de quelc homes, ma es un cose
+vital por omni homes. Quande li beson de un medie de intercommunication
+lingual va far sentir se plu general quam til nu --- tande va victoriar
+Occidental. Proquó just Occidental? Li response es li sequent: 1. Proque
+li construction de Occidental ne fortia li homes parlar contra su
+customes. 2. Proque Occidental es li max facil comprensibil lingue del
+munde. 3. Proque Occidental possede li max natural e simplificat
+grammatica. 4. Proque Occidental es li unic del lingues artificial quel
+possede musicalic avantages natural. 5. Proque Occidental es
+international. 6. Proque Occidental satisfá li postulationes de un
+lingue international. --- On dit que angles forsan va devenir
+«mundlingue» pro su vast difusion ma yo ne crede que noi besona timer
+to. It támen posse esser possibil que Esperanto o angles durant un curt
+témpore va satisfar li unesim besones del homes ma solmen Occidental
+posse contentar les. Quo concerne nos, noi deve sempre per patient labor
+por li sublim idé lentimen progresser vers li scope, li perfection de
+Occidental secun li directives de nor colaboratores conservativ e ne
+abrupter li marcha ante quam Occidental ha prendet plazza secun su jure
+de existentie natural inter li nationes. Yo regarda Occidental quam li
+final solution del problema lingual auxiliari e yo ne va negliger
+directer li attention del norvegianes a ti bell e bonsonant lingue del
+futur.
+
+ 
+
+Con alt-estimation vor devoet
+
+ 
+
+E. W. Hjelm.
+
+Folkvang, Id pr. Halden, Norvegia.
+
+ 
+
+Con plesur noi printat li precedent lettre con su meditand consilies. Sr
+Hjelm per bon motives proscrí li nomination «nor lingue». Secun nor
+conception li rectissim apposition por Occidental es: lingue
+international, pro que Occidental per su structura es li lingue
+international «kat exochen» por li tot munde quel prende parte in li
+civilisation occidental. Noi hodie ne save esque Occidental va devenir
+«mundlingue» ante angles. Noi espera e labora por to. Si ti scope es
+aquisitet, li nómine «lingue auxiliari» es tre modest. Do ancor ne es
+previsibil esque it va devenir li primari lingue o secundari. Ma con
+equitá noi posse dir in omni casu: Occidental, li lingue international.
+
+ 
+
+E. P.
+
+INTERNATIONAL OCCIDENTAL-CONFERENTIE. In su ultim reunion, li comité del
+S. A. P. O. decidet arangear li conferentie in Bern ancor ne ho-annu por
+haver suficent témpore por li propaganda e preparationes. Li termine del
+conferentie va esser communicat plu tard.
+
+ 
+
+Rectification. In li rapport nr 59, pag. 73 linea 21 ha insinuat se un
+erra: Ing. R. Hartmann es possessor del tecnic-scientic officie por
+traductiones quel labora por li tot industrie austrian.
+
+ 
+
+Red.
+
+ 
+
+Eigentümer, Herausgeber und Verleger: Occidental-Union, Sitz: Mauer bei
+Wien. Verantwortl. Schriftleiter: Ing. E. Pigal, Liesing b. Wien. Druck:
+Milan Nedvídek, Tábor.
+:::

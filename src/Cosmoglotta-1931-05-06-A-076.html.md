@@ -1,0 +1,1652 @@
+Cosmoglotta A 076 (may-jun 1931)
+================================
+
+\
+
+::: {#displaycontent}
+COSMOGLOTTA
+
+ 
+
+ 
+
+ 
+
+Oficial organ bimensual del Occidental-Union
+
+ 
+
+Consacrat al developation, propaganda e aplication de
+
+ 
+
+LINGUE INTERNATIONAL OCCIDENTAL
+
+ 
+
+\-\-\-\--
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+REDACTION (manuscriptes, printates de exchange e por recension) : 
+
+A. Z. RAMSTEDT, Villagatun 25, Helsingfors, Finland. 
+
+ADMINISTRATION (abonnamentes, subventiones, expedition de Cosmoglotta)
+: 
+
+J. A. KAJS, Wilsonova Il, Brno X Il, Tchecoslovacia. 
+
+ 
+
+Annu X N:o 2 May-Junio 1931 (Numeró 76)
+
+ 
+
+(CONTENE: Li chimera de un artificial derivation, de Prof. Dr. J.
+Meysmans, pág. 33. Li sufix -ori, de AZR., pág. 37. Complet Grammatica,
+de K. Janotta, pág. 40. Papiamento, de AZR., pág. 43. Li matre e li
+lupos, de O.M. Fontana, pág. 44. Pál Ligeti Pantheon, de E. Moess, pág.
+47. Cronica, pág. 50. Li bible del Diabolo, de AZR., pág. 54.
+Sententies, pág. 55. Anuncies, pág. 55.
+
+\-\-\-\--
+
+ 
+
+LI CHIMERA DE UN ARTIFICIAL DERIVATION
+
+ 
+
+De Prof. Dr. J. MEYSMANS, Bruxelles.
+
+ 
+
+Esperanto, Ido, Novial e altri analog lingues forma lor vocabulariums
+secun a-priori principies. Ili fabrica derivat paroles, queles existe in
+null vivent lingue e ne es comprensibil sin anterior studie. Por
+clarification yo permisse me citar ci quelc exemples de ti bizarr
+fabricates.
+
+ 
+
+Esperanto-paroles: verkinto (in vice de international: autor), eldoninto
+\[editor\], eltrovinto \[inventor\], mallongigo \[abreviation\],
+malsimiligo \[dissimilation\], alig\'o \[adhesion\], c\'eestanta
+\[present\], neebla \[impossibil\], anstatauigado \[substitution\], etc.
+
+ 
+
+Ido-paroles: unesala \[unitari\], asociuro \[association\], organizuro
+\[organisation\], hororigiva \[horribil\], agema \[activ\], dekado
+intelektala \[decadentie intelectual\], konkurencanto \[concurrent\],
+substitucar \[substituer\], etc.
+
+ 
+
+Novial-paroles: mingrandeska \[diminuer\], alme \[anima\], publisa
+0publicar\], reglari \[regulari\], revivisa \[revivificar\], akselero
+\[acceleration\], sientiisto \[scientist\], sirk \[circa\], konkordiso
+\[concordie\], siviliso \[civilisation\], etc.
+
+ 
+
+On trova centenes e milles tal paroles in supradit sistemas. Lor
+adherentes crede, que ili es necessi por facilitar li studie del lingue.
+To es un profund erra, de quel ili deve liberar se, por li bonum de nor
+idé.
+
+ 
+
+It existe plu quam 55,000 paroles, queles es comun a quin grand lingues,
+plu quam 55,000 paroles, queles, con exception de micri diferenties in
+li ortografie, es identic in Anglés, Francés, Hispan, Italian e
+Portugalés. Li plu grand part de ti international paroles (precipue li
+derivates) existe anc quam \"Fremdwörter\" in li germanic lingues
+(Deutsch, Hollandese e Scandinavian lingues).
+
+ 
+
+Ti enormi massa de international paroles constitue un
+\'\'\'natural\'\'\' international lingue, un lingue tot fat e conosset
+in antey de omni educat persones, apartenent al nationes (400 milliones
+de homes), quel forma li ductent cadre de europan-american civilisation.
+
+ 
+
+It es evident, que por ti milliones de persones li natural international
+paroles, existent in lor propri lingue, es plu comod, plu facil quam
+quelcunc artificial paroles, fabricat secun max bon logic sistema. Nam
+null logica vale plu quam li long acustomation, quel noi have de nor
+matrin lingue.
+
+ 
+
+Ma on va dir, que li lingue international es destinat ne solmen al
+persones conossent ti international paroles, ma anc al persones parlant
+li slavic, finnic, etc. lingues, in queles li international paroles ne
+existe.
+
+ 
+
+Por responder a ti objection noi comensa per constatar, que li educat
+persones de quelcunc nation conosse alminu un del grand cultural lingues
+(anglesi, francesi, german, hispan, italian). Mem in China e in Japan li
+conossentie del europan lingues expande se plu e plu inter li educat
+classes. Quande un Nord-Chinese incontra un Sud-Chinese, ili parla a
+unaltri in Anglés. Li anglés es anc instructet in omni secundari scoles
+de Japan.
+
+ 
+
+Noi have do li jure dir, que \'\'\'li educat persones del tot
+munde\'\'\' conosse li natural international paroles, ma ili nequande
+conosse in antey li conventional e utopic paroles, imaginat del
+fabricantes de artificial lingues.
+
+ 
+
+E li non-educat persones? Noi asserte que mem por ti persones it es plu
+bon adopter li ver international paroles
+
+ 
+
+ 
+
+-35-
+
+ 
+
+por aferes sive por amusament, va sempre haver interesse aprender li
+lingue del land, quel ili visita.
+
+ 
+
+It es do índispensabil que li lingue international ne contraacte li
+studie de foren lingues. Li adoption in li lingue international de
+paroles, queles es comun al grand cultural lingues, responde a un ver
+necessitá. It va esser un grand benefation por li tot munde. Mem li
+non-educat persones \[just pro que ili ne es educat\] ne deve regretar
+que on imposi les li studie de quelc centenes de ver international
+paroles. In contrari ili vell haver li jure protestar, si on instructe
+les artificial paroles, de queles li definitiv success ne es probabil e
+queles in ultra difere de un artificial sistema a un altri.
+
+ 
+
+Ma li sistemas con artificial derivation es ancor plu destructiv quam on
+posse creder. In un articul publicat in li revúe Lingua Internationale
+di 1911 yo demonstrat que ti sistemas, por far possibil li artificial
+derivation, es fortiat deformar arbitrarimen \[\"segun multa e
+partikulara motivi\" quam li Ido-Akademio declarat\] li max
+international radicas. Nu, si un grand part del radicarium es deformat,
+li studiantes del lingue, ne possente saver quel radicas es deformat e
+queles ne, es obligat aprender omni radicas, mem tis, queles ili conosse
+bon. Ili es obligat aprender ex memorie li 6000 radicas, queles es
+necessi por constituer un lingue plu o minu complet. On ariva do a ti
+resultate, imprevidet e contradictori, que por facilitar li studie del
+derivates, on complica enorm li studie del radicas. Sub pretexte
+auxiliar li memorie, on successa solmen supercargar it, pro que on
+fortia homes aprender ex memorie 6000 arbitrari radicas e desaprender
+milles de derivates, queles li tot munde conosse.
+
+ 
+
+On deve renunciar de ti chimera del artificial derivation. Proque existe
+un ver international vocabularium, possedent in present plu quam 55,000
+paroles, noi deve adopter it, tal, qual it es, e evitar deformar it, sub
+quelcunc pretexte.
+
+ 
+
+Li artificial sistemas es solmen revas de utopistes e amusament de
+dilettantes. Por li interesse de nor grand e bell idé noi deve, in fine,
+devenir practic e abandonar procedes, queles es hereditat de lingues
+\'\'a-priori\'\'.
+
+ 
+
+Li pur e simplic adoption del real international vocabularium
+
+ 
+
+ 
+
+-37-
+
+ 
+
+es li ver solution del problema del lingue international.
+
+ 
+
+Ti natural solution ne exclude li adoption de un regulari sistema de
+derivation. Ma li sistema de derivation ne posse esser imaginat; it deve
+esser traet ex li international vocabularium self. Li sistema de
+derivation ne deve esser un preexistent generator del vocabularium, ma
+un subsequent explication e corrobation de it.
+
+ 
+
+LI SUFIX -ORI.
+
+ 
+
+Li ver signification del sufix -ori (originant del latin -orius) sembla
+har causat omni interlinguistes mult embarasse. Li majorité ha
+simplicmen ignorat it, benque it es un tre ordinari, international e
+important element in li derivation. Su present formes es: I H P -orio, I
+anc -ojo, Rum. -oriu o -oare, F -oir e -oire, Prov. -ori e -or, A -ory,
+G orisch, Sc -orisk.
+
+ 
+
+Lott ne tracta li sufix apartmen. Il mentiona quelc derivates: derider -
+derisori, scriber -scriptori, e sembla har conjecturat li signification.
+Rosenberger mentiona in su clave por Reform Neutral -oric quam formant
+adjectives de -or (motoric de motor), de Wahl da in su original claves
+de Occidental vag e contradictori definitiones. In un clave es dit, que
+-ori significa \"quo deve acter in postulat maniere\" (-iv es \"actent
+in definit maniere\"), in un altri clave -ori \"con li intention
+de\...\" (-iv destination, facultá, capacitá, necessitá), in un triesim:
+-ori \"devent acter in tal e tal maniere\" (-iv actent talmen, capabil
+de, destination, capacitá, necessitá), in un quadresim -ori es \"quel
+have intention de, es destinat ad (sin que on garanti success, quel on
+expecta si on usa sufix -iv)\", e ti ultim explication ha esset insertet
+anc in li Complet Grammatica editet de Janotta. - Borgius totmen ne
+mentiona li sufix -ori in su grandiosmen planat \"Auf dem Wege zur
+europäischen Sprache\". Astonant es que anc prof. Jespersen prefere in
+su Novial ignorar li existentie de ti sufix.
+
+ 
+
+Romanistes quam Diez e Meyer-Lübke mentiona curtmen in su grammaticas
+que li sufix -ori significa in plurissim casus possibilitá o necessitá.
+
+ 
+
+ 
+
+-38-
+
+ 
+
+Por vermen comprender li signification o significationes de un
+grammatical element es índispensabil anc un regard a su orígine e
+historie.
+
+ 
+
+Reveniente al \"matrin lingue de nor cultura\", li latin, noi constata,
+que li unesim paroles, queles finit per -orius, esset adjectives,
+derivat del substantives per -or per medie del adjectivic sufix -ius:
+amatorius de amator, imperatorius de imperator, analog a patrius de
+pater, regius de rex, etc. Li substantives per -or es nomina agentis,
+queles indica li actor de un action, e li action del verbe devenit
+gradualmen quasi li centre del atention, e li composit sufix -orius
+esset comprendet quam stant in relation al action. Talmen imperatorius
+deve har esset gradualmen comprendet ne solmen quam adjective,
+corespondent al substantive imperator, ma anc al verbal substantive
+imperation. Nam homan action ne posse eventer sin homes, e un hom ne es
+actor sin que il fa un action.
+
+ 
+
+Yo ne dubita, que li grand difusion del sufix -ori deve esser
+principalmen atribuet a sintactic conditiones del romanic lingues quant
+concerne li junctori subordination de paroles in conectet parlada.
+Solmen li anglés permisse un substantive imperation anc in position de
+junctori atributive (adjunct), p. ex. stone wall. Li germanic e
+scandinavic usa parol-compositiones, ma li romanic e slavic lingues deve
+substituer li substantive per un adjective (un mur de petre, un petrin
+mur, st\'ena iz kamn\'a, kamennaya st\'ena). A verbal substantives per
+-ion, queles posse esser usat solmen \"primari\", in li romanic lingues
+adjectivic substitutes esset necessi quam \"adjunctes\", e pro ti rol
+verbal adjectives per -ori esset usat. Talmen si noi di: it es vor
+obligation far ti servicie, e inverte li frase talmen, que obligation
+deve star quam adjunct in relation a servicie, noi deve dir: it es vor
+obligatori servicie. It es un self-evident consequentie, que inversmen
+li verbal adjectives per -ori deve posser substituer verbal
+substantives, si ili es usat quam \"primari\", e in fact noi trova, que
+in li rumanian lingue -oare nu es li current sufix por formation de
+verbal substantives.
+
+ 
+
+In mi \"Occidental-Kursus\" in li libre \"Occidental, die Weltsprache\",
+lecion 3, pag. 95, yo ha pro to definit li sufix -ori quam significant
+\"apartenent a un action (paroles
+
+ 
+
+ 
+
+-39-
+
+ 
+
+per -ion) o su actor \[paroles per -or\]\". Li exemples, dat in ti
+lecion, monstra clarmen, que li definition del claves: \"-ori destinat
+ad, intention de\...\", tro sovente es fals e nequant ne satisfa li
+conditiones de un definition dar lu essential e esser tam inclusiv quam
+possibil. Si noi prende li exemple: scritori crampe, noi comprende, que
+it ne posse significar: crampe destinat ad o quel have li intention de
+scrition, ma: crampe, apartenent a scrition, crampe de scrition. Nu plu
+tard yo trova in li excellent ovre de Hemme: \"Das lateinische
+Sprachmaterial\", un explication, absolut identic con li mie:
+scriptorius = zum Schreiben gehörig.
+
+ 
+
+Quam vivent e productiv es li usation in li modern lingues del sufix
+-ori es visibil p.ex. in li anglés, quel tant abunda de verbal
+adjectives per -ori, que it possede les, mem si li latin ne havet ni
+adjectives per -orius ni nomina agentis per -or: compulsory - de
+compulsion, dispensatory - de dispensation, illusory - de illusion, etc.
+
+ 
+
+Anc in li rumanian li sam sufix trova se in grandissim númere, nam a
+presc chascun verb posse esser format un verbal adjective per -oriu:
+cantatoriu \[de cantation, cantant\], simtitoriu \[sentient\]. Ad ultra
+in provençal: punidor \[punibil\], noncreedor \[íncredibil\], nonauzidor
+\[ínaudit\], etc.
+
+ 
+
+Li neutral form del sufix, -orium, ludet un tre grav rol in li latin e
+ancor lude in li romanic lingues por indicar un instrument: cisorium
+\[t.e. un cos apartenent a cision, cisores\], rasorium \[un cos
+apartenent a rasation, rasuore\], etc. In ti casu noi usa in Occidental
+li quasi-francés form -uor.
+
+ 
+
+-orium havet in latin un altri grav signification: loc de action:
+balneatorium, dormitorium, etc. Ma ja in latin un paralel feminin form,
+-oria, existet: natatoria apud natatorium \[loc por \"svimmar\"\], e li
+feminin form es usat in Occidental: laboratoria \[loc de laboration o de
+laboratores, quo yo in realitá es egal\] e ne laboratorium, auditoria,
+dormitoria, etc.
+
+ 
+
+Investigante li historie de un sufix noi vide que quande li usation
+expande se, li signification constantmen disloca e changea se. Heraclit
+esset rect: panta rei, omnicos flue.
+
+A.Z.R.
+
+\-\-\-\--
+
+ 
+
+Anc li maxim folli ideale have un scop: it protecte su possessor contra
+bancrott intern.   O. Leibecke.
+
+ 
+
+-40-
+
+ 
+
+COMPLET GRAMMATICA.
+
+ 
+
+Composit de K. JANOTTA.
+
+ 
+
+(8-esim continuation)
+
+ 
+
+D. Prefixes.
+
+ 
+
+Ci es tractat tam li prefixes ínseparabil quam li prepositiones e altri
+grammatical paroles usat quam prefixes. Ínseparabil es nominat ti
+prefixes queles ne es usat quam autonom paroles (prepositiones, etc)
+i.e. li sequent: ab-, al(c)-, bel-, dis-, ho-, in-, mis-, ne(c)-, non-,
+ob-, pre-, re-, se-.
+
+ 
+
+Li du species de prefixes es tractat ci junt, pro que in li composition
+ili seque li sam regules: plures del unes e del altres posse esser
+assimilat, compara in supra li parte B. In sequent li prepositiones e
+altri grammatical paroles es apartmen indicat.
+
+ 
+
+Ab-, indica un move for del rect via o del punctu o qualitá original:
+abalienar, abdicar, abducter (medicinic, antonim: adducter), aberrar
+(aberration), abhorrer, abirritar, abjudicar, abjurar, abnegar, abnorm,
+absoluer (absolut), abusu: ante li tenues c e t assimilation partial in
+abs-ceder (abscess), abstiner (-tiner de tener con ablaut),
+abstra(ct)er, abstrus (de truder).
+
+ 
+
+Ad- (preposition) forma verbes (a) de adjectives con li sense \"far tal
+quam li adjective expresse\": apt, adaptar; (b) de verbes con li sense
+de \"aproximar, mover in direction\": ducter, adducter.
+
+ 
+
+Assimilation partial a a- ante b, se, sp, st: batter, abatter: bell,
+abellar; brevi, abreviar; scender, ascender, spirar, aspirar; strict,
+astricter.
+
+ 
+
+Assimilation total ante c, f, g, l, n, p, q (foneticmen mutat a ac-), r,
+s, t: accession, acclamar, accomodar, accusar, afflicter, affluer,
+affolar, agglutinar, aggrandar,ravar, allargar, allitteration, allongar,
+alluder, annexer, annullar, annunciar, apparir, applauder, arrestar,
+arrivar, arrondar, assentir, assimilar, associar, assonar, assortir,
+attender, attentar, atterrar, attirar, attra(ct)er, attribuer.
+
+ 
+
+Ad- in li altri casus, i.e. ante vocales e e ante d, h, j, m, v: Addir
+(de quel addition, vide IV, C sub -dir), adequat, adherer, adjectiv,
+adjudicar, adjunter, adjustar, administrar, admirar, admisser, admonir,
+adopter, adornar, adverb.
+
+ 
+
+ 
+
+Al- ante qu, alc- ante vocales, forma pronomines e pronominal adverbies
+índefinit; compara in infra VI,1).
+
+ 
+
+Ante- (preposition) indica un anterioritá temporal, analog a pre-:
+antecedenties, antedatar, antediluvian, antenuptial, antepenultim,
+antevenir. Li parol \"anticipar\" consiste ex ant(e) + i (eufonic) +
+cipar (orfan temaquam in \"e-man(u)-cipar\", parent a capter).
+
+ 
+
+Avan- (preposition) indica un anterioritá local (sovente circa in li
+sense de front): avan-brass, avangarde, avanlinea (frontlinea),
+avan-mann, avanmur, avanplan (-scene), avanportar, avanposto,
+avancurrero, (compara: precursor).
+
+ 
+
+Bel- (etimologicmen identic al adjective bell) expresse un parentitá per
+maritage: belfilio, belfratre, belmatre, belparentitá, belsestra.
+Compara -astre in III,B,I.
+
+ 
+
+Circum- (preposition) indica un periferic proximitá: circumcentric(itá),
+circumdar, circumferent(ie), circumflex, circumlocution,
+circumnavigation, circumpolari, circumscrit(ion), circumspect(ion),
+circumstantial (in Occidental ti ci parol es format ex li sequent
+elementes circum+st+a+nt+i+al, circumvallation, circumvolution.
+
+ 
+
+Con- (preposition) indica un move de extern, ad un centre comun, un
+aproximation, un association, ma in mult international paroles solmen
+por nuanciar li conception. Li signification in tal casus trova se in
+omni vocabulariums anglés, francés, german etc.
+
+ 
+
+Ti sufix assimila se a co- ante vocales e h: coactiv, coadministrator,
+coeducation, coetan (de etá), coexistentie, cohabitar, coherer, cohibir,
+coincider, cointeressat, coinvestitura, cooperation, coordinar.
+
+ 
+
+Total assimilation ante l, m, (n), r: collaboration, collecter,
+collocar, commercie, commisser, commod, commun(ist), commutar,
+connational, connex, correcter, correyent, correlativ, correpetitor,
+corresponder, corroder, corruption.
+
+ 
+
+Com- ante b, p (e m quam just demonstrat in supra): combatter, combinar,
+combuster, comparar, compatriot, composition, comprender, compresser,
+comprometter, compromisser.
+
+ 
+
+Con- in omni altri casus: conceder, concluder, concordar, condamnar,
+condensar, condescender, condoler, conducter, confederar, confirmar,
+confluer, conform, confrontar, confuser, congenial, congregation,
+congress, conjun(c)tion, conjurar, consacrar, conscientie, consentir,
+conservar, consister, consolidar, conspirar, constant, constellation,
+contemporan, contra(ct)er, convenir, e mult altres.
+
+ 
+
+Contra- (preposition) indica un contrarietá, un oposition: contraalt,
+contrabande (bande = edict, lege); contrabass, contradi(c)tion,
+contrafagott, contraindication, contrapunct, contrasignar, contrast (st
+es li radica del verb star), contravallation, contravenir.
+
+ 
+
+De- (preposition) indica un moventie de supra ad infra, o fro alcú ad ci
+o ta. In ti ultim sense it es simil al prefix -ab, quel tamen have un
+sense plu proxim a for. Li diferentie es clar in li du verbes deducter e
+abducter. Li unesim monstra per li preposition de al orígine (on
+\"deducte\" li parol illusion del verb luder), durant que li duesim
+monstra li alontanation, separation (on \"abducte\" li sordid aqua ex li
+fabrica). Ma ab- in general ne es plu usat in modern nov derivationes e
+on da preferentie a de-, quel pro to accepte anc un sense proxim a for-.
+
+ 
+
+Exemples for:
+
+ 
+
+\(1) ad avan e ad infra: decader, degelar, demisser, demobilisar,
+depender, descender;
+
+\(2) in altri direction: defigurar, deformar, detener, deviar;
+
+\(3) del orígine: deducter, derivar;
+
+\(4) for: decentralisar, defecar, deortar, derelar, debarcar.
+
+ 
+
+Quam on vide, ti significationes es modificationes de un sam primari
+idé: moventie o traida in un altri direction.
+
+ 
+
+In li lingue francés ti \'\'\'de\'\'\' ha mixtet se con li prefix des-
+(quel es un plu modern deformation del prefix dis- con un altri special
+sense). To ha devenit pro eufonic rasones, specialmen egardat in li
+lingue F. quel ha
+
+ 
+
+ 
+
+-42-
+
+ 
+
+eliminat presc omni s ante consonantes, p.ex. école de escola, écarter
+de escartar, guèpe de Wespe, échanger de exchange etc. Pro to inter li
+paroles modern con prefix de- existe un grand parte de tales, queles in
+li lingues hispan e portugalés have li prefix des-, p.ex. descomposição,
+desdenho (F dédain = desdigni), desflorar, desfolhar, desgelar,
+desgustar, desligar (délier) etc\...
+
+ 
+
+Des-: ti prefix have li fundamental sense de separation, privation,
+cessation (vide anc dis-, de quel it deriva). To es specialmen visibil
+
+ 
+
+\(1) che verbes e participies derivat de substantives: desabonnar,
+desargentar, desarmar, desequilibrar, desheredar, desillusionar,
+desvalidar, desfoliar, desinfection\... e pro to adprende (altricos quam
+apprende) li  sense del
+
+ 
+
+\(2) contrarie: desconcordie, descuida, desdignar, desgust, desagreabil,
+desavantage, deshonor.
+
+ 
+
+Pro que mult francés paroles es plu difuset, on posse anc in ti prefix
+aplicar li sam regul quam in ad, dis, in, sub etc. i.e. on posse
+eliminar li ultim consonant, per quo ti prefix va colider con li
+preposition de-. Ma li sense es in mult casus tam afin que li usation de
+ti o altri form ne va far grand diferentie. In general on posse dir que
+des- es plu strict, plu rigorós. To monstra se anc in li diferentie con
+li prefixes in- e non- queles monstra solmen li negation; des- es plu
+fort e monstra lu averse, lu contrari.
+
+ 
+
+In mult casus che international paroles ti sufixes de-, dis-, e anc in-
+etc. ha perdit lor sense intrinsic e solmen da un altri nov sense al
+radica. P.ex. definir, devenir, discurs, diminuer, directer, informar,
+invidie, etc.
+
+ 
+
+Dis- indica un separation, un dispersion, un movement de desagregation,
+un movement in divers directiones: discontar, discontinuar, disconvenir,
+discordar, discurs, disharmonie, disjun(c)tiv, dislocar, dismembrar,
+disposir, displantar, dissemar, dissident, dissoluer, distra(ct)er,
+distribuer; dif- ante f: diffamar, differer, diffider, difform,
+diffuser; di- ante d, g, l, m, n, r, sp, st, v: diducter (medicinic),
+digestion, digresser, dilacerar, dilatar, diluer, diluvie, diminuer,
+dimisser, di-spersion, di-star (di-stantie), divagar, diverger. On mey
+atenter que tam dis- quam di- posse start ante 1: dis-locar, ma dilatar:
+li unesim parol es un modern formation, li duesim es heredat de L. Posit
+ante li parol \"facil\", li prefix dis- producte li ablaut de a ad i:
+difficil, de quo deriva \"difficultá\" (ples vider -tá); ma on posse dir
+anc regularimen \"desfacil, desfacilitá\". On mey comparar li prefix
+grec di- in infra in li parte F.
+
+ 
+
+Ex- (preposition) indica (a) con verbal temas un movement de intern ad
+extern: e- ante d, g, j, l, m, n, r, v: edict, educar, educter, (chem.)
+egresser, ejecter, elaborar, electer, elevar, emigrar, emisser, enervar,
+enorm, erecter, eroder, erupter, evacuar, evader, evaporar, evoluer; ef-
+ante f: effaciel, effecter, efflution, effoliar, ma anc efaciar etc.
+(compara IV, B, in supra). Ma ex- in li altri casus: exarticular,
+excavar, exceder, excentric, excider, exclamar, excluder, excommunicar,
+exculpar, excurs, excusar, exhalar, exhauster, exmatricular, expatriar,
+expectorar, explicar, exponer, exportar, exposition, expresser,
+expropriar, expulser, extender, extermination, exterritorial,
+extra(ct)er.
+
+ 
+
+ 
+
+-43-
+
+ 
+
+In quelc casus, precipue in paroles heredat (de latin), on elimina un s
+sequent pos ex-: execrar (de ex-secrar), execu(t)er, (de ex-secu(t)er),
+exister (ex-sister), expectar (ex-spectar), expirar (ex-spirar),
+extirpar (ex-stirpar); advere in ti paroles li composition ne plu es
+sensibil.
+
+ 
+
+\(b) Con substantivic temas li prefix ex- significa \"ancian\":
+exesperantist, exidist, eximperator, exministro, exofficero,
+expresident, exrey, exsoveran. Ci un assimilation ne eveni.
+
+ 
+
+ 
+
+ 
+
+PAPIAMENTO.
+
+ 
+
+It ha ja long esset conosset, que li nativ population del insul Coraçao
+in li Caribean Mare \[li hem de un agreabil liquore fat de oranges\]
+parla un lingue composit de aparentmen diferentissim elementes, \"e
+dushi lenga di Cursóu\", \[li dulci lingue de Curaçao\] generalmen
+nominat del natives \"Papiamento\". Ma poc ha esset conosset pri ti
+lingue ante uam li recent aparition de un concis grammatica e
+description de it: \"El Papiamento, La lengua criolla de Curazao; la
+gramática mas sencilla\", elaborat pos multannual studies e scrit in
+modern sud-american hispan de professor Rudolf Lenz, un german, qui
+servi in li Instituto Pedagojico de Chile, apartenent al Universitá de
+Santiago. Dr Lenz monstra, que Papiamento es un composite de mult hispan
+e un poc hollandés e portugalés, con un singul parol de african orígine,
+\"nan\" - ili, les, ma anc usat quam formative por plurale. Su special
+interesse támen es su absentie de declination e conjugation. \"The
+Times\" in London, quel consacra un detalliat noticie al libre dce Dr
+Lenz, di: \"Li resultate es un lingue de cultural valore, de quel li
+linguistic desfacilitás de europan lingues ha grandmen desaparit. Si
+tis, qui aspira li chimera de un mundlingue, vell decider prender alcun
+existent lingue quam modelle, in vice de inventer Volapük, Esperanto o
+Ido, ili vell far bon investigar quo es parlat che li
+negros-inhabitantes de ti obscur ma charmant litt West-Indian insul.\"
+Li gazette da un specimen del lingue, quel noi reproducte ci con poc
+explicationes in parenteses. 
+
+ 
+
+I despues mi a bai (yo vadet) na winkel (holl. butik) di sneiru (holl.
+snijder, tailor) pa mi siña fishi (enseñar officio = aprender un
+mestiere). Enfin durante tur es tempu aí, mi tubatin mi mama na bida;
+pew, despues ku
+
+ 
+
+ 
+
+-44-
+
+ 
+
+mi mama a murí, antó (port. então = tande) mi a kumisa (comercie) konose
+tur mundu inter (integri, tot) i ku esperensya di tur kos (tut coses). 
+  A.Z.R\>
+
+ 
+
+LI MATRE E LI LUPOS.
+
+De O.M. FONTANA.
+
+ 
+
+\"Jörru, ples atelar li slitt!\"
+
+ 
+
+E Jörru atela li cavalle avan li slitt. Li matre sedenta se intra, tene
+in li brasses li infante invelopat in covrituras e presse it tendrimen a
+su péctor. \"Kanike va rider bentost denove, Kanike bentost denove va
+batter per li gambes, yes, Kanike, li doctor va dar te pulvres, li malin
+doctor, quel ne vole venir a te, li bon doctor, quel va curar te!\"
+
+ 
+
+Jöru clacca per li knut e li brun cavalle avansa. Rapidmen ili quasi
+vola tra li village quam fleches. In li domes, facies presse se plat
+contra li litt vitres del fenestres, atraet per li sonas del
+slitt-clochettes e seque per ocules li vehiculantes, til que ili ne
+adplu es visibil.
+
+ 
+
+Li strade aspecte antiqui e solitari con li grand árbores. In li alt
+branches capte se li vente tranchant. Sempre denove it curre contra ili
+e vole rupter les. Ili resiste cracante. Corvos vola lent ex li solidmen
+congelat agres adsupra durant li aproximation del slitt, sta quam nigri
+cruces contra li ferrin ciel, e cade quam fusilat sur li congelat
+glebes.
+
+ 
+
+Li matre tene li infante sub su drape. \"Kanike, tu ne deve sentir
+frigore, tui faciette es blu. Sub li drap tu va sentir te bentost, quam
+si may ja ha arivat. Atende do, Kanike,\" e ella soffla su calid spira
+súper li rigid facie del infante.
+
+ 
+
+Li slitt move se lentmen adsupra li via montan. Ella have in dors ja li
+demí-parte del via. Li brun cavalle respira con pena e sternuta. Jörru
+bonhumorosi clacca per lingue. Nu ili es in supra e vehicula tra li
+forest. Dextre e levul sta abietes obscur e ínpenetrabil, sempre e denov
+abietes. Reye silentie absolut. Li viatores in li slitt audi li tenui e
+clar cantada del vent in li glacie del árbores. Li branches pende
+profund adinfra, li nive ne successa penetrar in li
+
+ 
+
+-45-
+
+ 
+
+nigri obscuritá del forest. Singul flocs, grand e pesant, cade e peri
+trement in li rigid frigore. Li cavalle trotta lent e secur li meandric
+e petrosi forest-via covrit per nive.
+
+ 
+
+Comensa crepuscular. Li matre fa un nipp ex li brandy-botelle, quel Jöru
+inmanua la sin parol. \"Kanike, anc tu deve calentar te,\" e ella tira
+ex li tube de su botte un botelle involuet in palle e versa guttante
+calid té inter li dentes del infante. \"Nu, Kanike, to calenta. Mi car,
+quant yo ama te!\" Subitmen fa li bruno un ínexpectat salta, cabra se
+ancor in li furca e fure. Li matre rula sub li banc, ella releva se e
+vole rider pri li salta del cavalle, ma ella nu vide: in li obscuritá
+del forest du falb luces e un moment poy sub to un puntosi musel.
+\"Jesu, Maria, Josef!\" ella fa li signe del cruce. To auxilia. Necos
+adplu. Li cavalle ja comensa ear plu quiet, ma nu cliquetta alquo sub li
+abietes. Tapp, tapp, tapp, mult falb luces. Denov ella fa li signe del
+cruce, multvez, e li cavalle fure, ma tapp, tapp, tapp, sub li abietes
+li falb luces acompania les. Jörru cria nu quam flotteros clama un al
+altri e clacca per li knut, menacia al forest e maledí e canta e brui,
+til que it deveni calm inter li abietes, til que li falb luces desapari
+in li profund obscuritá del forest.
+
+ 
+
+Li matre sospira quam liberat, Jörru e ella trinca brandy, li cavalle
+trotta adplu quiet. Nu ili va esser bentost extra li forest, e poy ancor
+du hores e li cité va esser ci. Li slitt glissa levi e rapid súper li
+nive. Nu li abietes resta in dors, agres estala se denov in largore.
+Quam bon! Ella regarda a retro. Nigri punctus formíca ex li forest. Oh,
+ciel, auxilia, ci ili es denov in cumul, un apu li altri e aproxima se
+in un obliqui, rapid trottada. Ancor ella vide solmen li alt, magri
+pedes del besties, nu cresce súper ili li tenui, pigri córpores.
+
+ 
+
+\"Jörru, da me li pistoles!\"
+
+ 
+
+E ella tira. Li lupos disperse se, resta un poc in dorse. Ma poy denov
+tapp, tapp, tapp\... ella audi lor pedes in firm-gelat nive, audi it til
+in su cordie, malgré li tintina del slitt, malgré li anxiós respira del
+bruno. Jörru knuta li trement flancas. Li cavalle fure.
+
+ 
+
+Tapp, tapp, tapp, quant ili curre, in patient aviditá, seque, aproxima
+se sempre plu, circumda li slitt, puntós
+
+ 
+
+ 
+
+-46-
+
+ 
+
+erectet oreles apu puntós erectet oreles. Yelb luces sub limpid frontes
+e flarant acut museles. Tapp, tapp, tapp.
+
+ 
+
+E ella tira denov e atinge. Ma li meute resta. Tapp, tapp, tapp. Un
+resta un dorse claudicante, il lassa un rubi tracie in li nive, un altri
+neplu leva se, rula se ululante, li pedes contra li ciel, ma ella ne
+remarca to. Li yelb luces nu denov aproximat se plu, ex lor museles
+penetra afamat spira in li cristall-clar aer. Súper agres, súper vias
+jace obscuritá. Null luce de stelles cade ad infra. Jörru knuta, fa un
+boss, ne regarda a detra e conta canzones infantal, tavernal, amorós,
+eclesial, omni, quo veni le in li mente, fort, rud, muiente. In li
+pausas, si necos plu veni le in mente, il cria hossiana, hossiana! e poy
+canta denov: \"Hasta plu, flicca, orna te, flicca!\" o \"Yo es li
+herbe-princessa!\"
+
+ 
+
+Li pistol es exhaustet. Li matre stupidmen tene li arm e conta: Un, du,
+tri, continua e senti, che cent li dentes deve esser in mi carne. Ma
+ella es che tricent, e sempre ancor it ne ha evenit, sempre ancor solmen
+ti tapp, tapp, tapp! del silent luces nu ja tot proxim.
+
+ 
+
+Li infante es malad. Li infante possibilmen va morir, ma yo self vole
+ancor balnear in li fluvie. Ma yo vole ancor trincar con li falciatores
+ex li argilin cruche. Tu, ne yo! E ella jetta li pacca inter li lupos.
+Tu, ne yo!
+
+ 
+
+Li yelb luces resta in dors.
+
+ 
+
+\"Plu rapid, Jörru, plu rapid!\"
+
+ 
+
+Il batte per inversi knut li bruno, luces scintilla ex li obscuritá avan
+li slitt\... li cité! Oh, salvation! Oh, fecilitá! Li spirada del
+viageros vole stagnar pro joya. Ma denove scintilla li yelb luces tra li
+obscuritá detra li slitt, tapp, tapp, tapp, e ella curre in sam tempo
+con li slitt. Tapp, tapp, tapp! Un caude crinut batte contra li manu del
+matre.
+
+ 
+
+\"Plu rapid, Jörru, yo peti te che omni santes e che li Vírgina, ples
+salvar me!\"
+
+ 
+
+Li luces del cité agranda e lucta contra li yelb luces del afamat
+córpores. Flarant museles tende se ad ella quam culteles de omni
+flancas, calid hala invelopa la, ella curre in li strett slitt ad avan e
+retro, batte circum se in li vacui aer, ella vide li yelb luces ye su
+drap, quel protectet anc li infante, it es fortrenat per claccant
+dentes, ella senti li yelb luces ye su coll, ella es renversat per li
+up-saltant
+
+ 
+
+-47-
+
+ 
+
+córpores con long crines e saliant dur costes, caudes batte la in li
+facie, ella crampona se solmen ancor per manus ye li glissones del
+slitt, quel glissa furiós ad avan, durant que ja ye su trenat córpore,
+ye su pedes tira li boccas. Poy cracca li dentes anc in li fingres e li
+slitt vola solmen con li curvat Jörru ad avan in li strada del suburbe,
+in li cité, sempre ad avan. Solmen sur li mercat-plazza successa un
+ululant hom-amasse capter li terrificat cavalle, haltar li slitt. Jöru
+balbutia lu evenit.
+
+ 
+
+Gendarmes strax fat excursion. Ínmediatmen avan li unesim domes del
+suburbe ili trovat sur li strada sanguós osses e chifones, un kilometre
+plu lontan, involuet in drapes, queles monstrat per mult trues li
+morsuras del lupos, li innfante\... ne-tuchat, ne-ledet, vivent e
+rident.
+
+ 
+
+Ex li german trad. A. Valenti.
+
+ 
+
+ 
+
+PÁL LIGETI: PANTHEON
+
+Li vive del culturas in li spegul del arte.
+
+De EUGEN MOESS.
+
+ 
+
+Circa desde li comense del passat centennie continualmen infortia se li
+tendentie, quel sercha cert leges inter li evenimentes del historie del
+homanitá, considerat íncalculabil til tande, e vide in li evenimentes
+intersequent li resultate predeterminabil del forties actent. Li
+exploration de ti legalitás obscura li historic investigation til tande
+explorant detallie-problemas e esquissa li ideale de un spiritual
+historie contenent e interpretant li tot evolution cultural.
+
+ 
+
+Tal conception es li historic materialisme de Marx, quel reconosse in li
+tot evolution del homanité li perpetui class-combatte basat sur factores
+economic. Tal es li teorie de Spengler, quel nega li unitari
+cultur-evolution homan, ma conosse índependent culturas, quam por
+exemple li egiptian, li chinés, li grec o li cristian, respectivmen
+Faustic cultura e ti culturas have chascun un altri anim; ili departe
+del statu de latentie e, hante floreat, denov ruina se e submerse in li
+stadie nominat de Spengler fellah-statu. Tal es li poetic conception de
+H.G. Wells, secun quel li scope del evolution es un felici homanité, ma
+li
+
+ 
+
+ 
+
+-48-
+
+ 
+
+just reconossentie del terran felicitá del homanité es retardat e
+impedit del epocas del recidives religiós, quande li crede barra li via
+del intellectu.
+
+ 
+
+Ma omni tri conceptiones es superat e li tot evolution del homanité es
+inbrassat plu energiósmen del libre del hungariano Pál Ligeti \"Uj
+Pantheon felé\" (Vers un nov Pantheon), in quel ovre li via del homanitá
+forma se del undeation del culturas e ti grandmesurat teorie de
+cultur-undeation explica chascun station del evolution ne solmen a
+retro, ma it projecte li scopes ulteriori del progression vers li
+future.
+
+ 
+
+Pál Ligeti in prim liquida li teories anterior. Il enumera contra li
+historic filosofie de Marx argumentes sentimental e rational. Un grand
+defecte del conception de Marx es, que it totalmen neglige singul
+recidives del evolution. Li argumentation contra Spengler ja es plu
+desfail, ma Ligeti demonstra sat convictivmen, que li motivation del
+pessimisme de Spengler es adminim dubitabil. Wells regarda li homanité
+tra li litteratura e li scientie e su rationalistic contemplation del
+universe vide li evolution quam un unic linea ascendent. Departente ex
+li historie del artes Ligeti pruva, que li tot cultur-evolution es un
+íncessant serie de unde-montes e unde-valleyes, in quel anc li
+descendent branches ne es recidives, ma necessari stationes del
+evolution.
+
+ 
+
+Pál Ligeti es architecte secun su profession e il explora li fenomenes
+del historie del arte. Ante omnicos il constata, que in li evolution del
+artes li tri branches del plastic artes nequande avansa paralelmen, ma
+alquel prospera plu fortmen al detriment del altri du. Li succession del
+prosperantie es: 1. architectura, 2. sculptura, 3. pictura. In li
+occidental cristian cultura li medievie representa li architectura, li
+renascentie li sculptura e li témpor modern li pictura. Ma chascun gradu
+de evolution have un periode de architectura, de sculptura e de pictura
+anc intra se self. Anc li céteri culturas monstra un simil evolution. Ma
+li triplic scaliere del evolution exactmen manifesta se anc in li
+succession del culturas. Li ascendent arc es li architectura, li
+culminant arc es li sculptura, durant que li descendent arc es li
+pictura. In li grand arc del cultura li branche ascendent es li
+architectonic cultura egiptian, li
+
+ 
+
+ 
+
+-49-
+
+ 
+
+culminant arc es li sculptural cultura greco-roman e li descendent
+branche es li pictoresc cultura del occidental cristianité.
+
+ 
+
+Pál Ligeti sercha de intern li explication del triplic evolution. Li via
+del culturas monstra que, departente ex li objectiv arte, ex li
+architectura, ili avansa vers li subjectiv arte, li pictura. In li
+comensament del culturas li ideale del hom es: li órdine. In li fine del
+culturas li ideale del hom es: li libertá. Existe homes qui es vocat a
+ductentie e por que ili posse influentiar li duction, es necessi
+libertá. Existe homes, qui ne es capabil a pensada índependent e
+voluntarimen renuncia li responsabilitá del ductentie al hierarchie
+elevant se súper su capes: por to es necessi órdine. In li comensament
+del culturas li tot homanité es penetrat del supire al órdine, quel, si
+it consolida se, da loc al aspirationes a libertá queles, completmen
+triumfante, causa un nov cáos. Li epoca de órdine developa sempre li
+architectura, li equilibrie del órdine e libertá li sculptura, li triumf
+del libertá ducte tra li pictorescitá al decadentie del cultura. Ma li
+fine ancor ne eveni. Avan li cultura cristian aperte se ancor li
+centennie de Pantheon. Un nov, mistic, solemni, religiós epoca seque, in
+quel ja li nov cultura gérmina. Ti mund-imperia es religiós, expectant
+un nov religion, e desira órdine vice li vagantie individual in
+politica, in scientie, in litteratura, in artes quam reaction al
+pictoresc epoca.
+
+ 
+
+Circa sur ti pensas ci Pál Ligeti constructe su largmen basat ovre e it
+es ínnegabil, que ti conception del cultura spiritual fortmen oposi se
+al precedent essayes. Li libre de Pál Ligeti aparit ante annus sin
+devenir conosset extra Hungaria. In ti libre ya devolue se li marcant
+conturas del nov spiritual conception del historie. In ti libre ya un
+nov etic conception aperte su ales. In ti libre ya, etsi ancor
+pallidmen, ja forma se alquel nov conception de universe.
+
+ 
+
+Versimilmen anc li libre de Pál Ligeti have punctus vulnerabil, támen ne
+es possibil furter se préter it sin un parol o con cap de struce celat
+in sand. Pro que in omni casu it es un inbrassant conception quel da li
+logic interpretation del evolution del homanité.
+
+ 
+
+ 
+
+-50-
+
+ 
+
+CRONICA
+
+ 
+
+HELVETIA, organ del Sviss Association, joya nos per nov numerós 1 2 e 3
+4. Li contene es interessant e variant e du artisticmen executet
+linoleum-cisiones de Sr R. Berger orna li cadernes. Recivibil che: F.
+Lagnell, Chapelle-Vaud, Svissia.
+
+ 
+
+OVRE, Biblioteca in Occidental, ha aparit in nov liverationes: Un
+descense in Maelstrom de E.A. Poe, e Democratie e Humanitá de T.G.
+Masaryk. Abonnamentes es recivet che li editor: Prof. H. Pásma, Tábol, 
+C.S.R.
+
+ 
+
+LINGUE INTERNATIONAL - JAZYK MEZINÁRODNÍ con Ucitel Svetomluvy n:os 7 e
+8 ha aparit con interessant contene, inter altricos du articules de J.
+Podobský in li tchec lingue: Lingue panmundan, e Principie del
+naturalitá in L.I. Apis (Association por International Servicie) publica
+adressadium del unesim corespondentes (ja 52). Mult anecdotes in bon
+Occidental. Li proxim n-os del jurnale va esser publicat totalmen in
+Occ. Colaborationes es pro to petit inviar pur litterari contributiones
+a Lingue International. Cosmoglotta va durar tractar principalmen
+questiones e evenimentes apartenent al interlinguistica e mundlinguistic
+movementes.
+
+ 
+
+CELIA ha ho-annu publicat circulares 62-70, redactet de ing. A. Wormser,
+Dreieichring 48. Offenbach a/M. Li discussion ha tractat principalmen li
+\"mollat sones\" n\' e l\', e per preliminari votation li majorité del
+votantes ha expresset opinion in favor a lor abolition.  A.Z.R.
+
+ 
+
+FRANCIA. Sr René Depin, Amiens, secretario del Ido-Franca Societo,
+Secrtario por Francia del International Ido-Pressa-Servicie, pos un long
+comparativ studie, ha adheret oficialmen a Occidental. Noi mult injoya
+vider inter nos ti ci activ pionero, de quel li auxilia va esser tant
+plu valorós que il conosse perfectmen nor lingue.
+
+ 
+
+Pro li proxim departe fro Strasbourg de Sr Bohin, li labores del
+secretariatu del O.S.F. nu es fat del vice-secretaria Seniora J. Colas,
+in Souday (Louir et Cher). Por li libres e abonnamentes, tornar se a
+L.M. de Guesnet, Paris.
+
+ 
+
+In plu del articules in La Chronique Artistique, Le Messager Industriel
+e La Gazette Commerciale, un serie de tri articules por Occ. ha aaparit
+in li semanal revúe Naturisme. Li consequentie esset numerós lettres de
+interessates e nov adeptes.
+
+ 
+
+Li revúe L\'en dehors ha insertet li traduction, de Sra Colas, del
+articul pri Glacial Cosmogonie, de Pigal, aparit in Cosmoglotta Nr. 70.
+
+L.M.G.
+
+ 
+
+SVEDIA. SVENSKA OCCIDENTAL-FÖRBUNDET (Sved Occidental-Federation) havet
+su reunion annual in Stockholm li 22 marte. Li sequent comité directiv
+esset electet. Docente C.W. v. Sydow, Lund (presidente), Apotecario
+Albert Haldin, Eskilstuna (vice-presidente), Lector C.E. Sjöstedt,
+Östersund (secretario e cassero), Instructor Erik Berggren, Stockholm
+(vice-secretario) e Dr Bertil Blomé, Göteborg. Pro li translocation de
+Dr Sjöstedt li adresse del federation esset changeat e es nu Box 171,
+Stockholm 1. Li federation resoluet functionar quam association de
+occidental por omni nordic landes, til que special regional
+organisationes va esser fundat.   C.E.S.
+
+ 
+
+ 
+
+-51-
+
+ 
+
+Li jurnale \"HEINDALITEN\", nró 2, insertet un simpatic necrolog pri Dr
+Sven Krikortz e un articul pri Occidental, ambi scrit de Sr M.
+Edvardsson.
+
+ 
+
+FÖRENINGEN FÖR INTERNATIONELL KULTUR (Association por international
+cultura) arangeat li 3 may un convenida in Stockholm, li programma
+consacrat al mundilingual question. Sr Julius Juhlin, ex-ministre e
+ex-director general del posta de Svedia, fat un interessant discurs \"Li
+beson de un lingue international auxiliari\", in quel il sublineat li
+necessitá de un tal lingue sin prender position pro o contra li special
+sistemas. Rector Herman Söderbergh parlat pri \"Objectiones contra li
+idé mundilingual\". In tre interessant maniere il explorat objectiones e
+demonstrat, que ili ne es valid. Sequet curt specimenes del cardinal
+lingues auxiliari. Sr apotecario Albert Haldin recitat un specimen de
+Occidental in un maniere, quam sempre caracterisat de su vivacitá, bon
+humor e entusiasme. Li auditoria, quel evidentmen comprendet li textu
+facilmen, aplaudet cordialissim. Cand. med. Bengt Hammar leet specimenes
+de esperanto, ido, latino sine flexione, novial e occidental. In fine sr
+advocate Emil Gullers parlat pri \"Quelc dates e factes pri li evolution
+del mundilingue\". Li convenida esset un íncontestabil successe por
+occidental.   C.F.S.
+
+ 
+
+ 
+
+Li jurnale \"Eskilstuna-Kuriren\" scri in su noticie pri li remarcabil
+convenida mult apreciant paroles, de queles noi fa un extracte: Un del
+maxim brilliant e apreciat numerós del programma esset productet del
+apotecario A. Haldin de Eskilstuna, qui presentat proves del auxiliari
+lingue Occidental\... On remarcat, con qual interesse li tot convenida
+esset atentiv, quo esset evident del spontan aprobationes durant li
+presentation. Anc pos li convenida entusiastic homages esset rendit a sr
+Haldin.\"
+
+ 
+
+INTERNATIONAL INDEPENDENT CENTRE POR INTERLINGUISTICA ha esset fundat de
+Dr Robert Foddik, Bolkbeckstraat 38, Utrecht, Nederland, secun un
+circulare recivet, scrit in \"European\", un dialect presc identic con
+Occ. Li scop del Centre es propagation del idé de LI e ne ún definit
+sistema. Ti scop Dr Foddik aspira atinger per 1) un oficie de
+information impartial, 2) biblioteca e archive, 3) bibliografic centre e
+4) organ por sistematic discussion del principies del interlingue. Dr.
+F. peti omni fautores del idé auxiliar le per donationes de libres e
+documentes. - Li programma es bonissim ma on posse questionar, pro quo
+ne nor excellent Central Oficie in Mauer bei Wien, vell esser egalmen
+competent quam Dr Foddik, qui anc usa un sistema: European. Pluri privat
+persones ha provat arangear tal \"centres\", ma it sembla, que lor
+interprenses ne ha esset perductet o ili ha esset obliviat. To da nos
+que lor interprenses ne ha esset perductet o ili ha esset obliviat. To
+da nos cause pensar, que li idé posse esser realisat solmen per oficial
+institutiones, queles garanti li continuitá e li activitá del
+\"centre\".   A.Z.R.
+
+ 
+
+ESPERANTO, monata Internacia Revue eldonata de Universala
+Esperanto-Asocio, red. Dro Edmond Privat, Geneve, 1 Rue de la Tour
+d\'Ile, n-os 1-5 recivet. Excellent redactet, brilliant articules. 
+ A.Z.R.
+
+ 
+
+INTERLANGUAGES (ex-Tolero), Revue mensuele d\'étude, d\'experimentation,
+d\'information et de propagande pour la Langue Internationale
+Auxiliaire, ha aparit regularimen. Editor E. Mauney, 19 Place
+Saint-Pierre, Paris-18. Quicunc posse publicar quocunc in quelcunc
+
+ 
+
+ 
+
+-52-
+
+ 
+
+lingue pri quelcunc interlinguistic questiones contra payament de 21 fr.
+fr. por págine. Mult persones usa ti absolut libertá e li contene es pro
+to tam heterogen e de tam divers valores quam possibil, ma tre
+interessant.   A.Z.R.
+
+ 
+
+HEROLDO DE ESPERANTO, semanal gazette, red. Teo Jung, Köln, Brüsseler
+Str 94, n:os 8-19 recivet. N:o 9 contene un sensational inicial articul
+de I. Lejzerowicz: Revizio de rilatoj (Revision de relationes). Li autor
+di, que on ja questiona impatient \"Qualmen e quande esperanto va
+victoriar?\" Il confesse, que til nu omni eforties ha esset van. On
+postula radical mesuras por accelerar li final victorie. \"Durant 40
+annus noi apostola, e li munde resta in plen tot sense non-convertet e
+absolut índiferent.\" On ne deve ignorar ti psichic fenomen, nam it
+posse facilmen resultar in general desilusion del masses. Li autor
+asserte, que ancor 100 cursus e ancor 1000 vendit libres de aprension ne
+sufice. Durant 40 annus on ja combatte, e si li futur 40 annus va haver
+un simil historie, un simil proportion de difusion, to - on deve esser
+sinceri - es un mal signe por li esperantistes. Pro to on deve revider
+li relationes in li esperanto-movement. Ti labor-sistema, quel on ha
+aplicat til nu, ha resultat in li present absolut ínsatisfatori statu.
+It deve esser radicalmen changeat. Ne plu reverentiar e expectar plu
+favorabil témpores - pri queles solmen Deo save quande ili va venir. Li
+esperantistes deve comensar un ofensive! Si li monte ne veni a Mahomet,
+Mahomet deve vader al monte. Un ofonsive che omni guvernamentes! Un
+sistematic propaganda mem che apart membres del guvernamentes! On deve
+intruder se che omni guvernamentes por educar, clarificar e convicter
+les! Támen li autor ne save, esque on va haver immediat success, ma il
+save, que li vi, sequet til nu, e ducte al scop.
+
+ 
+
+ 
+
+Tant Sr Lejzerowicz, curtmen recenset. Li redactor de HdE remarca in un
+note, que on ha fat tal demarches che li guvernamentes, ma sin success.
+It ha evenit, que li guvernamentes ha fat contra-ofensive, quo ha ductet
+a regress (in Francia un ministre prohibit esperanto in li scoles). Li
+redactor accentua, que nequo posse esser fat si on ne have detra li
+dorse suficent grand popul-masses. Ergo: denov propaganda\...
+
+ 
+
+Noi ha mentionat ti articul, ne pro malin joy, vidente que nor dubitas
+pri li success de esperanto es confirmat del esperantistes self, ma pro
+compatient comprension por idealistes, queles ha energicmen luctat e in
+fin trovat que lor lucta ha esset van. Li sam fate menacia omni
+idealistes. Ne ti idé, quel on ha amat, ha victoriat, ma un alquo altri.
+It es un fact que malgré 40 annus de frenetic propaganda, esperanto ne
+ha posset atinger su scop: per su lingue liberar li homes ex li
+Babilonic confusion. Li munde es tam poliglottic quam jamá, esperanto ha
+solmen posit un nov petre sur li epoles del homes: ancor un nov lingue.
+Ma pro quo ti esperantistic fanatisme? Pro quo ancor asserter, quam fa
+Sr Lejzerowicz: \"Cxu E. ne taugas? Ni scias ke pli bona helplinguo ne
+ekzistas\"? Qualmen il save to? Pro quo it es absolut necessi, que
+esperanto e ne un altri lingue, artificial o natural, va esser li
+aspirat interlingue? Esque it, in fine, ne es egal, quel lingue, mem si
+it vell esser li chinés? Lu principal es, que noi va haver ún lingue
+international. Noi ha sempre pensat, que it nequande va esser un lingue
+
+ 
+
+ 
+
+-53-
+
+ 
+
+quam esperanto, pro que li predominant opinion del civilisat nationes
+refusa it - it es tro barbaric. E in li interlinguistica esperanto in
+null maniere es li maxim bon artificial lingue, quel ha esset
+constructet!
+
+A.Z.R.
+
+ 
+
+HINDA ESPERANTISTO No 11, editor Sr Liem Tjong Hie, Samarang, Java,
+recivet. Li micri jurnale contene partes in malay, anglés, hollandés e
+esperanto. Noi constata, que li malay lingue posse esser scrit per li
+latin alfabet e que li curt textu contene mult europan paroles e que ili
+es scrit exactmen in li sam ortografie quam in Occ: P. ex. conferentie,
+cursus, Europa, rapport, speciale, comité. Pro quo do propagar
+esperanto, si Occidental ja existe latent in malay lingue? Null lingue
+del munde contene li esperantic elementes.  A.Z.R.
+
+ 
+
+ANGLIC, nos 6-9 recivet, contenent lectura in anglés con sved
+traduction, e propagant li anglés quam li sol apt lingue international,
+si solmen it va changear su ortografie a la Anglic. Noi traducte un curt
+interessant noticie: \"Nor boninformat contemporario \"International
+Language\" (esperanto-jurnale in London) raconta fiere, que 3,000 local
+esperantistes celebrat li societé in Malmö (pro su 25-annual festivitá).
+Li oficial númeres es un poc plu micri: li gazettes de Malmö mentiona,
+que circa 150 homes esset present in li banquette (Malmö es un cité in
+Svedia con 120,000 inhabitantes). Esperanto-statistica es, in fact,
+miraculós.\"
+
+ 
+
+THE ANGLIC ILUSTRAETED, no 1 e 2, un nov, grand dusemanal
+\"internashonal jurnal for literatuer, art, fashon and sport\", tot in
+anglés con Anglic-ortografie, rich ilustrat, elegant e modern, con
+interessant e variant contenete. Li jurnale posse esser leet solmen de
+tis, queles ja mastrisa li anglés perfectmen, pro manca de Anglic
+lexicos. Edited in Stockholm, Klara V. Kyrkogata 12, annual abonnament 7
+sv. kr. A.Z.R.
+
+ 
+
+A NEW SCIENCE: INTERLINGUISTICS es li nómine de un nov brochura de prof.
+O. Jespersen. It es reprintate de un raport al convenida del IALA in
+Geneva 1930, e pro to tracta e lauda specialmen li activitá de IALA,
+quel sembla ne esser paralel al evolution del interlinguistica in
+Europa. IALA ha fat decision seriósmen studiar linguistica e
+interlinguistica e li maxim bon metodes por su studies es nu discusset.
+Por li grand publica li brochura contene valorós informationes, mult
+versimilmen nov in America, e li anglés de prof. J. es quam sempre
+populari e clar.   A.Z.R.
+
+ 
+
+LI II CONGRESS DE LINGUISTES va evenir 25-29 august 1931 in Geneva. Li
+subsidiari II question del programma del congress es: \"Quo pensa vu pri
+li adoption de un lingue artificial quam lingue auxiliari?\" Nor joy es
+sinceri que linguistes in fine interessa se pri nor idé e noi espera,
+que alquo positiv va resultar del eventual discussion. In juvenil
+precipitation Sr W.. Jezierski de Kraków ha volet in un proclamation in
+\"Schola et Vita\" no 1/3 deterrer li interlinguistes per to, que li
+congress va far decisiones e que tis va esser errores. Del secretariatu
+del congress noi ha recivet un circulare con quietant dementi, ex quel
+noi posse dar un excerpte:
+
+ 
+
+\"On va questionar li participantes pri to, quo ili pensa pri li
+possibilitá e li utilitá de un artificial lingue (sin distinction de
+sistemas) quam auxiliari lingue. Ergo on ne va votar por Esperanto,
+Occidental
+
+ 
+
+ 
+
+ 
+
+-54-
+
+ 
+
+o quelcunc altri lingue. Nor intention es solmen studiar li general
+conditiones, in queles un international lingue posse esser creat e
+evoluer. Li opiniones va esser presentat in tot objectiv maniere; si
+durant li debattes it va aparir, que li scientie posse contribuer al
+practic solution del problema, li Congress forsan va voler securar li
+continuitá de ti investigation. Vi omnicos.
+
+ 
+
+Lass nos adjunter, que omni comunicationes e propositiones, queles have
+li scop solmen laudar ti o ti artificial lingue e demonstrar su
+superioritá al concurrentes, va esser rigorosimen escartat ex nor
+programma, in quel noi ha admisset solmen principal discussiones.\"
+
+ 
+
+Anc noi pensa, que ti atitude es li sol just, e noi posse solmen
+esperar, que li opiniones del scientistes va esser fundat, ne sur
+antiquat prejudicies, ma sur detalliat studies del interlinguistic
+questiones.   A.Z.R.
+
+ 
+
+LI BIBLE DE DIÁBOL.
+
+ 
+
+In li reyal biblioteca in Stockholm es conservat desde tri cent annus un
+bibliografic raritá, li talmen nominat \"Bible del diábol\". Li
+manuscrite consiste ex tri cent nin folies de extraordinari gross
+pergamen, por production de quel esset preparat circa cent pelles de
+ásinos, si on deve creder li tradition. Li covrimentes es quercin. Li
+folies es presc un metre alt e demí metre larg, scrit con gotic
+minuscules e ornat per luxuosi iniciales in aure e pomposi colores. Li
+ovre es nominat anc \"Gigas Librorum\" (li gigant del libres).
+
+ 
+
+It have un tre curiosi historie. Pos long penosi explorationes on ha
+posset constatar, que it origina del deciduesim secul. On di, que li
+bible esset copiat in li monastere Podlagotz in Bohemia, e li tradition
+raconta, que un monaco, qui esset condamnat al morte, executet li labor
+durant un sol nocte. Ma il esset fortiat usar li auxilie del diábol quem
+il, pro gratitá, pictet sur un tot págine. Ancor trova se in li libre li
+pictura del potentate, con cornes, grappes e omni atributes. Pos divers
+odissés li bible venit in li possession del Benedictin órden e esset
+transportat a Praha, ú it venit in li manus del Svedos durant li
+assediation in 1648. Li reyessa Christina de Svedia recivet it quam don,
+e pos to it ha esset conservat in li reyal biblioteca in Stockholm. Li
+gigantic libre consiste ex nin partes, comensante del Old Testament
+secun li traduction de Hieronimus del hebreic original texte, e fini per
+un Calendare e un
+
+ 
+
+ 
+
+-55-
+
+ 
+
+necrologie, quel relate li historie de Bohemia. Ho-témpore li
+tchecoslovac guvernament ha interessat se por li ovre. It volet pruntar
+it de Svedia, ma it es comprensibil, que li svedes ne dat un tal
+preciose de su manus. Secun li comission del tchecoslovac ministerie de
+education li principal partes del libre ha esset fotografat, folie pos
+folie, e li copies ha esset misset a Praha.   A.Z.R.
+
+ 
+
+SENTENTIES.
+
+ 
+
+Si du ters de tui resolutiones es rect, tu posse esser content. Ne borna
+te in to que tu fa rect omnicos. Acte secun li directiones, a queles tu
+crede!  Walter RATHENAU.
+
+ 
+
+Li secrete del potentie es volentie. O. MEAZZINI.
+
+ 
+
+Li colere es un del max grand peccas; nam it prende de nos lu max nobil,
+lu maxim divin: li prudentie.  Herm. HEIBERG.
+
+ 
+
+Li solution del logogrif cruceatori
+
+ 
+
+de Sr K. Janotta, publicat in Nr 75. es quam juxtaposit. Inter li
+solutores li lot ha electet Dr Heinrich Nidecker, Postfach 193, Basel,
+Svissia, qui va reciver su premie del Central Oficie, Mauer bei Wien.
+
+ 
+
+BI MOORE TA
+
+LAVA C OZON
+
+U  LACES  G
+
+SE   I   TU
+
+EDGARDEWAHL
+
+ I C E E E
+
+ACRI N SEME
+
+VT DATAT AR
+
+I N BAV C G
+
+ETYMOLEXICO
+
+ 
+
+Abonnamentes e subventiones a Cosmoglotta recivet:
+
+ 
+
+Dr. A. Wormser 50 RM, Prof. Verzan 17 Kc, Dr. Zeidler 17 Kc, Dr. Stör 17
+Kc., G. Bohin 75 Kc, E. Krogstad 17 Kc, Mag. Atterfors (per Gumperts
+Bokhandelei) 17 Kc.
+
+\-\--
+
+ 
+
+ABONNAMENT DE COSMOGLOTTA POR 1931:
+
+ 
+
+Li simplic abonnament annual custa 0,5 dollar 17 Kc, 2,1 RM, 3,5 ö.S.,
+2,6 sv. fr., 12,5 fr. fr.
+
+Un abonnament de propaganda custa li duplic precie (1 dollar), in
+compensation de quel li administration invia tri exemplares del revúe.
+
+ 
+
+Ples usar por li payamentes sequent postchec-contos: Francia: Paris
+26437 (L.M. de Guesnet); Svissia: II, 1969 (F. Lagnel, Chapelle, Vd);
+Tchecoslovacia e altri landes: Borno 103.126 (Jazyk mezinárodní).
+
+ 
+
+On posse payar anc per international postmandates o banknotes o
+bank-chec in registrat lettre al adresse: Jan A. Kajs, Wilsonova 11,
+Brno XII, Tchecoslovacia.
+
+ 
+
+ 
+
+-56-
+
+ 
+
+OCCIDENTAL
+
+DIE WELTSPRACHE.
+
+Das erste größere Einführungsbuch!
+
+ 
+
+Beiträge von E. Graber, K. Janotta, E. Pigal, J. Prorók, A.Z. Ramstedt
+und E. v. Wahl. Herausgegeben von E. Pigal durch die Hauptstelle der
+Occidental-Union in Mauer bei Wien. Frankh\'sche Verlagshandlung.
+
+Stuttgart 1930. 256 Seiten A 5 (148 x 210 mm).
+
+ 
+
+Inhalt: Vorwort des Herausgebers. Einleitung der Verfasser. Wege und
+Irrwege zur Weltsprache. Wesen des Occidental. Kultureller und
+erzieherischer Wert des Occidental. BegrÜndung. Occidental-Kursus in 10
+Lektionen. Wiederholung der Sprachlehre in Occidental. Lesestücke.
+Vergleichstext in 9 Sprachen. Häufigkeitswörterverzeichnis. Aussprüche.
+Occidental-Union. Cosmoglotta
+
+Broschiert: RM 5,50 (ö S. 9,50). In Ganzleinen RM 8,0 (ö.S. 13,70)
+einschließlich Versandkosten nach Deutschland und Österreich.
+Portozuschlag inns Ausland: RM 0.30 (ö.S. 0,50). Mitglieder von
+Zveigorganisationes der Occidental-Union erhalten auf obige Preise einen
+Nachlaß von 10%.
+
+ 
+
+Zu beziehen durch die
+
+ 
+
+Occidental-Union, Mauer bei Wien, Postfach 10.
+
+ 
+
+OVRE
+
+BIBLIOTECA IN OCCIDENTAL
+
+ 
+
+Serie 1931
+
+apari in liverationes, in tot 112 pág. del textu. Contene: E.A. Poe,
+
+Un descense in Maelstrom. Abonnament Kc 14,50.
+
+ 
+
+Serie 1930
+
+ 
+
+in separat brochuras bell equipat:
+
+ 
+
+1\. R. Rolland, Europa e Asia. Essay. 28 pág., Kc 4: plu quam 5 ex. à Kc
+3.50
+
+2\. K. Balmont. Ú es mi hem? Raconta, 28 pág., precie egal al tom 1
+
+3\. R. N. Coudenhove-Kalergi, Heróe e Santo. Selectet capitules, 41 pág.,
+Kc 5: plu quam 5 ex. à Kc 4,50.
+
+ 
+
+Editoría Ovre, Tábor, CSR.
+
+Recivibil anc che Administration de nor gazette.
+
+ 
+
+Vydavadel a zodpovedný redaktor Jan A. Kajs. Typografia Jan Kays, Brno
+XII.
+
+Novinová sazba povolena reditelstvím post a telegrafu, c. 11.277/VI
+1931.
+
+ 
+:::

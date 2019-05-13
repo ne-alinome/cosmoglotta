@@ -1,0 +1,851 @@
+Cosmoglotta B 055 (feb 1944)
+============================
+
+\
+
+::: {#displaycontent}
+COSMOGLOTTA 
+
+ 
+
+OFICIAL MENSUAL ORGAN DEL OCCIDENTAL-UNION 
+
+ 
+
+Redaction e Administration : 
+
+ 
+
+INSTITUTE OCCIDENTAL, CHAPELLE (Vaud), SVISSIA 
+
+ 
+
+Serie B, poligrafat (Tel 9 56 56) Februar 1944 Nró 55 (2) 
+
+ 
+
+ 
+
+ 
+
+MARCAS DE COMERCIE E OCCIDENTAL 
+
+ 
+
+ 
+
+ 
+
+de Dr.C.H.P0llog 
+
+ 
+
+ 
+
+ 
+
+Esque omni interlinguistes ha ja pensat al facte que lor eforties in un
+cert egard es simil o egal a tis de un grand númere de fabricantes ? It
+apen existe un marca quel es productet per un sol fabricante o vendit
+per un sol comerciante, e do li divers productores e venditores fa un
+distinction inter lor merces per special denominationes o marcas de
+comercie. It es evident que tre sovente ili selecte ti marcas de ti
+maniere que ili designa sive li specie del merce in question, sive un
+qualitá de it, proque li publica, leente o audiente li marca, connecte
+strax li parol con 
+
+ 
+
+li merce. 
+
+ 
+
+ 
+
+ 
+
+Un cert quantitá de marcas de comercie, it es ver, es solmen un
+combination de lítteres sin signification. Li classic exemple es li
+parol \"Kodak\". In se, it have null sens; it esset inventet per li
+american fabricante de apparates fotografic, Eastman, quam parol tam
+simplic quam possibil e possent esser pronunciat per omni popules del
+munde. On save que in facte ti parol ha trovat su via in omni landes e
+ha devenit un fix notion : hodie un American tam quam un Sviss, un
+German, un Anglés, Francés, Russ, Hottentot o Maori comprende sub li
+parol \"Kodak\" un cámera fotografic, mem si it ne es fabricat per sr.
+Eastman. 
+
+ 
+
+ 
+
+ 
+
+Un altri classe de marcas de comercie ne es paroles de pur fantasie, ma
+di nullcos pri 
+
+ 
+
+-13-
+
+ 
+
+ 
+
+ 
+
+li specie o li qualitás del merce. Quant mult fabricates in omni landes
+p.e. porta li marca \"Universal\" - it posse designar flocs de aven tam
+bon quam un machine de printation e es electet forsan proque li
+fabricant o comerciant desira que su merce mey esser comprat
+universalmen. Chascun posse multiplicar tal exemples ex su propri
+conossentie. 
+
+ 
+
+ 
+
+ 
+
+On trova anc de témpor a témpor marcas de comercie u on in van sercha
+divinar quo lor autor ha pensat quande il inventet les. Noi lee p.e. li
+reclame de un producte nominat \"Vindex\". To es un parol latin e
+significa \"venjator\". Quo o quem posse voler venjar ti producte, e quo
+posse it esser ? Esque it es un puniale tre apt por dramas de jalusie ?
+No, it es un materiale de bandage, ma certmen it ne posse venjar li hom
+quel ha recivet un vúlnere contra ti quel ha inflictet it a le ! O lass
+nos prender Li exemple de \"Persil\". Quo significa ti parol? Un Francés
+posse pensar que it es un bon-conosset herb del jardin usat quam
+condiment por supes - ma ne, it es un púlvere por li lavage. 
+
+ 
+
+ 
+
+ 
+
+Ma it existe anc un grand quantitá de marcas de comercie queles realmen
+significa alquicos connectet con li merces in question. In un sol numeró
+de un sviss revúe semanal noi trovat li secuentes. \"Eterna\" e
+\"Multifort\" es horloges - on certmen ne posse divinar to, ma li
+unesim 
+
+ 
+
+functiona perpetuimen o eternimen sin besonar esser tendet, e li altri
+es mult fort e resistibil contra sucusses. Plu significativ ancor - quam
+blasones de ti specie quel li heraldico nomina \"parlant\" - es altri
+marcas. \"Visoclass\" - ti parol evoca strax li notion de un
+classificatura o registratura in quel li contenete del cadernes es
+immediatmen visibil. \"Finidol\" naturalmen es un remedie por finir li
+dolore, \"Amaigritol\" un altri por devenir plu magri, \"Sclerosan\" un
+remedie por sanar li arteri0-
+
+ 
+
+-14-
+
+ 
+
+ 
+
+ 
+
+sclerose. Sub \"Rondoform\" on divina sin pena un cos quel fa rond
+alquicos; on ne posse strax saver que ti parol significa pillules por
+bellificar li buste feminin, ma on posse facilmen memorar to. E si un al
+tri marca de pillules del sam specie nomina se \"Senoform\", to es ancor
+plu clar. \"Lactocao\" es un trincage in form de pulvre fabricat de
+lacte e cacáo. 
+
+ 
+
+ 
+
+ 
+
+It vell esser interessant examinar anc li marcas de comercie de landes
+con altri lingues national, ma ti tache deveni desfacil per li facte que
+mult productes ne plu es obtenibil in li belligerent states caus li
+restrictiones del guerre; por ti rason lor fabricantes ha cessat li
+reclame por ili. Támen in un revúe anglés noi trovat du \"marcas
+parlant\" : \'Cuticura\" es un unguente por curar li derma de pustules
+etc., e \"Minor\" es un cigarette specialmen curt, apt por esser fumat
+in tre curt témpor. Mem in Germania, u li purification del lingue de
+omni paroles foren ha esset perductet 
+
+ 
+
+eficacimen, ancor tal marcas existe : in un revúe german noi incontrat
+\"Robur\", lames rasatori specialmen fort. \"Plexiglas\", vitre
+flexibil, e \"Vulnoplast\", un plastre de cautchuc por vúlneres. 
+
+ 
+
+ 
+
+ 
+
+Un altri aspecte interessant de ti materie apparit ante quelc témpor in
+un judicament del sviss Tribunal federal. Un firma hat fat registrar li
+marcas \"Brodalan\", \"Hercolan\", \"Hercolin\", \"Herolin\",
+\"Herolan\", \"Sticolin\", \"Matalan\", \"Tapilan\", \"Hercolan\" e
+\"Sedolina\" por yarnes e files tordet, files duplic e mixtet de coton,
+lan, seta, seta artificial (rayone), lin, jute e ramie. Quande li firma
+esset transformat in un societé anonim, li Oficie federal por Proprietá
+intellectual decretet que li marcas finient con \"lan\" deve esser usat
+solmen por productes consistent ex lan, tis con li ultim síllabe
+\"-lin\" solmen por fabricates de lin, 
+
+ 
+
+-15-
+
+ 
+
+ 
+
+ 
+
+e li marca \"Sedolina\" solmen por un producte mixtet ex seta e lin ; li
+usation de ti marcas por productes ex altri materies vell peccar contra
+li bon mores, nam it vell decepter li publica pri li qualitás del merces
+in question. Contra ti decision li firma fat un recurs al Tribunal
+federal, e ti-ci abrogat li decrete del Oficie por Proprietá
+intellectual, ma solmen pro li formal-juristic rason que un tal
+restriction in li usation del marcas ne ha esset postulat quande li
+marcas esset originalmen registrat. 
+
+ 
+
+ 
+
+ 
+
+Ma to quo es lu max interessant por nos Occidentalistes in ti materie es
+que omni marcas de comercie, benque inventet per fabricantes de queles
+li lingue matrin es Geman o Anglés, 
+
+ 
+
+es immediatmen comprensibil por nos. \"Lan\", \"lin\", \"seta\" - to es
+pur Occidental ! E anc 
+
+ 
+
+li \"marcas parlant\" citat plu antey, quam \"Visoclass\"
+\"Vulnoplast\", \"Cuticura\", \"Senoform\", \"Multifort\", etc., contene
+Occidental-radicas, che li pluparte con ínsignificant alterationes, 
+
+ 
+
+e con li sam signification quam in Occidental. Esque it ne es
+interessant e remarcabil que fabricantes in lor reclames in lingue
+german o anglés usa quam marcas de lor productes ne denominationes
+german o anglés, ma paroles format ex radicas prendet - noi ne vole dir
+: ex 
+
+ 
+
+Occidental, nam probabilmen li pluparte de ti fabricantes ne mem save
+que un lingue nominat 
+
+ 
+
+\"Occidental\" existe - ex li parol-tresor comun a omni romanic lingues
+? Ili ne vell har fat to si ili vell har pensat que ti marcas vell esser
+íncomprensibil al grand publica. Un nov pruva que li principie de
+Occidental es li sol via al solution del problema de un lingue vermen
+international. 
+
+ 
+
+\-\-\-\-\-\-\-\--
+
+ 
+
+ 
+
+ 
+
+Por pleser al altres, vu deve poc parlar pri quo interessa vos, e mult
+pri quo tucha les. 
+
+ 
+
+\- 16 -
+
+ 
+
+ 
+
+ 
+
+LI UNIVERSALITÁ DE OCCIDENTAL 
+
+ 
+
+ 
+
+ 
+
+Quande, ante circa 7-8 annus, li guvernament brasilian e sovietic editet
+special postmarcas con textu in Esperanto, ti \"gravaj sukcesoj\" esset
+debitmen explotat de nor confratres in lor propaganda. Li ocasion es
+forsan bon por far remarcar que ti facte ne constitue un casu unic in li
+historie del filatelie. Anc in al tri ocasiones on ja ha usat
+international lingues por ti scope. Si vu regarda quelcunc post-marca
+sviss, vu va constatar que li textu ne es scrit in un del quar lingues
+national (german, francés, italian, retoromanic), ma in \... Occidental
+! E to ne solmen desde yer, o in ocasion de special evenimentes, quam to
+es li casu pri li Espo-postmarcas, ma desde li unesim comensas del
+federal post-marcas. 
+
+ 
+
+ 
+
+ 
+
+In realitá, ti facte es simptomatic in plu quam un concernentie, nam it
+atesta li absolut necessitá de un lingue neutral e per via de
+consequentie, li inevitabilitá del victorie de Occidental. 
+
+ 
+
+ 
+
+Quo ha evenit ? Noi parla 4 lingues in Svissia (e mem 5 si on vole esser
+absolut exact), ma on ya ne posse usar plu quam un lingue sur un tam
+litt pezze de paper quam un postmarca. In quelcunc al tri land, on vell
+har soluet li problema, selectente li lingue max difuset quam lingue
+oficial. Ma un tal solution vell esser ínimaginabil in li federalistic e
+democratic Svissia. E it vell esser sam ínimaginabil, mem si li majorité
+del german-parlantes vell esser 90 % vice sol-men 70 %. In facte li
+circa 250\'000 italian-parlantes have ya exactmen li sam jures quam
+3\'000\'000 german-parlantes. Alor qualmen far por respectar li egalitá
+del lingues oficial in textus del post-marcas ? Tot simplicmen per li
+usation de un neutral lingue supra-national, a saver li Latin. Ma li
+mort Latin have un vigorosi 
+
+ 
+
+-17-
+
+ 
+
+ 
+
+ 
+
+successor in li modern e vivent Occidental e it ne es un hasard que li
+latin parol HELVETIA es in sam témpor genuin Occidental. It es
+simplicmen un natural consequentie del clarvidentie del creator de nor
+lingue, quam to ya es céterimen anc atestat in li conclusion del
+excellent articul de nor coidealist Dr. H. C. Pollog \"Marcas de
+comercie e Occidental\". 
+
+ 
+
+A. Matejka 
+
+ 
+
+\-\-\-\-\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+ 
+
+ 
+
+TRA LI PRESSE 
+
+ 
+
+ 
+
+ 
+
+Li situation del movement mundlingual, quam it reflecte se per li sviss
+presse, sembla esser caracterisat, durant ti ultim semanes, per un subit
+silentie pos li grand propaganda por Basic English e per un egalmen
+subit - ma apen ínexpectat - ofensive del esperantistes. Lass nos
+mentionar, in prim loc, li poc publicationes occupant se ancor pri Basic
+English. 
+
+ 
+
+ 
+
+ 
+
+Li revúe SIE UND ER, quel ante quelc semanes solmen dedicat un tot
+suplement de quar págines a ti lingue, in su numeró del 24 decembre ja
+moca pri it, publicante un humoristic dessin : un old celiba just compra
+un papagaye, e li venditor recomenda a la li animal diente : \"E
+precipue, seniora, it parla Basic English !\". BRAVO ! It es in facte un
+lingue por homes con cerebre de papagayes. E li TAT del 3 januar raconta
+nos que in un varieté de Zürich un cople de humoristes da su opinion pri
+li valor de Basic Eniglish por li sviss \"industrie turistic\" del
+témpor pos-guerran. Plu seriosi es un articul de André Langie in li
+Gazette de Lausanne del 12 januar. Li autor precipue signala un tre grav
+desavantage a quel li adherentes de Basic English ne sembla har pensat
+quande ili recomenda ti creation quam lingue international del comercie
+: qualmen redacter telegrammas in un idioma in quel chascun parol ne
+trovant se in li liste de 850 expressiones deve esser remplazzat
+
+ 
+
+ 
+
+ 
+
+-18 -
+
+ 
+
+ 
+
+ 
+
+per un long circumscrition ? Ma mem in Anglia li entusiasme por Basic
+English ne sembla esser grand. In un reportage \"Qualmen li angleses ha
+celebrat li Cristfest\" in li TRIBUNE DE GENEVE del 6 januar, H. Field
+mentiona que li max mult comprat libres esset ovres de Shakespeare e
+Tolstoi e\...li \"Oxford Dictionary\", e il adjunte in parenteses :
+\"Por li rébuses del cruceat paroles o quam reaction contra Basic
+English - qui save ?\"
+
+ 
+
+ 
+
+ 
+
+Un interessant e finmen satiric publication ha aparit in un jurnal
+svedés; it esset misset nos per un coidealist de ti land, quel
+regretabilmen mancat indicar li nómin del gazette. Li jurnal in question
+sembla haver un regulari columne de Anglés por beneficie de su letores
+desirant perfectionar se in ti lingue. Li articul quel noi recivet porta
+li titul \"Basic triumfa!\" Pos har fat quelc jocas pri li excitation
+del esperantistes causat per li propaganda del \"bacicistes\", li autor
+asserte har trovat in un brochura de contra-propaganda esperantistic li
+secuent remarca : \"Li ínfortunosi hom desirant comendar in un
+restaurant un rostat columbo forsan va vidar se fortiat demandar, in
+Basic English, \"li avie, quel Noah misset ex su arca por explorar ca it
+havet ja terre, cocinat per apert foy sur un forn\". Li
+Esperanto-expression \'rostita kolombo\' sembla preferibil\". Li autor
+continua : \"E it vell esser possibil que in ti casu li
+\'esperantonianes\' have rason. Li victoriosi soldates del alliat armés
+marchant tra Italia e conquestant, lass nos dir, 
+
+ 
+
+Venezia, mey trovar it plu facil obtener del subrident habitantes li
+manjage in question criante \'rostita kolombo\' quam si ili vell belar
+li nonsens pri li arca de Noah.\" In facte, mem Esperanto es ínfinitmen
+plu bon quam Basic English. To sembla esser anc li opinion del redaction
+del OSTSCHWEIZER (Rorschach), 
+
+ 
+
+ 
+
+ 
+
+-19 -
+
+ 
+
+ 
+
+ 
+
+quel in su edition del 29 decembre publicat, quam cert númere de al tri
+jurnales, un noticie sin dubita inviat per li Esperanto-centrale e quel
+di que un petition ha esset presentat al Ministerie del Instruction
+public anglés por demandar li introduction de Esperanto in li scoles de
+Anglia. Li redaction adjunte que, secun su opinion, certmen Esperanto es
+preferibil, quam lingue international auxiliari, a Basic English.
+
+ 
+
+ 
+
+ 
+
+Noi es arrivat nu al duesim tema de nor resumation : li propaganda del
+esperantistes, queles evidentmen regarda Basic English quam un nov e
+dangerosi ínamico, nam altrimen it vell apen esser comprensibil que
+subitmen un ver flut de noticies pri Esperanto inunda li columnes
+precipue del minu important jurnales de Svissia (nam por li grand presse
+li question mundlingual in general es un \"ferre ardent\" a quel on
+posse brular su fingres!). Noticies pri Esperanto in ti-ci o ti-ta land,
+su usabilitá in ti-ci o ti-ta profession, pri li assemblés de
+Esperanto-circules local, etc., seque unaltru, ma ne vale un mention
+special. Solmen un frase mey esser citat ci, quel ha procurat nos mult
+amusament : in un sat long propaganda-articul por Esperanto un cert E.K.
+scri in DER EISENBAHNER (31 decembre): \"Pos que li lingues auxiliari
+Volapück ( ! ) e Okzidental ( ! ) hat trovat poc success, Dr. L.
+Zamenhof in Warszawa publicat in li annu 1887 li mundlingue auxiliari
+inventet per le, Esperanto.\" Occidental quam - naturalmen desde long
+liquidat - precursor de Esperanto - bon ! Qui scri pri li movement
+mundlingual, mem si il fa propaganda por Esperanto, deve esser orientat
+un poc plu bon pri ti tema ! 
+
+ 
+
+ 
+
+ 
+
+Esque forsan que ne Basic English, ma li activitá de nor estimat
+coidealist, Dr. Fritz Haas, de Winterthur, e de su nov creat
+Occidental-Centrale
+
+ 
+
+ 
+
+ 
+
+-20-
+
+ 
+
+ 
+
+ 
+
+es li ver cause de ti excitation esperantistic ? On posse creder to si
+on lee li grand articul quel li NATION publicat in su numeró del 23
+decembre sub li titul \"Eine Weltsprache ! Aber welche ?\" (\"Un
+mundlingue! Ma quel?\"). Un revúe del nivell e expansion del NATION vell
+har fat un meritosi action orientante su letores pri li situation actual
+del idé mundlinguistic - plu grand es li desillusionament quande on vide
+que li articul in question ne es altricós quam un massiv propaganda por
+Esperanto, junt con violent e despreciant attaccas contra omnes por
+queles Esperanto ne es li salute del munde. Noi questiona nos ca li
+redactores del NATION self es fervent esperantistes o ca ili ha esset
+dupat per un tric del esperantistes. Li old gramofon-disc es ludet ta :
+li mult adherentes de Esperanto in mult landes, li mult organisationes e
+corporationes queles recomendat (o queles on assertet har recomendat) li
+utilisation de Esperanto, reproductiones de postmarcas con textu in
+Esperanto, etc. - li tot collection de evenimentes long-passat e sovente
+dubitabil, e naturalmen anc li lamentation : \"Esperanto ja existe -
+proquó un altri lingue auxiliari quel solmen vell indangerar li unitá
+quel es absolutmen necessi !\" Naturalmen omni al tri mundlingues es
+caracterisat quam essent solmen projectes : 
+
+ 
+
+\"Con li Occidental Li Europa-Union favorisa un projecte quel es
+conosset solmen in un tre micri circul de amatores e quel ultra to
+vegeta solmen sur li papere, quam un o du dozenes de altri propositiones
+de lingues auxiliari\". Li autor de ti pamflete oblivia solmen mentionar
+un facte : li 
+
+ 
+
+constant e nullmen recent retrogression del movement esperantistic quel
+permisse ja calcular 
+
+ 
+
+li termine quande Esperanto, quam Volapük, va esser \"conosset ancor
+solmen in un tre micri circul de amatores\"\....
+
+ 
+
+ 
+
+ 
+
+-21 -
+
+ 
+
+ 
+
+ 
+
+In un bell contrast a ti position ínneutral del NATION se trova li
+FRIEDENSWARTE (Zürich), quel in su numeró 5 de 1943 premisse a un
+recension de du columnes del manuale Matejka li paroles : \"Benque li
+redaction del FRIEDENSWARTE es sceptic vis-a-vis del idé de un lingue
+international auxiliari, it voluntarimen da a un adherente del
+mundlingue \'Occidental\' li ocasion introducter li librette mentionat
+con li secuent observationes\". Noi ne regarda li NATION quam ínneutral
+proque it publica un articul por Esperanto, e li FRIEDENSWARTE quam
+neutral proque it recense un Occidental-manuale, ma li diferentie es que
+li unesim articul es un polemica contra omnes queles pensa altrimen e li
+duesim un quiet representation quel lassa anc a Volapük e Esperanto li
+merites queles ili sin dubita ha havet. Noi solmen es un poc astonat que
+justmen li pacifistes, li organ de queles es li FRIEDENSWARTE e queles,
+pro li natura de lor principies, es de mentalitá international, declara
+esser sceptic contra li idé de un lingue international. 
+
+ 
+
+ 
+
+ 
+
+Forsan ili pensa similmen quam Otto Lezzi qui, in un tre interessant
+articul \"Der englische Geist - eine Gefahr ?\" (\"Li spiritu anglés -
+un dangere ?\") in li AUFBAU (26 novembre) trova que li adherentes del
+auxiliari lingues exagera li importantie del linguistic diferenties
+inter li popules e qui contesta que li introduction de Basic English
+vell procurar al angléses un avantage in omni international relationes
+(por evitar miscomprenses : Lezzi es contra Basic English). Il di, inter
+altri coses, que in li \"relationes inter li popules\" it acte se sempre
+solmen pri circules relativmen restrictet e que li membres de ti
+circules es un specie de specialistes queles mastrisa li foren lingue in
+question. Esque sr. Lezzi ha jamá havet comercial o scientic relationes
+con 
+
+ 
+
+ 
+
+ 
+
+-22-
+
+ 
+
+ 
+
+ 
+
+un foren land o partiprendet a un international congress ? Si yes, it es
+desfacil comprender qualmen il posse expresser tal opiniones. Li
+comerciantes e scientistes in general ne es linguistic specialistes; o
+ili deve demandar - e payar ! - li assistentie de tal specialistes por
+traducter lor lettres o ovres in foren lingues, o ili risca balbutiar,
+in parlada o scrite, de maniere que sovente on ne o apen comprende quo
+ili intente dir. Dr.C.H.P. 
+
+ 
+
+\-\-\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+ 
+
+ 
+
+CRONICA 
+
+ 
+
+ 
+
+ 
+
+Francia. - Nor francés coidealistes recomensa lor activitá por
+Occidental, malgré li desfacilitás del vive omnidial in lor land. Ante
+quelc semanes, sr. Varela visitat coidealist Gilbert in Toulouse. Ili
+discusset pri li reorganisation del movement in Francia. Nu, sr. Gilbert
+ha just translogiat a Paris e il colabora con nor sempre fidel pionero
+L.M. de Guesnet ye li provisori direction del Occidental Societé de
+Francia. Malgré li manca de paper e de covertes, nor amicos successat
+editer un micri circular-lettre raportant pri li provisori
+reorganisation e li Occidental-labores interprendet in Francia e in
+Svissia. Nor sincer gratulation a nor ínfatigabil coidealistes ! 
+
+ 
+
+W.G. 
+
+ 
+
+ 
+
+ 
+
+SVEDIA. - Noi recivet li Nr. 2 (dec. 1943) del SVED OCCIDENTALIST, Box
+171, Stockholm. 
+
+ 
+
+ 
+
+ 
+
+Contenete - li question mundlingual in li jurnales. - Invitation a
+colaboration. - Quelc opiniones pri li rationalisation e politura de
+Occidental. - Cronica national. 
+
+ 
+
+ 
+
+ 
+
+Nor vivid gratulationes a nor sved coidealistes por lor excellent
+bulletin ! F.L.
+
+ 
+
+ 
+
+ 
+
+SVISSIA. - Un interessant experiment.
+
+ 
+
+ 
+
+ 
+
+Occidental va esser usat in li reclame de un important firma. Li bon
+conosset sviss strump-fabrica PEROSA ha in un grand 
+
+ 
+
+ 
+
+ 
+
+-23 -
+
+ 
+
+ 
+
+ 
+
+SUBVENTIONES E CONTRIBUTIONES RECIVET (31.1.44) 
+
+ 
+
+ 
+
+ 
+
+Sr. Johalf, Fr. 20.\--, E. Binning, Fr. 5.\--; V. Ahlsted, Fr. 5.\--; F.
+Tjernström, Fr. 2.\--; C. Segerståhl, Fr. 6.60; H. Björkman, Fr. 5.15;
+R. Ström, Fr. 5.\--; E. Jenny, Fr. 3.\--; Ed. Bieller, Fr. 7.\--; Y.
+Sköld, Fr. 9.80.
+
+ 
+
+ 
+
+ 
+
+Cordialissim mersí ad omnes ! 
+
+ 
+
+\-\-\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+ 
+
+ 
+
+CRONICA  (fine)
+
+ 
+
+ 
+
+ 
+
+númere de sviss jurnales un nov reclame-campanie. It acte se pri micri
+anuncies con humoristic dessines e verses in li stil del famosi german
+poet Wilhelm Busch. 
+
+ 
+
+ 
+
+ 
+
+Quo es absolutmen nov in ti propaganda es que chascun die apari un
+anuncie con un altri motive e que sempre pos 9 dies un anuncie es
+publicat in francés, italian e altri lingues (ili apari solmen in
+jurnales de german lingue). 
+
+ 
+
+ 
+
+ 
+
+Mersí al eforties de un de nor coidealistes, li firma acordat far aparir
+quelc anuncies in Occidental e noi es curiosi constatar li efecte che li
+publica. Noi peti omni nor adherentes sequer atentivmen ti propaganda e
+atirante li atention del publica a it, auxiliar li firma 
+
+ 
+
+PEROSA e li Occidental-movement tirar li max grand profite ex ti nov e
+interessant experiment. 
+
+ 
+
+Al adherentes qui interessa se specialmen a ti interprense, noi va con
+plesura procurar detaliat informationes. 
+
+ 
+
+\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+ 
+
+ 
+
+NOR RECENT EDITIONES : 
+
+ 
+
+ 
+
+ 
+
+LOGICA IN LI LINGUE AUXILIARI, Fr. 0.60 
+
+ 
+
+WIESO IST OCCIDENTAL DIE LEICHTESTE WELTHILPSSPRACHE ? Fr. 0.40 
+
+ 
+
+\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+ 
+
+ 
+
+CONTENETE : - Marcas de comercie e Occidental. - Universalitá de
+Occidental. - Tra li presse. - 
+
+ 
+
+Cronica. - Subventiones e contributiones. - Nor recent editiones. 
+
+ 
+
+\-\-\-\-\-\-\-\-\-\-\--
+
+ 
+
+ 
+
+ 
+
+-24-
+
+ 
+:::

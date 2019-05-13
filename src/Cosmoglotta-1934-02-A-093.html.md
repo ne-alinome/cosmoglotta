@@ -1,0 +1,1897 @@
+Cosmoglotta A 093 (feb 1934)
+============================
+
+\
+
+::: {#displaycontent}
+COSMOGLOTTA   
+
+ 
+
+Annu XIII  Februar 1934   NO 2 (93) 
+
+ 
+
+TI NUMERÓ ES DEDICAT A IDO 
+
+ 
+
+IDISTES ! UN ALTRI SON DE CLOCHE ! 
+
+ 
+
+TIL hodie, Idistes, on ha presentat vos Occidental unilateralmen. Vu
+conosse nor idés precipue per li revúes Idistic, per li criticas de vor
+autores, per L. Beaufront, Noetzli, Ahlberg, etc., qui naturalmen videt
+li nov conception tra lor old deformation mecanistic.
+
+ 
+
+In omni solution it existe argumentes por o contra. Por posser judicar
+objectivmen on deve audir li du cloches. Ma til hodie, Idistes, ne un
+sol de vor revúes ha exposit vos objectivmen li valore del solution
+proposit de E. de Wahl ; ili ha monstrat vos solmen quelc objectiones de
+detallies, ma li fundament self, li principies del lingue, on ha lassat
+vos ignorar. 
+
+ 
+
+To esset ínevitabil ! Null redactor posset monstrar ti principies sin
+esser blamat del conservatores e editores, sin perdir su abonnates. Save
+vu que ancian e activ Idistes, mem presidentes de Ido-congresses, de
+Ido-Societés, es nu entusiast propagatores de Occ. Presc li demí del
+Idistes ha adheret a Occ. Crede vu que to ha esset possibil si li
+sistema ne presentat avantages mult plu important quam li quelc
+objectiones de detallies quel li Ido-revúes repeti sempre ? 
+
+ 
+
+In realità, li valore del solution naturalistic es mult plu grand quam
+on fat creder vos. Si vu ama li verità, vu deve conosser nor argumentes.
+Exposir li principies de Occidental ne es possibil in quelc articules,
+nam li problema del lingue international es complex. 
+
+ 
+
+Noi conosse vor objectiones contra nor sistema (nam presc omni
+Occidentalistes ha esset idistes) ma vu ne conosse nor argumentes. Un
+concordie es ínpossibil si vu es informat unilateralmen. Noi do demanda
+vos studiar Cosmoglotta durant ad-minim un annu. Noi anc recomanda vos
+studiar li brochura \"Ido o Occidental\" quel es inviat gratuitmen a
+omni Idist quel abonna Cosmoglotta por un annu, e quel es composit del
+sequent capitules : 
+
+ 
+
+Doc. No 32 Li lingue international e li logica. --- No 45 Li líttere K
+in li lingue 
+
+international. --- No 51 Quelc radicas de Occidental explicat. --- No 56
+Un justificat 
+
+critica de sr. Meillet. --- No 58 Lettre a un Idist. --- No 61 U noi
+expecta li Idistes. --- No 63. --- Li derivates a evitar. --- No 64 Un
+parol instructiv. --- No 65 Qualmen Occidental es plu complicat quam Ido
+! --- No 66 Un erra pri li infinitive de Occidental. No 67 Pro quo li
+líttere c have 2 pronunciationes in Occidental. --- No 71 Li obligatori
+finales in Esperanto-Ido. --- No 72 Li simetrie in li lingue
+international. --- No 79 Tabelle sinoptic del revúes interlinguistic.
+--- No 82 Li sufixes de action in Occidental. - No 84 Li ínfelici nomine
+de Ido. --- No 88 Qualmen li Idistes informa li yunes. --- No 89 
+
+Ancor li duplic consonantes. --- No 91 Li antagonisme inter regularità e
+naturalità. --- No 93 Ancor li nómine de Ido. --- No 95 Li regularità
+del vocabularium international. --- No 97 Li vin-beres es tro verd. ---
+No 102 Li contractiones grammatical. --- No 106. 
+
+Li finale -ac in Ido. --- No 107 Li principie de monosemie. --- No 112
+Li inutilità del sufixe -ig. --- No 113 Li situation del lingue in 1908.
+--- No 118 Noi es contra. --- 
+
+ 
+
+-17- 
+
+ 
+
+ 
+
+NO 119 Lettre a un Idist, concernent li logica. --- No 128 Julius Lott.
+---- NO 132 Li 
+
+restrictiones mental de sr. de Beaufront. --- No 133 Altruisme
+interlinguistic. 
+
+ 
+
+Un grand parte del Idistes desira naturalisar Ido, ili vole corecter li
+fals departe de 1907, li regretabil base artificial de Esperanto.
+Eminent Idistes proposi inter altres : 
+
+ 
+
+l\. Suppression del obligatori finales ---o e ---a. 
+
+2\. Plurale per ---s, quel es li maxim international. 
+
+3\. Suppression del finales verbal artificial -as, ---is, -os. 
+
+4\. Adverbies per -mente o -men. 
+
+5\. Articul per li ; la essente repugnant avan masculines. 
+
+6\. Suppression del sufixes artificial heredat de Esperanto. 
+
+7\. Introduction del sufixe completmen international ---ion. 
+
+8\. Suppression del nómine Ido, quel noce li propaganda e causa mocas. 
+
+ 
+
+Nu ! omni ti ameliorationes es includet in Occidental. On posse dir que
+Occidental [representa li quintessentie del ameliorationes desirat in
+Ido. ]{style="font-size:13px;"}
+
+ 
+
+Noi ne pretende que Occidental es perfect, ma noi save que si li
+practica monstra [li necessità de correctiones, ti correctiones ne va
+esser impedit per li corsete íntolerabil del obligatori finales -a, -o,
+-e. In Espo-Ido, ti ameliorationes ne es possibil sin abandonar li
+principies self del lingue. Che li Idistes, malgré 10 annus de
+discussiones, li progressistes ne posset obtener li minim reforma de lor
+lingue pro que un sol change vell esser li comensa del
+fine. ]{style="font-size:13px;"}
+
+ 
+
+LI TRAGIC AVENTURA DE DU INTERLINGUISTES 
+
+ 
+
+Desde li guerre mundal, li du maxim important organes del Idistes ha
+esset Mondo redactet de Per Ahlberg de Stockholm e Ido redactet de A.
+Noetzli de Zürich. Ambi revúes ne plu existe hodie ; lor desaparition
+marca li fine de du activitás paralel de quel li tragic fate deve servir
+nos quam lecion.
+
+ 
+
+Durant 12-15 annus null homes ha expenset plu mult energie, moné e
+patientie por [far triumfar Ido quam sres Ahlberg e Noetzli. Li
+subsignate, qui esset lor colaborator, posse atestar que lor ardore e
+lor devotion esset ínsuperabil, tam plu meritosi que li scientistes qui
+lansat Ido ne ocupat se pri su diffusion. ]{style="font-size:13px;"}
+
+ 
+
+Regrettabilmen che ti pioneros mancat li conossenties linguistic. Ili
+hat adheret a Ido pro que, quam sovent li non intelectuales (sr. Ahlberg
+esset policiero e sr. Noetzli tren-conductor) ili besonat li autorità
+oficial del scientistes ; e li sol titul \"linguo di la delegitaro\" dat
+les li necessi securità scientic ! Por ili, sr. de Wahl ne posset esser
+rect [pro que il ne esset un scientist sat famosi
+! ]{style="font-size:13px;"}
+
+ 
+
+On comprende do lor desestima por Occ. e lor astonament indignat quande
+ancian [conosset propagatores de Ido e mem presidente de national
+societés adheret a Occ. Por ili to esset un fenomen íncomprensibil, un
+manovre\... esperantic ! E naturalmen ili comensat ataccar Occ.
+publicante que su autor ne save parlar it !!! que it es impossibil a
+aprender. In curt, omni idiotic argumentes esset bon. E li
+protestationes de lor ex-amicos eat in li paper-corb ! To ne impedit que
+Occ. continuat progresser. Li du
+revúes ]{style="font-size:13px;"}[perdit li abonnates, qui eat a
+Cosmoglotta. Sr. Noetzli plenat li ultim numerós de su \"Ido\" per li
+qualificationes de \"linguacho\" adressat a Occidental, poy cessat omni
+actività interlinguistic. Il ne volet adaptar se al nov conception del
+lingue international e preferet retraer se definitivmen in li silentie.
+Trist fine ! ]{style="font-size:13px;"}
+
+ 
+
+Sr. Ahlberg polemisat acrimen contra E. de Wahl e pensat salvar li
+situation per [instigar li linguist (sempre ti santi exagerat respect
+del non-educat por li scientistes !) Jespersen al creation de un lingue
+basat sur li scientic linguistica ! Talmen nascet Novial. Ahlberg
+comensat propaganda por Novial ; ma abandonat del Idistes, e
+contrabattet del partisanes de Occidental, qui ne havet pena monstrar li
+ínnaturalitás e debilitás de Novial, sin adeptes, sr. Ahlberg e
+Jespersen ne plu posset far apparir \"Mondo\". Hodie on ne plu audi
+parlar pri Novial quel sembla esser abandonat mem de su
+propri ]{style="font-size:13px;"}
+
+autor, do mort-nascet. 
+
+ 
+
+Con plu grand conossenties linguistic, o ad-minim un poc de instinct
+linguistic, [ti du grand pioneros ne vell har perdit se in un mis-via u
+ili trovat un poc gloriosi fine.    R. Bg.]{style="font-size:13px;"}
+
+ 
+
+-18-
+
+ 
+
+ 
+
+SUFIXES CON SIMIL SIGNIFICATION 
+
+ 
+
+In su articul in Progreso No 93 sr. Matejka asserte que li divers
+sufixes de Occidental con simil signification deve desconcentrar li
+usator, e que li usation de tal sufix, quel plese le, ne es possibil,
+proque solmen un de ili posse esser bon e rect, i.e. natural, e poy il
+aducte un serie de fals derivat paroles, por demonstrar per ili su
+tese. 
+
+ 
+
+Li idé que solmen un sufix posse esser li rect in chascun casu proque
+solmen un es 
+
+natural es refutat per li fact que in mult casus li divers lingues usa
+different sufixes, p. ex. S. juventud, Cat. jovenesa, F. jeunesse, l.
+gioventà e giovinezza ; I. alt-ura, F. hauteur ; I. continuo, Prov.
+continuos ; F. assidu, Prov. assiduos ; S. amistad - amicità, 
+
+amicage, L. amicitia ; Cat. amistança, Pg. amizade ; Pg. cebolal, S. Pr.
+amiguatge 
+
+cebollar ; L. multitudo, Pr. molleza ; F. esclavage, S. esclavitud, A.
+slavery e in Cat. ambi : esclavitut e esclavatge. 
+
+ 
+
+Ti poc exemplares mey suficer in ti curt articul. 
+
+ 
+
+Nu li jolli baroc paroles format \"just secun li leyges de derivation in
+Occidental\" quam asserte sr. M. Unesimmen existe paroles absolutmen
+international til japanés. A null hom, forsan exceptet a un idist, vell
+venir li idé dir capitalario vice capitalist, o 
+
+proletarité vice proletariatu. Ma mem un tal parol vell esser plu
+comprensibil quam li Ido-form proletariaro quel ne solmen ne existe in
+ni un lingue, ma mem ne vell posser exister secun li existent leges,
+proque li Ido-sufixe -aro ne existe necú, durant que omni suffixes de
+Occidental es realitás\... e possede li rect sense existent in li
+natural lingues. Sr. M. va responder que -aro es adaptat L, -arium. quel
+have un sense collectiv. Ma to es un erra. -arium have solmen li sense
+de un artificial scientific collection : herbarium, aquarium,
+vocabularium, etc. etc. ! e to es altricos ! 
+
+ 
+
+Quel normal hom va derivar del radica \'\'paroc\'\' (quel significa ja
+li person un 
+
+parol parocario quel vell dever significar li sam person ! Si ja derivar
+li nómin e un person, on vell dever far to del parol parocia e derivar
+parociario ! Ma qui va far tal acrobateries ? Militariatu es fals. Yo ne
+posse bon preciser quo significa li Ido-parol militisteso per quel sr.
+M. traducte ti neexistent parol. Esque militarisme o D. Militärstand o
+Soldalentum o kriegerischen Geist. 
+
+ 
+
+On do vide ci li precision del \"logikala, logikoza, logika, segunlogika
+linguo Ido\". 
+
+Ma sr. M. trova que por Ido it es absolut índiferent quel de ti 4 formes
+on usa, ma a Occidental it deve esser despermisset usar ti o altri sufix
+son simil signification, p. e. povritá e povresse, etc. !! 
+
+ 
+
+-ificar es un sufix purmen scientific, do \"povrificar\" vell significar
+li artificial metodic action per quel on fa povri un population.
+Capillalia ne significa Ido-hararo, F. chevelure, ni anc un collection
+de capilles (quo vell suggester li Ido-sufix) ma un desordinat amasse de
+capilles (p. ex. cadet ex un matrasse). 
+
+ 
+
+Li signification del Occ. sufixes -eríe, -ie, -alu, -antie, -ore sr. M.
+visibilmen ne ha bon comprendet proque su compositiones afabileríe,
+clarie, mortantie, etc. es purmen fals composit. Quo vell significar
+mortantie in Occidental Mortar --- D. töten, F. tuer, 
+
+A. to kill, do mortantie vell dever significar li statu constant de un
+hom mortant alquem ! Un absurd. Sr. M. probabilmen ha volet dir
+morientie del verb morir F. mourir, D. sterben, A. to die, ma anc ti
+parol ne vell significar li idé del \"morte\" ma li statu del morient, e
+to es altricos. 
+
+ 
+
+Ma paroles quam monoculon, comensation, morsion naturalmen on vell
+posser formar, 
+
+e forsan in cert combination ili vell esser bon por preciser un special
+signification. Ma in general li combatte de sr. M contra tal parol have
+quam base un fals idé pri Occidental, it es que omni paroles, anc
+noviformationes. deve esser natural, i. e. ja exister in un del poc
+grand romanic lingues queles ha supervivet li grand lucta pri vive
+durant li latin témpor. In li creation de Occidental yo havet un mult
+plus humil scope, a saver : conservar li ja international paroles in lor
+natural form e ne barbarisar les. Ma to naturalmen in null maniere
+concerne li fortie del propri parol-creation secun li inmanent leges del
+lingue self, to sam quo noi vide in li exuberant particulari vive del
+richissim romanic, slavic e germanic lingues queles forma 
+
+ 
+
+-19- 
+
+ 
+
+ 
+
+constantmen nov formes con nov significationes, e chascun del parent
+idiomas ye su propri fasson e gust. Ti sam autonomie Occidental postula
+anc por su propri noviformationes, ma ne li jure defigurar antiqui
+commun possedage 
+
+del europan popules, quel ínlegalmen ha usurpat por se Espo, Ido e li
+altri \"mund- 
+
+lingues\".
+
+ 
+
+Adplu li majorité del sufixes con lor preciset signification totmen ne
+existe in Occidental por instigar chascun hom del strad composir nov
+paroles por general usu, ma por posser comprender li sense del paroles
+composit queles es usat in nor standart-ovres e poy secuer li bon
+exemples de nor lingue-artistes.
+
+E. de Wahl. 
+
+ 
+
+-ATU, -ITÁ, -ITÉ, -ESSE, IE, -ERÍE 
+
+ 
+
+Malgré li sovent explication de ti divers sufixes, li idistes sempre
+critica ti richesse, assertente que lor unic sufix -eso sufice por omni
+besones. Li sol du sufixes tre proxim in lor sense es -itá e -esse, e ci
+li usation es minu líber, ma preferibil li unesim, durant que li ultim
+es reservat sive por nuanciar li sense, o expresser un tre pregnant
+qualitá. 
+
+ 
+
+Por ex. yunesse significa ne li qualitá esser yun ma li statu, témpor,
+etá, e to es altricos ! 
+
+ 
+
+Richesse ne es li qualitá esser rich, ma li possedage. 
+
+ 
+
+It es significativ que omni lingues ci usa un altri sufix quam ti quel
+expresse un 
+
+qualitá. In ti romanic lingues -essa, eza, D. Reichlum ne Reichheit, Sv.
+rikedom ne rikhet, Holl. rijkdom, R. bohatsloo ne bohatosl, Tch.
+bohalstvi, etc. 
+
+ 
+
+Esque al idistes nequande ha venit in mente li question pro quo ci un
+tal comun 
+
+refutation del ordinari suihx de qualitá? Ma Couturat taxat omni
+national lingues quam ínlogic ! In fact ili es mult plu fin in lor
+psicologic distintiones quam C. 
+
+pensat. 
+
+ 
+
+Li finale -ie es destinat por abstractes de general signification,
+specialmen usat in grec paroles, e in derivationes del participie in
+-nt. 
+
+ 
+
+On do ne va dir clarie ma claritá, ne liberie ma libertá, proque ci
+clarmen es visibil li qualitá esser clar, esser líber. 
+
+ 
+
+Afabileríe es fals derivat, proque ci es clarmen parlat pri li qualità
+esser affabil, do afabilitá. Li suffix -eríe significa un maniere de
+acter : bigotterie, coquetterie, gronerie, 
+
+pruderie, tricherie, cricrie, diabolerie, asinerie, etc. Li sam sufix in
+german -ei, -erei es sammen tre sovent usat in li sam sense :
+Schufterei, Lauferei, Lumperei, Teufelei, Eselei, Schweinerei, etc.
+Qualmen on ne posse distinter inter un qualitá e un activitá, es por me
+un enigma!! 
+
+ 
+
+Ma ancor minu comprensibil es li confusion inter li suffix -atu e -itá. 
+
+ 
+
+-atu nequande e necú significa un qualitá ! It significa un social
+institution, sanctionat tradition, per lege, p. ex. califatu, papatu,
+consulatu, directoratu, matriarchatu, celibatu, concubinatu, episcopatu,
+prioratu, majoratu, e in sense derivat, li circul de activitá in 
+
+témpor e spacie. To es vermen altricos quam un qualitá. 
+
+ 
+
+Li unic sufix -eso in Ido por omni ti different notiones es pur
+pauperisme e in omni casu contradi al multlaudat precision in Ido. 
+
+E. de Wahl. 
+
+ 
+
+LETTRE DE UN BULGAR 
+
+Pos plur-annual studie de Occidental, yo definitivmen abandona Ido e
+adhere a 
+
+Occidental pro que ti sistema es un marvelosi compilation del
+interlinguistica modern. It es li lingue quel aperte li porta al cultura
+modern. 
+
+ 
+
+Yo esset un fervent Idist e yo credet que li principies de Ido e su
+logica esset qualitás queles ne posse haver altri sistemas. E sub ti
+influentie yo videt in Occidental un ortografie complicat, quel ne es
+conform al modern vive. Ma hodie yo deve corecter mi erra per mi
+adhesion al Occidental. 
+
+ 
+
+Yo es slavo, ma malgré que yo parla un lingue non-romanic, yo posse dir
+que 
+
+Occidental es plu conform a mi lingue bulgar quam li altri systemas de
+lingue international. 
+
+Octobre 1933. 
+
+ 
+
+Petro V. Dimitriev, Pleven (Bulgaria). 
+
+ 
+
+-20-
+
+ 
+
+ 
+
+ 
+
+Otto Jespersen e Edgar de Wahl. 
+
+ 
+
+Inter li autores de lingues international, li maxim prominent e maxim
+discusset in li [ultim deci annus es certmen Sres. Jespersen e de Wahl.
+It va esser interessant examnar quo li Interlinguistica debe a ambi e
+quel de ili ha max influentiat li altre. ]{style="font-size:13px;"}
+
+ 
+
+Quo li Idistes debe a O. Jespersen. 
+
+ 
+
+In un articul publicat por honorar Sr. Jespersen, in su 60im.
+anniversarie (Ofical Buletino Sept.-Oct. 1930) Sr. S. Auerbach de
+Frankfurt resuma qualmen li grand linguist auxiliat Ido : \"Si noi
+folietta, il di, li unesim tomes de Progreso, noi vide que Sr. Jespersen
+ne contentat se per indicar li grand lingual principies, ma que il anc
+ne desdignat [colaborar concernent li detallies ; noi, Idistes, debe a
+Jespersen li remplazzation de sed per ma e li preposition an por
+mentionar du exemples.\" ]{style="font-size:13px;"}
+
+ 
+
+Sin voler diminuer li grand merites de Sr. Jespersen, noi va monstrar
+que, studiante [li documentes del epoca, in realitá, on convicte se que
+de Wahl ha sempre plu bon ]{style="font-size:13px;"}[presentit li max
+bon lingue international quam Jespersen self. Ne de Wahl ha sequet li
+idés de Jespersen, ma lu contrari es ver ! ]{style="font-size:13px;"}
+
+ 
+
+In facte, on ne posse negar li grand appoy quel Sr. Jespersen ha dat a
+Ido. Durant [20 annus li grand linguist danés ha servit quam scude al
+Idistes ; sempre ili utilisat su nómine in lor propaganda, ma ti
+apoy\... esset precipue moral, plu quam
+linguistic. ]{style="font-size:13px;"}
+
+ 
+
+Si noi folietta li tomes de \"Progreso\" on constata in realitá que li
+colaboration [de Sr. Jespersen al perfectionament de Ido ne ha durat
+long e que il havet poc influentie efectiv. Li ductores de Ido, Sres.
+Couturat e de Beaufront, sempre citat e emfasat li nómine del linguist
+Jespersen quam protector de Ido e in sam témpore ili efortiat escartar
+li radical reformes proposit del sam Jespersen, til quande ti-ci
+demissionat quam president del Ido-Academie e cessat collaborar a
+\"Progreso\". ]{style="font-size:13px;"}
+
+ 
+
+Li principie del maxim grand internationalitá. 
+
+ 
+
+Sin dúbita, li consilies de Sr. Jespersen che li comité del Delegation
+in 1907 ha esset decisiv. On conosse su principie quel ha servit quam
+base por li labores del Comité : Li maxim bon lingue international es ti
+quel es maxim facil por li maxim grand númere de homes. Ma on ne deve
+obliviar que ti principie ja in ti epoca esset generalmen adoptet. Mem
+ja in 1896 ti principie del maximum de internationalitá esset li idé
+comun [al colaboratores del revúe Linguist, inter queles trovat se E. de
+Wahl e Lott (Vide : ]{style="font-size:13px;"}[Couturat, Histoire de la
+langue universelle, p. 469). ]{style="font-size:13px;"}
+
+ 
+
+Li ínnatural derivation de Ido. 
+
+ 
+
+On save que in 1907, li unesim projecte de Ido esset perlaborat de Sres.
+Couturat e [de Beaufront ; it includet li famosi sistema ultra-logic de
+derivation proposit de Couturat, quel ha constituet li maxim dangerosi
+arm in li manus del adversarios del lingue. ]{style="font-size:13px;"}
+
+ 
+
+Ma Sr. Jespersen nequande fat un objection contra ti invasion nociv del
+logica in li [dominia del lingue. Noi leet completmen li corespondentie
+de Jespersen a Couturat ]{style="font-size:13px;"}[durant li 7 annus (de
+1907 til li morte de Couturat in 1914) : Nequande Sr.
+Jespersen ]{style="font-size:13px;"}[ha objectet : \"Vor systema de
+derivation ne es conform al leges natural\... , on ne posse obligar li
+homes dir : martelagar, urinifar, adresizar, etc., quande ili es
+acustomat dir martelar, urinar, adressar, etc. ! In contrari, Sr.
+Jespersen aprobat sempre ti sistema contrari al psicologie, e in un
+prospecte de propaganda, il asserte que \'concernent li derivation,
+Couturat ha tre bon monstrat li via a sequer !!
+\"]{style="font-size:13px;"}
+
+ 
+
+Ti opinion ne esset ti de E. de Wahl, qui ha sempre, desde li aparition
+de Ido, [combattet ti systema hiper-logic de Couturat. It es mem
+interessant constatar que li unesim qui ha publicmen monstrat li
+anti-psicologic base del derivation Couturat es\... E. de Wahl
+! ]{style="font-size:13px;"}
+
+ 
+
+In facte, on lee in Progreso, april 1909, ti lineas adressat a Couturat
+: 
+
+ 
+
+\"Noi questiona : Esque Sr. Couturat va audaciar leder ti practicmen
+logic custome [de omni popules, que on posse derivar directmen verbes de
+substantives concret, e ]{style="font-size:13px;"}
+
+ 
+
+-21-
+
+ 
+
+ 
+
+imposir su propri logica al munde ? Esque per ti maniere on va obtener
+un lingue [maxim facil por li majorité ? Ne solmen li romanic e germanic
+lingues have tal derivation, ma anc li slav, finn, turc,
+etc. ]{style="font-size:13px;"}
+
+ 
+
+E pos har citat mult exemples, Sr. de Wahl conclude : 
+
+ 
+
+\"Si Sr. Couturat vole definir omni relationes per sufixes, tande il va
+dever haver ínfinit númeres de sufixes, e il perdi li fort expressività
+del immediat derivation, e solmen il capricie sur li reversibilitá, e li
+sol substantivic finale o. 
+
+ 
+
+Nequi apoyat ti objectiones de de Wahl in Progreso, ne mem Sr. Jespersen
+! Ma [20 annus plu tard, pos long e íncessant criticas de E. de Wahl (in
+Kosmoglott precipue) li evidentie apparet tro convictiv. Sr. Jespersen
+in su torn monstra in 1928 (An international language, p. 129) li
+ínutilitá del rigid sistema de Ido : ]{style="font-size:13px;"}
+
+ 
+
+\"\...he ( Couturat) also restricted the field of \"immediate
+derivation\" by several rules. But he did not see clearly enough that
+his set of endings were not numerous enough to do justice to the
+infinite variety of human life and speech, and some of his formations
+are cumbrous and unnatural. \... In writing Ido one is constantly
+confronted wilh the problem : am I here logically justified in using the
+immediale formation, or should I use a sufix and which ?\" 
+
+ 
+
+To es exactmen quo E. de Wahl hat objectet a Couturat 20 annus antey e
+quo devet dir Sr. Jespersen ante que li enorm dictionariums de Ido esset
+publicat. 
+
+ 
+
+Li paroles \"ma\" e \"an\". 
+
+ 
+
+Concernent li \"detallies\" de Ido, noi deve adjunter que li sol
+exemples dat de Sr. [Auerbach ne es
+convictiv. ]{style="font-size:13px;"}
+
+ 
+
+Li parol \'\'ma\'\' ha esset proposit realmen de Jespersen in
+\"Progreso\" de Marte 1909 (p. 14) por remplazzar sed, ma li unesim mann
+qui ha usat ti parol ma in Progreso es\... de Wahl ! 
+
+ 
+
+In li precedent annu del sam revúe (1908 p. 468) noi trova ti frase
+signat de E. de Wahl : 
+
+ 
+
+\"Cel declaration ne es un insinuation come le noma Sr. Couturat, ma un
+postulation [publicar l material, quel no essi inviat a l Comité por
+esser interrat in su archiv!\" ]{style="font-size:13px;"}
+
+ 
+
+Li duesim exemple : an, ne es completmen rect. Sr. Jespersen proposit an
+in prim [in Progreso 1910 p. 400 por remplazzar li ye heredat de
+Esperanto \"in li casus u li ]{style="font-size:13px;"}[object ne posse
+expresser se sin preposition\". Ma in sam témpor un altri Idisto, van
+der Boom, proposit li sam an por indicar un relation plu precis : \"an
+la muro pendas du bela portreti\", tal qual an es usat nu in
+Ido. ]{style="font-size:13px;"}
+
+ 
+
+Li parol an con li signification proposit de Jespersen esset rejectet
+del Ido-Academie (decision 382). Ma strax poy Couturat reproposit li sam
+parol por li altri signification de Boom (Progreso IV, p. 409), quo
+esset finalmen admisset. Ergo, on posse dir que li parol idistic an ne
+es debit a Sr. Jespersen, ma a van der Boom e a Couturat. 
+
+ 
+
+Li prefixe des-. 
+
+ 
+
+In 1930, noi resumat li merites de E. de Wahl por li libre :
+\"Occidental, die Welt[sprache\" in un articul intitulat \"Qui es li
+autor de Occ.\" In ti articul noi mentionat que E. de Wahl hat indicat
+plur ameliorationes in Ido, e que li Idistes debi le precipue lor sufixe
+des- (in vice de mal-). ]{style="font-size:13px;"}
+
+ 
+
+Ma plu tard, noi aconosset que Sr. Jespersen in lettre privat contestat
+nor afirmation, diente que des- es debit a un Idist danés B. Jönnson.
+Noi es do fortiat metter li punctus sur lis i e invitar nor letores
+verificar in \"Progreso\":
+
+ 
+
+Li historie de des- es vermen interessant. Li Idistes in prim hat
+conservat mal- [de Esperanto e in su unesim brochura pri Ido, Sr. de
+Beaufront lauda ti decision ! Ja in ti moment E. de Wahl usat des- in su
+lingue Auli nascet in 1906. Tamen ti prefixe es mentionat (ne proposit
+!) in Progreso No 7 (1908) per ti lineas de Couturat quel recense un
+revúe : \"In Korespondens international\" de julí 1908. Sr. Miller
+remarca que li prefixe del contrarie\... mal- es nullmen international e
+mem rar in francés con ti sens ; il proposi remplazzar it per des- quel
+es mult plu usat e con li sens just.\" ]{style="font-size:13px;"}
+
+ 
+
+In Progreso de januar p. 682, Couturat reparla pri des- e asserte que
+des- \"ne sembla esser plu international quam mal- por li contrarie\"
+(!!) 
+
+ 
+
+Ma li prefixe des- ha esset proposit realmen al Idistes por li unesim
+vez in Progreso de april 1909 in un articul redactet de E. de Wahl. 
+
+ 
+
+-22-
+
+ 
+
+ 
+
+In it, E. de Wahl monstra que li prefixe mal- prendet de Esperanto ne es
+bon por li [contrarie\... \"In li vocabularium de Beaufront-Couturat es
+80 paroles con li prefixe mal-. Ex ili solmen un, malcontent, es, si ne
+international, almen natural. Si on va changear mal- per des- on va
+trovar inter li citat paroles 32 tot international quam desarmar,
+desfortun, deshonorar, desligar, desordinar, desinfektar, etc. e mult
+altres, queles ne essent just international tamen es plu natural per
+des-, quam lis fat per mal-, ]{style="font-size:13px;"}[o per altri
+prefixes mis-, in-. ]{style="font-size:13px;"}
+
+ 
+
+A ti argumentation detalliat, Couturat replica\... \"Es possibil que
+des- es plu opportun quam mal-, ma it ne es admissibil in omni casus
+citat de Sr. de Wahl : ex. on ne posse dir des-armar plu quam
+mal-armar\" ! ! 
+
+ 
+
+In li sequent numerós, E. de Wahl monstra denov contra Couturat que :
+\"li prefixe [des- va esser sempre plu bon quam mal-\". (Progresso ll,
+p. 154). ]{style="font-size:13px;"}
+
+ 
+
+In Progreso de junio 1909, un senior Twombly publica un nov articul por
+monstrar que on deve remplazzar li prefixe mal- per des- o un-. Quar
+mensus plu tard li sam revúe inserte un nov articul signat Ben Jönsson.
+(Progreso ll, p. 460). Ti danés Idist do ne es li unesim propositor de
+des-, quam asserte Sr. Jespersen. 
+
+ 
+
+Poy evenit un nov discussion general a quel participat Schneeberger,
+Paul de Janko, Couturat etc. Ma solmen in 1911, li Academie de Ido
+adoptet des- in vice de mal-. 
+
+ 
+
+Li Idistes besonat 2 annus por comprender que E. de Wahl esset just. Sr.
+Jespersen [self nequande parlat in favor de ti change, ma il ha
+sanctionat des- in su Novial in 1928 ! ]{style="font-size:13px;"}
+
+ 
+
+E desde 1911, on videt Sr. de Beaufront (qui nequant fat li proposition
+por des-) [sempre emfasar in omni brochurás de propaganda por Ido li
+grand e evident superioritá del idic prefixe des- sur li stupid
+esperantic mal- ! ! ]{style="font-size:13px;"}
+
+ 
+
+Li finale -yo : 
+
+ 
+
+Un altri historie anc edificant es ti del finale -yo. Ido scrit in prim,
+con li approbation de Jespersen : familyo, historyo, etc., ro un mal
+regul de accentuation in Ido.
+
+ 
+
+Ja in 1908 (vide Progreso I 647) E. de Wahl monstra que ti regul es mal
+e que pro [il on ne deve deformar li ortografie international. Couturat
+comensa per contestar li conclusiones de Wahl, ma pos long discussiones
+on aconosse que li professor de Reval esset rect. E in 1910 (vide
+Progreso III 322) li Academie de Ido adoptet li nov regul de
+accentuation con li finale -io in vice de -yo, precismen quo de Wahl hat
+proposit. Pro to li Idistes scri nu : historio, familio,
+etc. ]{style="font-size:13px;"}
+
+ 
+
+ 
+
+Li information pri Neutral reformed : 
+
+ 
+
+Noi deve anc rectificar un information tre important de Sr. Jespersen :
+In su libre [pri Novial, il asserte que li sistema de derivation de Occ.
+es li continuation de Neutral e specialmen Reform-Neutral de
+Rosenberger, project presentat al Delegation in
+1907. ]{style="font-size:13px;"}
+
+ 
+
+Contra ti assertion ha protestat E. de Wahl ja in Nov. 1928, explicante
+que \"just lu contrari es ver\". Rosenberger in 1906 volet reformar su
+Idiom Neutral. \"Tande, scri E. de Wahl, yo recomensat mi corespondentie
+con il pri li leges del derivation, etc. Rosenberger ha publicat mult
+cos ex ti correspondentie in su revúe \"Progress\", quo clarmen monstra
+que ne yo usat li sistema de Neutral e specialmen Reform-neutral ; ma
+invers, Sr. Rosenberger, post un plurimensual corespondentie venit
+specialmen a Reval in octobre 1906 (vide Progress) por conossentar se
+con mi labores, adver tande ancor long ne finit.\" 
+
+ 
+
+Ti declaration es exactmen confirmat per li grand historian del epoca,
+Couturat, [qui, in su libre \"Les nouvelles langues internationales\"
+scri (pagine 52 et 53) :]{style="font-size:13px;"}
+
+ 
+
+\"Mais ce projet de réforme (ti de Rosenberger) ne parut pas encore
+suffisant a M. Edgar de Wahl, de Reval, ancien volapükiste, ancien
+Esperantiste et ancien collaborateur du Linguist. Il trouvait que la
+langue internationale doit être encore \"plus naturelle\" , plus
+rapprochée des langues vivantes, c\'est-à-dire des langues romanes, dont
+il avait étudié la grammaire comparée. Il avait élaboré un projet de
+langue que M. Rosenberger publia dans le Nn 6 de Progress. (Ci Couturat
+da li resumate de ti projecte). M. Rosenberger s\'est rallié aux vues de
+M. E. de Wahl et a envoyé à l\'Akademi de L\'Idiom Neutral sous forme de
+Proyekt de Resolution, un projet de réforme du Neutral qui ressemble
+beaucoup au proiet de Wahl.\" 
+
+ 
+
+-23-
+
+ 
+
+ 
+
+Altri testimonie : 
+
+ 
+
+In li archives del Delegation, noi retrovat li copie de un circulare
+inviat al membres del Commission permanent e in quel inter altri
+Couturat di : 
+
+ 
+
+\"\...Nous avons reçu de M. Edgar de Wahl un mémoire adressé au Comité
+de la Délégation\... il y résume les idées théoriques qu\'il a déjà
+exposées dans le journal \"Progress\" : nous les avons d\'ailleurs
+résumées dans \"Les nouvelles langues internationales\", et Vous savez
+qu\'elles ont inspiré à M. Rosenberger le projet de réforme de l\'Idiom
+Neutral que nous avons discuté avec le Comité. 
+
+ 
+
+To monstra que realmen li afirmationes de Sr. Jespersen pri li orígine
+de Occ. es [ínexact, e contradit del documentes
+autentic. ]{style="font-size:13px;"}
+
+ 
+
+Li influentie de E. de Wahl : 
+
+ 
+
+In 1907, quam pruva su project \"Eklekta\" presentat al Commission
+permanent quel [selectet Ido, Sr. Jespersen esset ancor partisan de un
+lingue del tipe de Esperanto, con obligatori finales -o por li nómines,
+-a por li adjectives, -e por li adverbies, -i por li plurale del
+nómines, con li tri infinitives -ar, -ir, -or de Ido e con li tri
+finales -as, -is, -os, de Esperanto. ]{style="font-size:13px;"}
+
+ 
+
+In ti témpor, E. de Wahl esset ja un adversario de ti artificial
+grammatica [(vide su Auli de 1906). Sempre e sempre desde tande, il ha
+combattet por : un ínobligatori finale del nómine per -e, un
+ínobligatori finale del adjectives per -i, un -s por li plurale, por li
+supression del 3 infinitives sinthetic de Ido, e por li suppression del
+-as, -is, -os, heredat de Esperanto e anc por li supression complet del
+-n del acusative. ]{style="font-size:13px;"}
+
+ 
+
+E poy, quo evenit? Ne E. de Wahl sequet li grand linguist, ma li
+linguist aprendet de [E. de Wahl. In 1928, Sr. Jespersen crea Novial
+quel accepta li essential supra principies de E. de Wahl (except que li
+infinitives es composit de du paroles quam
+anglés). ]{style="font-size:13px;"}
+
+ 
+
+Qui esset rect : E. de Wahl o Jespersen ? 
+
+ 
+
+In resuma : 
+
+ 
+
+Noi have un grand respect por li qualitás moral de Sr. Jespersen, e noi
+va sempre [emfasar su perfect corectitá e loyalitá durant su tot vive e
+specialmen durant li aferes del Delegation. Concernent su opinion
+linguistic noi regretabilmen ne posse, quam Sr. Ahlberg de Stockholm,
+sequer O. Jespersen con su Novial pro li unic rason que il es un grand
+linguist durant que E. de Wahl es un \"micri professor de fisica apen
+conosset\"! Li titules ne es un garanti por
+nos. ]{style="font-size:13px;"}
+
+ 
+
+Memora ! : in 1907, che li Comité del Delegation esset du linguistes
+maxim erudit in li munde, ili esset : 
+
+ 
+
+Baudoin de Courtenay e Otto Jespersen. Li unesim in ti témpore Videt in
+Esperanto [li maxim bon solution del lingue international ; li duesim
+volet reformar it solmen un poc !! (vide su project Eklekta). Ambi ne
+comprendet li avantages de un sistema natural e ne atentet li idés de E.
+de Wahl. ]{style="font-size:13px;"}
+
+ 
+
+Duant annus plu tard, quel evolution ! 
+
+ 
+
+Noi retrova Baudoin de Courtenay sur li covriment de Cosmoglotta quam
+\"protector\" de Occidental !!! E pri Sr. Jespersen il fa li demí via
+vers E. de Wahl per [elaborar un Novial de quel li defecte generalmen
+aconosset es li restant artificialitá heredat de
+Ido. ]{style="font-size:13px;"}
+
+ 
+
+Ric Berger. 
+
+ 
+
+Li supra articul esset communicat a Sr. Otto Jespersen quel signalat
+null erra in [nor critica ma respondet nos : ]{style="font-size:13px;"}
+
+ 
+
+Danko pro vun kritike. Me regreta multum kel me fad durant li
+Couturat-epoke, ma me ankore kreda ke Novial es in kelki punktus plu bon
+kam Occ.\" 
+
+ 
+
+On save que un patre es sempre un poc ciec pri li defectes de su
+infantes. Li \"quelc [punctus\" in queles Sr. Jespersen crede su Novial
+superior a Occ. (it es li supression del líttere c e li derivation
+ínnatural probabilmen) es li punctus quel causat li fiasco de Novial. On
+posse questionar se esque it valet li pena expenser tam mult moné por
+provar crear un nov movement pos Occ. (e sin successar ! ) solmen pro
+\"kelki punktus\".]{style="font-size:13px;"}
+
+ 
+
+-24-
+
+ 
+
+ 
+
+LI PLURALE IN LI LINGUE INTERNATIONAL 
+
+ 
+
+It es exter dubita que li plurale per -s es li maxim international: quar
+lingues inter li maxim expandet, anglés, francés, hispan, portugalés e
+mem hollandés ha imposit it sur li 3/4 del superficie del terre. Un sol
+regard sur nor planisfero monstra que li unification pri li plurale per
+-s es fat ja sur 3 continentes e sur un grand parte del 2 altres (in
+China e [Japan es anglés familiari a omni
+educate). ]{style="font-size:13px;"}
+
+ 
+
+On posse afirmar que in null parte del grammatica quam in li plurale, li
+solution es imposit con plu grand evidentie del internationalitá. 
+
+ 
+
+Pro quo li -s ne es adoptet in Esperanto-Ido?
+
+ 
+
+Pro li universalitá de ti plurale, li plupart del lingues international
+ne [hesitat adopter it. Couturat, in 1907, monstra que ex 21 maxim
+important ]{style="font-size:13px;"}
+
+ 
+
+(Image: Li universalitá del plurale per -s. Li landes indicat in nigri
+es lis u li plurale per -s es familiari. Li regiones hachurat usa altri
+plurale (per -i o per -n)). 
+
+ 
+
+lingues international, 13 adoptet li plurale per -s, mem Volapük, quel
+tamen ne mult cuidat pri li principie del maximal internationalitá.
+
+ 
+
+On posse do astonar se que Esperanto, in 1887, preferet -j adjuntet al
+-o del nómines, durant que Ido substituet a ti -o un -i. 
+
+ 
+
+Pro quo ti elimination del plurale maxim international per un plurale
+minu international o per un plurale archaic? Si Volapük hat monstrat li
+bon exemple, pro quo ne sequer it?
+
+ 
+
+Li rason es evident : it esset pro li acusative. Pos un plurale per
+---s, li accusative -n ne posse esser adjuntet al nómines. Do li grand
+culpabil es li acusative obligatori che Esperanto e li acusative de
+inversion che Ido. Sr. de Beaufront in su \"Detaloza gramatiko\", p.
+184, ne cela que li cause \"decisiv\" del adoption del plurale per -i es
+que un vocale sol possibilisa li \"akusativo inversigala\".
+
+ 
+
+-25-
+
+ 
+
+ 
+
+ 
+
+Li acusative es li cause del tot male. E lu maxim astonant es que li
+accusative es un balast ínutil ! Ne solmen it es condamnat del
+linguistes (Ex. Meillet e Jespersen) pro que it es contrari al evolution
+del lingues natural, ma un lingue international posse esser tam exact,
+tam flexibil sin ti acusative, obligatori o solmen \"inversigala\".
+Occidental pruva it. Esque vu posse trovar in li 11 annus de Kosmoglott
+e Cosmoglotta un frase quel ne es clar malgré li absentie de accusative?
+Yo defia vos trovar un sol. 
+
+ 
+
+On save que Occ. obtene ti clartá per adopter li duesim form del
+pronomines (me, te, se, nos, vos, le, la, les) e quem. Ma to fa solmen 9
+paroles international in plu a aprender. To es sin importantie in un
+lingue quel usa 20-30000 paroles, e ti 9 paroles permisse supresser omni
+finales del acusative\... e anc permisse adopter li plurale maxim
+international.   R.B.
+
+ 
+
+Occidental fa comprender nos li admirabil [regularitá del vocabularium
+international. ]{style="font-size:13px;"}
+
+ 
+
+clud-er 
+
+in-clud-er 
+
+con-clud-er 
+
+ex-clud-er 
+
+ 
+
+Per li regul de Wahl, on deriva ancor : 
+
+ 
+
+clus-ion 
+
+in-clus-ion 
+
+in-clus-iv 
+
+con-clus-ion 
+
+con-clus-iv 
+
+ex-clus-ion 
+
+ex-clus-iv 
+
+ex-clus-iv-itá 
+
+ 
+
+posi-r 
+
+posi-t-ion 
+
+posi-t-iv 
+
+in-posi-r 
+
+in-posi-t-ion 
+
+ex-posi-r 
+
+ex-posi-t-ion 
+
+pro-posi-r 
+
+pro-posi-t-ion 
+
+pro-posi-t-or 
+
+de-posi-r 
+
+de-posi-t-ion 
+
+de-posi-t-or 
+
+\-\--
+
+ 
+
+HUMORE 
+
+ 
+
+Per quel motive li Armenianes porta in lor standartes li image del
+Ararat? \"questionat un vez li turc ambassador a [Chicherin„\" li Ararat
+ne apartene a Armenia ma a Turkia\...\" \"Yes\" subridet Chicherin,
+\"\... ma Vu porta in Vor standarte li demí-lune\... Esque forsan li lun
+apartene Vos? \" ]{style="font-size:13px;"}
+
+ 
+
+-26- 
+
+ 
+
+ 
+
+ 
+
+UN MAL CONSILIATOR 
+
+ 
+
+Li Idistes mey pardonar nos si noi di les quelc veritás ; in li question
+interlinguistic, noi pensa que on ne posse esser tro franc. 
+
+ 
+
+It es índubitabil que li actual critic situation del lingue
+international es debit principalmen al Sr. L. de Beaufront de quel li
+íncompetentie e li manca de psicologie ha esset sempre misguidant. 
+
+ 
+
+Pos li fiasco de Volapük, pos 1890, li lingue international trovat se
+avan un situation exceptionalmen favorabil. Null sistema esset
+generalmen diffuset. Do, null projecte esset in avansa e li maxim bon
+posset conquestar li favore del publica ante que li plazza esset ja
+occupat. 
+
+ 
+
+Tande du projectes esset propagat, Esperanto de Zamenhof e Mundo-lingue
+de [Lott ; li unesim semi-artificial e incombrat de complicationes
+ínutil. Zamenhof, qui esset conscient de ti defectes, sagimen proposit
+ameliorar su lingue ante li stabilisation e organisat un votation in
+1894 a quel participat L. de Beaufront e E. de Wahl, qui hat ambi
+adheret a Esperanto li sam annu, in 1888. ]{style="font-size:13px;"}
+
+ 
+
+L. de Beaufront votat contra qualcunc amelioration ; E. de Wahl, sol con
+du altri votantes, votat por un complet reforma del lingue e pos li
+votation abandonat Esperanto. Il opinet que it esset un grand erra
+petrificar it por sempre in un form ínsuficent, e il [comensat auxiliar
+Lott in li perfectionament de su Mundo-lingue, quel es considerat hodie
+quam li tip del lingue del futur. ]{style="font-size:13px;"}
+
+ 
+
+Li Mundo-lingue posset successar nam li terren ne esset occupat. Lott in
+facte [publicat su grand libre just ante li Universal Exposition de
+1900. ]{style="font-size:13px;"}
+
+ 
+
+Regretabilmen, in Francia trovat se un mann qui lansat li
+interlinguistes in un fals direction : Sr. de Beaufront, qui ne
+comprendet li valore del naturalitá, falsmen opinet que li lingue
+international besona absolutmen li etiquettes -o, -a, li obligatori
+acusative, mem por li direction (!) etc. In su revúe \"L\'Esperantiste\"
+Sr. de Beaufront usat su tot eloquentie por imposir a un publica tro
+credul li desfacilmen digestibil defectes de Esperanto e\... il
+regretabilmen successat ! 
+
+ 
+
+Julius Lott, descorageat, finalmen tacet. [Sovent, Sr. de Beaufront ha
+laudat se pri su \"salvation\" de Esperanto, de 1894
+a ]{style="font-size:13px;"}[1907, client (in francés) : sans moi on
+chercherait en vain l\'Esperanto aujourd\'hui
+! ]{style="font-size:13px;"}
+
+ 
+
+Yes, ma sin il, on vell haver hodie Mundo-lingue in vice de Esperanto ;
+forsan 50 annus de avansa por li lingue international. It es damage que
+un mal avocat venit brolliar li afere ! E nu it es mult plu desfacil
+reparar li situation. 
+
+ 
+
+In 1907, un Delegation fundat de Couturat e Leau volet selecter un
+lingue international. On naturalmen pensat adopter un modern sistema
+quam Idiom Neutral reformat, de Rosenberger (vide li atestation de
+Jespersen). Regretabilmen, un voce preponderant esset concedet a Sr. de
+Beaufront qui consiliat contentar se per un Esperanto reformat, pro que,
+il dit, plu li lingue selectet va esser proxim a Esperanto e plu it va
+haver chances absorpter ti lingue ! Rasonament completmen fals, quam li
+futur ha pruvat it ! 
+
+ 
+
+E in sam témpor li duplicitá de Sr. de Beaufront in li Comité del
+Delegation causat un tam grand indignation che li Esperantistes que li
+concessiones fat a ili devenit ínutil. Con un poc de psicologie, Sr. de
+B. vell har previdet li resultate de su rol de \"trahitor\". 
+
+ 
+
+In ultra, li long usu del lingue, secun li principie del inertie,
+impedit li Esperantistes vider li necessita reformar lor lingue. Li
+culpa ha esset che L. de Beaufront self. Durant 12 annus, il hat
+predicat contra qualcunc amelioration, il hat inculcat li necessitá del
+acusative obligatori, del lítteres circumflexat, etc. It ha esset
+impossibil remetter in [bon via un tam numerosi truppe quel il self hat
+mis-ductet. Li mal pastor esset victim de su propri captuore ! E li
+Delegation, quel devet elaborar li maxim bon solution, furnit solmen un
+Esperanto demí-reformat, quel contentat ni li Esperantistes ni li altri
+interlinguistes ! ]{style="font-size:13px;"}
+
+ 
+
+Li resultates ha esset tragic : 
+
+ 
+
+Li filosof francés Couturat, qui havet sincer intentiones, exhaustet su
+grand talent e 
+
+ 
+
+-27-
+
+ 
+
+ 
+
+ 
+
+expenset 200.000 frs por imposir un lingue in quel li ameliorationes es
+impossibil pro su base esperantic. E malgré li intens labor de mult
+devoet amicos, Ido, quel havet 1300 membres inscrit in 1913 have hodie
+apen li ters de ti númere. E in plu it mem ne plu representa li qualitá
+oposit al quantitá (representat de Esperanto), nam desde pluri annus
+Occidental ocupa li plazza e absorpte li partisanes del progress.
+
+ 
+
+To es li revancha de ti misconosset e admirabil heróe : Julius Lott, li
+grand precursor del lingue international modern. 
+
+ 
+
+Hodie, Sr. de Beaufront continua sofisticar contra li naturalitá, contra
+omni tentative de modernisation de Ido, quam, in 1894, il oposit se a un
+amelioration de Esperanto. Su argumentes contra li plurale per -s, por
+exemple, es risibil. 
+
+ 
+
+Forsan li Idistes va opiner que nor judicament es tro sever, ma tis qui
+conosse bon li historie deve conceder que noi es tamen rect. 
+
+ 
+
+QUO VALE LI DECISION DE 1907 ? 
+
+ 
+
+Quande, in 1932, li Idistes festat li 25im anniversarie de lor lingue,
+racontante li orígine \"ciencala\" del lingue del Delegation, yo
+publicat in Cosmoglotta un articul : \"li veritá pri li Delegation\" por
+anunciar li publication de documentes autentic pri ti afere. 
+
+ 
+
+It es regretabil, benque tre homan, que li Idistes colerat contra tal
+publication, in [vice de esser content conosser li veritá pri li orígine
+de lor propri lingue. Lor revúe \"Progreso\" objectet insinuationes plu
+o minu fantasic e on fat comprender me que ti orígine de Ido ne concerne
+me e que mi deventie es rendir strax ti documentes quel yo possede. Car
+amicos in Ido ! Noi ne consenti con vu. Vor attitude es vermen
+íncomprensibil ! ]{style="font-size:13px;"}
+
+ 
+
+In omni vor prospectes de propaganda, vu emfasa que Ido resulta del
+labores [scientific de un Delegation international composit de 310
+societés\... etc., etc. Vu sempre insiste pri li caractere public e
+scientific de ti Delegation quel ha creat
+Ido. ]{style="font-size:13px;"}
+
+ 
+
+Ma quande noi vole metter li nase in ti reunion de scientistes por saver
+quant seriós ha esset li discussiones e decisiones, vu responde con
+indignation : \"To es nor afere privat, to ne concerne vos, e si vu
+publica li archives de nor Delegation, vu fa un \"atako\" [contra noi e
+vu acte solmen pro venjodeziro\" !!]{style="font-size:13px;"}
+
+ 
+
+Plazza manca nos ci por publicar li fidel relationes del historie del
+Delegation, ma [noi intente consacrar un numeró de Cosmoglotta in 1934 a
+ti affere. ]{style="font-size:13px;"}
+
+ 
+
+Til tande, yo deve responder a Sr. prof. Leau (un del fundatores del
+Delegation) [que su exposite in \"Progreso\" ne atinge mi principal
+acusation : ]{style="font-size:13px;"}
+
+ 
+
+Yo repeti que Ido ne ha esset selectet del Delegation, ma resulta de un
+votation del Commission permanent quel esset composit solmen de Sres
+Ostwald, B. de Courtenay, Jespersen, Couturat, Leau e de Beaufront. Li
+du unesimes refusat votar pro que li afere ne semblat les sat clar.
+Jespersen proposit mem un nov lingue Eklekta, ma tamen votat por Ido por
+quel insistet Couturat ; anc li tri altres. Ma 2 del quar votantes,
+Couturat e de Beaufront, esset li autores del lingue ! 
+
+ 
+
+Quo vale un decision fat de 4 votantes, de queles 2 es precismen li
+autores non-suspectet del project anonim in votation ; li 3-im Sr. Leau,
+essent li intim amico [de Couturat ; e li quaresim, Sr. Jespersen hante
+expresset su reprobation quande li ]{style="font-size:13px;"}[anonimatu
+desvelat se quelc mensus plu tard. Ti votation decisiv del quar
+membres ]{style="font-size:13px;"}[del Commission permanent es li nod
+principal del affere. Yo exhorta Sr. Leau justificar it e ne plu parlar
+pri li 310 societés\... etc, del Delegation nam, cose apen credibil, ne
+un sol de ti 310 societés ha usat Ido pos li decision de 1907
+!! ]{style="font-size:13px;"}
+
+ 
+
+Ma li rest es ancor plu interessant ; li tot lúmine va esser fat. 
+
+ 
+
+Quande on studia ti judicament de 1907, on es stupefat del misteriositá
+e del [rapiditá con quel on procedet. Del confession de Sr. de Beaufront
+self, it resulta que on discusset li project de Ido, til tande
+ínconosset, solmen 2 1/2 dies (!!!) Li sistema de derivation, quel esset
+acceptet con ocul cludet, esset creat solmen 2 mensus antey !!! Edgar de
+Wahl perlaborat li sui durant 30 annus ante publicar
+it. ]{style="font-size:13px;"}
+
+ 
+
+It ne es astonant que li Idistes hodie deve constatar que lor sistema
+ultra-logic de derivation ne es conform al vive !   R. Bg.
+
+ 
+
+-28-
+
+ 
+
+ 
+
+ 
+
+SUFIXES POR GEOGRAFIC NOMINES 
+
+ 
+
+In li Ido-revúe \"Progreso  sr. Matejka polemisa contra Occidental in
+divers 
+
+punctus. Ci yo va analisar solmen su critica del suffixes -an e -es por
+inhabitantes de landes e cités. Il di que ne existe fil guidant por
+saver quel suffix usar in li singul casus, que specialmen desfacil to es
+por slaves, queles usa presc sempre li sol suffix -ez (niemez, kitaiez,
+etc.). Quo concerne ti ultim assertion, it ne es rect. Existe altri
+suffixes, p. ex. -in (-anin) : tatarin, bolgarin, slavianin, egiplianin,
+anglitchanin, rimlianin, harcaginia[nin, moldavanin, dalchanin,
+afinianin, rishanin, pari.shanin, severianin, uushanin, etc. , adplu -ak
+; poliak, slovak, prussak, bosniak, sibiriak,
+etc. ]{style="font-size:13px;"}
+
+ 
+
+Ultra to existe un grandissim númer de nómines de popules sin suffix :
+sheed, grek, lalysh, serb, kirgis, lurok, mongol, pers, jevrei, arab,
+malososs, etc., etc. Do anc in slavic lingues li afere ne es tam simplic
+quam sr. M. vole suggester nos. 
+
+ 
+
+On ne deve obliviar que geografic e etnografic nómines es nómines propri
+e de max diferent orígine, do postular ci un absolut regularitá es un
+nonsens. Li altri alternative rigid regularisation ducte a abstrus
+formes, necú usat, e pro to in Occidental ínusabil, quam F rancian,
+Anglian, Japanan, Siaman, Chinan, Polonan, etc. Ma li cose ne es tam
+caotic e desfacil quam sr. M. opine, si on intra in li spíritu del
+lingue. In general landes finient in vocal deriva li inhabitantes per li
+suffix -an : Africa - an, American, [Bolivian, Brasilian, Corean,
+Mexic(o)-an, Peru-an, Uruguauy-an, Venezuel-an, Marocco-an. Landes
+finient in consonant deriva per -es: Holland-es, Irland-es, Japan-es,
+Siam-es, Sudan-es, etc. Ma li eufonic regules postula li evitation de
+egal o simil sones. Pro to pos n on evita li sufix -an, e usa -es, p.
+ex. : Albania --- Albanes, Arragonia ---es, China --- Chines, Polonia
+--- Polones, etc. Pos sibilantes s, j, t, e accentuat é on prefere -an :
+Formosa -an, Bornéo -an, Cambodja -an, Marquésa (s) - an, Tibet -
+an. ]{style="font-size:13px;"}
+
+ 
+
+Por cités e micri locs on prefere -es anc In nómines finient in vocal,
+p. ex. : Genua - Genues, Bologna -es, etc., ma li eufonic regul es
+valent anc ci : Parisan, Tunisan, etc. 
+
+ 
+
+Quelc tre sovent usat exceptiones ne fa desfacilitàs : Francia ---
+Frances, Anglia - [Angles, Roma --- Roman, proque ili es quasi
+internationalmen conosset. ]{style="font-size:13px;"}
+
+ 
+
+Inter -an e -es maste anc un psicologic diferentie. -an significa
+apartenentie, -es inhabitant, logiant. Do yo es Brasiliano, Americano,
+etc. anc si yo logia in Europa, ma yo ne es Genueso si yo logia in
+Bologna. 
+
+ 
+
+Céterimen yo opine que it es tre ínsignificant ca yo di p. ex. : Polon,
+Polonés o Polonian. On va esser sempre comprender. Anc in li vivent
+natural lingues tal variationes existe sin far íncomoditás, p. ex. D.
+Japaner e Japanese, Brasilier, Brasilianer ; R. pers e persianin, est e
+estonez, avstriez --- avstriak ; Holl. franschmann e fransoos : S.
+gallego e galiciano, etc. Do pro quo ne tolerar tal micri variationes ? 
+  E. de Wahl. 
+
+ 
+
+Remarca del redaction. 
+
+ 
+
+A ti response pri li sufixes de inhabitantes, noi deve adjunter to-ci :
+Noi rejecte li criticas de sr. Matcejka pro li bon e suficent motive que
+Ido ne presenta un solution melior (to es un solution plu natural o plu
+regulari quam Occidental !!) 
+
+ 
+
+Sr. M. crede har trovat un defect in li sistema de derivation de
+Occidental pro que it have du derivationes possibil : -és e -an. Noi
+prega le benevoler aperter li grammatica de\... Ido (p. 26) u il va
+constatar que regularmen, Ido deve dir Franciano, Germaniano, Rusiano,
+etc. ma que per \"imito dil uzado internaciona\" secun li explication de
+sr. de Beaufront, Ido \"preferas\" Franca, Germana, Rusa, etc. quel
+constitue un duesim derivation, de quel li sol excusa es que it es
+postulat del internationalità !! Anc li suffixe -és es postulat del
+internationalitá apu -an in Occidental !!! 
+
+ 
+
+Si Ido prende li jure haver du derivationes por li inhabitantes, li bon
+sens postula que li Idistes mey conceder a Occidental adminim li sam
+jure ! 
+
+ 
+
+In realitá it es apen possibil obtener li complet regularitá in li
+dominia special del nómines geografic, nam ta interveni, plu quam ucunc,
+li necessitá del aspect [international por evitar miscomprenses. To es
+tant ver que Ido self devet ta abandonar su sistema rigid de finales e
+adopter un finale adjectivic -ia por li nómines de landes, quande Omni
+altri nómines have li obligatori etiquette -o ! ! 
+ R.Bg.]{style="font-size:13px;"}
+
+ 
+
+-29-
+
+ 
+
+ 
+
+ 
+
+LI PAROLES \"MANN\" E \"APU\" 
+
+ 
+
+Recensente li revúe \"Helvetia\" li organ de Ido \"Progreso\" de oct.
+1933, critica [du paroles de Occ. Li recensor, sr. Jules Gross ne
+comprende pro quo de Wahl adoptet ]{style="font-size:13px;"}[mann in
+vice de vir, \"qua posedas sat granda internacioneso e donas bona derivi
+: viril, virilité en la Franca e same en la l. e
+S\". ]{style="font-size:13px;"}
+
+ 
+
+Ti critica sembla nos vermen curios ! Li interlinguistes del camp
+Esperanto-ldo [sempre reprocha a Occ. esser tro latin, e in un casu
+tipic u li internationalitá permisse a Occ. adopter un radica germanic,
+on trova ancor medie criticar it ! Li parol mann es in sam témpor D.
+Mann, A. man e Sved man. Anc it es conosset in altri lingues per
+expressiones quam : watchman, gentleman, etc. Do, on have ci un casu u
+un parol germanic es bon motivat in un lingue international. Pro quo ne
+profitar ? ]{style="font-size:13px;"}
+
+ 
+
+Li parol latin vir ne existe in un sol lingue vivent, e tamen on vole
+que it remplazza mann, quel es usat sur li tot terre. Li paroles viril e
+virilità es in revancha adoptet in Occ. pro lor total internationalità.
+Pro quo sr. Gross ne consulta li \"Radicarium directiv\" de E. de Wahl
+ante criticar lor absentie in Occ. Alegar li derivation es astonant che
+un Idist nam in Ido it es impossibil derivar virilità de viril, e viril
+de vir, nam li sufixe -itá in Ido ne existe e li sufixe -il
+significa\... li instrument. In Occ. es li derivation vir, vir-il,
+vir-il-ita explicat in li capitul \"Sufixes ínproductiv\" del Complet
+grammatica de Occ., per Janotta. 
+
+ 
+
+Sr. Gross anc astona se que Occ. \"mutilat\" [li latin apud, suppressent
+li ultim líttere \"sen irga motivo\". Per quo sr. Gross save que ne
+existe \"alcun motiv\" ? Omnicos in Occidental es motivat, e bon
+motivat, tam plu que li lingue ne es un Esperanto solmen demí reformat.
+Por li notion de L. apud regretabilmen it ne existe parol international.
+In manca de plu bon, Occidental conserva li parol latin adaptat secun li
+lege fonetic. ]{style="font-size:13px;"}
+
+ 
+
+Quande li linguist Jespersen proposit li viceation del parol sed per ma
+in Ido, il 
+
+emfasat que li d in li fine del paroles es desfacil a pronunciar por
+mult popules, quel pronuncia t (set). Si ti objection esset bon contra
+sed, it es anc bon contra apud ! 
+
+ 
+
+Ad ultra, it es remarcabil que li sol lingue neo-latin quel ha conservat
+li latin apud es italian, quel scri it\... appo. Esque to ne es
+significativ Pro que Sr. Gross abomina il duplic lítteres e que ape (apo
+e apa) es necessi por F. abeille (apicultura) on vide que li
+parol [italian ne es desirabil. Resta do li latin apud modernisat a apu,
+secun li exemple de italian. ]{style="font-size:13px;"}
+
+ 
+
+In fund apud o apus mann o vir ne es un afere capital in un lingue
+international ; 
+
+ili es solmen detailes. Plu important es li conception general. Ma it es
+regretabil que sr. Gross sempre judica e critica Occ. per ti micri
+detailes in vice de considerar su principies, quel sol importa.   R. Bg.
+
+ 
+
+FALS ACCUSATION 
+
+ 
+
+In li ultim \"Progreso\", sr, Gross acusa me que yo permisset me
+publicar ex un 
+
+\"lettre privat\" su testimonie : \"Nia litero k nauzeigas e nauzergos
+milioni di posibla adepti. Ol esas por me tormentilo\". 
+
+ 
+
+Li rancune de sr. Gross contra Occidental es tal que hodie il nega omni
+su testimonies in favore de it o qualifica les solmen quam \"privat\".
+To es un curios tactica quel ha esset usat ja del Esperantistes contra
+li reforma in 1907 ! Tamen, concernent k, nor confratre acusa me falsmen
+; su testimonie ne es traet de un lettre \"privat\" ma de un raport quel
+il inviat al secretario del Romanda Ido-Societo in 1928 por esser
+comunicat [al Idistes. Noi nota que sr. Gross posse haver du opiniones
+contrari pri k : Un privat quel postula su suppression e un public quel
+postula su conservation. On questiona se con angustie a quel specie
+appartene su altri opiniones ! ]{style="font-size:13px;"}
+
+ 
+
+DECLARATION 
+
+ 
+
+On questionat me, esque yo \"trahit\" Ido. Yo responde : 
+
+ 
+
+Si yo solue un equation per un altri methode quam li usual yo ne
+\"trahi\" li algebra. 
+
+ 
+
+On posse trahir un hom, li patria, un political partise e simil, ma li
+teorema de Pithagoras o li lege de Gay-Lussac ne es trahibil. Lingue ne
+es \"sankta afero\" : esque ne per lingue on menti e calumnia ? Quelc
+\"kara amiki\" save dir alquo pri to. 
+
+A. Kofman (Odessa). 
+
+ 
+
+-30- 
+
+ 
+
+ 
+
+ASSEDIAT DE UN RINÓCERO 
+
+ 
+
+Un annu, racontat Lord Momby, yo esset in li arbustia con un amico, in
+Rhodesia, e yo afirma vos que yo ne plu senti li intention retornar ta.
+Li memorantie quel yo conserva de ti region pro mi aventura ne impedi
+que to es un bell land. In ti parte de Africa pulula li savagi vive. To
+es li paradise de chasseros benque quelc animales es ta severmen
+protectet. 
+
+ 
+
+Ma vi mi aventura. 
+
+ 
+
+Pensa vu, dit Lord Momby, pensa vu que existe sur li terre un ente plu
+idiot, plu [ínutil quam li rinócero ? Si it esset me possibil questionar
+Noe pro quo il imbarcat ti animale sur su batelle, li discussion vell
+esser stormosi. ]{style="font-size:13px;"}
+
+ 
+
+Noi esset errant in li valley de Luangwa, u ti brutes abunda. 
+
+ 
+
+Mi amico Goldwin hat descovrit un grand nigri rinócero e noi esset
+aproximant nos a it, il de un latere, e yo del altri. Noi hat convenit
+tirar ambi in sam témpore, ye un signale. Yo esset ye 100 metres del
+bestie quande it comensat moer li cap con ínpatientie. Goldwin fat li
+signal e noi [fusilat.]{style="font-size:13px;"}
+
+ 
+
+Li rinócero, quel esset vulnerat solmen un poc, precipitat se sur mi
+amico quel, perdient omni sangue-frigore, fugit. Currente, il chocat se
+contra un radica e, credente que omnicos esset finit, il atendet li mort
+con resignation. 
+
+ 
+
+Esque li bestie ne videt le pro li arbustes detra queles il esset celat
+?\... [Vu save que li rinócero have tre
+mal ]{style="font-size:13px;"}[ocules. Preferetmen, yo crede que li
+duesim balle quel yo tirat atiget le, ]{style="font-size:13px;"}[nam,
+haltante bruscmen, li brute tornat su furore contra
+me. ]{style="font-size:13px;"}
+
+ 
+
+Yo volet tirar un triesim vez. Maledition\... Mi fusil ne plu
+functionat. [Ante que yo hat comprendet quo evenit, li rinócero esset
+detra mi talones. Yo curret ye quinant passus avan il quam nequande yo
+ha fat til tande in mi tot vive. ]{style="font-size:13px;"}
+
+ 
+
+Felicimen esset ta quelc árbores. 
+
+ 
+
+Yo comensat tornar in li sam plazza. Li rinócero ne have li necessi
+agilitá por far brusc detornes. Yo intentet profitar de mi avantage por
+verificar mi arm, ad-epolar rapidmen e tirar, ma mi fusil acrocat se in
+un branche e cadet. 
+
+ 
+
+Yo esset caputt. 
+
+ 
+
+Barbotante in un morasse, exhaustet, yo successat capter un gross
+branche e, elevat me per un sol colp sur li árbor. Quelc secondes plu
+tard, yo vell har esser eventrat. 
+
+ 
+
+Li nocte invadet li planage e li lune ascendet in li ciel. Stante
+ínmobil, simil a ti bronzin statues quel on vide in li zoologic
+jardines, mi ínamic atendet con patientie li occasion eventrar me per su
+corne. Yo ne posset comprender pro quo Goldwin ne arivat sucurser me. 
+
+ 
+
+Tande yo serchat li medie surtir me tot sol de ti situation. Yo
+possedet, quam arm, solmen mi cultel de chasse, ma por utilisar it, it
+esset necessi descender e to esset tro riscant. 
+
+ 
+
+-31-
+
+ 
+
+Circa mi-nocte, un idé venit me. Con mi cintura e li strap de mi
+lorniette, yo fixat solidmen li cultelle apert a mi dextri sapate,
+talmen que li lame constituet un vertical sporn ; poy excitant li
+rinócero por aducter le exactimen sub yo, yo lansat a it un [colp de
+pede de quel yo revendica li paternitá. ]{style="font-size:13px;"}
+
+ 
+
+Li bestie rugit horribilmen, sucussente su gross cap sanguant. Yo hat
+crevat un de [su malin micri ocules. To esset un bon debut, ma
+ínsuficent. Felicimen, in su furore, it tentat succusser mi perchuore e,
+profitant ti assaltes, yo successat lansar contra le ancor quar o quin
+colpes. Chascun vez, yo verificat li soliditá de mi arm. Yo finalmen
+atinget li secund ocul e li aurora marcat por mi adversario li comensa
+de su nocte. Tande, it elontanat se gemiente e yo regardat le errar e
+chocar se contra li árbores, con un ]{style="font-size:13px;"}[plesur,
+un plesur\... ]{style="font-size:13px;"}
+
+ 
+
+Deci minutes plu tard, yo retrovat Goldwin in li arbustia. Li povri ne
+hat posset [venir sucurser me pro que il havet un torsura in li ped quel
+impedit le completmen moer. Yo auxiliat le retornar al
+camp. ]{style="font-size:13px;"}
+
+ 
+
+To esset mi ultim expedition, concludet Lord Momby. It ha desgustat me
+por sempre chassar li grand brutes. 
+
+ 
+
+MITTEILUNGEN DES HOERBIGER-INSTITUTS 
+
+ 
+
+Gebilderte Zweimonatsschrift mit Beiträgen zur Physik des Kosmos und der
+Erde, zur Geologie und zur Meteorologie auf Grund der Welteislehre von
+Hans Hoerbiger. 
+
+ 
+
+Schriftleilung : Mg. E. Pigal. 
+
+ 
+
+Omni original articules have detalliat resumates in lingue Occidental. 
+
+ 
+
+Bezugspreise einschliesslich Vcrsandkosten : 
+
+6 aufeinanderfolgende Hefte : öS 15.--- RM 7.50 SF r. 9.20. 
+
+3 aufeinanderfolgende Hefte : öS 8.--- RM 4.--- SF r. 5.--- 
+
+ 
+
+1 Probeheft (Heft 1 mit einer vollständigen, allgemein verständlichen
+Einführung in die Welteislehre mit Berücksichtigung der neuen
+Forschungsergebnisse : öS 3.--- RM 
+
+1.50 sFr. 1.90. 
+
+ 
+
+Bezugszahlungen auf die Postscheckkontos der \"Gesellschaft
+Hoerbiger-Institut, [Wien\" : Wien 195.386 und Berlin
+1223.52. ]{style="font-size:13px;"}
+
+ 
+
+Gesellschaft Hoerbiger- Institut, Wien XI, Ehamgasse 40. 
+
+ 
+
+Li Cronica de januar, pro marca de plazza, es retardat til li proxim
+numeró. 
+
+ 
+
+Li abonnates austrian, pro que ili ne posse inviar moné ad extrania, es
+pregat [payar lor abonnament al Centrale de Occ. (adresse sur li 3im
+págine del covriment). ]{style="font-size:13px;"}
+
+ 
+
+Li precie por un annu (simplic abonnament) es öS. 6.20. 
+
+ 
+
+Sr. E. de Wahl prega su corespondentes adressar lor lettres a Tallinn
+(Eha, 10), [nam li ancian nómin Reval neplu es admisset del posta
+estonian. Solmen li lettres con li nov nómin es distribuet al
+destinatarios.]{style="font-size:13px;"}
+
+ 
+
+Discos de gramofon, con textus in Occ. prendet in Cosmoglotta, es nu in
+vende che 
+
+li administration de Chapelle : 
+
+ 
+
+1 disco de 2 minutes sur chascun facie S. fr. 
+
+ 
+
+1 disco de 3 minutes sur chascun facie : S. fr. 8.--- 
+
+ 
+
+Crestomatie 
+
+ 
+
+Li demanda de litteratura in Occ. deveni sempre plu grand. Ja pluri
+ovres es completmen exhaustet. Ultra li micri crestomatie quel Sr. Kais
+de Tchecoslovakia publica nu, noi besona un libre ilustrat de bell
+litteratura. Un de nor letores anglés oferta avansar li moné por ti
+publication quel va esser interprendet in Tallinn sub li direction [del
+autor de Occ. Noi invita nor colaboratores de omni landes colecter maxim
+interessant historiettes, anecdotes, etc. Noi have ja un decene(?) de
+poemas de E. de Wahl, Creux e Kofman. Ples inviar li manuscrites al
+redaction de Cosmoglotta ante li 1-im marte. Pos un selection, li
+articules va esser ilustrat de un professional artist e li printation va
+strax comensar. ]{style="font-size:13px;"}
+
+ 
+
+-32-
+
+ 
+:::

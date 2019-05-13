@@ -1,0 +1,1536 @@
+Cosmoglotta B 011 (jun 1937)
+============================
+
+\
+
+::: {#displaycontent}
+COSMOGLOTTA
+
+ 
+
+Serie B, poligrafat - \"INFORMATIONES\" - Junio 1937 - Nró 3 (11)
+
+ 
+
+Index del contenete ples vider ultim págin
+
+ 
+
+Un international terminologic code
+
+ 
+
+Li esperantistic gazette \"Informoj de Esperanto-Asocio de Estonia\"
+april-may contene un recension signat \"Rs\" pri un libre del conosset
+esp-ist E. Dresen: \"Pri li problema del scientic-tecnic terminologie\".
+Secun li recension, li libre parla pri li necessitá del normalisation e
+da exemples pri li numeric enormitá del términos. In comensa del secul,
+german ingenieros ha colectet 3.600.000 términos; utilisar ti materiale
+fixante it in un lexico vell har durat 40 annus. Li hodial chimie besona
+ca. 280.000, li electro-tecnica 40.000 términos. Li critico mentiona que
+Dresen \"in fine constata que li labores pri un \"international unitá
+terminologic\" trova se in un statu sin surtida. E \*il proposi crear un
+code terminologic\*, in quel mey esser fixat scritiv e sonant simboles
+por \*omni\* (quant milliones?) scientic tecnic idés. It sembla que
+secun su opinion li code in alcun maniere deve remplazzar li usation de
+Esperanto - do li reva de omni pasigrafos pri intercomunication del
+popules sin conossentie de lingues national e sin usar Esperanto. Ma
+Dresen anc self senti li absurditá de ti idé. In li epilog il excusa se
+córam li esperantistic publica. \*Il anc di que li esp-istes mey
+continuar lor rect via malgré li fiasco del terminologic code\*. To li
+esp-istes anc va far, plen consciosi pri li possibilitás, queles
+Esperanto cela in se anc por li international terminologie
+scientic-tecnic.\"
+
+ 
+
+Talmen scri li critico \"Rs\". Li ultim frases, e specialmen tis queles
+noi sublineat intermittent, es ínclar e desfacil a comprender.
+\"Esperanto\", li oficial organ de UEA contenet in may 1935 un grand
+articul \"Pri li problema del internationalisation del scientic-tecnic
+terminologie\" de Dresen, in quel il previdet li predestinat victorie de
+Esperanto. Hodie il parla pri un fiasco del code, malgré quel li
+esperantistes deve continuar li via. Ma quo significa to? Li melodie del
+recension ne es scrit in li sam ton del usual \"venko-\" e
+\"sukcesoj\"-himnes. Esque li fiasco aludet e celat es forsan un fiasco
+de Esperanto?
+
+ 
+
+It sembla, que existe persones, queles ha expectat de un tal code un
+specie de solution o decision del problema del Lingue International, e
+que Dresen explica les que to es un erra. Esque noi bon divina su idé?
+Si it es to, ti opinion sembla nos profundmen justificat. Un lingue e un
+code es du coses tre diferent, benque
+
+ 
+
+-41-
+
+ 
+
+ 
+
+ili posse haver multcos comun e benque sin dúbit mult considerationes
+queles vale por un, deve esser egardat anc in li altri. Ma un diferentie
+es essential: on posse constructer mult codes sur bases de lingues, ma
+it vell esser absurd formar o mutar lingues, mem artificial, secun
+besones e necessitá de un code. Lingues, mem artificial, have
+ínnegabilmen lor propri vitalitá, lor propri vive. Li vive de un lingue
+constructet posse esser paralel a ti del lingues national o it posse ear
+capriciosi e particulari vias, ma in omni casu it deve ear su propri
+via, haver su vive autonom. Li parol \"autonomie\" posse esser
+misinterpretat. Autonomie de un lingue international ne significa, que
+it deve sequer customes contrari al natural lingues. \*Anc un
+naturalistic lingue quam Occidental posse e deve esser autonom\*.
+Autonomie de un state ne significa necessimen, que it exclude se del
+comunité del altri nationes. Un state posse gardar su plen autonomie e
+tamen colaborar in harmonie e paralelitá con altri states. Lu sam vale
+por li lingues. Li base de Esperanto es plu artificial, li base de
+Occidental es natural, ma li autonomie es sam in ambi lingues. Mult
+autores ha conglomerat lingues international ex elementes natural; li
+merita de Occidental es que su formes autonom es paralel al formes
+natural. Do li oposition del términos \"naturalistic\" e
+\"autonomistic\" quam contraste ne es logic; it evidentmen ha nascet ex
+li desir evitar li parol \"artificial\".
+
+ 
+
+Un code, por esser util, deve esser stabil e ínchangeabil; un lingue,
+por viver, deve esser elastic e capabil a evolution. Codificar es
+petrificar. Li lingue deve continuar su via vivent. In quel maniere un
+grandiosi sistema posse petrificar e eternisar relationes, queles in
+realitá de long ha changeat, on vide in li decimal classification del
+bibliotecario Dewey: ancor hodie it classifica li índependent states del
+bassin del Danubio in sam maniere quam antey li coherent provincias del
+imperia austrian hungarian, benque li vive interim ha changeat ti statu
+per manu ferrin, por li joya del unes, por li tristess del altres. Ti
+exemple ex un dominia afin doce, que on ne posse ligar lingues a codes,
+ne lassar obligant decision pri li fate de un lingue a constructores de
+un code. Li lingue oferta, it dona al code, it monstra al code li bon
+via. Li code va acompaniar li lingue un pezze del via, til que it ariva
+in li loc quel es bon por it. Ta it va fixar se. Ma li lingue va dever
+continuar su via, elasticmen, sin mort ballast, adaptabil al ínprevidet
+tornes queles atende it.   I.F.
+
+\-\-\-\--
+
+ 
+
+Cent per cent vitalitá
+
+ 
+
+Vu trova in li Occidental-Bulletin de Praha. It es redactet completmen
+in Occidental e apari chascun mensu except julí e august, ye li 15. die,
+do precismen alternante con Cosmoglotta A e B. Annual abonnament SF 1.20
+o 4 respons-cupones. Red. - Adm. Skroupova 2, Praha VII
+
+ 
+
+-42-
+
+ 
+
+ 
+
+ 
+
+OCCIDENTAL-UNION
+
+ 
+
+===== Li membre-cartes del Union va esser dismisset in fine de junio a
+omni membres queles ha payat lor contribution por 1937 e queles ha
+inviat li yelb carte de adhesion plenat e signat al Central Oficie in
+Chapelle. - Atention! Nov adherentes al Union mey explicitmen indicar
+esque ili desira adherer e payar por 1937 januar-decembre, o esque ili
+vol adherer desde li mensu current durant lor adhesion til li témpor
+corespondent in 1938.   F.L.
+
+\-\-\-\--
+
+ 
+
+INSIGNE
+
+ 
+
+Li insigne del Occidental-movement (Tilde-in-Circul) es pret. It es fat
+in massiv metalle argentin, diametre exteriori del circul 12,5 mm,
+montet quam spingle de cravatte. Un exemplare custa afrancat SFr. 1.50.
+Liverabil desde medie de junio. Ples adressar comendas al Institute
+Occidental, Chapelle (Vaud)
+
+\-\-\-\--
+
+ 
+
+Li Vocabularium Occidental-Anglés ha aparit. It contene ca. 1500 max
+frequent paroles de Occidental con traduction anglés, in plu un articul
+sinoptic pri li paralelitás inter Occidental e Anglés. 16 págines con
+covriment, precie SFr. -.60; 6 d anglés; 15 cts. USA afrancat. Un cedul
+de comenda es juntet al present numeró de Cosmoglotta B.
+
+\-\-\-\--
+
+ 
+
+Li unesim liveration del grand Lexico Occidental-Occidental de Ilmari
+Federn va aparir in fine de junio. Til fine de 1937 vale li precie de
+subscrition, Fr. 5.50 sviss afrancat. Desde 1938 li definitiv precie va
+esser SFr. 6.50. Comendas es acceptet ja nu de Institute Occidental,
+Chapelle (Vaud) Svissia. - In li sam témpor o poc poy va anc aparir li
+unesim liveration del ovre \"Spíritu de Occidental\", contenent li
+articules de sr de Wahl aparit in ancian Kosmoglott. Li precie ancor ne
+es fixat. Cosmoglotta A de julí 1937 va contener detallies pri it.
+
+\-\-\-\--
+
+ 
+
+A.P.I.S.
+
+ 
+
+Li Adressarium de A.P.I.S. por 1937 ha aparit. Ples vider li detalliat
+anuncie sur p. 54. Ples notar li sequent nov adresses:
+
+ 
+
+FRANCIA   Flers de l\'Orne
+
+75\. Sr Depin, René / Banque de France / Cassero (1892) F.Ho.Ido.Esp. -
+O.F.Ho.Ido.Esp: exch. pm.
+
+ 
+
+ITALIA  Bari
+
+ 
+
+215\. Sr Ten. Lib. Amodio, Stefano / Via Quintino Sella 158 /
+Stud.rer.oec. (1914) I.F.G. - O.F.G.: exch. revúes. Cor solmen secun
+propri iniciative.
+
+ 
+
+212\. Sr Ten. Lib. Mascanzoni, Franceso / Via Calefati 27 / Cand.rer.oec
+(1912) I.Alb.A.F.G.H.Esp. - O.I.Alb.A.F.G.H.Esp.: 49, tem gen; exch ill
+pc revúes
+
+\-\-\--
+
+ 
+
+Por litt payamentes international, ples usar li Bons del Institute
+Occidental!
+
+ 
+
+-43-
+
+ 
+
+ 
+
+ 
+
+Firenze
+
+ 
+
+214\. Sr Del Conte, Giuseppe / Via del Chirlandaio 56 / Ferroviero (1882)
+I.F.A.Esp. - O.I.F.: 10.13.22.80.85. cor solmen secun propri iniciative.
+
+ 
+
+Pordenone (Udine)
+
+ 
+
+213\. Sr Pavese, Ugo / Segretario/Capo Nuove Costr. Ferrov. (1896)
+I.F.H.P. - O: exch pm. cor solmen secun propri iniciative.
+
+ 
+
+U.S.A.    Columbus (Ohio)
+
+ 
+
+211\. Li Societé por corespondentie international / North Hi School /
+Studiantos (fundat 1935) A.H.F.Esp.Ido.Romanal.Novial.Interlingua - 0. e
+quelcunc altri lingues. Cor pri quelcunc coses queles interessa
+studiantos de 1f6 annus.
+
+ 
+
+Ples supresser li adresses sequent:
+
+Hispania: Barcelona: nrós 94 e 99; - Svissia: Meiringen: nró 107.
+
+\-\-\-\--
+
+ 
+
+PEUS+
+
+ 
+
+Peus ha morit. Certmen li majorité de nor coidealistes ha conosset le.
+Durant long témpor, ja desde 1910, yo havet bon e amical relationes con
+il - ili cessat alor mi transition a Occidental in 1926, benque anc
+extra li dominia del L.I. noi havet mult comun tendenties. Peus, nascet
+in Elberfeld 1862, devenit teologo, plu tard politico e redactor. Su
+exterior aparition esset tre impressionant, e per su potent e
+bell-sonant voce il posset plenar li max grand salones. Il fat mult
+viages e usat omni ocasion por propagar Ido. Ma quam ferventissim
+propagator il havet presc null interesse por li grand linguistic
+problemas, e con Noetzli e altri old Idistes il abhorret omni progressiv
+tendenties e refusat strictmen ocupar se pri Occidental. - Considerante
+li present statu de Ido, on trova que justmen li yun adherentes de Ido
+comensa transir a Occidental; li oldes mori\... Lege del vive, lege del
+evolution! - Li old pioneros del mundlingue mori; ma li mundlingue self
+adapta se al leges del vive; it va viver e crescer! - Apostata
+
+\-\-\-\--
+
+ 
+
+On scri nos\...
+
+ 
+
+J. Katzenberger, St. Louis, USA: Li nov Cgl., serie B plese me mult, e
+anc quo yo nu recive Cgl mensualmen. Gratulationes por ti important
+passu adavan. Cgl es sempre interessant e informativ; it informa nos ne
+solmen pri omnicos in li camp de Occ, ma anc pri li altri projectes de
+L.I. Vor politica de cooperation e colaboration con Novial plese me
+mult. Yo pensa, que it va demonstrar se quam tre beneficiosi por omni
+concernetes. Yo desira vos continuat success!
+
+ 
+
+Vilém Veverka, redactor e scritor, Praha: Ante annus yo esset Espist e
+Idist. Recentmen yo havet ocasion constatar, que Occ súpera li mentionat
+sistema in omni su qualitás quam li lingue vermen international,
+comprensibil e parlabil por omni Europanes. E. Mayor: Mersí al marvelosi
+activitá in Chapelle.
+
+ 
+
+-44-
+
+ 
+
+ 
+
+Ilmari Federn: Alphonse Matejka
+
+ 
+
+Ti eminent Idist, quel just ha definitivmen transit a Occidental, deve
+esser regardat, quam on regarda un activ politico, avan li dinamic funde
+de su partí, continui, penosimen opresset schismatic luctas inter li
+divers ales e nuancies.
+
+ 
+
+In 1928, acri polemicas inter reformistes e conservatores dat acut
+expression al cronic schisma in Ido. Ahlberg in Stockholm, li
+reformistic redactor de \"Mondo\" e secretario del \"Uniono por la
+Linguo Internaciona\", fat li unesim passus secessionistic, queles plu
+tard vat ducter le a Novial; e Noetzli in Zürich, li conservativ
+redactor de \"Ido\", creat li contra-union \"Uniono Idista\".
+
+ 
+
+Tande aparit sur li scene li triumviratu de Paris: Mauney, Matejka,
+Papillon, queles, sub continui ataccas del extremistes de ambi láteres,
+successat reconciliar li elementes moderat, reorganisar li form ancian
+del \"Uniono por la Linguo Internaciona\" e refundar li ancian revúe
+\"Progreso\" quel hat cessat aparir in li guerre mundal. Matejka devenit
+secretario del union e chef-redactor del revúe. Til tande conosset
+solmen al strett circul de amicos, il subitmen havet in manus li du max
+responsabil functiones del Ido-movement. Il ne deceptet li confidentie
+posit in le: durant su function il ha fat un enorm labor administrativ,
+publicat excellent belletristic traductiones e multissim contributiones
+linguistic. \"Progreso\" refundat es plen de su labor; it vell esser van
+pena citar ci. In ultra il havet ampli corespondenties plen de san rason
+e diplomatic conciliantie.
+
+ 
+
+Occidental hat aparit sur li camp e disputat con success a Ido li
+championatu de lingual perfection. Un númere de progressistic Idistes
+hat transit bentost. Li conservatores preferet in comensa tacer e luder
+li struce. In fine to ne suficet e ili provat exorciser li diábol. Lor
+maniere de polemica es conosset al letores de \"Cosmoglotta\", e anc li
+nociv resultates de tal polemica por li reputation del Ido-movement e li
+númere de su adherentes.
+
+ 
+
+Presc unic Matejka defendet li lingue, a quel il servit, per li
+brilliant espade del cavaliero. Sub li bellsonant pseudonim \"Franko
+Veramido\" (quel posse interpretar se circa: \"ti quel ama francmen dir
+li veritá\") e sub su propri nómine il publicat seriosi criticas pri
+Occidental, queles dat dur labor al plumes respondent.
+
+ 
+
+Si li ortodox Idistes credet trovar in Matejka un confederat, ili ha
+miscomprendet ti polemicas. Matejka nequande esset un fanatico del
+ideologie, ni nequande efortiat defender coses índefensibil. Just to dat
+fortie a su argumentes; e su criticas ne esset directet tam contra li
+principies e li form del lingue Occidental, quam contra exagerat formes
+de propaganda - e pri ti punctu probabilmen ni un sol propagandist es
+pur de peccas. Matejka ne oposit a Occidental li Ido in su form present,
+ma ti lingue quel on vell, secun su opinion, posser far
+
+ 
+
+-45-
+
+ 
+
+ 
+
+ex Ido. E to es un lingue, quam li fideles del classic Ido vole per omni
+medies impedir intrar in existentie.
+
+ 
+
+Pri ti \"lingue quel on vell posser far ex Ido\" il havet plu minu
+definit conceptiones. Nam poc a poc, malgré su rol quam conciliator
+mediant inter li partises, il inclinat al partise progressiv. Ne a ti
+savagi e utopic reformardes queles permisset al ortodoxes ornar se per
+li glorie esser defensores del classic Ido. Ma in private, s-u cordie
+apartenet a ti progressistic gruppe quel per moderat e reflectet
+reformes tendet a aproximar Ido a Occidental e Novial. Su ultim
+linguistic contributiones in \"Progreso\" clarmen monstra to.
+
+ 
+
+Ti gruppe provat realisar su desires. Li secretario del Academie
+redactet radical administrativ preparationes por executer per fortie li
+linguistic reformes queles il considerat necessi, e Matejka publicat les
+in \"Prograso\". To reinflammat li schisma ardent sub cindre. Un
+oposition cristallisat se in quel yo bona fide ludet un rol quel yo
+hodie regreta. Li schisma ne devenit publicmen conosset extra li
+\"Idistaro\", e it ne es mi tache dar detallies pri un idistic afere
+intern e finit. Noi, li oposition, havet rason de formal vis-punctus;
+tro tard yo comprendet que Matejka e li altres havet rason in li fines
+ideal e esset plu sagaci e prevident quam mi consiliatores. Li afere
+finit per un transaction e plebiscite, e li oposition obtenet abolition
+del administrativ reformes combattet e introduction de altri
+administrativ reformes desirat de it self. Li factes es leibil in
+\"Progreso\" 1932/33. Ma, pro formalitá,s Ido perdit li chance reobtener
+un bon plazzament in li combatte pri perfection lingual.
+
+ 
+
+Matejka obliviat li conflictes e devenit un comprensiv e fidel amico al
+ex-opositor. Supercharge per labor debilisat su sanitá, maladie fortiat
+le renunciar a su functiones. Li electiones del \"U.L.I.\" in 1934 posit
+representantes del classic Ido in li plazzas vacant.
+
+ 
+
+Matejka nequande esset un \"reyent\", ma, quam omni ver mundlinguist, un
+\"servitor\" de su idé e movement. Il ha servit fidelmen, fidel in li
+nobil sense del parol, nam su fidelitá ne consistet in steril adoration
+de dogmas o libres, ma in abnegant execution del responsabil labor por
+un movement, ancor quande su inteligentie e experientie ja hat
+comprendet que li actual ideologie de ti movement esset un scolastic
+utopie. In fine il videt, que li idealic lingue, esperat, trans li real
+labor omnidial, in li fine del aspirat linguistic evolution de Ido, es
+sub li present conservativ regime de Ido plu lontan quam jamá.
+Interlinguistic studies hat dat le un fundat conossentie de Occidental,
+quel modificat poc a poc su opiniones. In corespondenties con
+Occidentalistes il monstrat un astonant elegantie in practic aplication
+de Occidental.
+
+ 
+
+Noi saluta in nor ranges li ínfatigabil laborator por li idé, li honest
+e brilliant polemic sportmann, quel, pos har se battet por li colores de
+su club con fortie, elegantie, e fairness, prende li manu del
+ex-adversario quam amico.
+
+ 
+
+-46-
+
+ 
+
+ 
+
+Al la Esperantistaro (continuation de pág. 37)
+
+ 
+
+\... In omni confidentie on lassat le / li nov presidente / functionar,
+til que su ínacceptibil metode de reyentie obligat nos al proteste.
+
+ 
+
+Quelc membres in Genève, subtenet per plu quam 50 signaturas colectet in
+Svissia, protestat:
+
+ 
+
+\(a) li 4. april, CONTRA UN DECISION DEL COMITÉ, TRANSLOCAR LI OFICIE E
+IN CONSEQUENTIE LI DOMICILIE DE UEA A LONDON POR QUE SR GOLDSMITH MEY
+POSSER DEVENIR DIRECTOR.
+
+ 
+
+\(b) li 10. julí, CONTRA VOTATION DEL DELEGATES, FAT SIN CUIDA E TAM
+RAPIDMEN, QUE AL NONCONSENTIENT MEMBRES MANCAT POSSIBILITÁ CLARAR LOR
+MANIERE DE VIDER AL VOTANT DELEGATES.
+
+ 
+
+In sam témpor on protestat contra li nov statut-paragrafe, li textu del
+frase proposit essente juristicmen sin sense in relation al sequent
+frase del sam articul (ples vider li sequent págine).
+
+ 
+
+Li jure plendir have omni activ membre de UEA, quel opine que alcun
+decisiones es contra li lege o li statute. E noi eat al competent
+Tribunal, conossente li intention del Direction, strax transportar li
+oficie.
+
+ 
+
+It do actet se precipue pri li problema, esque un change del domicilie e
+juristic statu de UEA es oportun o ne. Li question noi ne va tractar ci,
+it sufice far atenter, que li cardinal motive por li transporte, a
+saver: li tro alt precies in Svissia plu ne vale ho-témpor, pro li
+devaluation / malpliigxo / del sviss valuta.
+
+ 
+
+Ne li problema, pri quel on vell posser discusser tot amicalmen, noi
+submisset al Tribunale; ma noi fat protecter li jures del membres de UEA
+contra li dictatoric procedes de su Presidente.
+
+ 
+
+\(A) In un circulare del 25. febr. 1936 li presidente informa li membres
+del comité: \"Secun nor statut li domicilie de nor Association deve
+restar in Svissia. Ti argument es minu fort quam it sembla ye unesim
+vide; e secun li opinion de divers competentes noi posse translocar sin
+risca.\"
+
+ 
+
+Li Presidente do ne opinet util dir clarmen al membres del comité que li
+domicilie es fixat in li statut e que in consequentie es necessi un
+change del statute. - Sin ulteriori remarca del Presidente, esset
+adjuntet al circulare un \"Memorandum pri li duction del Movement\",
+febr. 1936, de srs Malogren (Stockholm), Petit (Paris) e Goldsmith
+(London). Ta on lee: \"Do, noi proposi translocar li Centre de Genève.
+Noi save, que secun li lege li domicilie del Association deve restar in
+Svissia, ma it sembla a nos, que to es facilmen arangeabil. Li domicilie
+noi va translocar in in sviss bank, u noi va lassar un litt summa, e
+omnicos va esser in órdine.\" - Li astutes! (\"La ruzuloj!\")
+
+ 
+
+Quam usualmen, sr Bastian pretextet grand urgentie por su circulares, e
+fixat, por decision pri un important plan de organisation, pri eventual
+translocation,
+
+ 
+
+-47-
+
+ 
+
+ 
+
+election de un Director, un termin de 17 dies. - Pos reciver li
+consentiment del in pluparte intimidat membres del comité, sin dar
+nullmen atention al advertiment del sviss membre del comité quel
+postulat li necessi change del statute, li Presidente ordona li
+translocation del oficie. In plu il, o li Direction / \"Estraro\" /,
+tranquilmen fordonat li valorosi biblioteca de UEA al austrian
+biblioteca national.
+
+ 
+
+\(B) Pos que li aparition del oficiario del tribunale in li oficie de UEA
+fat comprender al Presidente que existe jures constitutional, il retrova
+li via del vertú e arangea un votation del Delegates. un change del
+statute vell dever unesimmen esser deliberat e votat del comité, e poy
+submisset al Delegates. \... Cert es, que li Director recivet ordon far
+li votation max rapidmen, e mem expedir un porte del vota-cedules per
+avion. Li surprisat membres del comité, queles vell har devet decider
+antey pri li precis textu, ne savet plu mult pri li afere quam to, quo
+li Presidente self benevolet comunicar in \"ESPERANTO\" de marte. Noi ne
+reveni al intentionat ínpossibilisation responder al informationes del
+presidente, ni al mult mancas formal del procede. - Ma ci mey esser
+comunicat li complet textu del nov statut articul. Ma ti \"detallie\" li
+President ya hat obliviat dir clarmen al votatores: \... /Rem: li nov
+formes es interspaciat, li ancianes seque in parenteses. Red. Cgl./
+
+ 
+
+Nov articul. \"Li domicilie de UEA trova se che su Central Oficie, in
+London, Anglia (Genève, Svissia)\... Li Comité have li jure translocar
+li oficie in un altri loc anglés (sviss). \*UEA declara esser un
+association con scope ideal, ye durantie ínlimitat, in li sense del art.
+60 del sviss code civil. In consequentie it jui li jures de un juristic
+person\*. Por certificar ti jures, li Comité posse secun beson far
+inscrir li Association in intrania e extrania in li statal registres por
+societés.\"
+
+ 
+
+In li nov statut-articul on do declara que li domicilie es in London e
+tranquilmen continua dir, que UEA vole juir jures secun li sviss code.
+
+Ti nonsens (\"malspiritajxo\") ne solmen desvalorisa li concernet
+articul, ma fa ínseriosi li tot statut. Esque vermen li Geneveses es
+formalistes, pedantes o ínamicos de UEA, si ili refusa un tal duction
+del aferes?
+
+ 
+
+\(C) Quo evenit in li Congresse in Vienna, august 1936, noi save solmen
+ex quelc documentes recivet\...
+
+ 
+
+Li cardinal problema, li translocation a London, esset, quam antey,
+motivat per li mal statu financial del Association. Pro manca de seriosi
+ciffres publicat noi ne conosse it. \...quande li Association transit al
+nov Direction (1934), it ne esset rich, ma\... li afere esset\... quam
+li anteyan Comité hat comunicat al membres: \"Ne brilliant, ma nullmen
+sin esperantie.\" (\"ne brila, nenial malespera\")
+
+ 
+
+\... It posse esser que li present mal statu financial proveni just ex
+manca de idés e ex li admission de membres con presc plen jures por SFr.
+-.50. Ti decision
+
+ 
+
+-48-
+
+ 
+
+ 
+
+de Köln ne esset nov, ma ja hat esset deliberat in li comité 1912 e 13,
+e tande hat esset abandonat quam dangerosi.
+
+ 
+
+Li strangi decision del Comité in Vienna \"resignar por evitar un
+catastrofe timet bentost, e fundar un nov Association\", esset prendet
+de 9 o 10 membres. It resta ínclar, ca\...Goldsmith, deve esser calculat
+inter les o ne. Inter ti deci sedet suposibilmen li tri astutes\... -
+Per su circulare del 18. sept. Presidente Bastien comunica al munde li
+decision de ti 10 persones quam \"decision del comité\". Li presidente
+do ne save o ne vole saver, que \"decisiones ye queles partiprende minu
+quam 3/5 del Comité, vale provisorimen, e deve poy esser submisset a nov
+votation.\" \...
+
+ 
+
+Noi constata: (1) Del 31 membres del comité (secun \"jarlibro\" 1936)
+sin contar li germanes, in Vienna conferet e votat 9-10 persones. Mem si
+on calcula solmen 30, li 3/5 vell esser 18.
+
+ 
+
+\(2) Pos li congresse in Vienna null votation del Comité.
+
+ 
+
+\(3) It seque: President Bastien ne demandat li consentiment del céteri
+membres del comité queles ne posset partiprender al congresse. Li
+decision de Vienna do es solmen provisori. Li fiction / \"sxajnigo\" /
+de un definitivmen valid decision in li circulare, e li
+ínpossibilisation al oficie continuar functionar, es grav actiones
+contra li Association, por queles lor autor es responsabil.
+
+ 
+
+Li unanim decision del membres del Comité in Vienna deve dar li
+impression que restat solmen ti solution. It es un fact que durant 1934,
+quande li nov administration comensat functionar, nequí hat postular
+translocation. \...anc ho-témpor on vell har posset trovar un altri
+solution\... divers membres del Comité in Vienna cedet bona fide al
+eloquentie presidential. \...
+
+ 
+
+\(4) Pos li congresse in Vienna sr Bastian provat far li Geneveses
+retraer lor plendes, por que UEA mey posser translocar. Pro que li scope
+del processu esset just obligar le a ínpartial e seriosi tractation del
+eventual translocation, li Geneveses ne posset ceder. It ne es lor
+culpa, si per metodes íntolerabil in necun societé o state li Presidente
+volet octroyar /\"altrudi\"/ su volentie. \...
+
+ 
+
+Mult factes ante 1934, e divers eveniment poy\... explica se si on save
+que ili forma un linea de evolution. It es li teorie pri necessitá e
+possibilitá de absolut reyentie del movement per quelc potentes. Qui
+imagina li movement del pacific guerreros quam si ili vell esser
+militares, a tis sembla nettmen ínutil li juntion de líber homes reyent
+se self, e almen superflú li pretension de scopes ideal. - Ti conception
+noi refusa quam contrari al idés del \"Majstro\". Ma noi constata que it
+es extremmen conform a nor epoca /\"lautempa\"/. Tamen, un state forsan
+posse viver per ordones, un privat movement sempre depende de ordinat
+benevolentie.
+
+ 
+
+Li Liga existe nu; in it li General ne besona plu timer li resistentie
+de modest membres. Li Liga va haver un sens\...e va trovar labor. Ma por
+crear it, it \*ne esset necessi li pena mortar UEA\*. \...
+
+ 
+
+-49-
+
+ 
+
+ 
+
+It do evenit que un Presidente de UEA, por rupter li legal resistentie
+de quelc membres, ne trovat un plu decent maniere quam incitar su
+colegos al demission /\"eksigxo\"/, presentar al publica ti action quam
+si it vell esser un valid decision del comité, poy desaparir self e
+abandonar li Association al senioretta quel deve transdar li claves al -
+protestantes. Content pri tal gloriosi victorie, il cuida li rapid
+creation de un societé concurrent quel il va ducter.
+
+ 
+
+\*Nequande in li esperantistic historie ha evenit un tal scandale. Li
+juristic consequenties va traer li judico, li moralic tales li
+Esperantistaro.\*.
+
+ 
+
+\*Pri li situation noi posse ho-moment dir solmen, que un modest
+continuation del function del oficie es possibil\*. Noi va unesimmen
+provar continuar li edition de \"ESPERANTO\". Adaptation del statu al
+nov vive-conditiones va venir plu tard; it ya ne es nor culpa, si manca
+de fidelitá del Presidente al societé obliga a un existentie provisori.
+\*In omni casu, UEA va conservar su republican constitution e li spíritu
+supernational\*. Li lingue Esperanto, solmen quam practic medie de
+intercomprension, ne monstrat suficent fortie de atraction (propagativ).
+/Sublineat de nos. Original textu: \"La lingvo Esperanto, kiel nura
+praktika interkomprenilo, ne montris suficxan varboforton.\" Per ti
+frase, Esperanto declara su linguistic bankrotte in omni desirabil
+claritá. Red. / Li lent progress del movement proveni in grand parte ex
+nor manca de corage, confesser li crede al solidaritá homanitari
+/\"tuthoma solidareco\"/ sin diferentie pri nation, rasse e religion.
+Durant que pro conosset motives li National Societés ne es líber in ti
+relation, noi membres de UEA mey colecter nos sub li sant standartre de
+Zamenhof\...UEA\...apella a vos\...que vu salva it, por salvar li ideale
+de Zamenhof. \...\"
+
+ 
+
+ 
+=
+
+To esset li cardinal partes ex li manifeste del provisori comité del
+torso de UEA. E quo di li voce del Esperantistaro? Qui ne just apartene
+a un del du partises UEA e IEL, desira pace e fine del \"etern division,
+desconcordie e despace, quel exhauste nor forties, dissipa nor energie e
+nor moné, paralisa nor progresse\". Talmen scri li hollandés Isbrucker
+in \"Argentina Esperantisto\" Jan-Feb. 1937 e il continua: \"Nor
+movement monstra un image de misere. In vice de esser un armé de
+scope-consciosi concobattentes queles directe li regarde solmen ad avan
+e concentra su fortis por atinger li scope comun, it es un banda sin
+órdine de intercombattentes queles have témpor solmen por pussar e tirar
+unaltru, por disputar con li vicino de quel on ne aconosse li jure
+partiprender al grand interprense\...\" Li evident causes del
+Esperanto-schisma es organisatori. Li fine del manifeste fa vider que li
+radicas jace plu profund: in li lingue. Malgré mill repetitiones de
+\"Esperanto jam venkis\", it ne have li simpatie del publica. It resta
+li lingue privat de un litt partise international con un bell idealistic
+ínpolitic-politic idé, hodie plu lontan del successe quam jamá. Ma li
+idé ne va salvar ti lingue.
+
+ 
+
+-50-
+
+ 
+
+ 
+
+J. Svec: In quel maniere on fabrica un \"movement de masses\"?
+
+ 
+
+Quant Espistes existe in li munde? \"Un seriosi statistica del
+Esperantistes in 1928 (executet del statal german institute por
+Esperanto, li Germana Esperanto-Instituto, sub li direction de prof.
+Dietterle ex Leipzig) constatat 126.562 Esperantistes in 7000 locos de
+120 landes; on ha constatat 1776 societés etc\...\" (Secun li
+Enciclopedie del Nov Epoca de Otto, parte II, tom 1, p. 449.) Secun to,
+chascun land sin egard a su grandore vell partiprender in ti númer per
+li medial ciffre de 1050 adherentes in chascun land, e chascun
+Espo-societé vell haver medialmen ca. 71 membres.
+
+ 
+
+Li revúe \"Esperanto\" publicat recentmen un statistica del national
+propaganda-societés. Secun it, in li annus 1913-1929-1931 li membres in
+Francia esset ye 8000 - 1578 - 1578, in Germania ye 4727 - 2475 - 2114.
+Ti diminution esset constant, e ne causat per li crise, nam in 1929 li
+crise ne esset ancor.
+
+ 
+
+Un altri pruva pri li constant diminution del númere del Espistes es li
+articul publicat in li jurnale \"Heroldo de Esperanto\" del 7. marte
+1937. On lee:
+
+ 
+
+\"Ante annus, Heroldo havet omni mensu, ultra altricos, anc un special
+anexe linguistic sub li titul \"Lingva Kritiko\". Tande noi havet presc
+li triplic númer de payant abonnatores\...in comparation con li statu
+present\...\"
+
+ 
+
+Pri to quo es solmen un desire del Espistes, on lee in li numeró 9 de
+\"Heroldo de Esperanto\" del 6. decembre 1936:
+
+ 
+
+\"Nor movement totmen ne es fort\...Quo mem significa nor unquande fort
+UEA con su 8000 membres. Til quande noi ne va esser centmillenes, noi ne
+va have grand chance\...forsan vell suficer, in li present
+circumstanties, haver 10000 persones \"de qualitá\" queles bon save li
+lingue\... e haver ultra to 200000 \"simpatisantes\" o
+\"aprobantes\"\...\"
+
+ 
+
+Do, li númere de Espistes in li tot munde es tre micri, nómina se
+\"Esperantistes actualmen forsan minu quam 100000 homes, li númere de
+organisat Espistes esset ante li schisma 20000, li númere del ver
+conossores de Esperanto deve restar grandmen sub 10000, númer presentat
+quam minim ideal a atinger\...
+
+ 
+
+ 
+
+Qualmen ti - in summa ínsignificant - númere de homes save organisar
+\"imposant manifestationes de masses\" e per quel maniere it fabrica li
+\"public opinion\" e imposi su postulationes, to explica se clarmen ex
+li sequent excerpte ex li articul \"Jubileaj Esperanto-posxtmarkoj en
+Usono?\", publicat in Heroldo de E. 7.marte 1937:
+
+ 
+
+\"Un important oficiario del postal administration del Unit States
+explicat, que ti scope vell posser esser atinget: Che li Postmaster
+General in Washington deve arivar quelc centenes o millenes de lettres
+con li question ca va aparir postmarcas in ocasion del 50-annual
+Esperanto-jubileo. Si un masse de tal lettres ariva ex total U.S.A. e ex
+mult landes del munde, on va vider, que it acte se pri un important
+public desir\...e li chances, que li postal administration
+
+ 
+
+-51-
+
+ 
+
+ 
+
+edite jubileari postmarcas, va esser tre bon.
+
+ 
+
+Vi li plan de action: Ex omni cité de U.S.A. va venir centenes de
+lettres al Postmaster General con petidas, propositiones, questiones.
+Chascun club va cuidar que li samideanoj colabora. Omni samideano va
+instigar omni su amicos scrir un curt lettre\... Chascun singul
+samideano deve instigar su amicos, specialmen li filatelistes. Por
+relativmen litt expenses de singul samideanos existe li possibilitá de
+colossal resultates\... Li lettres\... posse contener li max divers
+motivationes\... (ma on mey \*absolutmen ne\* dir, que it vell esser un
+grand auxilie por li Esp-movement, si U.S.A. vell editer tal
+postmarcas.)
+
+ 
+
+Lu max important es, que durant li venient semanes e mensus tal lettres
+mey arivar \*regularimen\*, e ne omnis in sam témpor. Ne deve poy sequer
+mensus de silentie. Do, in clubes, ne omnes mey scrir in sam témpor.
+Quelc mey scrir in li unesim mensu; altres in li semanes sequent\...\"
+
+ 
+
+Do, centenes de demandes o aprobationes a autoritás es productet in tal
+maniere organisat. Sin li fanatisme de su adherentes, Esperanto vell,
+quam un cose sin valore e desde long superat, dever perir totalmen,
+essente un moca al cultura.
+
+\-\-\-\--
+
+ 
+
+Ancor un rectification - ancor li confusiones de sr Quarfood. - Ili ne
+fini - solmen nu li plen grotesquitá del Ido-afere displica se: Li
+vehement atacca de sr Q. contra sr Hz Jacob es basat sur un total
+miscomprense; sr J. peti nos constatar que il ne vole reformar Ido. Il
+reprocha nos har considerat Q. e CB quam un seriosi fonte. Il have
+rason. Ma mem un nonsense, si publicat del presidente del Ido-Academie,
+resta un oficial idistic document, ucunc it aparit. Tant plu mal por
+Ido. In un tard response in CB april, anc sr Q. constata que srs Jacob,
+Auerbach e Meazzini ha declarat ne voler changear Ido. Sr. Meazz. ha
+informat nos altrimen. Sr. Q. repara su ejaculation \"fush-laboruro\"
+per citar - in Occidental - grand passages del articul de Prorok pri li
+criteries de IALA e del raporte de Federn pri su conferentie in
+Copenhag. To es rasonabil. Advere su comentaries contene divers
+interpretationes malevolent e fals, ma noi renuncia a rectificar omni su
+erras, confusiones, miscomprenses. On compromisse se si on prende
+seriosi un mann quel tant compromisset se self. Mem li officiosi organ
+de sr Jacob, li circulare \"Monatala Letro\", may, scri: \"Yo totmen ne
+comprende pro quo sr Q. atacca IALA, nam il self di: \"In fine Ido va
+esser adoptet del IALA-congresses\". Li ataccas contra se e li perdes
+del movement sr J. prende con laudabil tranquilitá. Il colecte protestes
+de altris: li schisma gaymen prepara su eclate por li congresse del
+ultim Idistes in Paris. Sr Raiteri, un valent Idist, scri: \"Con anxie
+yo constata que nor camp\...es abandonat de tre exellent elementes
+queles transi secretmen a altri sistemas\...\" M. mentiona li demission
+de sr Matejka quam consequentie del ataccas de sr Q. It discretmen
+oblivia mentionar a u sr. Matejka ha eat. Sr Raiteri have rason plendir
+pri \"secret abandon\". Ma to es li culpe del Ido-circulare. Noi cuida
+pri publicitá!    I.F.
+
+ 
+
+-52-
+
+ 
+
+ 
+
+Novial - nor sestra
+
+ 
+
+In nró 10 de Cgl B noi presentat a nor letores un articul in Novial. It
+tamen ne esset li max modern Novial, qual it es iniciat per sr V.
+Ahlstedt e aprobat principalmen per prof. Jespersen in li Conferentie in
+Copenhag. Sr. Ahlstedt, un del max eminent Novialistes (\"Novialiste\"
+april 1937 contene su portrete e un tre interessant articul de il pri
+\"Grammatike verbal\"), havet li amabilitá scrir por Cgl B li sequent
+articul, quel monstra li frappant hodial similitá de nor lingues:
+
+ 
+
+Pos li debatte interlingual en junie 1936 inter li autores de Occidental
+e Novial, Edgar de Wahl e Otta Jespersen, li similesse inter li du
+interlingues ha devenit sempre plu grand. Ambes vol utilisar li jam
+existenti, plu o min international, linguemateriale, e ambes aspira li
+plu grand regularesse possibli sur natural base. Occidental accentua li
+naturalesse, Novial li regularesse, ma jam nu li du lingues es tam
+simil, ke les forma solmen du dialectes del sam ideal interlingue. Un
+amical conlaboratione inter ti du afin dialectes es tre desiderand.
+
+ 
+
+Qualmen un tal conlaboratione es realisabli? Me proposi li sequenti
+metode:
+
+ 
+
+1\. Nus explora, qui categories grammatical es expressend en li
+interlingue. 2. Nus explora, per qui metodes li international
+lignuematerialel expresse omni categorie grammatical. 3. Nus concorda
+pri un de ti metodes (li plu frequent o li interlingualmen plu apt). 4.
+Segun li principie del regularesse Novial usa li selectet metode
+exclusivmen por expresser li categorie grammatical, e ergo crea novi
+formes per analogie segun li selectet modelle. 5. Segun li principie del
+naturalesse Occidental anke admise altri international metodes por
+expresser li categorie. - Talmen nus recive un commun base por li
+fenomenes grammatical de Occidental e Novial, e nus ha fat li unesmi
+passue avan vers li desiderand unificatione del du interlingues.    V.
+Ahlstedt
+
+\-\-\-\--
+
+ 
+
+ 
+
+Qui es plu fort?
+
+ 
+
+In exchange por un Ido-circulare, \"Monatala Letro\", noi inviat a su
+redaction li adressarium de A.P.I.S. e sin timore dat per to un parte de
+nor adresses in idistic manus. Poc poy noi recivet li may-numeró de
+\"M\" (mentionat sur li págine precedent), quel inter altricos contenet
+li nómines de un Esperantist e quelc Idistes desirant coresponder. Grand
+lacunes interruptet li textu\...omni adresses esset cuidosimen exprendet
+per cisores!
+
+ 
+
+Quel timore, que noi vell posser informar ti adresses que sr Matejka pos
+su demission de Ido ne ha dissoluet se in atomes, ma ha transit in plen
+vive e energie a Occidental! Quel timore, que ti adresses vell posser
+vider quelcos  de Occidental e transir! Noi mersía li redaction de \"M\"
+por ti preciosi atestation \"per fact\" que ili time li superioritá de
+Occidental e considera nor afere quam plu fort, e anc por tri minutes de
+cordial ride pri li cisuras.   I.F.
+
+ 
+
+-53-
+
+ 
+
+ 
+
+J. Denzler: Esperantistic Tolerantie
+
+ 
+
+Ante circa du mensus yo ha fat li conossentie del ductor del
+Esperanto-movement in Biel. Su nómine es Micheil Miltscheff. Il es un
+Bulgaro e de profession apotecario. Pos un long discussion - il parlat
+in Espo e yo in Occidental - il havet li gentilesse invitar me al proxim
+convenida del Espo-club de Biel. Yo acceptet li amabil invitation. Desde
+ti incontra yo ha frequentat 3 vezes li convenidas del Esperantistes. In
+tot yo videt 7 membres del club. Ili parlat in Esperanto e yo in
+Occidental. Chascun vez yo es invitat por li proxim convenida. Li matrin
+lingues del mentionat membres distribue se quam seque: 3 franceses, 3
+germanes e un bulgar. It es self-evident que per ti relation con
+Esp-istes yo ne va esser reconvertet a Espo. Li passu a retro vell esser
+tro grand de Occ ad Espo.
+
+ 
+
+(Rem. d. Red: A sr Miltscheff e li membres de su club noi presenta nor
+sincer simpatie e respect. Ma ne omni Occ-istes have li sam chance quam
+nor coidealist Denzler che li amabil Esp-istes de Biel. Anc nor amica
+Cosmoglotta sovente visita Esp-istes, ma quelcvez ella retorna con
+inscritiones queles just ne atesta un acceptation amical. P.e. sr
+Spielmann del \"Svisa Esperanto-Instituto\" ne contenta se con verd
+stampe e li remarca \"refusat\", ma ancor trastreca nor insigne e li
+parol \"Occidental\" e remplazza it per \"Esperanto\" flancat de du verd
+stellettes stampat: anc desp(?) it posse stimular a labor suplementari;
+noi conserva li talmen ornat coverte in nor \"curiositarium\". Un yun
+Esp-ist ex li canton Aargau scri sur li coverte \"Nur Esperanto vivos\"
+(Solmen Espo va viver), e li juntet prospecte in Espo il retorna con
+inscrition \"Esperanto estas pli bela\" (Esperanto es plu bell). Nu bon
+- \"le beau pour le crapaud, c\'est la crapaude\" (Lu bell por li rospo
+es: li rospa.) Mersí pro su pena e nor amusament!
+
+\-\-\-\--
+
+ 
+
+ 
+
+Li Adressarium de APIS ha nu aparit
+
+ 
+
+Sur 24 págines in formate e aspect de Cosmoglotta B it contene li
+statute del Association por International Servicie (APIS); li
+regulamentes de su tri sectiones: Ilustrat Lettres Circulant inter
+Instructores (ILCI), Servicie de Corection de Traductiones (SCT), e
+Occidental-Presse (OP); un code de abreviationes; 160 adresses de
+persones queles desira coresponder, ex 20 landes; e in fine 15 consilies
+por un bell e efectiv corespondentie.
+
+ 
+
+Ti interessant brochura es vendit ye li extraordinarimen bass precie de
+solmen SFr. -30. afrancat, li númere de exemplares queles un person
+posse comprar es ínlimitat. It es anc vendit a non-membres de APIS.
+
+ 
+
+Suplementes e changes al adressarium va esser continuimen publicat in
+Cosmoglotta B, quel es li oficial organ de APIS.
+
+ 
+
+Noi recomanda a omni Occidentalistes queles desira coresponder, que ili
+mey adherer a APIS e inviar nos lor adresse. Adhesion e publication de
+anuncies ne plu ampli quam 2 lineas es gratuit.
+
+ 
+
+-54-
+
+ 
+
+ 
+
+CRONICA
+
+ 
+
+AUSTRALIA - In fine del annu passat li senator Abbot ha presentat al
+senate de Australia un proposition: demandar del rey del britannic
+imperia demarchar in favore del adoption de un comun lingue auxiliari in
+li scoles e invitar al colaboration omni guvernamentes del munde. Li
+senate adoptet ti proposition per 19 contra 5 voces. Consequentmen, li
+Esperanto-presse exhortat lor samideanos a un lettre-campanie, quam sr
+Svec ha descrit sur p. 51 del present numeró. Do li ínfelici senator
+esset inundat per lettres in Esperanto, queles il devet far traducter.
+Noi ha cuidat que il recivet anc li necessi informationes pri
+Occidental, ma noi considerat ínutil startar un simil campanie per
+publicar li noticie in Cosmoglotta, nam just in ti témpor li anglés
+coron esset ocupat pri grav personal problemas e on posset suposir que
+it ne havet mult interesse pri li question del L.I. Inplu sr senator
+Abbot ha explicitmen declarat, in response a su esperantistic
+inundatores, que il ne intente favorisar Esperanto.   F.L.
+
+ 
+
+ 
+
+AUSTRIA - Li Esperanto-gazette \"Verda Revúo\" del may 1937 raporta pri
+un experiment quel un Esperantist ha fat pri Occidental, e quel
+naturalmen demonstrat li ínaptitá de Occ quam L.I. Il monstrat un textu
+in Occ a divers persones, con li resultate que necun de illi posse
+traducter it corectmen. Pri li detallies e pri li textu self ne es dit
+necos. Noi ha adressat quelc concernent questiones al redaction de V.R.
+ma ancor ne recivet response ye scrition de ti lineas. Noi va raportar
+plu detalliatmen pri ti strangi experiment in proxim Cgl B.   F.L.
+
+ 
+
+BELGIA - \"Li Soir\", Bruxelles, raportat li 29. oct. 1936: \"Che li
+esperantistes: Li prof. de Esperanto F.W. Buenting (ex Nederlandés
+India) ha dat jovedí in li palace del Bell Artes un prova letion secun
+li humoristic metode del ruman abate Andreo Cseh. Ante li soaré de
+propaganda, li union del esperantistic gruppes de Bruxelles ha ofertat
+un té al personalitás del munde esperantistic. On ha remarcat specialmen
+inter li presentes Sra A. Morris, ambassadora del USA.\"
+
+ 
+
+GERMANIA - It es permisset e possibil anc a Germanes abonnar
+Cosmoglotta, comprar de nor litteratura e payar a nor post-chec-conto in
+Berlin, si ili recive permission payar del oficie de devises. Un plu
+detalliat circulare, contenent li oficial textu german, es inviat a omni
+german clientes del Institute Occ.  F.L.
+
+ 
+
+HISPANIA - Li grand curs complet de Occidental de sr Cebreiros, e li
+curs concis de sr Varela ha esset finit malgré li desfacil
+circumstanties in quel li
+
+ 
+
+-55-
+
+ 
+
+autores deve laborar, ovre amplissim e excellent de pluri vis-punctus, e
+srs Cebreiros e Varela merite un cordial mersí pro lor ínalterabil
+devotion a nor bell lingue. In sam témpor noi have li trist deventie
+confirmar li nov, que nor amico Pedrero, co-autor del vocabularium
+Occidental-Hispan, ha cadet quam victime del guerre hispan. Noi va
+editer li manuscrites, monumentes del esperantie durant dur témpores,
+strax quande Hispania va esser pacificat.   I.F.
+
+ 
+
+ITALIA - Nor sempre viageant propagator dr. E. Dal Martello aporta
+conossentie pri Occidental a omni cités de Italia. Informationes del
+Occidenatl-Presse-Servicie sta inviat a omni important jurnales. Noi
+peti nor italian amicos haver ancor un poc patientie. Li vocabularium
+Occidental-Italian va aparir durant junio. It va custar -.30 cts. sviss
+o un respon-cupon.   I.F.
+
+ 
+
+NEDERLAND. - Li Novialist sr Hoitingh signala nos su discussion con
+quelc esp-istes, quel covir extraordinarimen larg spacies in pluri
+numerós del \"Algemeen Nieuwbald voor het Gooi\" marte-april 1937. Sr H.
+cricicat Espo e parlat in favore del tal dit \"naturalistic scole\",
+i.e. Novial e Occidental. Unvez in plu il publicmen constatat, que Espo
+ne have null auxilie oficial ni del Liga de Nationes, ni del guvernament
+nederlandés. Il opine, que forsan ti situation va changear per li
+activitá de IALA, quel tamen certmen ne va adopter Espo, nam li criticas
+contra it es tro bon fundat quam que it vell posser victoriar. Il cita
+poy li comun declaration de srs de Wahl e Jespersen contra Espo ex li
+comensa del protocolle de lor interlinguistic discusison 1935 in
+Helsingör, e recomanda leer li du libres \"Occidental, die Weltsprache\"
+e \"An international language\" de prof. Jespersen, anc li revúes
+\"Cosmoglotta\" e \"novialiste\". Un replicant espist excusa li criticat
+parol \"edzo\" quam slav. Ti interpretation es plu original quam corect.
+Un altri asserte, que Zamenhof ha successat per un simplic regul
+conservar omni, ma anc omni parolformes international. It es damage, que
+malgré ti bon conservation noi ne trova les in Esperanto.   A.M.    I.F.
+
+ 
+
+ 
+
+SVEDIA - Li lettres circulant inter instructores, inaugurat de nor
+coidealist Harald Björkman in Jänkisjärvi (Section ILCI de APIS)
+developa desde quelc témpor un activitá injoyant e crescent inter li
+co-scritores e destinatarios. Noi recivet 3 lettres pri li temas \"Li
+propaganda de Occidental inter instructores - Li yunité ee Occidental -
+Li instruction de Occidental\" chascun con partiprension de 7-11
+autores-corespondentes-instructores. On deve gratular senior Björkman
+pri ti bell e nettmen realisat interprense. On studia li possibilitá
+elargar it a un international pedagogic revúe.
+
+ 
+
+Lector Carl Segerstähl del populari universitá in Vindeln inviat nos li
+sequent salutation, co-signat de 19 studiantes: \"Estimat coidealistes!
+Noi studiantes
+
+ 
+
+-56-
+
+ 
+
+ 
+
+de Occidental, li excellent lingue auxiliari e li excellent auxilie
+lingual, misse a Vos ye nor ultim reunion li max cordial salutationes.\"
+- Sincer mersí al missentes e cordial felicitationes a sr Segerstähl pro
+su bell labor!   I.F.
+
+ 
+
+SVISSIA - In comensa de may, li Occidental-Presse-Servicie esset inviat
+a 120 sviss jurnales in lingue german, francés e italian. Pro
+ínpossibilitá controlar li aparition de nor information in omni sviss
+jurnales, noi restricte nos al canton Vaud: \"L\'Echo de la Broie\" e
+\"L\'Eveil\" publicat nor noticie sin change, in \"Feuille d\'Avis de
+Lausanne\" un jurnalist a quel li materie ne esset tot familiari jocat
+pri Occ nominante it \"le petit-nègre\". In li \"Journal des Postes,
+Télegraphes et Douanes\" aparit un excellent articul informativ de nor
+coidealist Pidoux, just oposit al \"Esperanto-Angulo\" permissente
+talmen facil comparation inter nor textu e Espo. La \"Revue
+Internationale de Sténographie\" contene li continuation del
+Occidental-curs de sr F. Lagnel e li articules pri alberges de yunesse e
+li L.I. e italian ex Cosmoglotta, in total 5 págines consacrat a Occ.   
+I.F.
+
+ 
+
+Un nov medie de intercomunication. - Por homes de divers nationes, mem
+de un sol nation ne sufice intercomunication per li lingue,
+international o national: it deve functionar anc li medie por exchangear
+merces e servicies, li metodes de payament. Pro que li oficial moné ne
+satisfá su deve, homes sercha nov vias por efectuar lor transactiones.
+Un tal prova es li Circul Economic \"WIR -
+Wirtschaftsring-Genossenschaft\" in Svissia. Su scope es eliminar li
+impedimentes in li exchange de merces e servicies. On vicea li moné per
+simplic transfer simil al checs postal.   
+
+ 
+
+Per augmentationes del transactiones posse augmentar li economisationes,
+e to, junt con li elimination del moné statal deve abassar li intereste,
+fonte del max grav explotation del laborantes, e índirectmen del crises
+economic e finalmen del guerre. - Noi recivet un brochura pri WIR, scrit
+de Walter Schwegler: \"WIR-Wirtschaftsring. Eine kritische Untersuchung
+über den WIR-Ringtauschverkehr und WIR-Kredit.\" editet del Vereinigung
+für gesunde Währung. Zürich 1936. 96 pp. precie SF. -.60. In ti brochura
+li autor prova demonstrar: (1) que li teorie fundamental de WIR es fals,
+(2) que li elimination del intereste per li metode proposit es un
+ilusion, (3) que WIR ne mem posse dar credit sin interest, (4) que WIR
+ne aducte un augmentation del vendition, e altri objectiones. - Malgré
+li enorm assiduitá con quel li autor compilat su studie, it ne es
+possibil formar un definitiv judicament ex li brochura del adversarios.
+Noi recomanda al interessates audir anc li response del organisation WIR
+self, quel es publicat in li numerós 79 ss. del jurnale
+\"Wirtschaftsring\". Li referente, quel es membre de APIS, declara se
+pret procurar li respectiv numerós contra payament per Bons del
+Institute Occidental. Ples adressar demandas de information a Henri
+Nidecher, Box 193, Basel 1. (Rem. del. Red. Noi suposí que li idés ci
+mentionat trova interesse che mult de nor letores. Noi tamen crede bon
+remarcar, que noi declara nos principalmen íncompetent pri problemas de
+economic teorie. F.L.)
+
+ 
+
+-57-
+
+ 
+
+ 
+
+ 
+
+TCHECOSLOVACIA - Pro que li sempre plu grand avansament de nor lingue in
+ti land es detalliatmen raportat in li tchec \"Occidental-Bulletin\",
+quel noi insistentmen recomanda a nor letores, noi posse contentar nos
+per concis resumé: \"Pax\" revúe pacifistic e organ del intern. cultural
+liga in Praha, marte-april publicat un information pri e grammatica de
+Occidental, e un articul in Occ pri \"International cultural semanes\".
+- \"Nezávislá politika\" del 30 april contene un long articul \"Li
+ovreros e li L.I.\" e informa pri transition del tot idistic circul in
+Lomnice n. Pop. a Occidental. Per to li Ido-movement in Tchecoslovacia
+ha practicmen morit. \"Néz. Pol.\" regularimen recense li aparient
+numerós de Cosmoglotta, dante detalliat indexes del contenete. - Noi
+abstene sempre denove gratular nor tchec amicos pri lor successes. Un
+lingue rationalisat quam Occidental ne es tre rich ye diferent formes de
+superlatives, e noi ne vole tedar nor letores per tro sovente repetit
+les. Ples leer li \"Occidental-Bulletin\" e vu va comprender nos. Per li
+numeró de may it festa su jubiléo de 25 numerós. It mey continuar quam
+nu, durant ancor long témpor. To es nor cordial desir.    I.F.
+
+ 
+
+Ultim informationes: Dania: Li adresse del Occidental-Information
+Copenhag, Aaboulevard 3, Köbenhavn V. resta valid quam antey. Su
+postgiroconto: 26972 es transferet al Institute Occidental, Chapelle.
+Portugal: Li grammatica de Occidental in lingue portugalés ha aparit, 8
+grand págines in formate A 4. Precie afrancat -.30 sviss o 1.60 in moné
+portugalés.   I.F.
+
+ 
+
+Li redaction de Cosmoglotta recive chascun mensu un grand multitá de
+diferent revúes plu minu concernent li L.I. Li spacie ne permisse nos
+recenser chascun. Mem por un sol liste del nómines, dates, numerós noi
+til nu ne volet prender li plazza de altri temas. Esque nor letores vell
+esser interessat pri vider un tal index pri li documentation de lor
+revúe Cosmoglotta?   I.F.
+
+\-\-\-\--
+
+ 
+
+ 
+
+Li Bons del Institute Occidental es acceptet quam payament per li
+sequentes:
+
+ 
+
+Belgia: C.J. Boon, 3 Avenue Jacques Pastur, Uccle (Bruxelles).
+
+Dania: Occidental-Information Copenhag, Aaboulevard 3, Köbenhavn V.
+
+Estonia: Societé Kosmoglott (E. de Wahl), Eha 10, Tallinn
+
+Francia: G. Poujet, Isles s/Suippe
+
+L.M. de Guesnet, 83 Rue Rochechouart, Paris 9e
+
+Svedia: Y. Sköld, Tomtebogatan 38, Stockholm
+
+Svissia: Institute Occidental, Chapelle (Vaud)
+
+H. Nidecker, Box 193, Basel 1
+
+Tchecoslovacia: Buró de Occidental, Skroupova 2, Praha VII
+
+Club Occidental, secr. Skroupova 2, Praha VII
+
+ 
+
+Por payamentes inter Occidentalistes ples usar li Bons del Institute
+Occidental
+
+ 
+
+In ultim moment: Rumania: Aurel Eschenasy, Craiova, C. Brestai 27.
+
+Finnland: J.H. Haukkapuro, Haaga (apu Helsingfors), Steniuksen tie 15.
+
+ 
+
+-58-
+
+ 
+=
+
+ 
+
+EX LI (Pro devaluation del franc sviss li paper ha augmentat in precie.
+Do noi devet renunciat ti ci vez.) CORB
+
+ 
+
+Noi \*ne\* accepte de Bons del Institute Occidental! A ti coidealistes
+queles expresset li comprensibil desire abonnar \"Ex li Paper-Corb\"
+sol, sin su enoyant anexe Cosmoglotta B, noi comunica li sequent
+conditiones de abonnament:
+
+ 
+
+Li sol abonnament de \"ELPC\" custa SFr 7.37 in valore sviss aurin ne
+devaluat. Ma noi peti ne molestar nos per Bons del Institute Occidental.
+Noi declara explicitmen que noi ne vole accepter les. Noi have ja nu
+suficent paper ínutil in nor Corb. In céteri vale li sequent conditiones
+por particulari landes:
+
+ 
+
+Anglia: Pro desfacilitás de incassament noi accepta solmen complet
+\"pound\"s.
+
+ 
+
+Francia: Payament per actiones francés vell esser considerat quam un
+afronte ínpopulari.
+
+ 
+
+Germania: Noi accepte solmen international respons-cupones inviat
+singularimen.
+
+ 
+
+Hispania: Secun recomandation del comité de non-intervention noi accepte
+solmen moné neutral, quel ne deve esser editet de un del militant
+partises.
+
+ 
+
+Russia: Noi accepte solmen abonnamentes colectiv.
+
+ 
+
+Svissia: Noi accepte solmen moné ne devaluat.   Miquette
+
+ 
+
+Informationes postal. Li Union postal informa omni concernetes, que it
+es interdit expedir avios e piscs per post-paccas. - Missages destinat a
+Tchecoslovacia deve esser strictmen separat de tales destinat a
+Tchecoslovakia. - Anc li landes con control de devises permisse desde li
+1. april ho-annu li intrantie sin doane de printates portant nor devise
+\"Servicie al homanité\".
+
+ 
+
+Atention! Ne obliviar metter li corc sur li botelle ante que vu posi li
+incriere in vor tasca de pantalon!
+
+ 
+
+Prof. Sysiphos Madhrepere interessa se pri li L.I. - Li redaction de
+ELPC ha successat obtener un interview del famosi american professor de
+Bibliomanie Sysiphos Madhrepore per li person de nor colaborator, li
+domesticat poet Farfarello. Ples leer li sensational articul quel seque:
+
+ 
+
+fa órdine in tu biblioteca!
+
+ 
+
+Libres es sin valore, si on ne lee les. On ne posse leer un libre si on
+ne have it. On ne have un libre si on ne trova it. On ne trova un libre
+si on ne save u it es. Ma mem to ne sempre sufice: Un classic anecdote
+di, que un matrose devet unvez nettar li té-cruche del capitan. Poy il
+questionat le, esque un cose es perdit, si on save u it es. Al \"no\"
+del capitan il replica: \"Tande vor cruche ne es perdit, nam yo save que
+it es sur li funde del mar.\" (Pause por rider: ha-ha-ha!) Si vu save
+que vor libre trova se in funde del colonne de libres acumulat in li
+angul del chambre\...ma li modern bibliotecas ha desde long abandonat li
+sistema
+
+ 
+
+-59-
+
+ 
+
+ 
+
+de libre-staples vertical sur li suol. Hodie on stapla les horizontalmen
+in scafes: noi es in li témpor del rationalisation! Vi quo di li famosi
+professor de Bibliomanie Sysiphos Madhrepore pri li sistemas de
+classification (in li pronunciation original secun stenogramma):
+
+ 
+
+\"Max simplic es li chlassiphication secun li pónder. Itt permisse un
+rapid e secur chlassiphication sin grand schemas, prescriptiones,
+directhives: Un pesa-epistules od- in grav chasus - un ballancie de
+cocinería suphice: On pesa li libre, nota li ponder in grammes et rangea
+li libres. Dipherenties de minu quam 1/100 gramma ne es chonsiderat. Plu
+comphlicat, ma anch plu ephecthiv es li chlassiphication secun
+chathegories. Por commencear on divide li libres secun vis-punchthus de
+conthenethe in li secuent gruppes: (1) Bhiographies (2) Tabelles
+logarhythmic (3) Romanes phrancées (4) Libres con ruby chovriment. Quood
+ne corrhesponde ad un de ti rhubricas, es rhangeat sub \"Dhiverse\".
+Inthra li rhubricas on chlassiphica secun li phormate et li númer de
+phágines. Do, por retrovar un libre, itt es solmen necessi memhorar li
+rhespecthiv grhuppe, phormathe et númmer de phágines - et on have su
+libre in mhanus\...\"
+
+ 
+
+Li professor hat dit to in Occidental, in li bibliomanic ortografie
+preferet de il self, e quel il pronuncia con un precision e amabilitá
+íncomparabil. Benque tre interessat in Occidental, il tamen ne neglige
+su propri labores. Ex divers alusiones yo comprendet, que il self ha fat
+studies in li sam direction. Li proxim numeró de \"Ex li Paper-Corb\" va
+dar quelc detallies pri li sistema de Prof. Madhrepore, quel nómina it
+\"Trans-Inter-Neo-Continental\", abreviat TRINC. It va continuar li
+serie de revolutiones in li camp del I.L.   Pharpharello
+
+ 
+
+Premie-concurs \"Classic Ido\" esset un fiasco complet. Nequi posset
+comprender li textu citat. Li premies do resta in li Paper-Corb. In
+proxim témpor sr Quarfood va publicar in Progreso un critica de
+Occidental sub li pseudonim Heinz Jacob. Noi va tande far un nov concurs
+plu facil.   Miquette
+
+ 
+
+Corespondentie: Yes, to yo sempre ha dit. 276b: No, yo ne posse far
+personal corespondentie in ti rubrica, ma yo accepte Bonbons del
+Institute Occidental. 892: Naturalmen li hodial scientie ha suficentmen
+developat se por fabricar un Lingue International sin verbes. Ma pro quo
+vell to esser util?    Miq.
+
+\-\-\-\-\-\-\-\--
+
+ 
+
+ 
+
+Contene: Un international terminologic code - Occidental-Union e APIS -
+Alphonse Matejka - Al la Esperantistaro (Continuation) - In quel maniere
+on fabrica un movement de masses? - Ancor un rectification, ancor li
+confusiones de sr Quarfood - Novial, nor sestra - Qui es plu fort? -
+Esperantistic tolerantie - Li Adressarium de APIS - CRONICA: Australia,
+Austria, Belgia, Germania, Hispania, Italia, Nederland, Svedia, Svissia,
+Tchecoslovacia, Dania, Portugal. - Acceptores del Bons del Institute
+Occidental - EX LI PAPER-CORB.
+
+\-\-\-\--
+
+ 
+
+-60-
+
+ 
+:::

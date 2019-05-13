@@ -1,0 +1,1100 @@
+Cosmoglotta A 143 (jan 1949)
+============================
+
+\
+
+::: {#displaycontent}
+COSMOGLOTTA
+
+ 
+
+ORGANE del INTERLINGUE \"OCCIDENTAL\"
+
+ 
+
+Edition A. Nro 143 JANUAR 1949
+
+ 
+
+IN MEMORIAM EDGAR DE WAHL  1948
+
+ 
+
+ 
+
+ 
+
+ 
+
+IN MEMORIE DE E. DE WAHL
+
+ 
+
+Benque li témpores in queles noi vive es plen de mill vúlneres e
+chagrines, noi tamen ne es tam obtuset por ne sentir con profund emotion
+li extintion de un vermen grand anim. Li trist nova del solitari morte
+de Senior de Wahl ha compleet me con luctu e dolore, nam yo ha pervenit,
+in li cursu del annus de nor strett e confidentiosi colaboration e
+familiar amicitá, venerar le quasi quam patre spiritual.
+
+ 
+
+Li merites de Edgar de Wahl por li scientic exploration del natural
+fundamentes del futuri Interlingue es perenni; li descovrition del
+coherenties queles sta condensat in li \"Regul\" quel porta su nómine,
+representa un ínsuperabil cúlmine in li tot dominia del interlinguistica
+contemporan.
+
+ 
+
+Por omni tis qui efortia se vers un apt lingual medie de
+intercomprension universal, li nómine e ovre de Edgar de Wahl va sempre
+esser li objecte de grandissim apreciation. A tis qui esset su disciples
+e colaboratores apartene li deve continuar li grand ovre in li spíritu
+de su grand creator.
+
+ 
+
+Yo condole con omnes qui es aflictet per li decesse de ti ardent e
+assidui protagonist por un ideale de homanitá.   Hans Homolka, (Wien,
+Austria)
+
+ 
+
+SVISS POST-MARCAS PRO JUVENTUTE
+
+ 
+
+(Tri images de post-marcas)
+
+ 
+
+Tri apreciat del colectioneros, li marcas de Pro Juventute in 1948
+representa:
+
+ 
+
+1/ li generalo Ulrich Wille, chef del sviss armé durante li guerre
+1914-1918.
+
+ 
+
+2/ Li digitale con grand flores (Digitalis ambigua Murray). TI flor yelb
+have folies crinosi in infra. Li flor self es grand, con corol pictet
+con brun interiorimen. Excellent plante decorativ quel ne postula mult
+cuidas. It es ad-ver venenosi, nam it contene digitaline quel have li
+proprietá alentar li movementes del cordie, abassar li temperatura e
+augmentar li secretion salivari.
+
+ 
+
+3/ Li rododendron o rose del Alpes es li plante max caracteristic del
+Alpes. Li rododendron ferruginosi es li specie amant granite e silici;
+it incontra se sur li calce solmen nequande. Su folies es verd obscuri,
+brilliant e absolutmen calvi; infra ili es brun ferruinat.
+
+ 
+
+4/ Li lilie del Alpes, nominat paradisie, es vermen li lilie de nor
+montes, quam rododendron es li rose de ili, lilie pur e sin macules, plu
+elegant, ma plu debil.   F.L.
+
+ 
+
+-3-
+
+ 
+
+ 
+
+LI ACTUAL SITUATION INTERLINGUISTIC
+
+ 
+
+Li bombardamentes e mortationes del grand guerre, con li acompaniant
+famine e misere moral, ha stoppat omni activitá interlinguistic in mult
+landes. Li majorité es preocupat per reconstructer lor domes demolit e
+li base material de lor vive. Ma tra li ruines, tra li nubes de terrore
+e morte on ja vide li interlinguistes recristallisar se in quar gruppes
+rivalisant: Esperantistes, conservativ Idistes, partisanes de lingues
+natural simplificat, e li progressiv naturalistic movementes.
+
+ 
+
+Li Esperanto-movement posse oposir a su concurrentes un númere solid de
+fanatic adherentes e su tradition: devoet, self-sacrificant propaganda e
+un intern organisation disciplinat. Su ductores considera que li max
+eficaci metode combatter rivales es tacer; dunc in Esperanto-revúes
+ordinarimen reye tabú e censura, e si, exceptionalmen, altres es
+mentionat, it es con li mecanic refren: ili es pocos, e noi
+Esperantistes conta milliones.
+
+ 
+
+Li Ido-movement ha cessat expander se e limita se a defender li
+aquisitet positiones. Li majorité del activ Idistes ha transit a
+Occidental; con li restant conservatores noi exchangea polemicas plu
+sportiv quam util: fanaticos on ne posse convicter; ili deve,
+ínregretatmen, morir con lor crede.
+
+ 
+
+Li partisanes del simplificat latin suffre quasi li sam fate quam li
+Idistes. E li propagation de lingues national simplificat posse esser
+considerat apen quam altricos quam un variante del aspiration
+internationalisar un lingue national complet. Nationalistic jalusies
+despermisset li adoption de UN sol lingue national per líber
+consentiment (nam 4-5 lingues paralel \"international\" es un
+ínauxiliari ironie), e noi ne vide pro quo ili vell capitular córam
+Basic  English.
+
+ 
+
+Dunc li quar frontes practicmen resolue se in du: Esperanto contra
+naturalistes, e in li naturalistic campe remane (pos li morte de Novial,
+movement e autor), solmen Occidental e IALA.
+
+ 
+
+Noi Occidentalistes save, e vell dever tener constantmen in memorie que
+li fanatic Esperantistes es un grand dangere por li successe del lingue
+international in un forme modern e natural. Támen lor propaganda vell
+frappar in vacuitá, si li naturalistic scole clarmen comprende su tache
+real: assecurar que omni hom cultivat, omni person competent save que
+Occidental existe e que it es melior. Ultra to it es necessi efortiar
+ganiar progressiv Esperantistes por nos per adressar les psicologicmen
+redactet informationes pri Occidental. Che nos, in Tchecoslovakia, li
+max activ Occidentalistes ha venit de Esperanto e Ido. Por ganiar les on
+besona corage e patientie, ma li resultates es bon. Nor triesim tache es
+mortar li sol esperantistic argument: que noi es poc. Nu, pos li guerre,
+nor movement have li chance intrar in un nov stadie, un ocasion quel it
+ne deve mancar. Li stadie del discussiones es finit; nor movement have
+fier aspirationes: ex un societé de table it vole devenir un movement
+impressent per gruppes national, per activ secretariatus, per productiv
+editorías, per li joyosi ecó de su congresses. Un trivialitá, quel
+idealistes tro sovente oblivia e quel li max alertes inter nos deve
+constantmen repetir, es que un idé sin base real, sin adherentes o
+potentie financial, brevimen sin factic influentie (in contrast a teoric
+excellentie) in li vive cultural del national, ne vive ma vegeta, e
+quasi ne have li jure exister.    J. Karen (Tchecosl.)
+
+ 
+
+-4-
+
+ 
+
+ 
+
+ 
+
+ 
+
+LI NOMENCLATURA SCIENTIC in li L.I.
+
+ 
+
+Conservante pri li factes exposit in nor articul \"Sinceritá in li
+L.I.\" un silentie tam prudent quam eloquent, Sr Schild de Basel
+responde nos in li nro 17 de su Buletino per un pelmel de citationes in
+queles il vole pruvar li importantie de latin in li nomenclatura
+scientic, e naturalmen\... li malinitá de Occidental in ti dominia.
+
+ 
+
+\"Iqui, scri Sr S. (iqui es un invention de sr. Sr., quel colla F. ici a
+I. qui!) non se pote eluder la latinitate sin credar du linguas: uno por
+lo populo ed una por la sciencia. Nos demandamos come Occidental pote
+formar per suas paroles \"finc, bussilex, milz, struz, tortug\" las
+paroles scientificas \"fringili-ideos, buxaceas, ilicaceas, lienite,
+strutionideos, testudinideos\", las quales vienen formatas regularmente
+in Neo-Latin ex \"fringila, buxo, ilice, liene, strutione, testudine.\"
+
+ 
+
+In prim, ex li 6 paroles Occ citat de sr. S. por apoyar su critica 4 es
+fals! Yes, desde 2 annus il cita sempre li parol \*finc\* por ataccar
+nor lingue, e il ne save que ti vocabul ne plu existe in Occ desde 1945!
+Li interimari academie de Occ ha viceat it per \*pinson\*, quam il va
+constatar it in li 4 lexicos publicat recentmen: Fundam. Vocabularium,
+lexico german-Occ, anglesi-Occ, e sved-Occ. Hodie ti combatte contra
+vente-molines ha sat amusat nos! Ínutil anc perfender \*milz\* quel ne
+plu existe in Occ, e es viceat de \*splen\* desde 4 annus. Splen es
+certimen plu bon quam \*liene\*, adoptet de Sr. S. nam it genite
+regularimen un masse de ti paroles scientic, objecte del tendri
+solicitude de nor censor: splend/algie, splen/ectomie, splen/ification,
+splen/ite, splenografie, splen/ologie, splen/oide, etc. etc. Apu ti
+extraordinari descendentie del grec parol splen, li unic lienite,
+apoyant li parol latin lien sembla derisori.
+
+ 
+
+Ma quande nor neo-latinistes erecte quam principie absolut li \"latinitá
+integral\", ili naturalmen es fortiat escartar grec, de quel li
+intrusion in latin gena lor purisme. Nu! noi es curiosi saver esque Sr.
+S. va rebaptisar li demi del comenclatura scientic e formar por exemple,
+ex su parol liene: lien/algie, lien/ografie, lien/olog, etc. Remarca que
+ti sufixes es grec e ne latin; e li purisme del lingue logicmen
+interdicte ti mixtura.
+
+ 
+
+It es anc astonant que un autor, quel introductet exceptiones per
+pallades in su L.I., e quel sucia pri regularitá quam yo pri mi unesim
+culotte, vole absolutmen far coincider li nómines de families con li
+animal tipic. Regretabilmen li classificationes in scienties es tam poc
+stabil que on risca sovente changear li vocabularium del L.I. si on basa
+it sur les. Ad-plu li scientistes customa prender por li animale tipic
+su nómine latin o grec \*quel es sovente diferent del parol max
+international\*. Esque on va escartar ti ultim por evitar al scientistes
+li pena aprender du radicas? To ne vell esser un avantage por ili, pro
+que \*ili ja conosse ti parol international\*. Por exemple tortugo es
+plu conosset quam testudine (e mem italian di testugine), e ad-plu li
+familie testudinies comprende, secun li recent classification, solmen un
+parte del tortugos, quel es gruppat sub li nómine de Chelonianes. Por
+haver li parol genitent li chelonianes (o chelonanes), on vell dunc
+dever adopter li parol grec khelone o chelone.
+
+ 
+
+-5-
+
+ 
+
+ 
+
+ 
+
+Li pretension de Sr. S. tolerar un \*unic\* radica por li nomenclatura
+scientic e por li usual vocabularium es contradit de il self quande in
+su N-L il adopte foyo por F. feu vice L. Ignis, quel sol genite li tot
+serie de derivates scientic: ignifuge, ignigene, ignition, ignivore,
+ignicole. E tamen it es li sam casu quam tis citat in comensa. Li unesim
+deve de un autor de L.I. es aplicar li principies quel il vole imposir
+al altres.
+
+ 
+
+In li sam Buletino nro 17, Sr. S. asserte, por justificar su campanie
+contra Occ. que on rejectet su propositiones de \"amelioratione\":
+\"Haveva ipso, il scri, ja facto proposiciones in esto senso ante 5
+annos, ma ilas hat sito rejectatas pro que estos cambiamentos havrian
+tropo fortemente modificato la morfologia de la linguo\".
+
+ 
+
+Or ante 5 annus comensat laborar ne li Academie regulari de Occ, quel
+esset impedit functionar pro li guerre, ma li academie interimari. Noi
+es autorisat declarar que ti-ci, a quel noi apartenet, nequande recivet
+alquel proposition de reforme o de amelioration de Sr. S. In revancha,
+li subsignate recivet de il li lettre ja mentionat in quel il expresset
+su deplesura pro que ti Academie interimari viceat alcun paroles per
+altres romanic, fortiante ti povri Sr. S. aprender un dozen de nov
+vocabules!
+
+ 
+
+Pos que Sr. S. permisset se publicar un opinion mutilat de nor
+colaborator Dr Pollog de Basel, ti-ci invia nos un copie del energic
+protestation quel il inviat a Sr. S., e ex quel noi cita solmen lu
+sequent: \"\...Yo trova plu quam strangi que per li citation de ti
+passu, forprendet ex li contextu, vu da al letores de vor Buletino que
+yo es adherente o adminim simpatisante a vor Neolatin, durante que ex
+nor corespondentie e conversationes vu conosse tre  bon mi ver opinion
+pri vor projecte! Yo regreta posser designar un tal action ne altrimen
+quam volet e intentet deception e dupation de vor letores\...\"
+
+ 
+
+Per li intermedie de Dr Pollog Sr. S. explica nos pro quo il ductet li
+passat hiverne un cursu de Esperanto: to esset solmen \"por ganiar moné,
+nam li Esperantistes hat ofertat le 8 Fr por du hores\". E il adjunte
+que durante ti cursu il \"nequande fat propaganda por Esp/o, ma in
+contrari explicat a su eleves, inter quar ocules, que li definitiv
+lingue auxiliari certimen ne va esser Esperanto\".
+
+ 
+
+Un ultim question: Quo garanti nos que Sr. S. ne ha dat li sam
+explication al gruppe esperantistic de Basel, afirmante que il vendi su
+cursu de Neo-Latin 3 Fr sviss solmen \"por ganiar moné\" e que \"li
+definitiv L.I. auxiliari certimen ne va esser Neo-Latin\"?
+
+ 
+
+Ric Berger
+
+ 
+
+ 
+
+OFICIAL INFORMATIONES
+
+ 
+
+Per li votationes evenit recentmen in li Occidental-Union, li senat e li
+academie ha esset reelectet regularimen. Dr Haas, de Winterthur
+(Svissia) ne possent acceptar li presidentie, li unesim vice-presidente
+L.M. de Guesnet es promoet presidente del Union. Es nominat vice
+presidentes Dr Homolka (Vienne) e Dr Poggenbeck (Rotterdam). Li nómines
+del membres del Senat va esser publicat in nor proxim nro. - Sr Lagnel
+es reelectet quam Director del Central Oficie per li totalité del 19
+membres votant del Senat.
+
+ 
+
+Li academie nominat del senat, includet 3 membres cooptat, es composit
+del 15 membres sequent: Svissia: Matejka, Haas, Berger; Svedia:
+Berggren, Blomé, v. Sydow; Italia: Bevilacqua; Hispania: Varela;
+Finnland: Ramstedt; Nederland: Poggenbeck; ANglia: Federn, Littlewood;
+Tchecoslovacia: Podobsky; Germania: Feder; Francia: de Guesnet.
+
+ 
+
+Li academie regulari va strax recomensar su labor pos un interruption de
+10 annus.
+
+ 
+
+-6-
+
+ 
+
+ 
+
+IT ES BON QUE LI MORTE ES SUR LI MUNDE
+
+ 
+
+Raconta populari tchec
+
+ 
+
+In li ancian témpores, quande Dómino Jesu e Sant Petro migrat sur li
+munde, ili venit anc unquande ante li crepuscul che un forjero e petit
+li pernocta. Li forjero, jettante li martelle quel il tenet in su manus
+sub li incude, invitat les strax tre amabilmen e ductet les in li
+chambre; poy il ordonat preparar un bon supé. E quande li supé esset
+finit, il dit a su gastes: \"Yo vide que vu es tre fatigat pro vor long
+viage e que vu desira reposar - li tempe esset ya tam calidissim hodie -
+ples dunc prender mi lette e dormi; yo va interim ear dormir sur li
+pallie in li graniere.\" Poy il desirat les bon nocte e foreat. E quande
+venit li matine, il ofertat les li dejuné e acompaniat les ancor durant
+un parte del via. E adiante les, il dit: \"Yo ofertat vos quo yo havet;
+ples contentar vos con lu poc.\"
+
+ 
+
+Tande Sant Petro tirat Jesú per li manche e dit: \"Dómino! esque tu ne
+va recompensar le in alquel maniere, pro que il es tam bon e
+charitabil?\"
+
+ 
+
+Jesu respondet le: \"Li recompensa de ti-ci munde es van, ma yo prepara
+por il un altri tal in li cieles\". Poy il tornat se al forjero e dit
+le: \"Demanda quocunc tu desira; yo va satisfar tri tui petidas.\"
+
+ 
+
+Tande li forjero joyat e dit: \"Si tal es tui vole, Dómino, ples far que
+yo mey viver ancor un centene de annus in sanitá quam hodie\".
+
+ 
+
+E Jesu dit: \"It va evenir quam tu demanda. E quo tu desira ancor?\"
+
+ 
+
+Li forjero reflectet un poc e dit: \"Quo yo posse desirar? Yo standa bon
+e to quo yo besona chascun die, yo va sempre ganiar mersí a mi mestiere.
+Ples dunc far que yo mey sempre haver sat mult labor quam til nu.\"
+
+ 
+
+E Jesu respondet: \"anc to va esser fat. E quel es tui triesim desir?\"
+
+ 
+
+Tande li bon forjero plu ne savet quo dir; ma pos har reflectet un
+moment, il dit: \"Si tu, Dómino, es tam bon, ples far que quicunc
+sedenta sur li stul sur quel tu ha sedet che me detra li table, mey
+restar glutinat a it e ne mey posser mover de ti loc til que yo va
+liberar le?\"
+
+ 
+
+Sant Petro ridet pri to, ma Dómino Jesu dit: \"It va evenir quam tu
+desira.\"
+
+ 
+
+Poy il adiat e durante que Dómino Jesu e Sant Petro continuat lor via,
+li forjero retornat joyosimen a su hem. E omnicos evenit quam promesset
+de Dómino Jesu. Quande omni su conossetes ja hat morit, il ancor restat
+san e frisc quam li pisc; il havet sat mult a laborar e il cantat del
+matine til li véspere.
+
+ 
+
+Ma omnicos fini in su témpore. Anc li centene de annus passat e li morte
+frappat ye li porta.
+
+ 
+
+\"Qui es ta?\" questionat li forjero.
+
+ 
+
+\"It es yo, li morte, e yo veni por te!\"
+
+ 
+
+-7-
+
+ 
+
+ 
+
+\"O, esse benvenit!\" dit li forjero con deceptiv ridette, \"ples
+intrar, estimat seniora! Benevole atender un poc til que yo va har
+arangeat li martelles e pinces. Strax yo va esser pret. Interim ples
+sedentar vos in ti stul; yo save que vu es fatigat e que vu have mult a
+far in ti munde\".
+
+ 
+
+Li morte suspectet nequó e acceptat con plesura li invitation del
+forjero. Alor ti-ci ridet bruosimen e dit: \"E nu ples seder e ne mover
+del loc til que yo va ordonar it.\"
+
+ 
+
+Li morte provat levar se, cliquettante per li osses e grinsante per li
+dentes, ma in van: ínpossibil mover del loc. Ella esset fortiat restar
+in li stul, quam adforjat. Li forjero tenet su ventre pro ridida. Il
+cludet li porta e continuat su labor, tre content pro que il plu ne
+besonat timer li morte inprisonat in su dom. Ma su joya ne durat long e
+bentost il esset fortiat aconosser su erra.
+
+ 
+
+Il havet in su stall un bell grass porc. In su joya il decidet mortar it
+e pender it in li camina, pro que il amat bell fumicat jambones. Il
+prendet un hacca e dat per ti-ci al porc un tam fort colpe sur li cap
+que it cades sur li terra. Ma quande il abassat se por prender li
+cultelle, volente tranchar li carne e capter li sangue in li potte por
+far salsices, li svin subitmen levat se e forcurret gruniente. Ante que
+li forjero hat retrovat su spíritu, li animale ja hat celat se in su
+stall.
+
+ 
+
+\"Atende, svinacho!\" dit li forjero, \"yo va támen haver te!\" Interim
+il eat in li gans-stall e captet un gans. Il nutrit it ja desde du
+semanes - por li festa del village. \"Yo va por hodie contentar me per
+tui carne, pos que li salsices ha forcurret\" il dit a se self. E hante
+prendet li cultelle, il tranchat li col del gans. Ma - oh miracul! ni un
+gutte de sangue cadet sur li terra e quande il retraet li cultelle, il
+ne videt li minim tracie de vúlnere. E profitante de su astonament, li
+gans captet li ocasion por escapar de su manus e retrovolat in su stall,
+cacareante.
+
+ 
+
+Vermen li bon motives ne mancat por metter li forjero in colere. Li die
+esset tam bell por le e nu it vell esser le interdit delectar se per
+rostat carne? Il ne ocupat se plu ni pri li gans ni pri li svin; il eat
+vers li columbiera e captet du columbettes. E por que anc ti du ne mey
+posser mocar se pri le, il prendet li hacc e tranchat lor capes sur li
+trunc, ambi per un sol colpe. \"Ha, finalmen vu es mort!\" il dit a se
+self e jettat les sur li terra. Ma - oh miracul! strax pos que ili hat
+tuchat li terra, lor capes adheret denove al coles e frrr! anc li
+columbettes ja esset for. Alor li forjero comprendet. Battende su fronte
+per li punie il dit: \"Naturalmen, naturalmen! Yo ne reflectet pri to:
+nequó posse morir pro que yo ha captet li morte che me!\" Il clinat li
+cap e ne sentit li minim joya ye li pensa que il vat por sempre dever
+abandonar li bell jambones e salsices, li saporosi festal ganses e li
+rostat columbettes. Ma quo far? Liberar li morte? Certmen ne: ella vell
+in prim prender le self con se. Dunc il decidet: vice carne il vell de
+nu manjar pises e purés e vice consumar rostages il vell delectar se per
+tortes. To ya anc es bon\... si on ne have altricos.
+
+ 
+
+Tam long quam il havet provisiones, omnicos eat bon e il esset content.
+Ma venit li verne e con it li ver misere! Omni animales queles vivet in
+li passat annu esset revivificat; ni un sol mancat! Ultra to nascet un
+tam grand quantité de yunes, que ili plenat omni locos. Li avies, muses,
+locustes, scarabés, vermes e
+
+ 
+
+-8-
+
+ 
+
+ 
+
+ 
+
+altres manjat e devastat completmen li cereales in li campes; li prates
+esset quam combustet, li árbores stat quam balayes, li papiliones e li
+erucas devorat li folies e li flores - e on ne posset mortar ni un! Li
+lagos e li fluvies esset invadet de tam mult pisces, ranes, aranés aqual
+e altri insectes que li aqua devenit malodorosi e ínconsumabil. Li aere
+esset populat de nubes de moscas e mosquitos durant que armés de hideos
+insectes covrit li terra. Per lor númere ili vell har esset capabil
+exterminar li homes si tis-ci vell har posset morir. E pro to li homes
+passat demí-mort quam li ombres, ne possente ni viver ni perir.
+
+ 
+
+Vidente qual ínfortune il hat causat al munde per su stult demanda, li
+forjero dit: \"Vermen Deo fat bon portante li morte sur li munde!\"\'
+
+ 
+
+Il eat e liberat li morte quel naturalmen strax prendet le con se. E
+talmen omnicos retornat poc a poc al normal órdine.
+
+ 
+
+Trad. Jaroslav Podobský
+
+ 
+
+ 
+
+NOR COLABORATORES
+
+ 
+
+(Image de tri mannes)
+
+ 
+
+W. BLASCHKE (AUSTR) \-- A. CEBREIROS (HISP.) \-- J. PODOBSKÝ (TCHEC.)
+
+ 
+
+PENSAS
+
+ 
+
+Li max violent expression de dolore es sarcasme.
+
+ 
+
+Íngratitá es un invention de fals benefatores.
+
+ 
+
+It existe poc libres ex queles on ne vell posser aprender qualmen on ne
+deve scrir.
+
+ 
+
+Noi plu voluntarimen aconosse erras general quam erras particulari.
+
+ 
+
+Sovente on besona plu mult corage por tuchar a bagatelles quam por
+combatter grand erras. Li micri coses have plu mult adeptes.
+
+ 
+
+It vell restar poc de to quo noi nómina conscientie si noi vell posser
+far abstration del ínevitabil consequenties del male comettet. 
+ Multatuli
+
+ 
+
+-9-
+
+ 
+
+ 
+
+ 
+
+AL TRADUCTORES
+
+ 
+
+1/ Si tu traducte por tui propri plesura, traducte to quo te plese sin
+suciar pri li opinion del altres. Tu es un líber mann e nequi have li
+jure demandar te un justification pri li selection de tui original
+textus.
+
+ 
+
+2/ Si tu traducte por perstudiar Occidental, o por demonstrar que ti
+lingue posse bon traducter omnicos, selecte preferibilmen curt textus ex
+li max diversi fontes.
+
+ 
+
+3/ Si tu vole traducter alquo util por li extranes, ne selecte li Bible
+quel existe ja in omni lingues del munde. Prende un textu interessant o
+valorosi quel ne ha esset ja traductet in altri lingues. Talmen tu va
+servir max bon li afere del L.I.
+
+ 
+
+4/ Ne crede que li scope del L.I. es traducter poemas o mem litterari
+prosa quel tu vell certimen mutilar. Prefere temas scientic o tecnic, o
+professional o social. Anc artes, politica, religion, comercie, sport,
+turisme, etc, furni tre bon materiale traductibil.
+
+ 
+
+5/ Conscie que tui Occ va esser leet anc de persones quel ne save
+francesi. Dunc, atention al idiomatic expressiones! Por ex., ne traducte
+\"il a beau dire\" per \"il have bell dir\", quel li altri nationes ne
+vell comprender. Tamen, aproxima te tam mult quam possibil al frase del
+autor, a su propri stil con omni nuancies e images, ma respectante in
+prim scrupulosimen su pensada. In curt, conscie que Occ posse traducter
+omnicos tre clarmen, e pruva it!
+
+ 
+
+6/ Si tu senti que li supression de qualcunc particulari expression, o
+mem un picturesc idiomatisme, apovra tui traduction, ne evita it. In ti
+casu, traducte parol pos parol, ma da un explication per un ped-nota, in
+paroles clar por omnes. Talmen, tu va esser mersiat de tui letores pro
+ne har privat les del color o atmosfere volet del autor.
+
+ 
+
+7/ Ne oblivia que un cert criticator guata viciosimen tui erras. Dunc,
+consulta sovente tui vocabularium e grammatica, mem si tu por to deve
+sucusser un poc tui abominabil indolentie. Naturalmen, tu have li jure
+repulser mi consilies e inviar me al diábol che quel un die yo va
+certimen retrovar te.   LI-CHI-NAN
+
+ 
+
+LI AMORE IN LI ETÁ DEL PETRE
+
+ 
+
+(Quar comic images)
+
+ 
+
+Inamoration \-- Declaration \-- Flirt \-- Pos un annu
+
+ 
+
+-10-
+
+ 
+
+ 
+
+LI FÉMINAS
+
+ 
+
+Til un recent témpor li féminas ha poc interessat se al problema del
+lingues international. Inter li circa 700 autores de L.I. ne un sol,
+secun nor saventie, es un fémina. Li psicologos asserte que li cerebre
+feminin ne es creatori essentialmen. Su dominia es ante omnicos li
+sentiment, li tradition. Just pro ti sentiment li féminas, quande ellas
+adhere a un sistema, resta fidel a it sin lassar se influentiar del
+rason. Li Esperantistas, quel noi conosset, semblat nos plu faruchimen
+atachat a Esp/o quam Zamenhof self!
+
+ 
+
+Che li Idistes noi memora ancor Sra Lafay de Paris, hodie mort, quel
+monstrat un cultu al logica de Ido tam plu meritori que li logica
+matematic have poc atration por li cerebres feminin.
+
+ 
+
+Nor movement Occ es ancor tro recent por har ligat a se li fidelitá del
+féminas, exceptet li maritas de nor adherentes. Ma ancor noi ne deve tro
+mult ilusionar nos: Li interesse monstrat de ti maritas es un specie de
+resignation. Ellas fa li sequent rasonament: \"Durante que mi marito
+scri su Occidental, alminu il ne ea in li cafeerías trincar li salarie
+del semane. Nor car maritos besona sempre un marotte: tam bon ti-ci quam
+li post-marcas o li fumation del pipes\".
+
+ 
+
+Mersí a ti jolli filosofie, nor adherentes coresponde in pace, con li
+tacet aprobation de lor amabil maritas. Forsan ti passiv tolerantie va
+esser viceat de un sincer desire aprender li lingue international.
+Interim noi profita ti retarde por parlar líbermen pri ti car companas,
+inter noi mannes, esperante que li present numeró de Cosm. ne va cader
+sub lor ocules, in quel casu it va esser desirabil que Occidental ne es
+tam \"ínmediatmen comprensibil\" quam noi raconta it in nor prospectes
+de propaganda.
+
+ 
+
+Dunc, de un látere, nor féminas es charmant, noi repeti it, ma li veritá
+fortia nos confesser que ti opinion ne es tam universal quam on vell
+desirar it. Li negatores es numerosi, regretabilmen. Ja in li max alt
+antiquitá li grand filosofos hat formulat lapidari judicies.
+
+ 
+
+Salomon: Li fémina es plu amari quam li morte. Ex 1000 mannes, yo trovat
+un bon, ma ex omni féminas, ne un sol.
+
+ 
+
+Ciceron: Sin li féminas le homes vell har conversat con li deos.
+
+ 
+
+Aristotel: Li natura parturi féminas solmen quande it ne posse parturir
+mannes.
+
+ 
+
+Sant Gregorio: Un fémina bon es plu íntrovabil quam un blanc corvo.
+
+ 
+
+-11-
+
+ 
+
+ 
+
+Erudit comentatores ha develat de u veni ti mal reputation, e studiat li
+defectes feminin, specialmen li sequentes:
+
+ 
+
+Li \*Babillacitá\*, in prim ha devenit un ver torment, sin que, in li
+curse del secules on ha remarcat un qualcunc amelioration. Ante ne long
+un guidanto por turistes che li Niagara exclamat:
+
+ 
+
+\- E ci, Senioras, es li grandiosi cataracte. Si vu benevole tacer un
+moment, vu va posser audir li fracasse de it.
+
+ 
+
+Naturalmen li maritos es li unesim victimes de ti exuberantie de
+paroles:
+
+ 
+
+\- Quel es vor secrete? questionat recentmen un jurnalist a un mann,
+quel pervenit a su 100-esim annu, e quel conosset un marital felicitá
+sin nube desde 75 annus. Il respondet: Yo tacet.
+
+ 
+
+Ad-ver ti beson maledir es solmen in superficie e indige felicimen un
+conviction.
+
+ 
+
+Un fémina dit un vez pri su gaste: \"Il cuida por depleser me\". Ili
+querellat se, ma un poc plu tard, quande on dit male pri le, ella
+replicat: \"Yo vell har credet to ante six mensus, ma hodíe no, pro que
+noi es reconciliat.
+
+ 
+
+Li \*etá\* es un tema, pri quel it es dangerosi questionar un fémina.
+Mem un simplic alusion posse provocar un desagreabil accident. On save
+que in li tribunales li judicos e policistes deve manovrar con un
+diabolic habilitá, quande li leges obliga a un declaration del etá, por
+obtener un confession conform al veritá con un aproximation de 10 annus.
+
+ 
+
+Li timore feminin ductet un filosof condensar su reflexiones in ti-ci
+proverbie: \"It es minu dangerosi traer li caude de un tigre quam atraer
+li atention de un fémina a su unesim gris capille.\"
+
+ 
+
+(Image: \"E nu, esque yes o no tu es partisan del vota del féminas?\")
+
+ 
+
+Li Sufragie feminin. - Til un recent epoca li féminas havet in null loc
+li jure de vota. Li sufragie feminin es un conquesta tam nov que noi
+memora ancor li annus stormosi pos 1900 durante quel ardent
+\"sufragiettes\" combattet per omni medies por obtener li jure votar.
+Noi just retrova
+
+ 
+
+-12-
+
+ 
+
+in un revúe old de 30 annus li supra caricatura quel ilustra un de ti
+medies de persuasion, avan quel un mann rasonabil prefere ne obstinar se
+long in su erras antifeministic.
+
+ 
+
+E tamen ti entes tam avid a guvernar ne es facilmen guvernabil. Ti
+assertion es fundat sur li sequent autentic raconta:
+
+ 
+
+Serchante un vez in old manuscrites, li duc de Broglie esset interessat
+del narration de old customes del antiqui civilisationes. Durante un
+session del Academie francesi a quel partiprendet li famosi scritor Jean
+Tharaud, il exposit a ti-ci su decovritiones.
+
+ 
+
+\- Save vu que in cert landes del antiquitá un rey posset reciver li
+coron in li etá de 14 annus, ma ne posset prender fémina ante 18 annus.
+
+ 
+
+\- Yo considera to quam tre logic, respondet Jean Tharaud. It es plu
+facil guvernar un reyia quam un fémina!
+
+ 
+
+Li Jalusie. - Si noi crede li ultim historicos, ti defecte essentialmen
+feminin vell har aparit in terrestri Paradise ja desde li comensa. Nam
+Eva, strax pos su nascentie ex un coste de Adam, esset tam desfident que
+omni matines ella contat li costes de su marito por verificar esque it
+ne mancat un secund coste, quo vell har pruvat (horrore!) li nascentie
+de un secund compana. Con ti maritos on nequande es cert pri lor
+fidelitá.
+
+ 
+
+In USA, u li féminas, mersí a lor grand influentie, obtenet draconan
+leges contra li ínfidelitá, un prenómine feminin diferent de ti de su
+marita, chuchotat del marito in su dorme, sufice al injuriat marita por
+posser demandar e obtener li divorcie a su profite.
+
+ 
+
+Dunc, quande un nocte Jack Mutton, in su dorme, murmurat con
+ravissement: \"Carmen, Luise, Manon!\", li afere semblat evoluer mal por
+le, nam su marita hat audit le. Ella fat le violent reprochas li sequent
+matine, ma Jack havet li luminosi idé explicar la:
+
+ 
+
+\- Mi car amica, tu erra. Yo ne revat pri féminas, ma pri óperas quel yo
+audit recentmen!
+
+ 
+
+(Image: \"Si Dorothy Lamour vell petir te nettar su tapisses, tu ne vell
+far un tal mime.\")
+
+ 
+
+Li marita contentat se de ti explication; e Jack mult joyat pro que li
+storm esset escartat. Ma it eclatat quelc dies plu tard quande,
+reveniente ad-hem, Jack trovat su marita rubi de colere:
+
+ 
+
+\- Esque tu save, ella dit, que un de tui \"óperas\" ha vocat te in li
+telefon?
+
+ 
+
+Li \*Bellitá\* tam celebri del fémina es in realitá un resultate del bon
+guste e del constant cuidas del mann tra li secules. Selectente sempre
+li max plesent
+
+ 
+
+-13-
+
+ 
+
+ 
+
+ 
+
+fémina por marital la e haver descendentes in chascun generation, nor
+antecessores ha talmen poc a poc ameliorat li bellitá del fémina. \"Ti
+bellitá, scri li famosi scritor e astronom Flammarion, sembla esser un
+producte del civilisation. In li statu savagi li fémina es sempre plu
+desbell quam li mann. De generation a generation li féminas devenit plu
+bell, plu desirabil, e de humil compane ella devenit li mastressa a quel
+nequó e nequí resiste. Ma tande, pro su potentie, ella avocat li
+severitá del scritores pagan filosofos e patres eclesial\" (Ples vider
+in supra lor judicas!)
+
+ 
+
+Li altri son de cloche: Naturalmen, mersí a lor ínresistibil charme li
+féminas ha trovat entusiasmat defensores che li mannes. Li ínpartialitá
+fortia nos far audir anc lor son de cloche. Vi dunc recomfortant
+declarationes quel nor amico Sr. Kurt Feder de Germania just traducte
+por nos ex german:
+
+ 
+
+Goethe: Li relationes con féminas es li elemente de bon mores.
+
+ 
+
+Cervantes: Li mann forma e educa il munde, ma li mann es educat del
+fémina.
+
+ 
+
+Persan proverbie: Solmen ti mann jui li vive quel ne have marita.
+
+ 
+
+Kungfutse: Li fémina es li chef-ovre del deo munde-creatori.
+
+ 
+
+Saphir M.G.: Féminas es gratificationes del ciel al mannes.
+
+ 
+
+Ric Berger
+
+ 
+
+(Image 1)
+
+Li marito: Ti carne es vermen durissim
+
+Li marita: Naturalmen, tu di to pro que it es mamá!
+
+ 
+
+(Image 2)
+
+\- Yes! Yo ama te\... yo ama te\... Esque nu tu es content?
+
+ 
+
+-14-
+
+ 
+
+ 
+
+CACUMA
+
+ 
+
+Yo es foll! \... Omnes di to! \... Li tot village e li paisanes in li
+campania. E foll\... pro quo?
+
+ 
+
+Pro mi amore al yun e bell Cacuma!
+
+ 
+
+Yo questionat Cacuma: \"Esque un yun mann, quel ama un bell senioretta
+es foll?\"
+
+ 
+
+Ella ridet avan mi ocules e fugit tra li prates.
+
+ 
+
+Un die, quande su agnes, disperset tra li prates, dulcimen pasturat, yo
+aproximat me a ella e dit: \"Bon die, Cacuma! Hodie li tempe es magnific
+e li agnes tam dulcimen pastura!\"
+
+ 
+
+Ella regardat me con su du passionosi ocules e respondent: \"Yo ama mi
+agnes. Ili es tam docil e bon! Ti-ci nómina se Libuschca e ti-ci
+Maruschca. Ili es blanc quam nive e lor voce es sonori quam li
+clochette.\"
+
+ 
+
+\"Cacuma, yo dit, esque noi ne posse esser felici sub li lúmine del
+sole, in quel li capes del rubi papavres es quasi micri flammettes in li
+campania?\"
+
+ 
+
+Ella regardat me astonat e per su baston fat alquel signes sur li terra.
+
+ 
+
+Yo expectat li response, ma ella tacet durante que ella moet lentimen su
+baston sur li herbe.
+
+ 
+
+\"Cacuma, esque noi ne posse viver felici? Lontan del munde con tui
+agnes, ta u li áquiles fa lor nestes e li capres agilmen salta sur li
+roccas! Noi va haver mult agnes, noi va devenir rich e noi va esser
+felici!\"
+
+ 
+
+\- No, to es ínpossibil, ella respondet, yo es cigana! Yo ama esser
+líber, viver in li líber natura, vagar de un loc al altri sin saver u es
+mi hem\... A me plese esser hodie ta apu alquel village e deman sur li
+rive de alquel rivere.\"
+
+ 
+
+\- Ma to fa nequó, si tu es cigana.
+
+ 
+
+Ma ella tornat se al torrente, saltat levimen quam un capra e rapidmen
+desaparit in li foreste\...
+
+ 
+
+E yo, trublat per li ínquietitá, clamat vocosimen: \"Cacuma, yo ama te!
+Yo ama tui brunatri visage, tui flammeant e nigri ocules, plen de
+passiones!\"
+
+ 
+
+Nequí respondet a mi paroles, solmen yo quasi ancor audit in mi oreles
+su sonori voce: \"Yo es cigana!\"
+
+ 
+
+E yo cadet sur li terra, e quam foll yo plorat por li unesim vez pro
+Cacuma\...
+
+ 
+
+Original raconta de P. Dimitriev, Tchecosl.
+
+ 
+
+ 
+
+CONTENETE
+
+ 
+
+Omni articules de ti numeró es originales in Occidental)
+
+ 
+
+Dr Homolka: In memorie de Edgar de Wahl. - Karen J: Li actual situation
+interlinguistic. - Berger Ric: Li nomenclatura scientic, oficial
+informationes, nor colaboratores, li féminas. - Podobsky J.: It es bon
+que li morte es sur li munde. - Multatuli: Pensas. - Li-Chi-Nan: al
+traductores. - Dimitriev P. Cacuma
+
+ 
+:::
