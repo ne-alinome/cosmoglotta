@@ -1,3 +1,43 @@
 = Cosmoglotta
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-02-24
+:revdate: 2019-05-14
+:toc:
+:toc-title: Contenete/Contents
+
+// This file is part of project
+// _Cosmoglotta_
+//
+// by Marcos Cruz (programandala.net)
+// http://ne.alinome.net
+//
+// This file is in Asciidoctor format
+// (http//asciidoctor.org)
+//
+// Last modified 201905141655
+
+== Interlingue
+
+=== Pri ti projecte
+
+Scope:: Converter li contenetes de _Cosmoglotta_, li central jurnale
+de Interlingue, in libres digital in EPUB e altri formates.
+
+Autores:: Dave McLeod, 2018-2019; Marcos Cruz, 2019.
+
+Web-locs:: http://cosmoglotta.pbworks.com[cosmoglotta.pbworks.com
+(fasa 1: textification)]; http://ne.alinome.net[ne.alinome.net (fasa
+2: librification digital)].
+
+== English
+
+=== Abouth this project
+
+Goal:: Convert the contents of _Cosmoglotta_, the main magazine of the
+language Interlingue (Occidental), into ebooks in EPUB and other
+formats.
+
+Authors:: Dave McLeod, 2018-2019; Marcos Cruz, 2019.
+
+Websites:: http://cosmoglotta.pbworks.com[cosmoglotta.pbworks.com
+(phase 1: text conversion)]; http://ne.alinome.net[ne.alinome.net
+(phase 2: creation de e-book)].
