@@ -13,7 +13,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201905141655
+// Last modified 201905141718
 
 == Interlingue
 
@@ -24,9 +24,9 @@ de Interlingue, in libres digital in EPUB e altri formates.
 
 Autores:: Dave McLeod, 2018-2019; Marcos Cruz, 2019.
 
-Web-locs:: http://cosmoglotta.pbworks.com[cosmoglotta.pbworks.com
-(fasa 1: textification)]; http://ne.alinome.net[ne.alinome.net (fasa
-2: librification digital)].
+Web-locs::
+1. textification: http://cosmoglotta.pbworks.com[cosmoglotta.pbworks.com]
+2. librification digital: http://ne.alinome.net[ne.alinome.net]
 
 == English
 
@@ -38,6 +38,6 @@ formats.
 
 Authors:: Dave McLeod, 2018-2019; Marcos Cruz, 2019.
 
-Websites:: http://cosmoglotta.pbworks.com[cosmoglotta.pbworks.com
-(phase 1: text conversion)]; http://ne.alinome.net[ne.alinome.net
-(phase 2: creation de e-book)].
+Websites::
+1. text conversion: http://cosmoglotta.pbworks.com[cosmoglotta.pbworks.com]
+2. e-book creation: http://ne.alinome.net[ne.alinome.net]
