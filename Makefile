@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201902241445
+# Last modified 201905141742
 # See change log at the end of the file
 
 # ==============================================================
@@ -55,6 +55,10 @@ pdfletter: target/$(book_basename).adoc.letter.pdf
 .PHONY: clean
 clean:
 	rm -f target/* tmp/*
+
+# A temporary rule:
+.PHONY: it
+it: target/$(book_basename).md.epub
 
 # ==============================================================
 # Convert Asciidoctor to PDF
@@ -149,9 +153,25 @@ target/$(book_basename).adoc.xml.pandoc.odt: \
 		--output $@ $<
 
 # ==============================================================
-#
+# Convert Markdown to EPUB
+
+# This is a temporary rule, needed only during the first phase of the project.
+
+# XXX FIXME -- pandoc: out of memory (requested 1048576 bytes)
+
+target/$(book_basename).md.epub: src/$(book_basename).md
+	pandoc \
+		--from markdown \
+		--to epub \
+		--variable=lang:$(lang) \
+		--variable=editor:$(author) \
+		--variable=publisher:$(editor) \
+		--variable=description:$(description) \
+		--output $@ $<
 
 # ==============================================================
 # Change log
 
 # 2019-02-24: Start.
+#
+# 2019-05-14: Add a temporary rule to convert from Markdown to EPUB.
