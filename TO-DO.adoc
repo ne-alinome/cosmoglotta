@@ -2,6 +2,8 @@
 :author: Marcos Cruz (programandala.net)
 :revdate: 2019-05-15
 
-- Fix Esperanto letters "g\\\*" -> "ĝ".
 - Convert constrained bold markup.
 - Convert "\\'" -> "'".
+- Unescape bold markups inclosing accented letters.
+- Unescape bold markups inclosing more than one line.
+- Adapt asterisks used to mark footnotes.
