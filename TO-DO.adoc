@@ -4,8 +4,8 @@
 
 - Convert constrained bold markup.
 - Convert "\\'" -> "'".
-- Unescape bold markups inclosing accented letters.
 - Adapt asterisks used to mark footnotes.
 - Fix escaped "--".
 - Convert escaped quotes.
 - Convert escaped ellipsis. 
+- Check remaining escaped asterisks.
