@@ -14,4 +14,3 @@
 - Delete duplicated article "STENOGRAFIE E INTERLINGUE".
 - Fix splitted numbers: use hard spaces.
 - Fix paragraphs divided by images or their descriptions.
-- Fix "l" -> "1" in OCR-ed lists.
