@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-05-15
+:revdate: 2019-05-19
 
 - Convert constrained bold markup.
 - Convert "\\'" -> "'".
@@ -9,3 +9,9 @@
 - Convert escaped quotes.
 - Convert escaped ellipsis. 
 - Check remaining escaped asterisks.
+- Fix "\- " at the start of the line -> "--".
+- Fix ellipsis without trailing space.
+- Delete duplicated article "STENOGRAFIE E INTERLINGUE".
+- Fix splitted numbers: use hard spaces.
+- Fix paragraphs divided by images or their descriptions.
+- Fix "l" -> "1" in OCR-ed lists.
