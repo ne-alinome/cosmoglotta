@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-05-19
+:revdate: 2019-05-20
 
 - Convert constrained bold markup.
 - Convert "\\'" -> "'".
@@ -16,3 +16,5 @@
 - Fix paragraphs divided by images or their descriptions.
 - Fix ellipsis with leading space: Keep the trailing space if it's an
   actual ellipsis in a quote.
+- Expand abbreviations of "Cosmoglotta": Cgl, Cossm, Cgl.-Inf.,
+  Cgl-Inf, Cgl-Informationes.
