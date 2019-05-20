@@ -19,4 +19,5 @@
 - Expand abbreviations of "Cosmoglotta": Cgl, Cossm, Cgl.-Inf.,
   Cgl-Inf, Cgl-Informationes.
 - Convert Mediawiki's "'''" (escaped by backslashes).
+- Fix "km." -> "km".
 
