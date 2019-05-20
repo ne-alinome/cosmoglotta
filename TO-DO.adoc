@@ -1,12 +1,11 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-05-20
+:revdate: 2019-05-21
 
 - Convert constrained bold markup.
 - Convert "\\'" -> "'".
 - Adapt asterisks used to mark footnotes.
 - Fix escaped "--".
-- Convert escaped quotes.
 - Convert escaped ellipsis. 
 - Check remaining escaped asterisks.
 - Fix "\- " at the start of the line -> "--".
@@ -18,5 +17,5 @@
   actual ellipsis in a quote.
 - Expand abbreviations of "Cosmoglotta": Cgl, Cossm, Cgl.-Inf.,
   Cgl-Inf, Cgl-Informationes.
-- Convert Mediawiki's "'''" (escaped by backslashes).
+- Convert Mediawiki's "'''".
 
