@@ -18,4 +18,16 @@
 - Expand abbreviations of "Cosmoglotta": Cgl, Cossm, Cgl.-Inf.,
   Cgl-Inf, Cgl-Informationes.
 - Convert Mediawiki's "'''".
-
+- Remove dots at the end of section titles.
+- Add a block markup before the blocks following the content lists
+  which are at the end of the issues. These last sections generally
+  contain news about new books.
+- Remove the original content lists. It looks they are not accurate
+  (sometimes they are incomplete, the titles are different than the
+  actual ones, or are in a different order), and their format is
+  heterogeneous. Besides, they are useless in a digital book, because
+  the TOC is built out of the actual headings. Preserving the original
+  content lists an converting into links would be too much work for no
+  gain.
+- Confirm: "Neredith" or "Meredith" Knox Gardner. Also used "M.K.
+  Gardner".
