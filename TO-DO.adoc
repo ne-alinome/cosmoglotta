@@ -39,4 +39,3 @@
   already fixed).
 - Homogenize the format of article authors' names: Move them to their
   own paragraph.
-- Fix "mm." -> "mm".
