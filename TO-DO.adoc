@@ -35,3 +35,5 @@
   Asciidoctor block markups.
 - Convert footnotes.
 - Comment out and mark notes about missing images.
+- Fix remaining symbols that are used as abbreviatures (km and m are
+  already fixed).
