@@ -33,7 +33,9 @@
   Gardner".
 - Check the original verbatim marks `****`: they are a type of
   Asciidoctor block markups.
-- Convert footnotes.
+- Convert remaining footnotes.
 - Comment out and mark notes about missing images.
 - Fix remaining symbols that are used as abbreviatures (km and m are
   already fixed).
+- Homogenize the format of article authors' names: Move them to their
+  own paragraph.
