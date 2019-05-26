@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-05-22
+:revdate: 2019-05-26
 
 - Convert constrained bold markup.
 - Convert "\\'" -> "'".
@@ -39,3 +39,4 @@
   already fixed).
 - Homogenize the format of article authors' names: Move them to their
   own paragraph.
+- Correct J. Kajs -> J. Kajš.
