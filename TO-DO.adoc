@@ -18,7 +18,7 @@
 - Expand abbreviations of "Cosmoglotta": Cgl, Cossm, Cgl.-Inf.,
   Cgl-Inf, Cgl-Informationes.
 - Convert Mediawiki's "'''".
-- Remove dots at the end of section titles.
+- Remove dots and other punctuation at the end of section titles.
 - Add a block markup before the blocks following the content lists
   which are at the end of the issues. These last sections generally
   contain news about new books.
@@ -39,3 +39,5 @@
   already fixed).
 - Homogenize the format of article authors' names: Move them to their
   own paragraph.
+- Markup subsections of "Cronica", e.g. lands.
+- Homogenize headings in lowercase.
