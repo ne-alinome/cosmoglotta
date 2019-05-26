@@ -41,3 +41,4 @@
   own paragraph.
 - Markup subsections of "Cronica", e.g. lands.
 - Homogenize headings in lowercase.
+- Make footnotes about the new headings.
