@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-05-26
+:revdate: 2019-05-27
 
 - Convert constrained bold markup.
 - Convert "\\'" -> "'".
@@ -43,3 +43,4 @@
 - Homogenize headings in lowercase.
 - Make footnotes about the new headings.
 - Fix "?" and other punctuation at the start of the lines.
+- Replace the deprecated `footnoteref` macro with `footnote` and a target.
