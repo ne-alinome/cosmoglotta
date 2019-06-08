@@ -43,4 +43,7 @@
 - Homogenize headings in lowercase.
 - Make footnotes about the new headings.
 - Fix "?" and other punctuation at the start of the lines.
-- Replace the deprecated `footnoteref` macro with `footnote` and a target.
+- Replace the deprecated `footnoteref` macro with `footnote` and a
+  target.
+- For clarity, replace "LI" with "L.I." (both forms are used in the
+  magazine).
