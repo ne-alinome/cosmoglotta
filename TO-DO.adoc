@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-05-27
+:revdate: 2019-06-12
 
 - Convert constrained bold markup.
 - Convert "\\'" -> "'".
@@ -13,37 +13,36 @@
 - Delete duplicated article "STENOGRAFIE E INTERLINGUE".
 - Fix splitted numbers: use hard spaces.
 - Fix paragraphs divided by images or their descriptions.
-- Fix ellipsis with leading space: Keep the trailing space if it's an
-  actual ellipsis in a quote.
-- Expand abbreviations of "Cosmoglotta": Cgl, Cossm, Cgl.-Inf.,
-  Cgl-Inf, Cgl-Informationes.
+- Fix ellipsis with leading space: Keep the trailing space if it's an actual
+	ellipsis in a quote.
+- Expand abbreviations of "Cosmoglotta": Cgl, Cossm, Cgl.-Inf., Cgl-Inf,
+	Cgl-Informationes.
 - Convert Mediawiki's "'''".
 - Remove dots and other punctuation at the end of section titles.
-- Add a block markup before the blocks following the content lists
-  which are at the end of the issues. These last sections generally
-  contain news about new books.
-- Remove the original content lists. It looks they are not accurate
-  (sometimes they are incomplete, the titles are different than the
-  actual ones, or are in a different order), and their format is
-  heterogeneous. Besides, they are useless in a digital book, because
-  the TOC is built out of the actual headings. Preserving the original
-  content lists an converting into links would be too much work for no
-  gain.
-- Confirm: "Neredith" or "Meredith" Knox Gardner. Also used "M.K.
-  Gardner".
-- Check the original verbatim marks `****`: they are a type of
-  Asciidoctor block markups.
+- Add a block markup before the blocks following the content lists which are at
+	the end of the issues. These last sections generally contain news about new
+	books.
+- Remove the original content lists. It looks they are not accurate (sometimes
+	they are incomplete, the titles are different than the actual ones, or are in
+	a different order), and their format is heterogeneous. Besides, they are
+	useless in a digital book, because the TOC is built out of the actual
+	headings. Preserving the original content lists an converting into links
+	would be too much work for no gain.
+- Confirm: "Neredith" or "Meredith" Knox Gardner. Also used "M.K.  Gardner".
+- Check the original verbatim marks `****`: they are a type of Asciidoctor
+	block markups.
 - Convert remaining footnotes.
 - Comment out and mark notes about missing images.
-- Fix remaining symbols that are used as abbreviatures (km and m are
-  already fixed).
-- Homogenize the format of article authors' names: Move them to their
-  own paragraph.
+- Fix remaining symbols that are used as abbreviatures (km and m are already
+	fixed).
+- Homogenize the format of article authors' names: Move them to their own
+	paragraph.
 - Markup subsections of "Cronica", e.g. lands.
 - Homogenize headings in lowercase.
 - Make footnotes about the new headings.
 - Fix "?" and other punctuation at the start of the lines.
-- Replace the deprecated `footnoteref` macro with `footnote` and a
-  target.
-- For clarity, replace "LI" with "L.I." (both forms are used in the
-  magazine).
+- Replace the deprecated `footnoteref` macro with `footnote` and a target.
+- For clarity, replace "LI" with "L.I." (both forms are used in the magazine).
+- Fix reversed title "ƎqɹOƆ-ɹƎԀ∀Ԁ I˥ XƎ".
+- Homogenize the format of the APIS new addresses: dashes, language
+	abbreviations, etc.
