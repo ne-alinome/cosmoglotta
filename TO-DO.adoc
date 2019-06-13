@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-06-13
+:revdate: 2019-06-14
 
 - Convert constrained bold markup.
 - Convert "\\'" -> "'".
@@ -45,4 +45,4 @@
 - Convert all of the old abbreviatons of language names, e.g. 
   "A.F.G.Esp.". Use their full names in Interlingue, separated by commas.
 - Fix OCR errors, e.g. "0" instead of "o".
-- Convert isolated "-" to "--".
+- Homogenize format of the original TOC items, e.g. dots.
