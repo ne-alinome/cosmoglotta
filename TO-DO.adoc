@@ -38,7 +38,6 @@
 - Markup subsections of "Cronica", e.g. lands.
 - Homogenize headings in lowercase.
 - Make footnotes about the new headings.
-- Fix "?" and other punctuation at the start of the lines.
 - Replace the deprecated `footnoteref` macro with `footnote` and a target.
 - Homogenize the format of the APIS new addresses: dashes, language
 	abbreviations, etc.
@@ -46,3 +45,5 @@
   "A.F.G.Esp.". Use their full names in Interlingue, separated by commas.
 - Fix OCR errors, e.g. "0" instead of "o".
 - Homogenize format of the original TOC items, e.g. dots.
+- Remove surrounding spaces in quotes.
+- Fix orientation of French quotes.
