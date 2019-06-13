@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-06-12
+:revdate: 2019-06-13
 
 - Convert constrained bold markup.
 - Convert "\\'" -> "'".
@@ -45,3 +45,8 @@
 - For clarity, replace "LI" with "L.I." (both forms are used in the magazine).
 - Homogenize the format of the APIS new addresses: dashes, language
 	abbreviations, etc.
+- Convert all of the old abbreviatons of language names, e.g. 
+  "A.F.G.Esp.". Use their full names in Interlingue, separated by commas.
+- Fix dashes at the start of the lines.
+- Remove trailing spaces.
+- Remove hard spaces (character 160).
