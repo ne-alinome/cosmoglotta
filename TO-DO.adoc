@@ -5,10 +5,8 @@
 - Convert constrained bold markup.
 - Convert "\\'" -> "'".
 - Adapt asterisks used to mark footnotes.
-- Fix escaped "--".
 - Convert escaped ellipsis. 
 - Check remaining escaped asterisks.
-- Fix "\- " at the start of the line -> "--".
 - Fix ellipsis without trailing space.
 - Delete duplicated article "STENOGRAFIE E INTERLINGUE".
 - Fix splitted numbers: use hard spaces.
@@ -47,4 +45,3 @@
 	abbreviations, etc.
 - Convert all of the old abbreviatons of language names, e.g. 
   "A.F.G.Esp.". Use their full names in Interlingue, separated by commas.
-- Fix dashes at the start of the lines.
