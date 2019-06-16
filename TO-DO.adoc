@@ -46,8 +46,8 @@
 - Convert all of the old abbreviatons of language names, e.g.
   "A.F.G.Esp.". Use their full names in Interlingue, separated by
   commas.
-- Fix OCR errors, e.g. "0" instead of "o".
 - Homogenize format of the original TOC items, e.g. dots.
 - Move punctuation outside the quotes, e.g. "«aaa,»" -> "«aaa»,".
 - Convert long quotes at the end of a paragraph into quotes blocks,
   e.g. "bla bla: «...»".
+- Fix "H2O" and others.
