@@ -51,6 +51,5 @@
   e.g. "bla bla: «...»".
 - Fix "H2O" and others.
 - Homogenize "A.P.I.S.", "U.E.A." and others, without spaces.
-- Expand "Espist" and "Espistic".
 - Fix colons at the start of a line.
 - Homogenize the format of author's names in the "Cronica" sections.
