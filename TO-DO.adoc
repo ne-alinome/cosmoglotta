@@ -54,5 +54,3 @@
 - Expand "Espist" and "Espistic".
 - Fix colons at the start of a line.
 - Homogenize the format of author's names in the "Cronica" sections.
-- Expand abbreviations of "Tchecoslovacia" in headings of "Cronica"
-  section.
