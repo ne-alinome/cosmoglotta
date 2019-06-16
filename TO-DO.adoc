@@ -13,7 +13,7 @@
 - Fix ellipsis with leading space: Keep the trailing space if it's an
   actual ellipsis in a quote.
 - Expand abbreviations of "Cosmoglotta": Cgl, Cossm, Cgl.-Inf.,
-  Cgl-Inf, Cgl-Informationes.
+  Cgl-Inf, Cgl-Informationes, Cosm., etc.
 - Convert Mediawiki's "'''".
 - Remove dots and other punctuation at the end of section titles.
 - Add a block markup before the blocks following the content lists
@@ -36,7 +36,6 @@
   already fixed).
 - Homogenize the format of article authors' names: Move them to their
   own paragraph.
-- Markup subsections of "Cronica", e.g. lands.
 - Homogenize headings in lowercase.
 - Make footnotes about the new headings.
 - Replace the deprecated `footnoteref` macro with `footnote` and a
@@ -51,3 +50,9 @@
 - Convert long quotes at the end of a paragraph into quotes blocks,
   e.g. "bla bla: «...»".
 - Fix "H2O" and others.
+- Homogenize "A.P.I.S.", "U.E.A." and others, without spaces.
+- Expand "Espist" and "Espistic".
+- Fix colons at the start of a line.
+- Homogenize the format of author's names in the "Cronica" sections.
+- Expand abbreviations of "Tchecoslovacia" in headings of "Cronica"
+  section.
