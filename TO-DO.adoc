@@ -38,8 +38,6 @@
   own paragraph.
 - Homogenize headings in lowercase.
 - Make footnotes about the new headings.
-- Replace the deprecated `footnoteref` macro with `footnote` and a
-  target.
 - Homogenize the format of the APIS new addresses: dashes, language
   abbreviations, etc.
 - Convert all of the old abbreviatons of language names, e.g.
