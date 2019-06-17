@@ -52,4 +52,3 @@
 - Fix "H2O" and others.
 - Homogenize "A.P.I.S.", "U.E.A." and others, without spaces.
 - Homogenize the format of author's names in the "Cronica" sections.
-- Fix quotes „..." --> „...”
