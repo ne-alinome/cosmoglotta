@@ -49,7 +49,6 @@
 - Fix li listal apartenentie del paragraf "Li obligation del Plenum
   es...". (Hay un note in li textu).
 - Expand abbreviations of "Kosmoglott": Kglt, Kgltt, etc. 
-- Fix remaining page numbers with format "[...]".
 - Fix: footnote numbers 1-4 are repeated (in the HTML conversion):
 +
 ____
