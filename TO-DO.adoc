@@ -54,8 +54,6 @@
   es...". (Hay un note in li textu).
 - Expand abbreviations of "Kosmoglott": Kglt, Kgltt, etc. 
 - Fix remaining page numbers with format "[...]".
-- Convert the escaped asterisks used to mark wrong expressions: use an
-  attribute instead, `{asterisk}`.
 - Fix: footnote numbers 1-4 are repeated (in the HTML conversion):
 +
 ____
