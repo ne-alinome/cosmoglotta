@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-06-17
+:revdate: 2019-06-18
 
 - Convert constrained bold markup.
 - Adapt asterisks used to mark footnotes.
@@ -52,3 +52,30 @@
 - Homogenize the format of author's names in the "Cronica" sections.
 - Fix li listal apartenentie del paragraf "Li obligation del Plenum
   es...". (Hay un note in li textu).
+- Expand abbreviations of "Kosmoglott": Kglt, Kgltt, etc. 
+- Fix remaining page numbers with format "[...]".
+- Convert the escaped asterisks used to mark wrong expressions: use an
+  attribute instead, `{asterisk}`.
+- Expand "occ." to occidental/Occidental.
+- Fix: footnote numbers 1-4 are repeated (in the HTML conversion):
++
+____
+
+1. Ex un brochura (in preparation): Li anti-europan caractere de
+   "Esperanto" de Ernst Graber (Dresden).
+2. Ples anc leer li articul «Mi o yo» Kosmoglott nro 5 e 6 1922.
+3. Li annu indica li témpore del publication del textu. Li lingues
+   posse esser plu old, quam p. ex. tis de Lott, Molenaar, v. Wahl.
+4. Li exemples de Esperanto es haustet ex un anuncia del Leipziger
+   Messamt. Li ' indica li diferent partes queles composi li paroles.
+1. "ĵojis" in li original (ma per li h-alfabet, t.e. "jhojis", quel
+   por ti edition esset convertet in li ver líteres esperantic. Editor
+   digital
+2. Compar. direktoro — direktisto, redakcio — redaktejo etc.
+3. Vide inter altricos li critica de W. E. Collinson pri «Delphos» in
+   «Internationial Language» April 1927.
+4. Ma li regulari derivates ne es international: aviadisto, senpere, a
+   (...)
+5. Li predilection a long composites con special nuancies es un
+   specific (...)
+____
