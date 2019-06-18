@@ -3,9 +3,7 @@
 :revdate: 2019-06-18
 
 - Convert constrained bold markup.
-- Adapt asterisks used to mark footnotes.
 - Convert escaped ellipsis. 
-- Check remaining escaped asterisks.
 - Fix ellipsis without trailing space.
 - Fix splitted numbers: use hard spaces.
 - Fix paragraphs divided by images or their descriptions.
@@ -28,8 +26,6 @@
   gain.
 - Confirm: "Neredith" or "Meredith" Knox Gardner. Also used "M.K.
   Gardner".
-- Check the original verbatim marks `****`: they are a type of
-  Asciidoctor block markups.
 - Convert remaining footnotes.
 - Comment out and mark notes about missing images.
 - Fix remaining symbols that are used as abbreviatures (km and m are
