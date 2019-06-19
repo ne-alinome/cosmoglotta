@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-06-18
+:revdate: 2019-06-19
 
 - Convert constrained bold markup.
 - Convert escaped ellipsis. 
@@ -69,7 +69,7 @@ ____
 5. Li predilection a long composites con special nuancies es un
    specific (...)
 ____
-- Convert list bullets "\\(A)".
 - Convert notation "/".
-- Convert "\\." to "{dot}".
 - Convert "1. januar" to "1 januar".
+- Convert superscript "\\^"/m².
+- Mark the subheadings of "Turisme", e.g. "Balzac in viage".
