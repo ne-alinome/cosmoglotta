@@ -9,8 +9,6 @@
 - Fix paragraphs divided by images or their descriptions.
 - Fix ellipsis with leading space: Keep the trailing space if it's an
   actual ellipsis in a quote.
-- Expand abbreviations of "Cosmoglotta": Cgl, Cossm, Cgl.-Inf.,
-  Cgl-Inf, Cgl-Informationes, Cosm., Co-sm., etc.
 - Convert Mediawiki's: `''` =  italic; `'''` = bold; `''''` = bold and
   italic.
 - Remove dots and other punctuation at the end of section titles.
@@ -73,4 +71,5 @@ ____
 ____
 - Convert list bullets "\\(A)".
 - Convert notation "/".
-
+- Convert "\\." to "{dot}".
+- Convert "1. januar" to "1 januar".
