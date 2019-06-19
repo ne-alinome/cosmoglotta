@@ -42,7 +42,8 @@
 - Convert long quotes at the end of a paragraph into quotes blocks,
   e.g. "bla bla: «...»".
 - Fix "H2O" and others.
-- Homogenize "A.P.I.S.", "U.E.A." and others, without spaces.
+- Homogenize "A.P.I.S.", "U.E.A.", "U.S.A.", "C.E.L.I.A." and others,
+  without spaces.
 - Homogenize the format of author's names in the "Cronica" sections.
 - Fix li listal apartenentie del paragraf "Li obligation del Plenum
   es...". (Hay un note in li textu).
@@ -72,3 +73,5 @@ ____
 - Convert notation "/".
 - Convert "1. januar" to "1 januar".
 - Mark the subheadings of "Turisme", e.g. "Balzac in viage".
+- Fix "n:o".
+- Comment out "(foto)", "(image...)", etc.
