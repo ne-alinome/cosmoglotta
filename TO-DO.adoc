@@ -71,5 +71,4 @@ ____
 ____
 - Convert notation "/".
 - Convert "1. januar" to "1 januar".
-- Convert superscript "\\^"/m².
 - Mark the subheadings of "Turisme", e.g. "Balzac in viage".
