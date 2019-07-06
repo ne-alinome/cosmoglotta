@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-07-05
+:revdate: 2019-07-06
 
 - Convert constrained bold markup.
 - Convert escaped ellipsis. 
@@ -81,4 +81,3 @@ ____
 - Separar "Abonnament a Cosmoglotta". 
 - "Lettre à un idist". "à"?
 - Marcar omni paroles pri queles on parola per signes de citation.
-- Fix: "Cg" -> Cosmoglotta.
