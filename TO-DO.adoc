@@ -78,3 +78,7 @@ ____
   is not specified in the CSS.
 - Fix: `start` parameter in lists is not supperted in XML. Therefore
   complex lists must be harcoded instead of marked.
+- Separar "Abonnament a Cosmoglotta". 
+- "Lettre à un idist". "à"?
+- Marcar omni paroles pri queles on parola per signes de citation.
+- Fix: "Cg" -> Cosmoglotta.
