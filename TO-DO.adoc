@@ -80,3 +80,4 @@ ____
 - Separar "Abonnament a Cosmoglotta". 
 - "Lettre à un idist". "à"?
 - Marcar omni paroles pri queles on parola per signes de citation.
+- Convert footnote about the fixed "ĵojis" into inner note.
