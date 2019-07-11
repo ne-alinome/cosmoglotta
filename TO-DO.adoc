@@ -86,7 +86,6 @@ ____
 - Fix em dashes after decimal points; also before ":" and others: they
   are not rendered by Asciidoctor.
 - Update "mei" -> mi.
-- Expand "Cosmogl".
 - Compact "P. E. N." and others.
 - Homogenize "p. e." into "p. ex.", depending on the article.
 - Update orthography: systema, appoy, theatre...
