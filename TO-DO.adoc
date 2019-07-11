@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-07-11
+:revdate: 2019-07-12
 
 - Convert constrained bold markup.
 - Convert escaped ellipsis. 
@@ -89,4 +89,3 @@ ____
 - Compact "P. E. N." and others.
 - Homogenize "p. e." into "p. ex.", depending on the article.
 - Update orthography: systema, appoy, theatre...
-- Fix "initial" -> "inicial".
