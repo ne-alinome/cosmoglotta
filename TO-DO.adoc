@@ -89,3 +89,5 @@ ____
 - Compact "P. E. N." and others.
 - Homogenize "p. e." into "p. ex.", depending on the article.
 - Update orthography: systema, appoy, theatre...
+- Fix "initial" -> "inicial".
+- Expand "cglt", "cgltta", "cglta".
