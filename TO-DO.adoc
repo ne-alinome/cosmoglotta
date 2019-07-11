@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-07-06
+:revdate: 2019-07-11
 
 - Convert constrained bold markup.
 - Convert escaped ellipsis. 
@@ -80,4 +80,15 @@ ____
 - Separar "Abonnament a Cosmoglotta". 
 - "Lettre à un idist". "à"?
 - Marcar omni paroles pri queles on parola per signes de citation.
+  (but mark foreign words with italics).
 - Convert footnote about the fixed "ĵojis" into inner note.
+- Update "illi".
+- Fix em dashes after decimal points; also before ":" and others: they
+  are not rendered by Asciidoctor.
+- Update "mei" -> mi.
+- Update "esp-o", "esp-".
+- Expand "Cosmogl".
+- Compact "P. E. N." and others.
+- Homogenize "p. e." into "p. ex.", depending on the article.
+- Update orthography: systema, appoy, theatre...
+- Fix "Cataloña".
