@@ -83,9 +83,9 @@ ____
   (but mark foreign words with italics).
 - Convert footnote about the fixed "ĵojis" into inner note.
 - Update "illi".
-- Fix em dashes after decimal points; also before ":" and others: they
-  are not rendered by Asciidoctor.
 - Update "mei" -> mi.
 - Compact "P. E. N." and others.
 - Homogenize "p. e." into "p. ex.", depending on the article.
 - Update orthography: systema, appoy, theatre...
+- Homogenize the decimal numbers notation after the article in
+  Cosmoglotta A 95 (apr 1934).
