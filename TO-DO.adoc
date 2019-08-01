@@ -90,5 +90,4 @@ ____
 - Homogenize the decimal numbers notation after the article in
   Cosmoglotta A 95 (apr 1934).
 - Update "ley"/"lege".
-- Expand "Cgta-Inf".
 - Unificar notation de parol-partes in exemples: "-" e "/" --> "·".
