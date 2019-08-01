@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-08-01
+:revdate: 2019-08-02
 
 - Convert constrained bold markup.
 - Convert escaped ellipsis. 
@@ -9,8 +9,6 @@
 - Fix paragraphs divided by images or their descriptions.
 - Fix ellipsis with leading space: Keep the trailing space if it's an
   actual ellipsis in a quote.
-- Convert Mediawiki's: `''` =  italic; `'''` = bold; `''''` = bold and
-  italic.
 - Remove dots and other punctuation at the end of section titles.
 - Add a block markup before the blocks following the content lists
   which are at the end of the issues. These last sections generally
@@ -91,3 +89,4 @@ ____
   Cosmoglotta A 95 (apr 1934).
 - Update "ley"/"lege".
 - Unificar notation de parol-partes in exemples: "-" e "/" --> "·".
+- Unificar `«_X_»` and `_«X»_`.
