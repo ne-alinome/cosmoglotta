@@ -69,7 +69,6 @@ ____
 ____
 - Convert notation "/".
 - Convert "1. januar" to "1 januar".
-- Fix "n:o".
 - Comment out "(foto)", "(image...)", etc.
 - Fix: Markup `****` has no effect in EPUB because class "sidebar"
   is not specified in the CSS.
