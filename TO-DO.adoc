@@ -43,8 +43,6 @@
 - Homogenize "A.P.I.S.", "U.E.A.", "U.S.A.", "C.E.L.I.A." and others,
   without spaces.
 - Homogenize the format of author's names in the "Cronica" sections.
-- Fix li listal apartenentie del paragraf "Li obligation del Plenum
-  es...". (Hay un note in li textu).
 - Fix: footnote numbers 1-4 are repeated (in the HTML conversion):
 +
 ____
