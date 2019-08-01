@@ -91,5 +91,4 @@ ____
   Cosmoglotta A 95 (apr 1934).
 - Update "ley"/"lege".
 - Expand "Cgta-Inf".
-- Fix "l)" -> "1)".
 - Unificar notation de parol-partes in exemples: "-" e "/" --> "·".
