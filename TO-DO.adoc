@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-07-12
+:revdate: 2019-08-01
 
 - Convert constrained bold markup.
 - Convert escaped ellipsis. 
@@ -89,3 +89,7 @@ ____
 - Update orthography: systema, appoy, theatre...
 - Homogenize the decimal numbers notation after the article in
   Cosmoglotta A 95 (apr 1934).
+- Update "ley"/"lege".
+- Expand "Cgta-Inf".
+- Fix "l)" -> "1)".
+- Unificar notation de parol-partes in exemples: "-" e "/" --> "·".
