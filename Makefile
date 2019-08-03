@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201905141742
+# Last modified 201908031745
 # See change log at the end of the file
 
 # ==============================================================
@@ -21,9 +21,11 @@ VPATH=./src:./target
 
 book_basename=cosmoglotta
 title="Cosmoglotta"
+author="Cosmoglotta"
 editor="Marcos Cruz (programandala.net)"
 publisher="ne.alinome"
-description=
+lang="ie"
+description="Oficial organ de Interlingue (Occidental); omni numerós publicat ínter li annus 1927 e 1950"
 
 # ==============================================================
 # Interface
@@ -42,6 +44,9 @@ epubp: target/$(book_basename).adoc.xml.pandoc.epub
 
 .PHONY: epubx
 epubx: target/$(book_basename).adoc.xml.xsltproc.epub
+
+.PHONY: odt
+odt: target/$(book_basename).adoc.xml.pandoc.odt
 
 .PHONY: pdf
 pdf: pdfa4 pdfletter
@@ -175,3 +180,5 @@ target/$(book_basename).md.epub: src/$(book_basename).md
 # 2019-02-24: Start.
 #
 # 2019-05-14: Add a temporary rule to convert from Markdown to EPUB.
+#
+# 2019-08-03: Add ODT rule. Set all metadata variables.
