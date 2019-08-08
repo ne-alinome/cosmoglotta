@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-08-02
+:revdate: 2019-08-08
 
 - Convert constrained bold markup.
 - Convert escaped ellipsis. 
@@ -85,5 +85,14 @@ ____
 - Homogenize the decimal numbers notation after the article in
   Cosmoglotta A 95 (apr 1934).
 - Update "ley"/"lege".
-- Unificar notation de parol-partes in exemples: "-" e "/" --> "·".
+- Unificar notation de parol-partes in exemples: "-" e "/" -> "·".
 - Unificar `«_X_»` and `_«X»_`.
+- Consult wether "till" has to be updated to "til".
+- Confirm wether Spanish "tal vez" is "talvez" in Portuguese.
+- Expand "Esp".
+- Fix "Leibnitz" -> "Leibniz".
+- Add chapter number to "Complet grammatica de Occidental".
+- Expand "Nov.".
+- Expand "Boulougne s/".
+- Expand "Cgta".
+- Expand "E.".
