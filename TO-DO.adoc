@@ -90,3 +90,5 @@ ____
 - Consult wether "till" has to be updated to "til".
 - Fix "Leibnitz" -> "Leibniz".
 - Add chapter number to "Complet grammatica de Occidental".
+- Check the render of the footnote in poem "In obscuritá".
+- Fix: add a space after articles without vowel: "l'".
