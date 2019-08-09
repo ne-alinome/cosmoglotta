@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201908031745
+# Last modified 201908092220
 # See change log at the end of the file
 
 # ==============================================================
@@ -111,8 +111,8 @@ target/$(book_basename).adoc.xml.pandoc.epub: \
 		--template=src/pandoc_epub_template.txt \
 		--css=src/pandoc_epub_stylesheet.css \
 		--variable=lang:$(lang) \
-		--variable=editor:$(author) \
-		--variable=publisher:$(editor) \
+		--variable=editor:$(editor) \
+		--variable=publisher:$(publisher) \
 		--variable=description:$(description) \
 		--output $@ $<
 
@@ -152,8 +152,8 @@ target/$(book_basename).adoc.xml.pandoc.odt: \
 		--to odt \
 		--template=src/pandoc_odt_template.txt \
 		--variable=lang:$(lang) \
-		--variable=editor:$(author) \
-		--variable=publisher:$(editor) \
+		--variable=editor:$(editor) \
+		--variable=publisher:$(publisher) \
 		--variable=description:$(description) \
 		--output $@ $<
 
@@ -169,8 +169,8 @@ target/$(book_basename).md.epub: src/$(book_basename).md
 		--from markdown \
 		--to epub \
 		--variable=lang:$(lang) \
-		--variable=editor:$(author) \
-		--variable=publisher:$(editor) \
+		--variable=editor:$(editor) \
+		--variable=publisher:$(publister) \
 		--variable=description:$(description) \
 		--output $@ $<
 
@@ -182,3 +182,5 @@ target/$(book_basename).md.epub: src/$(book_basename).md
 # 2019-05-14: Add a temporary rule to convert from Markdown to EPUB.
 #
 # 2019-08-03: Add ODT rule. Set all metadata variables.
+#
+# 2019-08-09: Fix passing of `editor` and `publisher` variables.
