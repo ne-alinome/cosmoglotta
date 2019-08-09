@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-08-08
+:revdate: 2019-08-09
 
 - Convert constrained bold markup.
 - Convert escaped ellipsis. 
@@ -92,3 +92,6 @@ ____
 - Add chapter number to "Complet grammatica de Occidental".
 - Check the render of the footnote in poem "In obscuritá".
 - Fix: add a space after articles without vowel: "l'".
+- Add "Doc. 8 in hispan: La lengua internacional moderna", which is
+  http://anno.onb.ac.at/cgi-content/anno-plus?aid=e0g&datum=1934&page=52[after
+  page 40 of Cosmoglotta A 1934].
