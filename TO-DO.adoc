@@ -99,3 +99,10 @@ ____
 - Fix name of "Karel Čapek".
 - Mark subsections of "Li ver historie del lingue international" and
   "Autonomie e regularitá in li lingue international".
+- Add a subtitle to the book.
+- Confirm name: prof. Hynek Pásma/Pasma/Pašma.
+- Escape years followed by a dot at the start of the line: they cause
+  warnings because they are rendered as list items.
+- Mark poem "Sin fin ili ha tormentat me".
+- Fix "Karl JANOITA".
+- Confirm "Ma quande noi cite". Is it "cita"? 
