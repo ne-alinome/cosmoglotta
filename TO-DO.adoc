@@ -97,8 +97,7 @@ ____
   page 40 of Cosmoglotta A 1934].
 - Mark the article introductions with italics, after the original.  
 - Fix name of "Karel Čapek".
-- Mark subsections of "Li ver historie del lingue international" and
-  "Autonomie e regularitá in li lingue international".
+- Mark subsections of "Autonomie e regularitá in li lingue international".
 - Add a subtitle to the book.
 - Confirm name: prof. Hynek Pásma/Pasma/Pašma.
 - Confirm "Ma quande noi cite". Is it "cita"? 
