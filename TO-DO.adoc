@@ -95,4 +95,3 @@ ____
   http://anno.onb.ac.at/cgi-content/anno-plus?aid=e0g&datum=1934&page=52[after
   page 40 of Cosmoglotta A 1934].
 - Mark the article introductions with italics, after the original.  
-- Fix: "Li ciffres quam L.I." is repeated.
