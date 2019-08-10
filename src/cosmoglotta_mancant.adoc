@@ -9,8 +9,9 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201908102105
+// Last modified 201908102146
 
+// Cosmoglotta A 051-052 (aug-sep 1928) {{{1
 == Cosmoglotta A 051-052 (aug-sep 1928)
 
 COSMOGLOTTA
@@ -28,6 +29,7 @@ Annu VII – August-Septembre 1928 – Nr. 51, 52 (8,9)
 Numeró special dedicat al membres del Ido-Congress Zürich, 2 til 5
 august.
 
+// Contene {{{2
 === Contene
 
 - Psicologie interlinguistic, de Ric. Berger, pg. 117.
@@ -48,6 +50,7 @@ august.
 - Textu comparativ, de Karl Janotta, pg. 140.
 - Noticies, de E. P., pg. 140.
 
+// Psicologie interlinguistic {{{2
 === Psicologie interlinguistic
 
 Ancor nu, yo memora un remarcabil articul publicat de sr Abat Dudouy
@@ -95,6 +98,7 @@ It ne existe plu grand surdes quam tis, qui ne vole audir.
 
 _Ric. Berger_
 
+// Idés directiv e principies de Ido {{{2
 === Idés directiv e principies de Ido
 
 Córam li rapid progresses del conception occidentalistic li secretario
@@ -142,6 +146,7 @@ bon o mal, secun qualmen on aplica les.
 
 _Ric. Berger_
 
+// Duplic consonantes {{{2
 === Duplic consonantes
 
 Nor amicos Idistes es obsedet de un horribil fantom: li duplic
@@ -187,6 +192,7 @@ in «tero, fero, kande».
 
 _Ric. Berger_
 
+// Tro mult sufixes! {{{2
 === Tro mult sufixes!
 
 Quelc Idistes reprocha a Occidental su tro grand númere de sufixes (in
@@ -221,6 +227,7 @@ ma «majorato»?
 
 _Ric. Berger_
 
+// Sufix -ion {{{2
 === Sufix -ion
 
 Pro que null sufix es plu international quam -ion, on posse esser
@@ -293,6 +300,7 @@ quel il aproba!
 
 _Ric. Berger_
 
+// Citate {{{2
 === Citate
 
 // XXX FIXED -- Li titul "Citate" esset mettet in ti edition.
@@ -308,6 +316,7 @@ ____
 
 // XXX NOTE -- Ci esset li marca original de págine -123-
 
+// Obliviates {{{2
 === Obliviates
 
 «Li opinion de sr Guignon e de me es, que «dub» es un heredage de Esperanto quel escapat in li revision del talones, secun queles esset composit nor unesim vocabularium sub li controla del comission permanent». Talmen scri sr de Beaufront, li secretario del academie idistic in «Ido», may 1927. E tande il proposi li just radica: dubit, sin dir que il prende it de … Occidental.
@@ -330,6 +339,7 @@ quam «dub» queles besona esser «revizata»!
 
 _Ric. Berger_
 
+// Apelle por solidaritá {{{2
 === Apelle por solidaritá
 
 «L’ Informisto», organ del belgian Idistes, publica un apelle al
@@ -359,6 +369,7 @@ evitat un ínfelici experientie.
 
 _Ric. Berger_
 
+// Qui es li autor de Occidental? {{{2
 === Qui es li autor de Occidental?
 
 Edgar de Wahl, nu professor de matematica e fisica in Reval (Estonia),
@@ -418,6 +429,7 @@ li prejudicies del progressistic mundlinguistes.
 
 _Ric. Berger_
 
+// Novial {{{2
 === Novial
 
 Li majorité de nor letores idistic ja es informat pri li aparition del
@@ -513,6 +525,7 @@ scrir li protocolle de su idés captet desde li exflorescentie de Ido.
 
 _E. Pigal_
 
+// Novam e Novial --  Du nov projectes de lingue international {{{2
 === Novam e Novial --  Du nov projectes de lingue international
 
 // XXX NOTE -- li marca original de págine -128- esset in li sequent
@@ -820,6 +833,7 @@ atractiv por lor lingual sentiment.
 
 _A. Z. Ramstedt_
 
+// Un Progress? {{{2
 === Un Progress?
 
 Li aparition de Novial demonstra li superioritá e vivicapabilitá del
@@ -865,6 +879,7 @@ altricos quam un statu de iritation inter li ánimes íncert e hesitant.
 
 _Albert Haldin_
 
+// Indiscret question a Senior Jespersen {{{2
 === Indiscret question a Senior Jespersen
 
 Quande sr Jespersen, President del Ido-Academie, proposit in 1909
@@ -891,6 +906,7 @@ quo es conform al max facil pronunciation del «mult nationes».
 
 _Ric. Berger_
 
+// Citate {{{2
 === Citate
 
 // XXX FIXED -- Li titul "Citate" esset mettet in ti edition.
@@ -904,6 +920,7 @@ ____
 
 // XXX NOTE -- Ci esset li marca original de págine -136-
 
+// Cronica {{{2
 === Cronica
 
 S. A. P. O. (Sviss Association por Occidental) sub li energic duction
@@ -1047,6 +1064,7 @@ li nov adversario …»
 
 _E. Pigal_
 
+// Criterie de L.I. {{{2
 === Criterie de L.I.
 
 Prof. A. R. Nykl del Marquette University, Milwaukee, Wisconsin, U. S.
@@ -1097,6 +1115,7 @@ annus. Forsan tande va esser possibil un rasonabil collaboration.
 
 _E. W._
 
+// Quelc opiniones de sviss Idistes {{{2
 === Quelc opiniones de sviss Idistes
 
 Dr. Aschwanden, med. oc., president del Ido-gruppe de Biel: «Pro que
@@ -1122,6 +1141,7 @@ Junio 1928.
 
 // XXX NOTE -- Ci esset li marca original de págine -140-
 
+// Textu comparativ {{{2
 === Textu comparativ
 
 Quam textu comparativ on usa ordinarmen li Patre Nostri. Ma ti prega
@@ -1140,6 +1160,7 @@ ne deve esser plu long quam ti del Patre Nostri.
 
 _Karl Janotta, Kaltenleutgeben (Austria)._
 
+// Noticies {{{2
 === Noticies
 
 Ido-Congress Zürich. Mersí al auxilie de nor fervent colaborator sr
@@ -1182,6 +1203,7 @@ Eigentümer, Herausgeber u. Verleger: Gesellschaft Cosmoglotta, Mauer
 bei Wien, Verantwortlicher Schriftleiter: Ing. E. Pigal, Liesing bei
 Wien. Druck: Milan Nedvídek, Tábor.
 
+// Cosmoglotta A 068 (jan-feb 1930) {{{1
 == Cosmoglotta A 068 (jan-feb 1930)
 
 COSMOGLOTTA
@@ -1196,6 +1218,7 @@ Redaction e Administration: Postlach 10, Mauer bei Wien, Austria.
 
 Annu IX Nr 1    Januar, Februar 1930   Numeró 68
 
+// Contene {{{2
 === Contene
 
 - Cronica, pg 1.
@@ -1211,8 +1234,10 @@ Annu IX Nr 1    Januar, Februar 1930   Numeró 68
 - Subventiones, pg. 24.
 - Avises, pg. 24.
 
+// Cronica {{{2
 === Cronica
 
+// Libres {{{3
 ==== Libres
 
 OCCIDENTAL, DIE WELTSPRACHE. Einführung samt Lehrkursus, Lesestücken,
@@ -1344,6 +1369,7 @@ historic evolution del lingues international, li hodial representantes
 e lor merites e defectes. Li superioritá de Occidental es accentuat
 specialmen por li scientie e li comercie.  C.E.S.
 
+// Jurnales {{{3
 ==== Jurnales
 
 HELVETIA, organ del Sviss Association por Occidental (SAPO), nr 12
@@ -1440,6 +1466,7 @@ protector de Esperanto.   Jtt.
 
 // XXX NOTE -- Ci esset ti separator: ----
 
+// Occidental-Union {{{2
 === Occidental-Union
 
 Organisation Universal de Lingue International Occidental
@@ -1728,6 +1755,7 @@ payament de un summa fixat per li Redactor), o si (a) e (b) ne sufice:
 
 // XXX NOTE -- Ci esset ti separator: -----
 
+// Occidental-Academie {{{2
 === Occidental-Academie
 
 Regulament
@@ -1857,6 +1885,7 @@ regretabilmen ja es exhaustet. Ma in su témpore noi ha fat printes \
 special del unesim parte, quel nov abonnates posse reciver contra ö S. \­
 0.50. Red.
 
+// Interlinguistic reminiscenties (2){blank}footnote:[{pednote1855}] {{{2
 === Interlinguistic reminiscenties (2){blank}footnote:[{pednote1855}]
 
 _De E. de Wahl._
@@ -2141,6 +2170,7 @@ Ma lor glorie resta.
 
 // XXX NOTE -- Ci esset ti separator: -----
 
+// Corespondentie {{{2
 === Corespondentie
 
 Heinrich Lott
@@ -2269,8 +2299,10 @@ de Prof. Ric. Berger in nr 57.   Red.
 
 // XXX NOTE -- Ci esset ti separator: -----
 
+// Litteratura {{{2
 === Litteratura
 
+// Pro quo noi studia historie? {{{3
 ==== Pro quo noi studia historie?
 
 _De John Lee Madox._
@@ -2335,6 +2367,7 @@ Trad. A. Deminger._
 
 // XXX NOTE -- Ci esset li marca original de págine -22-
 
+// Foren lingue {{{2
 === Foren lingue
 
 Un mann qui ne savet alcun parol turc, havet comercial aferes in
@@ -2364,6 +2397,7 @@ _Translatet de Karl Janotta._
 
 // XXX NOTE -- Ci esset ti separator: -----
 
+// Fabul {{{2
 === Fabul
 
 _De Klabund._
@@ -2383,6 +2417,7 @@ in li universitate de Przmnldtbk...   Trad. E.P.
 
 // XXX NOTE -- Ci esset li marca original de págine -23-
 
+// Record de rapiditá {{{2
 === Record de rapiditá
 
 In li munde animal. Quam ha monstrat minuciosi explorationes de un
@@ -2412,6 +2447,7 @@ universe solmen li radies de catode have un plu grand rapiditá, i.e.
 
 // XXX NOTE -- Ci esset ti separator: -----
 
+// Reclame? {{{2
 === Reclame?
 
 // XXX NOTE -- li marca original de págine -24- esset in li sequent
@@ -2434,6 +2470,7 @@ _E. Moess._
 
 // XXX NOTE -- Ci esset ti separator: -----
 
+// Subventiones al Occidental-Union {{{2
 === Subventiones al Occidental-Union
 
 Albert Haldin (Eskilstuna): 100 sved K. -- Jan Casse (Köbenhavn): 107
@@ -2449,6 +2486,7 @@ Occidental-Union + Central Oficie.
 
 // XXX NOTE -- Ci esset ti separator: -----
 
+// Avises {{{2
 === Avises
 
 Por impedir interruptiones in li expedition del revúe, nor letores mey
@@ -2490,6 +2528,7 @@ Eigentümer, Herausgeber u. Verleger: Occidental-Union, Sitz: Mauer b.
 Wien. Verantwortl. Redakteur: Ing. Engelbert Pigal, Liesing bei Wien.
 Druck: Milan Nedvídek, Tábor.
 
+// Cosmoglotta A 087 (mar-apr 1933) {{{1
 == Cosmoglotta A 087 (mar-apr 1933)
 
 COSMOGLOTTA
@@ -2535,6 +2574,7 @@ _Por li redaction + B. Blomé_
 
 // XXX NOTE -- Ci esset ti separator: ---
 
+// Occidental es ínevitabil {{{2
 === Occidental es ínevitabil
 
 _De S.W. Beer, del Universitás de London e Cambridge._
@@ -2575,6 +2615,7 @@ expertes.
 
 // XXX NOTE -- Ci esset li marca original de págine -18-
 
+// Nov sufixes in Esperanto {{{2
 === Nov sufixes in Esperanto
 
 Pos li aparition de Ido li espistes ha provat justificar li derivativ
@@ -2618,6 +2659,7 @@ postcarte sufice.
 
 // XXX NOTE -- Ci esset li marca original de págine -19-
 
+// Propaganda {{{2
 === Propaganda
 
 _De K. Janotta, Wien._
@@ -2764,6 +2806,7 @@ printation, expedition etc.  Continuation va sequer.
 
 // XXX NOTE -- Ci esset ti separator: ---
 
+// Autoritás e progress {{{2
 === Autoritás e progress
 
 Quande in Il annu 1752 li Reyal Societé in Anglia introductet li
@@ -2841,6 +2884,7 @@ _Trad. A. Deminger._
 
 // XXX NOTE -- Ci esset li marca original de págine -25-
 
+// Paternoster {{{2
 === Paternoster
 
 Por facilisar un comparation instructiv inter li diferent projectes de
@@ -2923,6 +2967,7 @@ parafúlmine.
 
 // XXX NOTE -- Ci esset li marca original de págine -27-
 
+// Li Banquette {{{2
 === Li Banquette
 
 Un mann arangeat un grand banquette e invitat mult homes. E quande li
@@ -2957,6 +3002,7 @@ _Ex un old libre trad. A. Z. R._
 
 // XXX NOTE -- Ci esset ti separator: ---
 
+// Quo di li nationes pri li fémina? {{{2
 === Quo di li nationes pri li fémina?
 
 In Francia on di: Li fémina, li vent e li fortune changea constant.
@@ -2972,6 +3018,7 @@ it es felici por li mann, con quel ella es maritat.
 
 // XXX NOTE -- Ci esset li marca original de págine -28-
 
+// Li mediocri hom {{{2
 === Li mediocri hom
 
 De Ernest Hello.
@@ -2992,6 +3039,7 @@ _Trad. L.M.G._
 
 // XXX NOTE -- Ci esset ti separator: ---
 
+// Cronica {{{2
 === Cronica
 
 HISPANIA. Pos har studiat li actual situation del LI e li diferent
@@ -3090,7 +3138,7 @@ idist e adheret a Occidental del fundation del O.S.F.  Amico e
 benefator de omni povres e suffrentes, su morte es un grand perde por
 su cité. Mey il reposar in pace.
 
-ASSOCIATION PROLETARI INTERLINGUISTIC. (A.P.I.) es li nov nómine del
+ASSOCIATION PROLETARI INTERLINGUISTIC (A.P.I.) es li nov nómine del
 A.P. Occidentalistic. Li scope del societé es gruppar li
 occidentalistes del laborant classe e de tendentie strictmen proletari
 (socialistes, comunistes, anarchistes) por propaganda in jurnales de
