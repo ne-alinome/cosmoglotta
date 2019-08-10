@@ -98,7 +98,6 @@ ____
 - Mark the article introductions with italics, after the original.
 - Fix name of "Karel Čapek".
 - Add a subtitle to the book.
-- Confirm name: prof. Hynek Pásma/Pasma/Pašma.
 - Confirm "Ma quande noi cite". Is it "cita"?
 - Convert surnames' "De" to titlecase when they don't follow the
   personal name. This convention, used in Spanish and other languages,
@@ -107,5 +106,4 @@ ____
 - Create stylesheet for `[preface]`.
 - Mark the article authors with italics, after the original.
 - Format and mark the missing issues of Cosmoglotta A: 51, 52, 68, 87.
-- Expland "Intl." -> Interlingue.
 - Fix: The table column align is lost in EPUB throw DocBook.
