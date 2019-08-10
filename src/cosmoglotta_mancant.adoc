@@ -9,7 +9,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201908102024
+// Last modified 201908102037
 
 == Cosmoglotta A 051-052 (aug-sep 1928)
 
@@ -71,17 +71,17 @@ Occidental.
 // XXX NOTE -- Ci esset li marca original de págine -118-
 
 Noi conosse eminent Idistes, queles ante un annu demandat in Ido just
-ti reformas, queles Occ ha realisat (precipue in grammatica e
-derivation). Ante 6 mensus, córam li progresses de Occ, ti sam Idistes
+ti reformas, queles Occidental ha realisat (precipue in grammatica e
+derivation). Ante 6 mensus, córam li progresses de Occidental, ti sam Idistes
 scrit nos que li bonitá de ti formes ne es pruvat e nu, pos nor
-adhesion a Occ, ili trova que omni ti formes «es un regress»!
+adhesion a Occidental, ili trova que omni ti formes «es un regress»!
 
 Yo vell posser citar Vos li casu de un excellent coidealist, quel
-acrimen vole absolutmen e sistematicmen vider grav defectes in Occ.
+acrimen vole absolutmen e sistematicmen vider grav defectes in Occidental.
 Por ex., il critica li -a por li feminin pro que un parol quam «matra»
-vell chocar li Italianes! Noi responde que Occ ne have matra ma matre,
+vell chocar li Italianes! Noi responde que Occidental ne have matra ma matre,
 pro que ti parol es ja feminin per se self e ne besona un finale
-feminin. — «Ergo», responde nor amico, «Occ have exceptiones, paroles
+feminin. — «Ergo», responde nor amico, «Occidental have exceptiones, paroles
 feminin ne fini per -a, quáncam ti -a indica ti sexu. Esque on posse
 subtener un lingue tam desfacil e ínregulari?».
 
@@ -89,7 +89,7 @@ subtener un lingue tam desfacil e ínregulari?».
 remarcar que Vu vide li pallie in li ocul del altris» — «Senior, yo ne
 permisse que …» — «Yes, ples remarcar que in Ido tam regulari Vu di:
 «matro» e ne «matrino», quo constitue exactmen li sam exceptiones quam
-in Occ …»
+in Occidental …»
 
 It ne existe plu grand surdes quam tis, qui ne vole audir.
 
@@ -174,7 +174,7 @@ It es tre amusant constatar que li unic consonantes posse esser anc li
 «fonte de mult errores». Sur li covriment del ultim numeró de
 «Ido-Francia» noi lee deci vezes li parol «dolaro». Probabilmen nor
 confratre ne ja conosse li exception votat del Ido Akademio: li rect
-Ido-parol es «dollar». Ti qui vide exceptiones solmen in Occ, ne have
+Ido-parol es «dollar». Ti qui vide exceptiones solmen in Occidental, ne have
 témpore por vider les in Ido!
 
 Al Idistes qui considera li duplic consonantes quam impediment por li
@@ -190,17 +190,17 @@ _Ric. Berger_
 === Tro mult sufixes!
 
 Quelc Idistes reprocha a Occidental su tro grand númere de sufixes (in
-Ido 47, in Occ 60). Ma ples remarcar que E. de Wahl ne inventet ni un
+Ido 47, in Occidental 60). Ma ples remarcar que E. de Wahl ne inventet ni un
 sol, ma extraet les omni del lingues vivent con lor just sense; ergo,
 omni ti afixes es ja conosset de homes civilisat qui ne besona
-aprender les. On dit anc que Occ have quelc vezes du sufixes por li
+aprender les. On dit anc que Occidental have quelc vezes du sufixes por li
 sam idé; ma in ti casu un del du sufixes ne plu es vivent o es usat
 solmen in li lingues scientific. Ido anc have li sam casu con «-oida»,
 quel sembla far duplic usation apu «-atra», e quel támen es usat in li
 lingue scientific. Noi do ne comprende pro quo li Idistes reprocha nos
 li sufixe -ment apu -age. Si Ido ne adoptet -ment, in revancha, it
 esset obligat adopter quam nov radicas pluri paroles logicmen derivat
-in Occ mersí a ti suffix. Por ex. li «Lexique-manuel» de Guignon
+in Occidental mersí a ti suffix. Por ex. li «Lexique-manuel» de Guignon
 contene li sequent duplic radicas in Ido: abutar, abutmento; basa,
 basamento; detachar, detachmento; suplear, suplemento; experiencar,
 experimento; fondar, fundo (!), fundamento; sentar, sentimento;
@@ -247,7 +247,7 @@ necessi haver verbes in -ar (educar: education), in -ir (definir :
 definition), in -er (expresser : expression; adopter : adoption)».
 
 Ci es li node del question: Si Ido vole adopter li sufix max
-international e max usat, it es obligat acceptar li solution de Occ e
+international e max usat, it es obligat acceptar li solution de Occidental e
 abandonar li base Esperantic. On comprende to que li ductores de Ido
 sercha omni sortes de objectiones, queles monstra solmen que li suffix
 -ion es por Ido quam li uves por li fox: tro verdi! In «Ido», febr.
@@ -420,11 +420,27 @@ _Ric. Berger_
 
 === Novial
 
-Li majorité de nor letores idistic ja es informat pri li aparition del project Novial de prof. Jespersen. Noi ancor ne ha publicat un recension pro preca de sr J. atender til publication de su detalliat libre redactet in lingue angles. Etsi in li momente ti libre ancor ne atinget nos, noi támen inserte in li present numeró li relatent articules, anc pro que interim sr J. ja comensat propaganda por su sistema per altri publicationes. Quande noi va har recivet li ovre angles con su motivationes noi ancor un vez va presentar in li págines de nor jurnal un response, ex li plum de senior de Wahl.
+Li majorité de nor letores idistic ja es informat pri li aparition del
+project Novial de prof. Jespersen. Noi ancor ne ha publicat un
+recension pro preca de sr J. atender til publication de su detalliat
+libre redactet in lingue angles. Etsi in li momente ti libre ancor ne
+atinget nos, noi támen inserte in li present numeró li relatent
+articules, anc pro que interim sr J. ja comensat propaganda por su
+sistema per altri publicationes. Quande noi va har recivet li ovre
+angles con su motivationes noi ancor un vez va presentar in li págines
+de nor jurnal un response, ex li plum de senior de Wahl.
 
-In su public epistul in «Mondo» nr 209, sr J. confesset que il ha aprendet ne solmen de Zamenhof e Couturat, ma anc de de Wahl.
+In su public epistul in «Mondo» nr 209, sr J. confesset que il ha
+aprendet ne solmen de Zamenhof e Couturat, ma anc de de Wahl.
 
-Max grand li influentie de Occ es remarcabil in li derivation verbal de Novial. Ci nu anc li tema verbal fini per un vocale, a quel es adjuntet p. ex. li solmen consonantic finales participial: -nt e -t. Sr J. ha compilat a un multicolori mosaic li derivation de Occ con su «fonetical» ortografie. On remarca misstilies e anacronismes, quam «sivilisatione (civilisation), sosialisatione (socialisation), vivasi nationalisatione (vivaci nationalisation), sent diferentiationes (cent diferentiationes),
+Max grand li influentie de Occidental es remarcabil in li derivation verbal
+de Novial. Ci nu anc li tema verbal fini per un vocale, a quel es
+adjuntet p. ex. li solmen consonantic finales participial: -nt e -t.
+Sr J. ha compilat a un multicolori mosaic li derivation de Occidental con su
+«fonetical» ortografie. On remarca misstilies e anacronismes, quam
+«sivilisatione (civilisation), sosialisatione (socialisation), vivasi
+nationalisatione (vivaci nationalisation), sent diferentiationes (cent
+diferentiationes),
 
 // XXX NOTE -- Ci esset li marca original de págine -126-
 
@@ -444,7 +460,7 @@ li Esp-Ido-suffix -ega (decapitat grec mega) e prende -isi, i.e.
 quam Ido -ario.
 
 Li consonantes p e c in li latin numerales sept- e oct- ha assimilat
-se in li romanic lingues a -t. Conform a ti process Occ have: set e
+se in li romanic lingues a -t. Conform a ti process Occidental have: set e
 ot. In Novial noi trova: sep e ok, ex Esp-Ido e contra li leges
 fisiologic pri li mutation de sones. Li Novial paroles: patron (= de
 patre), homan (= de fémina), homesen laboros (= labores de homes) es
@@ -453,13 +469,13 @@ mascata), foresto (= absentie), sesono (= sixesim) etc.
 
 Prof. Jespersen critica li semblant exceptiones de Occidental, quo
 támen ne posse impedir le usar por li participie de presentie: -ent
-pos -i-, -u-, apu -nt pos -a-, -e-. Ma li regul de Occ pri li
+pos -i-, -u-, apu -nt pos -a-, -e-. Ma li regul de Occidental pri li
 pronunciation de c (ante e, i, y: ts, in altri casus k) secun prof. J.
 es tro desfacil e il prefere deformar li customat scrition de un imens
 númere de frequent paroles international: sentimetre (cm), sosial
 (social), konserte (concert) etc.
 
-In Novial simil quam in Occ on accentua li vocal ante li ultim
+In Novial simil quam in Occidental on accentua li vocal ante li ultim
 consonante. Ma li síllabes de flexion es ínaccentuat. Do omni hom in
 li parlada, ante distribuer li accentu, deve pensar esque li ultim
 síllabe es un flexionale o ne. Noi ci ne vole disputar esque ti ci
@@ -467,9 +483,9 @@ regul es condamnand in un L. I., ma noi solmen demanda que on mey
 mesurar per li sam metre li desfacilitá anc del regules de Novial ante
 proscrir li sistema de Occidental. Noi opine que por li ordinari hom
 li duesim regul de accentuation in Novial es plu desfacil quam li
-simplic tal de Occ pri li pronunciation del c. Li facilitá del altri
+simplic tal de Occidental pri li pronunciation del c. Li facilitá del altri
 regules de Novial, apartmen del derivation, chascun self va constatar,
-comparante les con tis de Occ. In céteri punctus noi torna li
+comparante les con tis de Occidental. In céteri punctus noi torna li
 attention de nor letores al scientific tractate de nor secretario del
 Comité Explorativ Mag. A. Z. Ramstedt, filolog comparativ, in li
 present caderne.
@@ -536,11 +552,11 @@ omnes desira, resta ínobtenibil per tal metodes.
 Ambi autores appari quam reformatores del ortografie. lli ne es
 content con li actual scrition del international paroles, specialmen
 li duplic usation de c. Sr Touflet prescri c e s, Sr Jespersen k e s.
-Novam scri: consernant, ma Novial: konsernant (Occ. concernent),
+Novam scri: consernant, ma Novial: konsernant (Occidental: concernent),
 Novam: sivilizo, serta, Fransa, Novial: siviliso, serti, Fransi, seso
-(Occ. civilisation, cert, Frances, cessa). Noi vide in Novam tal
+(Occidental: civilisation, cert, Frances, cessa). Noi vide in Novam tal
 scritiones quam cener (German: kennen), ercener (G erkennen), cezo
-(Occ. caseo), cem (Occ. quande), ci (Occ. qui), ma cc es
+(Occidental: caseo), cem (Occidental: quande), ci (Occidental: qui), ma cc es
 exceptionalmen pronunciat x: acceptar, accelerar, succesar, u Novial
 have regularimen: tu aksepta, tu akselera, tu suksesa.
 
@@ -601,11 +617,11 @@ sintetic: amer, aman, amed, amar, amud, hav amat, had amat; Novial a
 un analitic: tu ama, ama, did ama (o ámad), sal ama, vud ama, ha ama,
 had ama. Curios es li passiv de Novial: bli ama, blid ama, etc. Si
 internationalitá e comun europan lingual usu have alquant
-signification, on certmen deve preferer li conjugation de Occ. Null
+signification, on certmen deve preferer li conjugation de Occidental. Null
 europan lingue constructe perfect e passiv per auxiliares plus tema
 verbal, quam in Novial es proposit, ma omnis usa perfect participe,
 anc li scandinavic lingues, queles di: bli älskad, e ne bli älska. Li
-infinitive de Occ. amár es certmen mult plu bon quam «tu ama». Li
+infinitive de Occidental «amár» es certmen mult plu bon quam «tu ama». Li
 accentuation sur li tematic vocale auxilia li memorie e conservation
 de it, -r quam inf.-signe es panromanic
 
@@ -613,11 +629,11 @@ de it, -r quam inf.-signe es panromanic
 
 e conosset anc in german e slavic verbes: G telephonieren, Sv
 telefonera, R telefonirovat’. It es a observar, que anc Novial ha
-introductet tematic vocales che li verbes, e ne tri quam che Occ, ma
+introductet tematic vocales che li verbes, e ne tri quam che Occidental, ma
 quar: tu ama, tu voli, tu rupte, tu distribu. Qualmen it va esser
 possibil memorar ti quar ínaccentuat vocales, queles bentost va
 devenir ínclar e confuser se, es un problema. In Novial on posse
-formar sintetic conditionales per -ud: povud, musud (mus = Occ. deve),
+formar sintetic conditionales per -ud: povud, musud (mus = Occidental: deve),
 esud, ma solmen che li auxiliares, nam qualmen acter che li verbes ye
 -i e -u: expediud o expedud, distribuud o distribud (in quel casu
 pret. = cond.). Novial have volud (de un tema voli) ma volient. Si on
@@ -649,9 +665,9 @@ Esperanto, Idiom Neutral, Ido, Latino sine flexione e Occidental. Lsf
 il rejecte absolut, e it es interessant notar, que il attribue li
 fiasco de Ido a du causes: 1) li principies del max bon auxiliari
 lingue ne esset tractat «til fine suficent scientialmen», 2) li comité
-e li «Akademio» de Ido ne esset suficent autoritativ. Pri Occ. prof.
+e li «Akademio» de Ido ne esset suficent autoritativ. Pri Occidental prof.
 J. di, que null project pos Esp. e Ido posse mesurar se in importantie
-con Occ. Ma il tamen ne es content con Occ. e critica it sur presc tri
+con Occidental. Ma il tamen ne es content con Occidental e critica it sur presc tri
 págines. Un bon
 
 // XXX NOTE -- Ci esset li marca original de págine -131-
@@ -660,8 +676,8 @@ critica es sempre salutat, si it monstra ver mancas, ma li critica de
 prof. J. monstra miscomprension del cose criticat o es ínjust.
 
 Il questiona p. ex., «Pro quo ne grandore, si on have longore?». In li
-german e svedi claves de Occ. es mentionat grandore precis apud
-longore. In Occ. existe li suffix -ore, quel, addit a adjectives,
+german e svedi claves de Occidental es mentionat grandore precis apud
+longore. In Occidental existe li suffix -ore, quel, addit a adjectives,
 indica mesura, grandore ne un qualitá in general, just quam in li
 paroles grandore, longore, altore, largore; -ess indica qualitá
 drasticmen emfasat o in traductet sense: grandess, altess, finess,
@@ -669,7 +685,7 @@ richess; -tá es li suffix por qualitá in general: granditá, altitá,
 finitá, etc. e ti, qui ne pensa it necessi distinter inter -tá, -ore e
 -ess (queles es internationalmen conosset sufixes) posse sempre usar
 solmen -tá (ti, li max international sufix, manca in Novial). — Il di,
-que Occ. es desfacil pro tis, qui ne ha ductet linguistic studias,
+que Occidental es desfacil pro tis, qui ne ha ductet linguistic studias,
 proque p. ex. ja in li alfabete c have duplic valore. Noi pensa que to
 es un cose conosset ja in ante de omni cives del germanic e romanic
 nationes, qui posse scrir e leer, mem li danes ne deve esser
@@ -688,11 +704,11 @@ quam prefix) es un fact, quel on posse regretar, ma ne negar. Ili es
 ambi international, e quo es international on ne posse evitar. Mem
 Novial have les, ma secret: noi trova li parol «inosent», to es
 comprensibilmen ín-nocent (G harmlos), quel in Occidental es un
-totalmen regulari derivate, clarmen explicat secun li regules de Occ.;
+totalmen regulari derivate, clarmen explicat secun li regules de Occidental;
 ma in Novial it sta isolat, sin coherentie, in su ínnocentie
 demonstrante, que li lingue ne cuida pri arbitrari decretes.
 
-In Occ. noi have li max natural e regulari derivation: logic, logico,
+In Occidental noi have li max natural e regulari derivation: logic, logico,
 logica; grammatic, grammatico, grammatica; critic, critico, critica,
 criticar. (Li síllabe -ic- es ìnaccentuat). Qualmen nu aspecte ti
 paroles in Novial? Kritíke = critica, kritikiste o kritikére? =
@@ -700,24 +716,26 @@ critico, kritiki o kritikal? = critic e tu
 
 // XXX NOTE -- Ci esset li marca original de págine -132-
 
-kritika = criticar. In vice de criticisme, quel es in Occ. regulari
+kritika = criticar. In vice de criticisme, quel es in Occidental regulari
 derivate con natural pronunciation, Novial deve haver o kritikisme,
 quel es ínnatural, o kritisisme, quel es ínregulari, un parol isolat,
 demonstrante, que li alfabete de prof. J. sempre va ducter a
 complicationes e arbitraritás.
 
-A li in omni punctus superior sistema de Occ. prof. J. fa ti remarca,
+A li in omni punctus superior sistema de Occidental prof. J. fa ti remarca,
 que on ne save, esque logica significa un feminin logico o un
 scientie. Qualmen li povri lingues italian e hispan posse exister,
 essent in li sam maniere ambigui?
 
-Prof. J. cita, quam exemples de to, que Occ. malgré su tendentie a
+// XXX FIXME -- I./It., H/Hi.:
+
+Prof. J. cita, quam exemples de to, que Occidental malgré su tendentie a
 natural derivation possede mult «ínnatural formes quam scrition,
 analisation, interprension, descovrition». Scrition es scrit in It.
-scrizione, ma pronunciat in sam maniere. Esque I. scrizion es
-ínnatural? O esque Occ. scrition pro li t es ínnatural? In ti casu,
+scrizione, ma pronunciat in sam maniere. Esque I. «scrizion» es
+ínnatural? O esque Occidental «scrition» pro li t es ínnatural? In ti casu,
 quant paroles es natural in Novial? Quo concerne analisation, noi
-comprende necos. In Occ. on usa analise, e mem si on scri analisation,
+comprende necos. In Occidental on usa analise, e mem si on scri analisation,
 pro quo ti parol, quel existe in li anglesi lingue in li sam form e
 sense (vide p. ex. li conosset grand «Twentieth Century Dictionary» de
 Chambers e altri autoritativ lexicos) es ínnatural? Interprension es
@@ -726,15 +744,15 @@ a-prension de a-prendere, pro quo ne inter-prension de interprender?
 Ja in Lat. on format prehension de prehendere, de quel li modern form
 es prender. Descovrition es derivat del verbe descovrir (F decouvrir,
 A discover, I scoprire, H descubrir) e si natural lingues ha format
-tal derivates quam I scopritore e H descubridor, pro quo Occ. ne posse
+tal derivates quam I scopritore e H descubridor, pro quo Occidental ne posse
 haver descovritor e descovrition, sin que on considera les quam
 ínnatural?
 
-Li principal remarca de prof. J. contra Occ. es to, que it ne es
+Li principal remarca de prof. J. contra Occidental es to, que it ne es
 suficent regulari. Quo es regularitá? Si ti postulation pri regularitá
 significa, que on deve posser formar paroles secun li regules dat in
 li grammatica del concernent lingue, quo ha fat prof. J. pensar, que
-on ne posse formar regulari nov paroles in Occ.? In ti respect Occ.
+on ne posse formar regulari nov paroles in Occidental? In ti respect Occidental
 have precis li sam possibilitás quam Novial.
 
 Ma contentar se solmen per un tal regularitá, vell esser povri. Vermen
@@ -749,16 +767,16 @@ scrir Novial, plu international
 paroles on va esser fortiat inducter. Mult milles de ordinarissim
 paroles va esser strangeres, ínregulari derivates secun li grammatica
 de Novial, ma regulari secun li grammatica de Occidental. «Tendentie»
-es in Occ. regulari derivate de «tender», ma un ínregularitá o un
+es in Occidental regulari derivate de «tender», ma un ínregularitá o un
 strangere in Novial, e in sam maniere anc li altri citat paroles. Noi
-vide in Novial un parol «emperere» in vice de Occ. imperator, quel
+vide in Novial un parol «emperere» in vice de Occidental «imperator», quel
 Novial ne usa, ne possedente li sufix -or. Novial anc ne posse derivar
 imperatori, imperativ, ma deve haver o emperali e emperivi, o
-introducter li índispensabil parol imperativ quam contrabande. In Occ.
+introducter li índispensabil parol imperativ quam contrabande. In Occidental
 noi have «imperia» regularimen de imperar (sam quam dominia de
 dominar, regnia de regnar etc.), ma ci Novial denove deve haver o
 emperia, emperialisme, emperialist, emperialistali o introducter li
-formes de Occ. imperia, imperialisme, imperialist, imperialistic, sin
+formes de Occidental «imperia, imperialisme, imperialist, imperialistic», sin
 conexe con li cardinal parol.
 
 Si li LI va esser un ver cultural lingue, e ne solmen un code por
@@ -807,7 +825,7 @@ _A. Z. Ramstedt_
 Li aparition de Novial demonstra li superioritá e vivicapabilitá del
 idées de Edgar de Wahl, detalliat e exposit in li annucolectiones de
 Kosmoglott desde 1922. In quelc detallies Novial apare quam un plu
-minu bon imitation de Occidental, un Occ in un nov edition. Támen it
+minu bon imitation de Occidental, un Occidental in un nov edition. Támen it
 es tre dubitabil que ti nov edition anc es un amelioration.
 
 In li autor de Novial, li ancre multannual scientic de Ido, noi posse
@@ -1085,18 +1103,18 @@ Dr. Aschwanden, med. oc., president del Ido-gruppe de Biel: «Pro que
 yo es persuadet que Occidental es un ver e grand progress in li
 mundlingual movement, que it es li max bon solution experit til nu e
 que it forma li fundament sur quel omni mundlinguistes vell posser
-unir se, yo declara mi adhesion a Occ. … Li letura del numeró festiv
+unir se, yo declara mi adhesion a Occidental. … Li letura del numeró festiv
 de Cosmoglotta esset por me un ver revelation e Vu mey esser cert que
 noi, ex-idistes in Biel, va laborar por li solution del L. I. in li
-sense de Occ.»
+sense de Occidental»
 
 Dr. Schrag, inspector de secundari scoles, Bern, autor de un
-aprension-libre por Ido, publicmen declara Occ un grand progress.
+aprension-libre por Ido, publicmen declara Occidental un grand progress.
 
-Dr. H. Nidecker, pres. del «Suisa Ido-Federuro» scri: «Occ sona plu
+Dr. H. Nidecker, pres. del «Suisa Ido-Federuro» scri: «Occidental sona plu
 natural quam Ido, sin esser minu regulari. In Ido, certmen, li
-radicarium es international, ma in Occ anc li grammatica. … Si pos
-studia, yo trova que Occ es plu perfect e plu facilmen comprensibil
+radicarium es international, ma in Occidental anc li grammatica. … Si pos
+studia, yo trova que Occidental es plu perfect e plu facilmen comprensibil
 del max grand númere de nationes, yo nequande va hesitar pri adoption.
 Ne importa li nómine, importa solmen li idé e su realisation.
 
@@ -1358,32 +1376,32 @@ de Wahl. Sr Maurice Duval prova defender Esperanto in un long epistul
 al redaction. In li numeró del 4 januar li revúe insertet un articul
 de L. Ravasse refutant li esperantistic argumentes in maniere
 irrefutabil. Lu sam fa sr René Depin in un epistul al redaction; il
-insiste precipue sur li opiniones del comité del « Delegation por
-adoption de un Lingue auxiliari ». de professor Meillet del « Collége
-de France » e del « Commission de Cooperation intelectual del Societé
-de Nationes », queles omni refusa Esperanto.
+insiste precipue sur li opiniones del comité del «Delegation por
+adoption de un Lingue auxiliari». de professor Meillet del «Collége
+de France» e del «Commission de Cooperation intelectual del Societé
+de Nationes», queles omni refusa Esperanto.
 
 L'ALSACE ILLUSTRÉE, 9 novembre 1929, Mulhouse, contene un articul de
-sr. L.M. Guesnet. Il di inter altricos: « Occidental have un camp de
+sr. L.M. Guesnet. Il di inter altricos: «Occidental have un camp de
 action enorm. On posse usar it strax por li comunicationes e persones
-queles ha aprendet it nequande, queles mem ne conosse su nómine. »
+queles ha aprendet it nequande, queles mem ne conosse su nómine.»
 Jtt.
 
 LE TEMPS, Port au Prince (Haiti), 8 octobre, insertet un articul por
 Occidental.   L.M. de G.
 
 NORTH CHINA STAR, Pekin, 11 novembre 1929, contene un articul pri
-Occidental sub titul con grand lítteres « Occidental stands chance of
-becoming universal language » (Occidental have chance devenir
+Occidental sub titul con grand lítteres «Occidental stands chance of
+becoming universal language» (Occidental have chance devenir
 universal lingue). It es important que ti jurnal in lontan oriente
-nomina Occidental li « universal idioma de pace ». On constata que li
+nomina Occidental li «universal idioma de pace». On constata que li
 grammatica es tre simplic e facil. Un textu in Occidental fini li
 impressiv articul.   Jtt.
 
-« A bis Z », comunicationes por Scheithaueran stenographos, 1930, nr
+«A bis Z», comunicationes por Scheithaueran stenographos, 1930, nr
 1, inserte un curt textu por Occidental, tre recomandabil in populari
 propaganda in landes precipue non-romanic e nonanglés, ma in li lingue
-national. « Li lingue Occidental es un extract del international
+national. «Li lingue Occidental es un extract del international
 extran paroles ex li europan lingues. Qui es versat in lingues
 (sprachgewandt), ti comprende Occidental immediatmen. Qui ne es versat
 in lingues, ti aprende per chascun parol Occidental un parte (Stück)
@@ -1394,7 +1412,7 @@ es recivibil per adresse: ...»   E.P.
 SENNACIULO, organ del S.A.T., association anational del  esperantistic
 laboreres, pag. 178, have un articul quel vell demonstrar li plen
 dissolution de Esperanto si it ne es solmen un momentan deviation. Sub
-li titul « Atentu spiriton, ne sole literon de Fundamento! » on
+li titul «Atentu spiriton, ne sole literon de Fundamento!» on
 postula inter altricos li sequent novitás, introduction del sufixes
 -al, -i e -oz, con li sam sens quam -al, -i(e), -os(i) in Occidental.
 Tal innovationes adver vell changear plenmen li lingue de Zamenhof.
@@ -1402,20 +1420,20 @@ Tal innovationes adver vell changear plenmen li lingue de Zamenhof.
 // XXX NOTE -- Ci esset li marca original de págine -5-
 
 BERLINER TAGEBLATT, Berlin, nr 3, 2. jan. 1930, contene in articul «
-Die Technifizierung der Verständigung » (Li tecnification del
+Die Technifizierung der Verständigung» (Li tecnification del
 intercomprension) de B.F. Dolbin. Ti articul es o un ver persiflage de
 Esperanto o un demonstration que li autor ne conosse Esperanto; on ne
 posse suposir li duesim possibilitá, nam li jurnale apartene al firma
 Mosse, quel esset til recent li cardinal editoría del german
 esperantistes. Li autor nomina li Esperanto-traduction de «
-Meistersinger » (maestro-cantatores) de Richard Wagner un mal
+Meistersinger» (maestro-cantatores) de Richard Wagner un mal
 experiment e reputa Esperanto quam ínapt por li poesie. Li sonette «
-Bonvenon in Wien » de Fr. Zwach, il nomina un « liric malore ». Il
+Bonvenon in Wien» de Fr. Zwach, il nomina un «liric malore». Il
 postula li amelioration de Esperanto, quel have defectes queles deve
-esser abolit. « A ti lingue-edificie solmen su purification fro li
+esser abolit. «A ti lingue-edificie solmen su purification fro li
 mercantes conserva li spiritual consacration. Li proxim
 Esperanto-congress mey efortiar pri li problema dar li índubitosmen
-tecnic form al tecnic medie de intercomprension ». Anc ti autor
+tecnic form al tecnic medie de intercomprension». Anc ti autor
 postula li self-dissolution de Esperanto, in li prominent jurnale,
 quel ante poc mensus ancor esset conosset quam max remarcabil
 protector de Esperanto.   Jtt.
@@ -1508,7 +1526,7 @@ Pro mult ocupationes professional sr Mag. phil. A.Z. Ramstedt devet
 demissionar quam secretario del Celia. Noi tre regreta ti decision de
 nor estimat coidealist, quel ja mult avansat nor comun labores, tam
 per su activitá linguistic quam per li composition de su modellic
-Occidental-curs in li german libre « Occidental, die Weltsprache »
+Occidental-curs in li german libre «Occidental, die Weltsprache»
 (OdW). Ma Mag. Ramstedt continua consacrar su interesse a nor idé e
 anc su activ participation al movement per restar membre del Comité
 linguistic. Dr. Wormser e sr Deminger havet li amabilitá prender sur
@@ -1573,7 +1591,7 @@ COMITÉ LINGUISTIC
 Regulament
 
 1. Comité Linguistic del Occidental-Union, nominat secun li autorisat
-   Statute « Comité Explorativ de Lingue International Auxiliari »
+   Statute «Comité Explorativ de Lingue International Auxiliari»
    (abreviat: CELIA) es un comission international e public, instituet
    del Occidental-Union secun su Statute.
 
@@ -1661,15 +1679,15 @@ complicationes pro altri formes o regules ja existent.
 
 ha esset suficentmen discusset. Ti decision deve esser anunciat in un
 oficial circulare tri mensus in ante per un nota redactet quam seque:
-« Li responses del membres pri li question de ... deve esser misset al
-Comité ante li ... » Li date es fixat del Presidente.
+«Li responses del membres pri li question de ... deve esser misset al
+Comité ante li ...» Li date es fixat del Presidente.
 
 18. Chascun membre de quel li response ne veni al Secretaria in ti
-intervalle, es considerat quam « índiferent » pri li questiones posit.
+intervalle, es considerat quam «índiferent» pri li questiones posit.
 
 19. Li questiones proposit al votation deve esser enunciat talmen, que
-li membres posse responder simplicmen per « yes » o « no » o «
-índiferent ».
+li membres posse responder simplicmen per «yes» o «no» o «
+índiferent».
 
 20. Omni membre have li jure demandar un nov discussion e votation pri
 questiones ja decidet. Ma li Comité deve votar, esque it accepta un
@@ -1717,8 +1735,8 @@ Occidental-Union secun su Statute.
 
 2. Li programma del Academie es
 
-(a) decider pri li final ratification del decisiones del « Comité
-Linguistic » del Occidental-Union por lor aprobation in universal
+(a) decider pri li final ratification del decisiones del «Comité
+Linguistic» del Occidental-Union por lor aprobation in universal
 usada.
 
 (b) dar linguistic consilies e aprobationes por dictionariums,
@@ -1757,7 +1775,7 @@ e tam mult altri membres quam li Academie judica quam necessi.
 del Occidental-Union, ma sin indication del númere e del nómines del
 votantes. Ti ci dates es comunicat solmen al membres del Academie.
 
-8. Per li simplic ratification (nominat « admission ») de un nov form
+8. Per li simplic ratification (nominat «admission») de un nov form
 o regul per li Academie, li corespondent form o regul valid til tande
 ne es oficialmen abolit. Li abolition deve esser expressivmen decidet;
 ma mem in ti casu li form o regul valid til tande es oficialmen
@@ -1864,17 +1882,17 @@ documentes, e anc mi memorie ne ha conservat li detallies. Ma forsan
 un die on va trovar ti corespondentie in li secret archives de
 Esperanto, quande ili va esser apertet al historic exploration e
 publicat. Ma yo possede un lettre de sr Trompeter, li editor e mecen
-de « La Esperantisto », li caractere de quel es sat conosset per li
+de «La Esperantisto», li caractere de quel es sat conosset per li
 publicates in li Esperanto-presse, e quel forsan va interessar li
 letor. In ti lettre del 28 septembre 1891 Trompeter scri:
 
-« Kiam mi legis la artikolon de doktoro Zamenhof en numero 7 de «
-Esperantisto », mi pensis, se mi loghus kun Zamenhof sub sama
+«Kiam mi legis la artikolon de doktoro Zamenhof en numero 7 de «
+Esperantisto», mi pensis, se mi loghus kun Zamenhof sub sama
 tegmento, kaj mi vidus la manuskripton antau la presado, mi dirus: «
 Amata sinjoro, elektu alian tonon, memoru, Vi enprenis la proponojn de
 sinjoro de Wahl kaj de aliaj en li publika gazeto sen komentaro, kaj
 nun Vi ne havas la rajton, respondi en tial morda tono. Diru, kion Vi
-volas diri kontrau la proponos, sed ne tiel tranchante! » Tiam mi
+volas diri kontrau la proponos, sed ne tiel tranchante!» Tiam mi
 forgesis duone la afero   1) ghis Via letero memoris  2) min al ghi...
 (Nu seque un exposition del desfacil financial etc situation de
 Zamenhof) ... Tiel sidis Zamenhof nun eble en ne tenebla situatio
@@ -1883,7 +1901,7 @@ Zamenhof) ... Tiel sidis Zamenhof nun eble en ne tenebla situatio
 Estus damaghe por la afero, se restus la nuna malagordo inter Vi
 ambau, Chu Vi, estimegata Sinjoro, konsentas, ke mi pro Via afero kun
 Zamenhof skribu al li? Chu estas eble, fari pacon inter Vi kaj li?
-Kiel? »
+Kiel?»
 
 Nu, li pace esset fat, ma li amical sentimentes de antey hat cedet a
 plu oficial corect relationes, queles pos quelc témpor cessat
@@ -1928,7 +1946,7 @@ internationalitá e regularitá, in ti aspiration yo senti me plenmen
 disciplo de Zamenhof. Ne in li form, ma in li spíritu de su genial
 ovre.
 
-« On recompensa mal li mastro, si on resta sempre disciplo » ha dit
+«On recompensa mal li mastro, si on resta sempre disciplo» ha dit
 Nietzche.
 
 III.
@@ -1941,10 +1959,10 @@ projectes queles yo posset reciver: Liptay, Kosmos (Lauda), Communia
 (Kürschner), Nov Latin (Rosa) e specialmen Mundolingue de Lott e Idiom
 Neutral de Rosenberger.
 
-Ja in 1888 Lott hat publicat un brochura « Ist Volapük die beste und
-einfachste Lösung des Weltspracheproblems » e in 1889 « Eine
+Ja in 1888 Lott hat publicat un brochura «Ist Volapük die beste und
+einfachste Lösung des Weltspracheproblems» e in 1889 «Eine
 Compromiss-Sprache als beste und einfachste Lösung des
-Weltsprache-Problems ». Il quasi predessinat li general form del futur
+Weltsprache-Problems». Il quasi predessinat li general form del futur
 L.I., constructet ex elementes del international paroles. Ti brochura
 contenet un curt grammatica e un parte del vocabularium (li líttere A)
 por demonstrar su principies.
@@ -1962,21 +1980,21 @@ lexico, e li derivation. Il scri li 29. 8. 1890 de
 
 // XXX NOTE -- Ci esset li marca original de págine -15-
 
-Vienna in lingue german: « Yo ha provat adaptar Vor sistema de
+Vienna in lingue german: «Yo ha provat adaptar Vor sistema de
 derivation al lingue international por junter it al lexico. Si it nu
 ea suficent bon che li sufixes, it falli totalmen che li prefixes.
 Ples haver li bonitá misser me li derivation in Vor sense solmen in
-lingue international, ma possibilmen bentost ». Il anc proposit me
+lingue international, ma possibilmen bentost». Il anc proposit me
 prender sur me li redaction de un periodic quel il volet editer, ma ti
-cose naufrageat, e ne ante 1893 Lott atinget editer li revúe « Le
-Kosmopolit » in L.I. e german, ma sub propri redaction. Su brochura e
+cose naufrageat, e ne ante 1893 Lott atinget editer li revúe «Le
+Kosmopolit» in L.I. e german, ma sub propri redaction. Su brochura e
 li circulares hectografat dismisset a omni conosset adresse támen
 visibilmen ne hat atraet li interesse in suficent gradu.
 
 In omni casu li missuccess descorageat Lott talmen que in 1891 secun
 su lettres il volet jettar omnicos. Ma tande li libre de Liptay, quel
 expresset idés simil al sui e hat evocat interesse in li publica,
-pussa le denov al labor. Il edite in august 1891 un « Suplent folie »
+pussa le denov al labor. Il edite in august 1891 un «Suplent folie»
 in lingues angles, german, frances, italian, hispan e adjuntion in su
 propri lingue. Inter altricos il publica pri li pronómines anc li
 propositiones de me, Runstedt, F.V. Lorenz e Liptay. It es
@@ -1985,7 +2003,7 @@ interessant, que omni quar trovat necessi special formes del casu
 casus. Anc li formes so, sa, soi, sostre etc resta. Ma li mutual
 corespondentie inter li progressiv interlinguistes visibilmen hat
 influentiat le, e quande in fin de 1892 il comensa li edition de su
-revúe « Le Kosmopolit » in li cap ja sta inter li fundamental regules
+revúe «Le Kosmopolit» in li cap ja sta inter li fundamental regules
 li pronómines: mi, tu, elo, ela, ele; noi, voi, elos, elas; e mie,
 tue, sue, nostre, vostre, lostre. Ti ultim form il anc ne ha abandonat
 in su edition 1899. Su revúe, editet in mundolingue e german, támen ne
@@ -1994,7 +2012,7 @@ vole provar recomensar li edition, ma to nequande esset fat. 1)
 
 Talmen ti edition provant junter omni progressiv mundlinguistes in
 constructiv comun labor ne posset tener se, sammen quam li unesim tal
-revúe « Interpretor », editet in Leipzig de Karl Lentze in annu 1889
+revúe «Interpretor», editet in Leipzig de Karl Lentze in annu 1889
 til 1890, quáncam li base del lingue de Lentze esset tot altri quam ti
 de Lott. Il volet ye exemple
 
@@ -2006,13 +2024,13 @@ un erra. Yo self possede li numerós til 1 april 1894 (nr. 13).
 
 de Volapük constructer un L.I. sur un simplificat e foneticmen
 transscrit Anglés, un metode quel til nu ne havet success, e ne posset
-entusiasmar mult persones. In li revúe « Interpretor » ti direction
+entusiasmar mult persones. In li revúe «Interpretor» ti direction
 esset subtenet per Knuth, e li finnlandés Ilmari Krohn, chascun
 naturalmen con su propri personal nota. Ma anc bon e rasonabil
 articules esset publicat in ti unesim revúe, p.ex. li considerationes
 de Dr. Fricke, Lott e altris, ma Lentze e Krohn restat ínflexibil e
 pos li fine del Interpretor on ne audit plu pri ti direction til que
-Dr. Fr. Riedel e O. Scheffers publicat un articul in « Uniti langue »
+Dr. Fr. Riedel e O. Scheffers publicat un articul in «Uniti langue»
 (Kosmoglott 1923 nr 1 [13]). In li sam numeró on trova anc specimenes
 del lingue de Lentze e de A. Nilson.
 
@@ -2055,8 +2073,8 @@ etc; ma il conservat li italian pronunciation k del combination ch.
 
 Ti evolution Lott visibilmen atinget per li augmentation del general
 interesse pri linguistic questiones, quel ductet al aparition del
-revúe « Linguist » sub redaction de Max Wahren in Hannover, in annu
-1895 e 1897. Ti periode es suficent detalliat tractat in li « Histoire
+revúe «Linguist» sub redaction de Max Wahren in Hannover, in annu
+1895 e 1897. Ti periode es suficent detalliat tractat in li «Histoire
 »e prof. Couturat. On save que un positiv resultate per ti
 discussiones ne ha esset atinget, e pro to Lott denove fat grand
 eforties por crear un international societé por presentar un modern
@@ -2065,13 +2083,13 @@ un detalliat grammatica, corespondet con divers mundlinguistes, scrit
 articules e circulares e monstrat un vermen admirabil activitá,
 energie e persistentie, specialmen quam ja dit ante li Exposition
 International in Paris 1900. In 1899 do apari un nov ovre (li quasi
-final de Lott) « Un lingue international pro le cultivat nations de
-tot mund » con « Gramatic, Dialogs, letters et vocabular. Composit in
+final de Lott) «Un lingue international pro le cultivat nations de
+tot mund» con «Gramatic, Dialogs, letters et vocabular. Composit in
 anglian, frances, german, italian et universal lingue, pro le practic
 application durant le exposition universal de Paris 1900, Imprimeria
-Carl Fromme, Vienna. »  1)
+Carl Fromme, Vienna.»  1)
 
-In li « Histoire » de Couturat es recenset e exposit solmen ti ultim
+In li «Histoire» de Couturat es recenset e exposit solmen ti ultim
 fase de evolution de Lott. Pro to it vell esser forsan interessant
 comparar su unesim provas, proque li libres e editiones de Lott nu es
 desfacilmen recivibil.
@@ -2103,7 +2121,7 @@ vole.
 (1899): In brevi tempor esseré cognit et usat ist lingue in tot le
 mund et ele obteneré un perfection qua neun lingue del terre. Ingenios
 dames ha un grand influence, ergo ha Vo le bonitá intrar in le
-mundolingual societá. »  3)
+mundolingual societá.»  3)
 
 Li letor va constatar que li evolution de Lott ha movet se plu e plu
 in li direction quel yo sempre sublineat.
@@ -2117,7 +2135,7 @@ clar videntie de ti profetic mente.
 Un prematurat morte ha sepultet li fructes de su vast planes.
 
 Tam plu noi deve ci memorar que Lott esset li unesim modern
-mundlinguist. Nietzsche ha dit: « Primnascetes es sempre sacrificat ».
+mundlinguist. Nietzsche ha dit: «Primnascetes es sempre sacrificat».
 Ma lor glorie resta.
 
 // XXX NOTE -- Ci esset ti separator: -----
@@ -2126,7 +2144,7 @@ Ma lor glorie resta.
 
 Heinrich Lott
 
-a senior Karl Janotta, presidente del societé « Cosmoglotta » in Wien.
+a senior Karl Janotta, presidente del societé «Cosmoglotta» in Wien.
 
 Plur vezes yo havet li honore esser invitat de vor estimatissim
 societé a discurses, e in un tel ocasion li desir esset expresset,
@@ -2141,7 +2159,7 @@ de su vive quam oficiario superior in li direction del Privilegiat
 Austrian Nordferrovia in Wien. Mi avo, i.e. li patre de Julius Lott,
 Friedrich Lott, originat de Halberstadt in li provincia Saxonia e
 nascet ta 1794 quam filio del borgesi  stoffero Friedrich Lott in li
-dom « Hinter der Münze » (detra li monetería), quam di li testimonie
+dom «Hinter der Münze» (detra li monetería), quam di li testimonie
 baptismal de mi avo. Il immigrat versimil inter 1820 e 1830 a
 
 // XXX NOTE -- Ci esset ti separator: -----
@@ -2150,7 +2168,7 @@ baptismal de mi avo. Il immigrat versimil inter 1820 e 1830 a
 personal.
 
 3) Ci ja es usat li líttere c con su duplic pronunciation. On mey anc
-remarcar li metode formar li imperative « ha Vo » per inversion del
+remarcar li metode formar li imperative «ha Vo» per inversion del
 pronómine. Ci Lott anc usa Vo, durant que in su unesim conceptes il
 usat Tu.
 
@@ -2166,7 +2184,7 @@ Lott, de quel vive ancor li filias Ernestine, vidua de Calben e
 remaritat Günther, e Sidonie Lott, ambi in Wien.
 
 Li patre de Julius Lott esset dom-proprietario e lupul-negociant in
-Fürstenfeld; li dom patrin jace vis a vis li « Grazer Tor » (Porta de
+Fürstenfeld; li dom patrin jace vis a vis li «Grazer Tor» (Porta de
 Graz) e es hotémpore proprietá del casse de sparniages de Fürstenfeld.
 Por Julius Lott li carriera militari esset selectet. Il esset misset
 al Academie Militari in Wr. Neustadt, quel il quittat in 1866 quam
@@ -2185,7 +2203,7 @@ memorie, que li oncle mastrisat tre mult lingues, e il trublat
 alquande mi vacantial repose per que il instructet me zelosimen in li
 lingue italian, nam il opinet que li hom deve posseder lingues por
 trovar su existentie in li munde. In annus posterior yo observat que
-li oncle ocupat se tre zelosimen pri li lingue international « Volapük
+li oncle ocupat se tre zelosimen pri li lingue international «Volapük
 ». Sur su scritable un grand quantité de libres e brochuras stat
 staplat. Yo opine que il editet anc un revúe e fat un corespondentie
 de un enorm extension: nam yo memora ancor, que yo portat con su
@@ -2196,7 +2214,7 @@ ella maledit to e dit sovente, que ella va metter li tot linguallia
 familie. Sovente li oncle fat in Wien in divers salas discurses a
 queles anc yo devet assister, e che queles sempre mult auditores esset
 reunit. Yo audit tre sovente, que il volet mem ameliorar li lingue
-international « Volapük », e il anc editet divers libres in ti sense.
+international «Volapük», e il anc editet divers libres in ti sense.
 Teles es ancor trovabil, quam on di, in li biblioteca del universitá
 in Wien.
 
@@ -2245,7 +2263,7 @@ cordes de ráckets. Senior Heinrich Lott nos ha mettet in disposition
 anc un fotogramma de su oncle quel noi reproducte in ti ci numeró. Ti
 qui vole informar se adplu pri li cosmoglottic activitá de Julius
 Lott, ples leer anc li Interlinguistic reminiscenties de sr E. de Wahl
-in li present caderne e li articul « Un precursor ínjustmen obliviat »
+in li present caderne e li articul «Un precursor ínjustmen obliviat»
 de Prof. Ric. Berger in nr 57.   Red.
 
 // XXX NOTE -- Ci esset ti separator: -----
@@ -2283,7 +2301,7 @@ moralic.
 
 Un studie critical del historie es higienic por li intelectu, pro que
 ti ci es liberat de su credulitá. Li credul homes credet que li grand
-guerre va esser un « guerre por far fine a omni guerres futuri »; ma
+guerre va esser un «guerre por far fine a omni guerres futuri»; ma
 qui conosset li historie universal, ti facilmen posset previder li
 querelle pri division del terren conquestat quel vell erupter che li
 conclusion de pace.
@@ -2331,13 +2349,13 @@ observar, quo li mann ye li table vicin vell dir al servitor, e si li
 manjage vell pleser le, imitar li parol tam bon quam it successa. Li
 farinage por exemple, quel li vicino ho-moment manjat, aparet
 passabilmen gustosi. Bentost poy li mann vocat li servero, monstrat a
-su platil e dit: « Dahar bir defa ». Quande li servitor aportat ancor
+su platil e dit: «Dahar bir defa». Quande li servitor aportat ancor
 un portion del apetitosi farinage, li gast fat signe al servero,
-monstrat a su platil e dit: « Dahar bir defa ». Li servitor aportat --
+monstrat a su platil e dit: «Dahar bir defa». Li servitor aportat --
 ancor un portion pilav. Plu tard al foren dit su amic comercial, que «
-Dahar bir defa » significa « Lu sam! »
+Dahar bir defa» significa «Lu sam!»
 
-Ex li revúe mensual « In die weite Welt », Wien, II-m annu, nr. 5, may
+Ex li revúe mensual «In die weite Welt», Wien, II-m annu, nr. 5, may
 1925.
 
 _Translatet de Karl Janotta._
@@ -2351,12 +2369,12 @@ _De Klabund._
 Per mi promenada-baston yo per-picat un formiciera. Furiosimen e
 alarmat li animales curret in turbulentie. Subitmen yo levat li baston
 e partit. Li animales, vidente desaparir li baston in li aer, criat: «
-Quel strangi avie! » -- Un formíca apartmen audaciós, ha ascendet li
+Quel strangi avie!» -- Un formíca apartmen audaciós, ha ascendet li
 baston. Yo devet escartar it. Totalmen iritat ella arivat che li
-altres. Excitatmen ella exclamat: « Li avie tenet un hom in su
-ungules; it manja homes! » -- Poy ella retirat in contemplation, scrit
-un libre: « Specie, descendentie e organisme del nov decovrit
-baston-avie » e ella esset habilitat a professor ordinari del zoologie
+altres. Excitatmen ella exclamat: «Li avie tenet un hom in su
+ungules; it manja homes!» -- Poy ella retirat in contemplation, scrit
+un libre: «Specie, descendentie e organisme del nov decovrit
+baston-avie» e ella esset habilitat a professor ordinari del zoologie
 in li universitate de Przmnldtbk...   Trad. E.P.
 
 // XXX NOTE -- Ci esset ti separator: -----
@@ -2386,7 +2404,7 @@ pricipie de Doppler aplicat al spectroscop ili recentmen constatat que
 quelc nebules in li constellation Coma Berenices have un translation
 in li radie visori (velocitá radial) de 7800 km per seconde. Abstraet
 del lúmine (299 800 km/sec) e altri oscillationes del ínmaterial «
-ether » (radies gamma, Röntgen, caloric e electric), in li tot
+ether» (radies gamma, Röntgen, caloric e electric), in li tot
 universe solmen li radies de catode have un plu grand rapiditá, i.e.
 100 000 km/sec ye tension de 30 000 voltes.  E.P.
 
@@ -2407,7 +2425,7 @@ li reclame deve comensat, it deve educar li publica e per lent labor
 far acustomar it al progress. Solmen tande, pos decennies, li homes ne
 comprende, qualmen ili posset perdurar jamá sin ti innovation ...
 
-Ex « Handbuch der Reklame » (Manuale del reclame) de Johann Frank.
+Ex «Handbuch der Reklame» (Manuale del reclame) de Johann Frank.
 Tagblatt-Bibliothek Nr 600/604a Steyermühl-Verlag, Wien.
 
 _E. Moess._
@@ -2455,7 +2473,7 @@ compensation de quel li administration misse tri exemplares del revúe.
 
 Payamentes ulterior por subtener nor propaganda e ameliorar li revúe
 va esser acceptat con grand mersí e publicat in Cosmoglotta sub
-rubrica « Subventiones » con indication del plen nómine del donator si
+rubrica «Subventiones» con indication del plen nómine del donator si
 li don es plu grand quam 0,5 Dollar e si un altri desir ne es
 expresset.
 
@@ -2565,7 +2583,7 @@ divers resultates sta contra unaltru. Támen, mem Espo in cert casus es
 in desfacilitás con su sistema. Sovent in Espo on ne posse indicar
 precismen, ex quel parol-categorie proveni un derivation, proque li
 pur vocalic desinenties es supresset, p.ex. kronejo (sala del corones
-o del conoration?), varmigi (igi varma o igi varmo?). Occ. sempre have
+o del conoration?), varmigi (igi varma o igi varmo?). Occidental sempre have
 plurilitteral desinenties finient ye un consonant: -ion, -ment, -al,
 -in, -ic, -ori, -ari, -ore e li apartenent derivationes: -ional,
 -mental, -inar, -icism, -oria, -arisar, -orosi (conventional,
@@ -2579,14 +2597,14 @@ unidirectional), jarcentona (= centenari), acidonigi (= acidificar),
 homaligi (= humanisar), imperialigi (= imperialisar), racialigi (=
 rationalisar), reformiro (= reformation, "reformo" es li finit fact!),
 formirigi (= far formar), florira (concernent li floreantie =
-floreantial!). Naturalmen Occ. ne besona tal bombastic expressiones.
+floreantial!). Naturalmen Occidental ne besona tal bombastic expressiones.
 Remarcabil es li adaptation al international sufixes (-ion, -ena,
 -al). Espo incorpora se manicos ex li modern sistemas, ma it ne fa
 comprender li etimologic coherentie. Wüster vole evitar demísufixes
 (sanitara, lokalizi, reformacio, impresionisto) o oficialisar e
 regular les per tal intersufixes. Esque in tal maniere (substantives
 "on", adjectives "al", verbes "ir") to ha successat? It mey monstrar,
-que Occ. es sur li recv via.   W. Karch, Leipzig.
+que Occidental es sur li recv via.   W. Karch, Leipzig.
 
 // XXX NOTE -- Ci esset ti separator: ---
 
@@ -2986,14 +3004,14 @@ ja comensat li propaganda. Un long articul pri Occidental, publicat in
 un jurnale de Valladolid, esset reproductet spontanimen de altri grand
 diales de Hispania, quo monstra li interesse del Hispanos por nor
 movement. Li editoría del Sviss Association por Occidental auxiliat li
-nov hispan coidealistes per editer un curs de Occ. in hispan e mult
+nov hispan coidealistes per editer un curs de Occidental in hispan e mult
 documentes por li propaganda. It es con grand plesur que noi save que
 nor movement nu have un centre in Iberia.
 
 FRANCIA. Articules de Ing. Thibault ha aparit in L'Ouest (Angers) e
 L'Eveil des Peuples (Paris) ; de Sr Carbonnier in L'Etoile
 Sténographique (Lille). Un anuncia ha esset insertet in li revúe de
-sexual reforma "La Grande Réforme". Quelc lineas por Occ. ha aparit in
+sexual reforma "La Grande Réforme". Quelc lineas por Occidental ha aparit in
 li januar Bulletin del Departement Marne del Sindicate National del
 Instructeros.
 
@@ -3076,7 +3094,7 @@ ASSOCIATION PROLETARI INTERLINGUISTIC. (A.P.I.) es li nov nómine del
 A.P. Occidentalistic. Li scope del societé es gruppar li
 occidentalistes del laborant classe e de tendentie strictmen proletari
 (socialistes, comunistes, anarchistes) por propaganda in jurnales de
-laboreros e por organisation de correspondentie per Occ. Pro que li
+laboreros e por organisation de correspondentie per Occidental. Pro que li
 secretario til nu G. Bohin es impedit laborar activmen, licomité ha
 nominat quam international secretario: Sr G. Poujet, in Heutregiville
 par Warmeriville, Marne, Francia e quam vice-secretario Sr Karl
@@ -3152,7 +3170,7 @@ Ausland: RM ——,30.
 
 Leitfaden der Weltsprache Occidental.
 
-Lehrgang, Lesestiicke und ausführliches Wörterverzeichnis Occ-Deutsch
+Lehrgang, Lesestiicke und ausführliches Wörterverzeichnis Occidental-Deutsch
 von Karl Janotta. 80 Seiten. Mit Bildern. RM —,80.
 
 Sämtliche Occidental-Biicher können durch die Haupstelle der
