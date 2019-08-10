@@ -9,7 +9,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201908102056
+// Last modified 201908102105
 
 == Cosmoglotta A 051-052 (aug-sep 1928)
 
@@ -1852,11 +1852,14 @@ signat per 1/3 del membres e aprobat per 2/3 del votantes.
 19. In li casu de dissolution del Academie su eventual possessiones
 apartene al Occidental-Union.
 
-=== Interlinguistic reminiscenties
+:pednote1855: Li parte I ha aparit in li nr 41 de Cosmoglotta, quel \
+regretabilmen ja es exhaustet. Ma in su témpore noi ha fat printes \
+special del unesim parte, quel nov abonnates posse reciver contra ö S. \­
+0.50. Red.
+
+=== Interlinguistic reminiscenties (2){blank}footnote:[{pednote1855}]
 
 _De E. de Wahl._
-
-II   1)
 
 Li vive rula, li unes abandona li scene, altres apari, nov homes, nov
 problemas, nov labores. Ili ha submerset presc omnicos in li Lethe del
@@ -1872,16 +1875,6 @@ per mi forsan tro juvenil ímpetu in postulation de changes. Ili esset,
 quam on posse vider hodie in Occidental, in un direction quel aproxima
 li L.I. al comun europan formes e subordination al leges trovat per li
 linguescientie, elimination
-
-// XXX NOTE -- Ci esset ti separator: ---
-
-// XXX TODO -- pednote:
-
-1) Li parte I ha aparit in li nr 41 de Cosmoglotta, quel regretabilmen
-ja es exhaustet. Ma in su témpore noi ha fat printes special del
-unesim parte, quel nov abonnates posse reciver contra ö S. 0.50.
-Red.
-
 del ínnatural accentu, del arbitrari finales -o, -a, -e, -as, -is, -os
 etc. Pri ti periode yo, quam ja dit supra, presc ne possede
 documentes, e anc mi memorie ne ha conservat li detallies. Ma forsan
