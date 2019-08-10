@@ -106,4 +106,5 @@ ____
   legibility, making clear "De" is not the ordinary preposition "de".
 - Create stylesheet for `[preface]`.
 - Mark the article authors with italics, after the original.
-- Add the missing issues of Cosmoglotta A: 51, 52, 68, 87.
+- Format and mark the missing issues of Cosmoglotta A: 51, 52, 68, 87.
+- Expland "Intl." -> Interlingue.
