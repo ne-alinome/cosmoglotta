@@ -104,3 +104,4 @@ ____
   personal name. This convention, used in Spanish and other languages,
   is already used many times in Cosmoglotta. This change improves
   legibility, making clear "De" is not the ordinary preposition "de".
+- Create stylesheet for `[preface]`.  
