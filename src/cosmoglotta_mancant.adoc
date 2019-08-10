@@ -9,7 +9,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201908102037
+// Last modified 201908102056
 
 == Cosmoglotta A 051-052 (aug-sep 1928)
 
@@ -102,6 +102,8 @@ del Ido-Akademio sentit li beson redemonstrar li excellentie del
 principies de Ido. (Vide «Ido», april 1928). Noi do va anc rediscusser
 les.
 
+// XXX NOTE -- li marca original de págine -119- esset pos listun 2:
+
 1) «Internationalitá del radicas (del radicas, ne del tot paroles
 format)». Pri li principie inter parenteses noi responde: tant plu
 regretabil. Un ver lingue international deve haver ne solmen radicas,
@@ -113,8 +115,6 @@ Occidental have anc ti avantage tam bon quam Ido. Ma li derivates de
 Occidental es identic a natural paroles internationalmen conosset,
 contra que li Ido-derivates, tro autonom, es artificial formes sovente
 íncomprensibil.
-
-// XXX NOTE -- Ci esset li marca original de págine -119-
 
 3) «Unisensitá in li paroles e renversabilitá in li derivation». — Si
 yes, noi questiona pro quo in Ido vocabules quam «nivo, pluvo» ne
@@ -157,15 +157,15 @@ have ancor duplic consonantes, un L. I. ne deve obligar li adeptes a
 altri acustomation. Ti adeptes va scrir plu instinctivmen fortissim,
 acceptar, errore, etc, quam fortisim, aceptar, erore.
 
+// XXX NOTE -- li marca original de págine -120- esset in li sequent
+// paragraf:
+
 To es tam ver que li presc unic errores queles on incontra in lettres
 idistic, proveni del obliviantie de ti reduction. Por ex. in un
 circulare de un redactor idistic qui usa Ido desde 10 annus, noi lee
 «me assertas»! Un poet idist, in li lettre self u il combatte li
 duplic consonantes, scrit «me essus», e ples remarcar que li verb
 esser es li max usat. Li president de un
-
-// XXX NOTE -- Ci esset li marca original de págine -120-
-
 Ido-gruppe svissian scri ancor nos: «acceptez». Esque ti exemples
 inter multis ne es un decisiv pruva que Occidental seque li regules
 del psicologie?
@@ -246,15 +246,15 @@ relation, … si on desira adopter li vocabules in -ion sembla que es
 necessi haver verbes in -ar (educar: education), in -ir (definir :
 definition), in -er (expresser : expression; adopter : adoption)».
 
+// XXX NOTE -- li marca original de págine -122- esset in li sequent
+// paragraf:
+
 Ci es li node del question: Si Ido vole adopter li sufix max
 international e max usat, it es obligat acceptar li solution de Occidental e
 abandonar li base Esperantic. On comprende to que li ductores de Ido
 sercha omni sortes de objectiones, queles monstra solmen que li suffix
 -ion es por Ido quam li uves por li fox: tro verdi! In «Ido», febr.
 1928, sr de Beaufront
-
-// XXX NOTE -- Ci esset li marca original de págine -122-
-
 explica que si -ion ne es admisset, to es pro que -ion significa tande
 action (p. ex. abolition), tande insecte (papilion), e tande person
 (histrion = comediant)! Ma contra ti argument null sufix vell posser
@@ -392,11 +392,11 @@ grand difusion». E. W. self misset al Comité del Delegation un
 memorandum quel indicat li ver principies del L. I.: naturalitá e
 regularitá, supression del formes inventet.
 
+// XXX NOTE -- li marca original de págine -125- esset in li sequent
+// paragraf:
+
 Pos li publication de Ido, E. de Wahl strax indicat li defectes de
 principies e de detallies. On corectet solmen un poc
-
-// XXX NOTE -- Ci esset li marca original de págine -125-
-
 de ili secun su criticas, precipue li prefixe mal- esset viceat per
 des-.
 
@@ -433,6 +433,9 @@ de nor jurnal un response, ex li plum de senior de Wahl.
 In su public epistul in «Mondo» nr 209, sr J. confesset que il ha
 aprendet ne solmen de Zamenhof e Couturat, ma anc de de Wahl.
 
+// XXX NOTE -- li marca original de págine -126- esset in li sequent
+// paragraf:
+
 Max grand li influentie de Occidental es remarcabil in li derivation verbal
 de Novial. Ci nu anc li tema verbal fini per un vocale, a quel es
 adjuntet p. ex. li solmen consonantic finales participial: -nt e -t.
@@ -441,9 +444,6 @@ Sr J. ha compilat a un multicolori mosaic li derivation de Occidental con su
 «sivilisatione (civilisation), sosialisatione (socialisation), vivasi
 nationalisatione (vivaci nationalisation), sent diferentiationes (cent
 diferentiationes),
-
-// XXX NOTE -- Ci esset li marca original de págine -126-
-
 i. e. paroles con aspect de cap de «Janus bifrons», regardant in avan
 al futur e in detra al passat.
 
@@ -515,6 +515,9 @@ _E. Pigal_
 
 === Novam e Novial --  Du nov projectes de lingue international
 
+// XXX NOTE -- li marca original de págine -128- esset in li sequent
+// paragraf:
+
 In li ultim mensus ha esset publicat presc ye li sam témpore du nov
 projectes: Novam — de Sr G. Touflet, Paris, e Novial — de prof. O.
 Jespersen, Copenhagen. Proque ambi essentialmen vole esser
@@ -534,9 +537,6 @@ ja de long in ante de su autor, mem córam li grand publica, e it ha
 esset expectat con grandissim interesse de omni interessates, queles
 ha esperat que it va adportar nos alquicos nov. Pro ti publicitá noi
 es fortiat tractar li projectes ci. Ambi sembla ancor esser
-
-// XXX NOTE -- Ci esset li marca original de págine -128-
-
 in stadie de elaboration, ma to quo ja es publicat, da nos sufficent
 materiale e motive por declarar nor desinteresse.
 
@@ -570,6 +570,9 @@ desir de un individue pri li pronunciation e scrition de international
 paroles, un tro debil base. On posse constatar un internationalitá de
 scrition, ma absolut ne un tal de pronunciation.
 
+// XXX NOTE -- li marca original de págine -129- esset in li sequent
+// paragraf:
+
 Comprensibilmen li intention del autores ha, esset far li scrition del
 paroles plu facil. Ma secun nor opinion ili ha fat li lingue plu
 desfacil. Li reformatores va esser fortiat prescrir un nov ortografie
@@ -580,9 +583,6 @@ de geografic nómines, un eclatant pruva que li question have anc su
 practic látere, ne solmen teoretic. Ma li cose have anc un estetic
 látere. It es conosset que li non-romanic scrition per k e s de
 romanic
-
-// XXX NOTE -- Ci esset li marca original de págine -129-
-
 paroles, es repugnant por li romanic popules e por li angleses («the
 German Kultur»), ma li usation de c totmen ne es to al altri popules,
 quo monstra li predilection de germanes e scandinaves usar c vice k in
@@ -612,6 +612,9 @@ schematisme ne auxilia li aprension. Li homan memorie besona firm
 punctus por adherer, e just pro lor ínperfectitás e ínregularitás li
 natural lingues da nos plu secur adhesion por li memorie.
 
+// XXX NOTE -- li marca original de págine -130- esset in li sequent
+// paragraf:
+
 Li nov projectes difere concernent li conjugation: Novam tende a un
 sintetic: amer, aman, amed, amar, amud, hav amat, had amat; Novial a
 un analitic: tu ama, ama, did ama (o ámad), sal ama, vud ama, ha ama,
@@ -624,9 +627,6 @@ anc li scandinavic lingues, queles di: bli älskad, e ne bli älska. Li
 infinitive de Occidental «amár» es certmen mult plu bon quam «tu ama». Li
 accentuation sur li tematic vocale auxilia li memorie e conservation
 de it, -r quam inf.-signe es panromanic
-
-// XXX NOTE -- Ci esset li marca original de págine -130-
-
 e conosset anc in german e slavic verbes: G telephonieren, Sv
 telefonera, R telefonirovat’. It es a observar, que anc Novial ha
 introductet tematic vocales che li verbes, e ne tri quam che Occidental, ma
@@ -660,6 +660,9 @@ non es tam richi kam anglum, non tam eleganti kam fransum, non tam
 vigorosi kam germanum, non tam beli kam italianum, non tam nuansosi
 kam rusum, non tam hemali kam nusen patriali lingue.
 
+// XXX NOTE -- li marca original de págine -131- esset in li sequent
+// paragraf:
+
 Li libre de prof. Jespersen contene curt criticas de Volapük,
 Esperanto, Idiom Neutral, Ido, Latino sine flexione e Occidental. Lsf
 il rejecte absolut, e it es interessant notar, que il attribue li
@@ -669,9 +672,6 @@ e li «Akademio» de Ido ne esset suficent autoritativ. Pri Occidental prof.
 J. di, que null project pos Esp. e Ido posse mesurar se in importantie
 con Occidental. Ma il tamen ne es content con Occidental e critica it sur presc tri
 págines. Un bon
-
-// XXX NOTE -- Ci esset li marca original de págine -131-
-
 critica es sempre salutat, si it monstra ver mancas, ma li critica de
 prof. J. monstra miscomprension del cose criticat o es ínjust.
 
@@ -708,14 +708,14 @@ totalmen regulari derivate, clarmen explicat secun li regules de Occidental;
 ma in Novial it sta isolat, sin coherentie, in su ínnocentie
 demonstrante, que li lingue ne cuida pri arbitrari decretes.
 
+// XXX NOTE -- li marca original de págine -132- esset in li sequent
+// paragraf:
+
 In Occidental noi have li max natural e regulari derivation: logic, logico,
 logica; grammatic, grammatico, grammatica; critic, critico, critica,
 criticar. (Li síllabe -ic- es ìnaccentuat). Qualmen nu aspecte ti
 paroles in Novial? Kritíke = critica, kritikiste o kritikére? =
 critico, kritiki o kritikal? = critic e tu
-
-// XXX NOTE -- Ci esset li marca original de págine -132-
-
 kritika = criticar. In vice de criticisme, quel es in Occidental regulari
 derivate con natural pronunciation, Novial deve haver o kritikisme,
 quel es ínnatural, o kritisisme, quel es ínregulari, un parol isolat,
@@ -755,15 +755,15 @@ li grammatica del concernent lingue, quo ha fat prof. J. pensar, que
 on ne posse formar regulari nov paroles in Occidental? In ti respect Occidental
 have precis li sam possibilitás quam Novial.
 
+// XXX NOTE -- li marca original de págine -133- esset in li sequent
+// paragraf:
+
 Ma contentar se solmen per un tal regularitá, vell esser povri. Vermen
 regulari es un tal lingue, in quel ti paroles, queles on in fact usa,
 e deve usar in international lingue, es format conform al regules del
 grammatica. Ja in li curt textus dat de prof. J. il ha devet usar tal
 paroles quam «tendentie», «diferentiatione», «inosent» e plu on va
 scrir Novial, plu international
-
-// XXX NOTE -- Ci esset li marca original de págine -133-
-
 paroles on va esser fortiat inducter. Mult milles de ordinarissim
 paroles va esser strangeres, ínregulari derivates secun li grammatica
 de Novial, ma regulari secun li grammatica de Occidental. «Tendentie»
@@ -802,11 +802,11 @@ regulari, it va esser ínnatural, e si it vole esser natural, va esser
 lingue plu regulari quam Occidental, in realitá su lingue es mult vez
 plu ínregulari.
 
+// XXX NOTE -- li marca original de págine -134- esset in li sequent
+// paragraf:
+
 Li labor del modern interlinguistica es triplic: tecnica, scientie e
 arte. Li project de prof. Jespersen monstra nos, que
-
-// XXX NOTE -- Ci esset li marca original de págine -134-
-
 il ha dat attention exclusivmen al tecnica, e habilmen utilisat li
 fructes e metodes de anteyan interlinguistes. It vell joyar nos
 grandissim, si prof. Jespersen, con su rich e profund filologic
@@ -843,6 +843,9 @@ skribesas, skribabis, skribesabis etc; noi vole esperar que tal formes
 bentost va desaparir por etern, ili ne apartene ad un lingue quel vole
 nominar se international.
 
+// XXX NOTE -- li marca original de págine -135- esset in li sequent
+// paragraf:
+
 Apare me que per su Novial li partú conosset e estimat linguist plu ha
 nocet quam subtenet nor comun idé. Necos de novitá valorosi in su
 project posse defender li tro temporan publication: in contrari, li
@@ -850,9 +853,6 @@ novitás til nu publicat on totmen ne posse laudar. P. ex. li
 elimination total del partú conosset e international usat líttere c.
 Per un tal exilation on es fortiat continuar li mutilation de conosset
 international paroles
-
-// XXX NOTE -- Ci esset li marca original de págine -135-
-
 til ínreconossibilitá e rupter heredat customes. Un international
 pronunciation ne existe. Quam long va it durar til in li conscientie
 va ear li conception, que ne li pronunciation ma preferabilmen li
@@ -951,6 +951,9 @@ Esperanto have li international formes «persisti, ekskludi,
 multipliki». Por li du ultim on trova in Esperanto adver: «eksigi» e
 «multopligi».
 
+// XXX NOTE -- li marca original de págine -137- esset in li sequent
+// paragraf:
+
 Intern del organisation de UEA (Universala Esperanto-Asocio) ha
 eruptet un revolte. Li chef delegat de UEA por Francia, Georges
 Delanoue (4, rue Charles-Divry, Paris XIV) contra li precie de 1 sviss
@@ -959,9 +962,6 @@ circulares printat con sensational «revelationes». Il cita alarmant
 verdictes de conosset esperantistes de divers landes, delegates e
 membres del Esperanto-Academie (Dr. P. Corret-Paris, M. W.
 Page-Edinburgh,
-
-// XXX NOTE -- Ci esset li marca original de págine -137-
-
 Prof. Dr. Vanverts-Lille, Jaume Grau Casas-Barcelona, Prof.
 Cart-Paris, Prof. Dr. Dietterle-Leipzig, Grosjean-Maupin-Pany, etc)
 contra li centrale in Genève, a quel ili reprocha «skandalan
@@ -1008,6 +1008,9 @@ mentes. Li cardinal diferentie es, que Esperanto vive ja quar
 decennies, durant que Occidental jus ha nascet. Noi do vole atender li
 evolution».
 
+// XXX NOTE -- li marca original de págine -138- esset in li sequent
+// paragraf:
+
 Li Esperanto-presse es embarassat per un decrete recentmen editet del
 ministre de instruction in Bulgaria, in quel il interdicte al scolanes
 aprender Esperanto e reciver jurnales in ti lingue artificial. Per ti
@@ -1017,9 +1020,6 @@ crede har divinat li cardinal causes del interdiction: «Pro que
 Esperanto es un facil lingue, li disciples va acustomar se li
 facilitás e va perdir li inclination a aprender plu desfacil aferes.
 Pro que Esperanto es international, li disciples va comensar estimar
-
-// XXX NOTE -- Ci esset li marca original de págine -138-
-
 li internationalisme e desestimar li national lingue e cultura;
 finalmen li movement de Esperanto es suspectet, que sub it cela se
 elementes ínamical contra li state».
@@ -1446,6 +1446,9 @@ Organisation Universal de Lingue International Occidental
 
 Official comunicationes
 
+// XXX NOTE -- li marca original de págine -6- esset ante listune "(2)
+// Patronate":
+
 I. Decisiones
 
 Li constituent membre-organisationes del Occidental-Union ha decidet
@@ -1478,8 +1481,6 @@ de Warszawa, Polonia; Dr. Albert GUÉRARD, Professor de Litteratura
 General e Comparat, Universitá de Stanford, California, USA; Dr.
 Albert SAARESTE, Professor de Litteratura, Universitá de Tartu
 (Dorpat), Estonia.
-
-// XXX NOTE -- Ci esset li marca original de págine -6-
 
 (2) Patronate:
 
@@ -1522,6 +1523,9 @@ SCHÜPPEL, Parchim, Germania, Dr. C.E. SJÖSTEDT, Upsala, Svedia.
 Presidente e Redactor: Dr. A. WORMSER, Offenbach a.M., Germania (Wo);
 Secretario: A. DEMINGER, Düsseldorf, Germania (AD).
 
+// XXX NOTE -- li marca original de págine -7- esset in li sequent
+// paragraf:
+
 Pro mult ocupationes professional sr Mag. phil. A.Z. Ramstedt devet
 demissionar quam secretario del Celia. Noi tre regreta ti decision de
 nor estimat coidealist, quel ja mult avansat nor comun labores, tam
@@ -1537,9 +1541,6 @@ pos que sr de Wahl quam autor de Occidental es e membre honorari del
 Academie e ergo anc de Celia e ne vole influer quam presidente li
 líber decisiones del du comissiones e self anc desira un plu grand
 índependentie in expression de su linguistic
-
-// XXX NOTE -- Ci esset li marca original de págine -7-
-
 opiniones, quo forsan esset minu possibil quande il esset presidente
 de Celia.
 
@@ -1590,6 +1591,12 @@ COMITÉ LINGUISTIC
 
 Regulament
 
+// XXX TODO -- liste:
+
+// XXX NOTE -- li marca original de págine -8- esset in listune 4:
+
+// XXX NOTE -- li marca original de págine -9- esset in listune 17:
+
 1. Comité Linguistic del Occidental-Union, nominat secun li autorisat
    Statute «Comité Explorativ de Lingue International Auxiliari»
    (abreviat: CELIA) es un comission international e public, instituet
@@ -1608,9 +1615,7 @@ Regulament
 
 4. Un parte del membres del Comité (10 til 30) es electet per li
    Senate del Occidental-Union secun li proposes del Central Oficie.
-
-// XXX NOTE -- Ci esset li marca original de págine -8-
-
++
 Un admaxim egal númere de membres posse esser cooptat per li Comité.
 Li candidatura de membres cooptand deve esser proposit e suficentmen
 motivat per adminim du membres e li acceptation fat sive per votation
@@ -1619,50 +1624,50 @@ plu omni membres del Occidental-Academie sin exception es anc membres
 del Comité.
 
 5. Li Comité ne es obligat, acceptar o conservar membres queles ne usa
-li lingue oficial Occidental.
+   li lingue oficial Occidental.
 
 6. Un membre quel evidentmen refusa subordinar se al resolutiones del
-Comité, o quel durant un demí annu, sin motive valid, ne ha participat
-in li labores del Comité, cessa automaticmen esser membre, pri quo il
-deve esser informat per li Direction del Comité.
+   Comité, o quel durant un demí annu, sin motive valid, ne ha
+   participat in li labores del Comité, cessa automaticmen esser
+   membre, pri quo il deve esser informat per li Direction del Comité.
 
 7. Li Direction del Comité consiste ex un Presidente, un Secretario,
-un Redactor e li Director del Central Oficie del Occidental-Union.
+   un Redactor e li Director del Central Oficie del Occidental-Union.
 
 8. Li Direction es electet per li membres del Comité, por un periode
-de du annus per votation, ma it electe self su functionarios.
+   de du annus per votation, ma it electe self su functionarios.
 
 9. Li Direction have li jure cooptar se extraordinari membres por
-division del labor, e ordinari in casu de abdication de un de su
-functionarios.
+   division del labor, e ordinari in casu de abdication de un de su
+   functionarios.
 
 10. Omni hom posse far al Comité propositiones linguistic, redactet in
-li oficial lingue. Ma li Comité ne es obligat posir un proposition in
-discussion, si it ne es conform al Regulament e decisiones del Comité
-e si ne adminim un membre del Comité recomanda it.
+    li oficial lingue. Ma li Comité ne es obligat posir un proposition
+    in discussion, si it ne es conform al Regulament e decisiones del
+    Comité e si ne adminim un membre del Comité recomanda it.
 
 11. Omni membre have li jure inserter notas in li oficial circulares
-del Comité, por publicar talmen su opinion, si li material medies del
-Comité permisse ti publication.
+    del Comité, por publicar talmen su opinion, si li material medies
+    del Comité permisse ti publication.
 
 12. Omni membre have li jure misser al Direction del Comité articules
-linguistic o organisatori in tam mult exemplares que ili posse esser
-dismisset del Direction al céteri membres del Comité. Tal scrites
-recive un current numeró quam circulare del Comité, si ili es arangeat
-in li form customat del céteri circulares del Comité.
+    linguistic o organisatori in tam mult exemplares que ili posse
+    esser dismisset del Direction al céteri membres del Comité. Tal
+    scrites recive un current numeró quam circulare del Comité, si ili
+    es arangeat in li form customat del céteri circulares del Comité.
 
 13. Omni final propositiones e decisiones deve esser publicat in li
-circulares con indication del nómine del votantes por e contra.
+    circulares con indication del nómine del votantes por e contra.
 
 15. In li corespondentie con li Comité chascun question deve esser
-tractat sur separat folie, scrit sur un látere, con un márgine in
-levul de adminim 20 mm, e deve portar li date, signatura e adresse del
-propositor. Li formate deve esser 210 x 297 mm. Li manuscrite deve
-esser facil leibil, preferibilmen scrit per machine, con lineas
-interspaciat.
+    tractat sur separat folie, scrit sur un látere, con un márgine in
+    levul de adminim 20 mm, e deve portar li date, signatura e adresse
+    del propositor. Li formate deve esser 210 x 297 mm. Li manuscrite
+    deve esser facil leibil, preferibilmen scrit per machine, con
+    lineas interspaciat.
 
 16. Omni propositiones pri mutation o innovation del lingue del Comité
-deve esser acompaniat de un detalliat indication
+    deve esser acompaniat de un detalliat indication
 
 (a) pro quo li existent form o metode es minu apt.
 
@@ -1674,9 +1679,6 @@ deve esser acompaniat de un detalliat indication
 complicationes pro altri formes o regules ja existent.
 
 17. Li Presidente decide pri submisser a votation un question quel
-
-// XXX NOTE -- Ci esset li marca original de págine -9-
-
 ha esset suficentmen discusset. Ti decision deve esser anunciat in un
 oficial circulare tri mensus in ante per un nota redactet quam seque:
 «Li responses del membres pri li question de ... deve esser misset al
@@ -1730,6 +1732,12 @@ payament de un summa fixat per li Redactor), o si (a) e (b) ne sufice:
 
 Regulament
 
+// XXX NOTE -- li marca original de págine -10- esset ante listune 3:
+
+// XXX NOTE -- li marca original de págine -11- esset in listune 13:
+
+// XXX TODO -- liste:
+
 1. Li Occidental-Academie es un comission instituet del
 Occidental-Union secun su Statute.
 
@@ -1747,8 +1755,6 @@ manuales e altri medies por aprension e aplication de Occidental.
 (d) validar certificates de aprension.
 
 (e) representar li Occidental-Union in linguistic questiones.
-
-// XXX NOTE -- Ci esset li marca original de págine -10-
 
 3. Li Academie consiste ex li autor de Occidental quam membre honorari
 e ex admaxim 15 membres ordinari. In ultra li Academie posse cooptar
@@ -1813,9 +1819,6 @@ validitá de 10 annus.
     have un validitá de 10 annus.
 
 13. In votationes decide li absolut majorité (it es plu quam 1/2
-
-// XXX NOTE -- Ci esset li marca original de págine -11-
-
 del votantes; in electiones decide in li unesim votation li absolut
 majorité del votantes, in un eventual duesim votation li relativ
 majorité.
@@ -1861,6 +1864,9 @@ oblivie. Lu poc quo restat in mi memorie e singul documentes yo prova
 fixar ci, forsan tre disparat e íncoherent, sovente retornant a
 anteriori témpores o ja anticipante posteriori evenimentes.
 
+// XXX NOTE -- li marca original de págine -12- esset in li sequent
+// paragraf:
+
 Li unesim trist eveniment esset li discordantie con Zamenhof, evocat
 per mi forsan tro juvenil ímpetu in postulation de changes. Ili esset,
 quam on posse vider hodie in Occidental, in un direction quel aproxima
@@ -1869,12 +1875,12 @@ linguescientie, elimination
 
 // XXX NOTE -- Ci esset ti separator: ---
 
+// XXX TODO -- pednote:
+
 1) Li parte I ha aparit in li nr 41 de Cosmoglotta, quel regretabilmen
 ja es exhaustet. Ma in su témpore noi ha fat printes special del
 unesim parte, quel nov abonnates posse reciver contra ö S. 0.50.
 Red.
-
-// XXX NOTE -- Ci esset li marca original de págine -12-
 
 del ínnatural accentu, del arbitrari finales -o, -a, -e, -as, -is, -os
 etc. Pri ti periode yo, quam ja dit supra, presc ne possede
@@ -1925,7 +1931,9 @@ successor, ne in li líttere ma in li mente.
 
 // XXX NOTE -- Ci esset li marca original de págine -13-
 
-JULIUS LOTT
+// XXX TODO -- Image:
+
+Julius Lott
 
 Nascet in Fürstenfeld (Austria), 16. 2. 1848.
 
@@ -1975,11 +1983,11 @@ okgessib (87) etc.
 Ma Lott ja conserva li 3 finales, 1a, e, i in li verbes in li
 infinitive, advere ne in li conjugation.
 
+// XXX NOTE -- li marca original de págine -15- esset in li sequent
+// paragraf:
+
 Ja in 1890 yo coresponde con il pri divers formes de su grammatica,
 lexico, e li derivation. Il scri li 29. 8. 1890 de
-
-// XXX NOTE -- Ci esset li marca original de págine -15-
-
 Vienna in lingue german: «Yo ha provat adaptar Vor sistema de
 derivation al lingue international por junter it al lexico. Si it nu
 ea suficent bon che li sufixes, it falli totalmen che li prefixes.
@@ -2058,6 +2066,9 @@ hectografat e per composition de un parte del vocabularium por su
 necessitás (li líttere H). Talmen li final form de su lingue ja es tre
 simil al hodial Occidental.
 
+// XXX NOTE -- li marca original de págine -17- esset in li sequent
+// paragraf:
+
 Yo possede un hectografat folie circulari de Lott con suficent vast
 propositiones grammatical e con mi contra-propositiones fat per rubi
 incre. E hodie yo deve confesser que mult formes de Lott, queles yo
@@ -2066,9 +2077,6 @@ quáncam noi ne posset acordar nor idés totalmen, on posse vider in su
 ultim edition in 1899, quel il preparat por li Exposition
 International in Paris, un remarcabil modernitá, p.ex. li duplic valor
 de c, li duplic consonantes
-
-// XXX NOTE -- Ci esset li marca original de págine -17-
-
 etc; ma il conservat li italian pronunciation k del combination ch.
 
 Ti evolution Lott visibilmen atinget per li augmentation del general
@@ -2227,11 +2235,11 @@ mem ne un document nos es conservat pos li morte de mi oncle. Yo posse
 ancor memorar har sovente videt, que un vivi corespondentie evenit con
 un senior de Wahl.
 
+// XXX NOTE -- li marca original de págine -20- esset in li sequent
+// paragraf:
+
 Si vor estimatissim societé nu ha constatat, que ja Julius Lott havet
 idés fundamental por un lingue international secun vor sistema,
-
-// XXX NOTE -- Ci esset li marca original de págine -20-
-
 e si sur fundamentes posse esser continuat li construction, e si per
 to Julius Lott posse esser honorat denove, to es un joy e satisfation
 por su descendentes, e noi regreta extremmen que noi ne posse
@@ -2270,9 +2278,12 @@ de Prof. Ric. Berger in nr 57.   Red.
 
 === Litteratura
 
-Pro quo noi studia historie?
+==== Pro quo noi studia historie?
 
-de John Lee Madox.
+_De John Lee Madox._
+
+// XXX NOTE -- li marca original de págine -21- esset in li sequent
+// paragraf:
 
 Li studia del historie procura nos li perspective necessi por
 comprender nor epoca e posi nos in statu separar li durativ elementes
@@ -2284,9 +2295,6 @@ unic catene de montes submerset. Comparante li presentie con li
 passate, noi vide strax que li presentie es superior in respect
 material, spiritual e moralic. Sclaveríe e servitude ha desaparit.
 Soldates, marineros
-
-// XXX NOTE -- Ci esset li marca original de págine -21-
-
 e scol-infantes ne plu es bastonat. Li potentie fisical e legal del
 mann súper li fémina diminue. Paratitá a auxilie e a misericordie es
 crescent. Qualmen noi posse venir a comprender ti ci circumstanties
@@ -2327,7 +2335,8 @@ regarda quam ínjust, tande noi va hesitar dogmatisar o insister pri
 que nor judicies es ínfallibil e que chascun que ni concarda con nor
 opiniones, es sive un foll sive un rascale.
 
-Ex "Current History", New York.    Trad. A. Deminger.
+_Ex "Current History", New York. +
+Trad. A. Deminger._
 
 // XXX NOTE -- Ci esset ti separator: -----
 
@@ -2412,6 +2421,9 @@ universe solmen li radies de catode have un plu grand rapiditá, i.e.
 
 === Reclame?
 
+// XXX NOTE -- li marca original de págine -24- esset in li sequent
+// paragraf:
+
 … Null progress posse devenir populari sin reclame. Presc nequande un
 progress esset salutat con joy e acceptat con favore quande it aparit.
 On vell opiner, que nov inventiones es fat, pro que on sentit un
@@ -2419,9 +2431,6 @@ antiqui statu quam ínsuportabil, ínsuficent. Tre fallit! In li cap del
 inventor li innovation nasce -- ma li publica curtmen refusa it; it
 recomanda li ancian statu quam li plu bon, it ne ama li progress. Ci
 li reclame deve comensat, it deve educar li publica e per lent labor
-
-// XXX NOTE -- Ci esset li marca original de págine -24-
-
 far acustomar it al progress. Solmen tande, pos decennies, li homes ne
 comprende, qualmen ili posset perdurar jamá sin ti innovation ...
 
@@ -2518,13 +2527,13 @@ calm e clar perception del punctus cardinal it es specialmen
 qualificat luder un rol important sur li camp moventat del
 interlinguistica.
 
+// XXX NOTE -- li marca original de págine -17- esset in li sequent
+// paragraf:
+
 Noi es cert que omni letores de ti revúe unia se con nos por presentar
 a Sr Ramstedt nor calid mersías pro su desinteressat e valorós labor
 por occidental e li organ central del occidental movement, e por
 desirar a il bon success in li professional
-
-// XXX NOTE -- Ci esset li marca original de págine -17-
-
 activitás, a queles il va nu esser fortiat devoer su tot témpore. Mey
 it anc esser permisset a nos expresser li esperantie, que il va
 bentost trovar li ocasion revenir a su car Cosmoglotta.
@@ -2625,6 +2634,12 @@ por Occidental, nam noi nu es capaci e pret executer li necessi
 labores. Ma es necessi que omni occidentalistes colabora chascun secun
 su capacitá e possibilitá.
 
+// XXX NOTE -- li marca original de págine -20- esset in listun 3:
+
+// XXX NOTE -- li marca original de págine -21- esset in listun 8:
+
+// XXX NOTE -- li marca original de págine -22- esset in listun 11: 
+
 1. Personal propaganda. Li max simplic metode es distribuer
    propagatori printates. Maxim avantageosi es provar recrutar por
    Occidental solmen persones queles es capabil comprender li idé
@@ -2657,8 +2672,6 @@ printates de un altri expeditor.
    si on posse lassar anunciar un curs de Occidental, quel deve
    comensar strax pos li discurs. It es preferibil que li presidente
    fa ti anuncia e ne li referente.
-
-// XXX NOTE -- Ci esset li marca original de págine -20-
 
 Pos li discurs mey evenir un líber discussion. On posse iniciar plu
 facilmen ti discussion per que li presidente permisse anc li scrit
@@ -2698,9 +2711,6 @@ hispan o altri tales ne (sat) international, quam p. ex.: do, nam,
 pri, che, ye, presc, por, li, anc, chascun, nu, secun, misser, desde,
 hay, vez, qualmen; ci on mey preferer (si li sense permisse): ergo,
 de, a, quasi, in, per, in present, conform a, expedir, depos, existe,
-
-// XXX NOTE -- Ci esset li marca original de págine -21-
-
 per quel maniere. It ne es li culpa de Occidental que por 10% del
 notiones ne existe international formes. Fortunosmen ti paroles es tre
 rar. Solmen fensores de capilles e mesquin querellantes ci vide
@@ -2742,9 +2752,6 @@ subventionatores.
 Chascun occidentalist posse facilmen auxiliar nos per que il recruta
 abonnates e subventionatores por "Cosmoglotta". Si il ne posse o ne
 vole far to de person a person, il posse misser
-
-// XXX NOTE -- Ci esset li marca original de págine -22-
-
 nos li adresses de eventual interessates con precis indicationes pro
 quel cause il opine chascun person quam probabil interessat. Poy noi
 va tractar singul interessate in individual maniere.
@@ -3015,12 +3022,12 @@ sexual reforma "La Grande Réforme". Quelc lineas por Occidental ha aparit in
 li januar Bulletin del Departement Marne del Sindicate National del
 Instructeros.
 
+// XXX NOTE -- li marca original de págine -29- esset in li sequent
+// paragraf:
+
 HELVETIA ha aparit con li nr 11/12 1932. Su índefatigabil redactor,
 Prof. Ric. Berger, continua publicar interessant documentes pri
 interlinguistic questiones. Ex li nro mentionat noi cita Li principie
-
-// XXX NOTE -- Ci esset li marca original de págine -29-
-
 de monosemie in li LI, Li situation del LI natural in 1908, Li exact
 situation de Esperanto. Adplu ilustrationes e págines scientic.
 
