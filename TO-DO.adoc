@@ -3,7 +3,7 @@
 :revdate: 2019-08-10
 
 - Convert constrained bold markup.
-- Convert escaped ellipsis. 
+- Convert escaped ellipsis.
 - Fix ellipsis without trailing space.
 - Fix splitted numbers: use hard spaces.
 - Fix paragraphs divided by images or their descriptions.
@@ -72,7 +72,7 @@ ____
   is not specified in the CSS.
 - Fix: `start` parameter in lists is not supperted in XML. Therefore
   complex lists must be harcoded instead of marked.
-- Separar "Abonnament a Cosmoglotta". 
+- Separar "Abonnament a Cosmoglotta".
 - "Lettre à un idist". "à"?
 - Marcar omni paroles pri queles on parola per signes de citation.
   (but mark foreign words with italics).
@@ -95,13 +95,15 @@ ____
 - Add "Doc. 8 in hispan: La lengua internacional moderna", which is
   http://anno.onb.ac.at/cgi-content/anno-plus?aid=e0g&datum=1934&page=52[after
   page 40 of Cosmoglotta A 1934].
-- Mark the article introductions with italics, after the original.  
+- Mark the article introductions with italics, after the original.
 - Fix name of "Karel Čapek".
 - Add a subtitle to the book.
 - Confirm name: prof. Hynek Pásma/Pasma/Pašma.
-- Confirm "Ma quande noi cite". Is it "cita"? 
+- Confirm "Ma quande noi cite". Is it "cita"?
 - Convert surnames' "De" to titlecase when they don't follow the
   personal name. This convention, used in Spanish and other languages,
   is already used many times in Cosmoglotta. This change improves
   legibility, making clear "De" is not the ordinary preposition "de".
-- Create stylesheet for `[preface]`.  
+- Create stylesheet for `[preface]`.
+- Mark the article authors with italics, after the original.
+- Add the missing issues of Cosmoglotta.
