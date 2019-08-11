@@ -111,3 +111,4 @@ ____
 - Use bold markup in "I-esim Capitul: Fonologie", after the original.
 - Update "app..." -> "ap..."
 - Update remaining "th", "ph"...
+- Fix "X kg. Y" -> "X,Y kg".
