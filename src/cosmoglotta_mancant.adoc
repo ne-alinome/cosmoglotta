@@ -9,7 +9,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 201908110201
+// Last modified 201908111425
 
 // Cosmoglotta A 051-052 (aug-sep 1928) {{{1
 == Cosmoglotta A 051-052 (aug-sep 1928)
@@ -542,6 +542,8 @@ _E. Pigal_
 
 // XXX NOTE -- li marca original de págine -128- esset in li sequent
 // paragraf:
+
+// XXX TODO -- Marcar paroles per cursive e cite-signes:
 
 In li ultim mensus ha esset publicat presc ye li sam témpore du nov
 projectes: Novam — de Sr G. Touflet, Paris, e Novial — de prof. O.

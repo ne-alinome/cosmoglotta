@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-08-10
+:revdate: 2019-08-11
 
 - Convert constrained bold markup.
 - Convert escaped ellipsis.
@@ -68,8 +68,8 @@ ____
 - Convert notation "/".
 - Convert "1. januar" to "1 januar".
 - Comment out "(foto)", "(image...)", etc.
-- Fix: Markup `****` has no effect in EPUB because class "sidebar"
-  is not specified in the CSS.
+- Fix: Markup `****` has no effect in EPUB because class "sidebar" is
+  not specified in the CSS.
 - Fix: `start` parameter in lists is not supperted in XML. Therefore
   complex lists must be harcoded instead of marked.
 - Separar "Abonnament a Cosmoglotta".
@@ -107,3 +107,8 @@ ____
 - Mark the article authors with italics, after the original.
 - Format and mark the missing issues of Cosmoglotta A: 51, 52, 68, 87.
 - Fix: The table column align is lost in EPUB throw DocBook.
+- Add the universal calendar to "Li reforme del calendare", after the
+  original.
+- Use bold markup in "I-esim Capitul: Fonologie", after the original.
+- Update "app..." -> "ap..."
+- Update remaining "th", "ph"...
