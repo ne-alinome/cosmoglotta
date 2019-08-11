@@ -76,7 +76,6 @@ ____
 - "Lettre à un idist". "à"?
 - Marcar omni paroles pri queles on parola per signes de citation.
   (but mark foreign words with italics).
-- Convert footnote about the fixed "ĵojis" into inner note.
 - Update "illi".
 - Update "mei" -> mi.
 - Compact "P. E. N." and others.
