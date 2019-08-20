@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-08-11
+:revdate: 2019-08-12
 
 - Convert constrained bold markup.
 - Convert escaped ellipsis.
@@ -112,3 +112,4 @@ ____
 - Update "app..." -> "ap..."
 - Update remaining "th", "ph"...
 - Fix "X kg. Y" -> "X,Y kg".
+- Fix "Tabor/Tabol" -> "Tábor" (town).
