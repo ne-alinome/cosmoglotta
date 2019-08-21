@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-08-20
+:revdate: 2019-08-21
 
 - Convert constrained bold markup.
 - Convert escaped ellipsis.
@@ -95,7 +95,6 @@ ____
   http://anno.onb.ac.at/cgi-content/anno-plus?aid=e0g&datum=1934&page=52[after
   page 40 of Cosmoglotta A 1934].
 - Mark the article introductions with italics, after the original.
-- Fix name of "Karel Čapek".
 - Add a subtitle to the book.
 - Confirm "Ma quande noi cite". Is it "cita"?
 - Convert surnames' "De" to titlecase when they don't follow the
