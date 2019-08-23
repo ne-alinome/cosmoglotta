@@ -111,4 +111,6 @@ ____
 - Update "app..." -> "ap..."
 - Update remaining "th", "ph"...
 - Fix "Tabor/Tabol" -> "Tábor" (town).
-- Expand "EW" -> "Edgar de Wahl".
+- Remove comments about position of old separators.
+- Expand "Z." -> "Zamenhof".
+- Expand "AZR".
