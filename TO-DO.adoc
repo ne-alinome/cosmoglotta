@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-08-22
+:revdate: 2019-08-23
 
 - Convert constrained bold markup.
 - Convert escaped ellipsis.
@@ -112,5 +112,5 @@ ____
 - Update remaining "th", "ph"...
 - Fix "Tabor/Tabol" -> "Tábor" (town).
 - Remove comments about position of old separators.
-- Expand "Z." -> "Zamenhof".
 - Expand "AZR".
+- Consult "extrat-/extract-".
