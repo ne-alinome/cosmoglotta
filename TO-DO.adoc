@@ -112,4 +112,3 @@ ____
 - Update remaining "th", "ph"...
 - Fix "Tabor/Tabol" -> "Tábor" (town).
 - Expand "EW" -> "Edgar de Wahl".
-- Fix remaining page numbers in the text.
