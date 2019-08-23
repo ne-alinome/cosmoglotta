@@ -110,7 +110,6 @@ ____
 - Use bold markup in "I-esim Capitul: Fonologie", after the original.
 - Update "app..." -> "ap..."
 - Update remaining "th", "ph"...
-- Fix "Tabor/Tabol" -> "Tábor" (town).
 - Remove comments about position of old separators.
 - Expand "AZR".
 - Consult "extrat-/extract-".
