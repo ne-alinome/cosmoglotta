@@ -113,3 +113,5 @@ ____
 - Remove comments about position of old separators.
 - Expand "AZR".
 - Consult "extrat-/extract-".
+- Replace roman numbers in chapters of "Complet grammatica de
+  Occidental".
