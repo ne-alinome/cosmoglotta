@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-08-23
+:revdate: 2019-09-12
 
 - Convert constrained bold markup.
 - Convert escaped ellipsis.
@@ -47,22 +47,22 @@
 ____
 
 1. Ex un brochura (in preparation): Li anti-europan caractere de
-   "Esperanto" de Ernst Graber (Dresden).
+"Esperanto" de Ernst Graber (Dresden).
 2. Ples anc leer li articul «Mi o yo» Kosmoglott nro 5 e 6 1922.
 3. Li annu indica li témpore del publication del textu. Li lingues
-   posse esser plu old, quam p. ex. tis de Lott, Molenaar, v. Wahl.
+posse esser plu old, quam p. ex. tis de Lott, Molenaar, v. Wahl.
 4. Li exemples de Esperanto es haustet ex un anuncia del Leipziger
-   Messamt. Li ' indica li diferent partes queles composi li paroles.
+Messamt. Li ' indica li diferent partes queles composi li paroles.
 1. "ĵojis" in li original (ma per li h-alfabet, t.e. "jhojis", quel
-   por ti edition esset convertet in li ver líteres esperantic. Editor
-   digital
+por ti edition esset convertet in li ver líteres esperantic. Editor
+digital
 2. Compar. direktoro — direktisto, redakcio — redaktejo etc.
 3. Vide inter altricos li critica de W. E. Collinson pri «Delphos» in
-   «Internationial Language» April 1927.
+«Internationial Language» April 1927.
 4. Ma li regulari derivates ne es international: aviadisto, senpere, a
-   (...)
+(...)
 5. Li predilection a long composites con special nuancies es un
-   specific (...)
+specific (...)
 
 ____
 - Convert notation "/".
@@ -115,3 +115,12 @@ ____
 - Consult "extrat-/extract-".
 - Replace roman numbers in chapters of "Complet grammatica de
   Occidental".
+- Improve apostrophes, e.g. "C'est".
+- Expand "Vpk" -> "Volapük".
+- Expand "E." -> "Esperanto".
+- Move "Al la Esperantistaro (continuation de pág. 37)".
+- Remove repetition "Ancor in 1909 De Courtenay scrit:".
+- Consult about notation "Occidental'ist(es)".
+- Expand "Cg" -> "Cosmoglotta".
+- Expand "Cosmgl.-Infor." -> "Cosmoglotta-Informationes".
+- Expand "Cosmoglotta-Inf." -> "Cosmoglotta-Informationes".
