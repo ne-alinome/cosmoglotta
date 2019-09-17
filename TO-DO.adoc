@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-09-17
+:revdate: 2019-09-18
 
 - Convert constrained bold markup.
 - Convert escaped ellipsis.
@@ -117,14 +117,10 @@ ____
 - Replace roman numbers in chapters of "Complet grammatica de
   Occidental".
 - Improve apostrophes, e.g. "C'est".
-- Expand "Vpk" -> "Volapük".
 - Expand "E." -> "Esperanto".
 - Move "Al la Esperantistaro (continuation de pág. 37)".
 - Remove repetition "Ancor in 1909 De Courtenay scrit:".
 - Consult about notation "Occidental'ist(es)".
-- Expand "Cg" -> "Cosmoglotta".
-- Expand "Cosmgl.-Infor." -> "Cosmoglotta-Informationes".
-- Expand "Cosmoglotta-Inf." -> "Cosmoglotta-Informationes".
 - Expand "B.E." -> "Basic English".
 - Use "…" instead of "...", because the conversion is not done by the
   parser in all contexts.
