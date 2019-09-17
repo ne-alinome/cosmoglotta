@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-09-12
+:revdate: 2019-09-17
 
 - Convert constrained bold markup.
 - Convert escaped ellipsis.
@@ -124,3 +124,9 @@ ____
 - Expand "Cg" -> "Cosmoglotta".
 - Expand "Cosmgl.-Infor." -> "Cosmoglotta-Informationes".
 - Expand "Cosmoglotta-Inf." -> "Cosmoglotta-Informationes".
+- Expand "B.E." -> "Basic English".
+- Use "…" instead of "...", because the conversion is not done by the
+  parser in all contexts.
+- Expand "Int. Acad." -> "Interimari Academie".
+- Fix "R Bg." -> "R. Bg.".
+- Expand "Interl" -> "Interlingue".
