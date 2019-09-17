@@ -121,7 +121,6 @@ ____
 - Move "Al la Esperantistaro (continuation de pág. 37)".
 - Remove repetition "Ancor in 1909 De Courtenay scrit:".
 - Consult about notation "Occidental'ist(es)".
-- Expand "B.E." -> "Basic English".
 - Use "…" instead of "...", because the conversion is not done by the
   parser in all contexts.
 - Expand "Int. Acad." -> "Interimari Academie".
