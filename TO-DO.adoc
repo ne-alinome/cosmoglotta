@@ -128,5 +128,5 @@ ____
 - Expand "Interl" -> "Interlingue".
 - Check month abbreviatures.
 - Homogenize notation of "ex-libris".
-- Mark "km2", etc.
 - Update "secue..." -> "seque...".
+- Homogenize notation of numbers (spaces, decimal points).
