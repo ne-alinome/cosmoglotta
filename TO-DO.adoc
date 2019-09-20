@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-09-18
+:revdate: 2019-09-20
 
 - Convert constrained bold markup.
 - Convert escaped ellipsis.
@@ -130,3 +130,7 @@ ____
 - Homogenize notation of "ex-libris".
 - Update "secue..." -> "seque...".
 - Homogenize notation of numbers (spaces, decimal points).
+- Homogenize abbreviation of "numeró": nro, nró, no, nr...
+- Homogenize titles "On scri nos(...)".
+- Expand "resp.-cupon". 
+- Search for bold and italic marks that should be quotes instead.
