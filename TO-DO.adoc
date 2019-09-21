@@ -126,7 +126,6 @@ ____
   parser in all contexts.
 - Expand "Int. Acad." -> "Interimari Academie".
 - Fix "R Bg." -> "R. Bg.".
-- Expand "Interl" -> "Interlingue".
 - Check month abbreviatures.
 - Homogenize notation of "ex-libris".
 - Update "secue..." -> "seque...".
