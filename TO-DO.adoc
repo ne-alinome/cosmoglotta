@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-09-20
+:revdate: 2019-09-21
 
 - Convert constrained bold markup.
 - Convert escaped ellipsis.
@@ -135,7 +135,6 @@ ____
 - Search for bold and italic marks that should be quotes instead.
 - Mark letters in section "Corespondentie".
 - Title sections "Eigentümer, Herausgeber und Verleger...".
-- Expand "OdW" -> "«Occidental, die Weltsprache»".
 - Homogenize section title "Contene/Contene:".
 - Fix: sometimes authors are mentioned only in the "Contene/Contenete"
   section, not in the article.
