@@ -81,7 +81,7 @@ ____
 - Update "mei" -> mi.
 - Compact "P. E. N." and others.
 - Homogenize "p. e." into "p. ex.", depending on the article.
-- Update orthography: systema, appoy, theatre...
+- Update orthography: systema, appoy, theatre, thecnica...
 - Homogenize the decimal numbers notation after the article in
   Cosmoglotta A 95 (apr 1934).
 - Update "ley"/"lege".
@@ -89,7 +89,8 @@ ____
 - Unificar `«_X_»` and `_«X»_`.
 - Consult wether "till" has to be updated to "til".
 - Fix "Leibnitz" -> "Leibniz".
-- Add chapter number to "Complet grammatica de Occidental".
+- Add chapter numbers to the titles of "Complet grammatica de
+  Occidental".
 - Check the render of the footnote in poem "In obscuritá".
 - Fix: add a space after articles without vowel: "l'".
 - Add "Doc. 8 in hispan: La lengua internacional moderna", which is
@@ -134,3 +135,8 @@ ____
 - Homogenize titles "On scri nos(...)".
 - Expand "resp.-cupon". 
 - Search for bold and italic marks that should be quotes instead.
+- Expand "L.s.F", "L. s. F.", "Lsf", "LsF" -> "Latino sine flexione".
+- Mark letters in section "Corespondentie".
+- Title sections "Eigentümer, Herausgeber und Verleger...".
+- Expand "OdW" -> "«Occidental, die Weltsprache»".
+- Homogenize section title "Contene/Contene:".
