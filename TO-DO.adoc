@@ -133,10 +133,12 @@ ____
 - Homogenize notation of numbers (spaces, decimal points).
 - Homogenize abbreviation of "numeró": nro, nró, no, nr...
 - Homogenize titles "On scri nos(...)".
-- Expand "resp.-cupon". 
 - Search for bold and italic marks that should be quotes instead.
-- Expand "L.s.F", "L. s. F.", "Lsf", "LsF" -> "Latino sine flexione".
 - Mark letters in section "Corespondentie".
 - Title sections "Eigentümer, Herausgeber und Verleger...".
 - Expand "OdW" -> "«Occidental, die Weltsprache»".
 - Homogenize section title "Contene/Contene:".
+- Fix: sometimes authors are mentioned only in the "Contene/Contenete"
+  section, not in the article.
+- Expand "IL-oficie".
+
