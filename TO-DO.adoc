@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-09-21
+:revdate: 2019-09-23
 
 - Convert constrained bold markup.
 - Convert escaped ellipsis.
@@ -139,4 +139,8 @@ ____
 - Fix: sometimes authors are mentioned only in the "Contene/Contenete"
   section, not in the article.
 - Expand "IL-oficie".
-
+- Fix: some `footnote` marks are not rendered.
+- Fix "mersí".
+- Fix "ínamícos".
+- Fix "Occidental-Centrale".
+- Lowercase "DIE HEUTIGE SITUATION DER WELTSPRACHENFRAGE".
