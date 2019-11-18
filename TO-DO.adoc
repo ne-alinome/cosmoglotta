@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-09-25
+:revdate: 2019-10-14
 
 - Convert constrained bold markup.
 - Convert escaped ellipsis.
@@ -146,4 +146,5 @@ ____
 - Lowercase "DIE HEUTIGE SITUATION DER WELTSPRACHENFRAGE".
 - Fix "es-que" -> "esque".
 - Update "commun".
-
+- Confirm "collar" <> "collation" -> "colation".
+- Fix "Creux+" and "Moore+".
