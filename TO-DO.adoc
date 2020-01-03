@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-12-29
+:revdate: 2020-01-03
 
 - Convert constrained bold markup.
 - Convert escaped ellipsis.
@@ -81,7 +81,8 @@ ____
 - Update "mei" -> mi.
 - Compact "P. E. N." and others.
 - Homogenize "p. e." into "p. ex.", depending on the article.
-- Update orthography: systema, appoy, theatre, thecnica...
+- Update orthography: systema, appoy, theatre, thecnica, hyenes,
+  Sylvestre, typic...
 - Homogenize the decimal numbers notation after the article in
   Cosmoglotta A 95 (apr 1934).
 - Update "ley"/"lege".
@@ -150,3 +151,9 @@ ____
 - Fix "Creux+" and "Moore+".
 - Confirm/Fix "meprisar".
 - Confirm "Richard Schirrmann".
+- Mark the article «Signification del prepositiones (cardinal
+  senses)».
+- Capitals in «exposition universal».
+- Confirm «effeminar» (angles «effeminate») vs. regular «afeminar».
+- Check numbers notation with trailing dots, which is usual in some
+  languages, e.g. «Napoleon I. in Russia», «chef del 1. regiment».
