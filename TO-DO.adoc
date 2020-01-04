@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-01-03
+:revdate: 2020-01-04
 
 - Convert constrained bold markup.
 - Convert escaped ellipsis.
@@ -157,3 +157,4 @@ ____
 - Confirm «effeminar» (angles «effeminate») vs. regular «afeminar».
 - Check numbers notation with trailing dots, which is usual in some
   languages, e.g. «Napoleon I. in Russia», «chef del 1. regiment».
+- Replace «'» with curved version, in English, e.g. in «don't».  
