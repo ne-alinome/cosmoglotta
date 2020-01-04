@@ -82,7 +82,7 @@ ____
 - Compact "P. E. N." and others.
 - Homogenize "p. e." into "p. ex.", depending on the article.
 - Update orthography: systema, appoy, theatre, thecnica, hyenes,
-  Sylvestre, typic...
+  Sylvestre, typic, sinthese...
 - Homogenize the decimal numbers notation after the article in
   Cosmoglotta A 95 (apr 1934).
 - Update "ley"/"lege".
