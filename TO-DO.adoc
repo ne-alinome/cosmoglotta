@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-01-04
+:revdate: 2020-01-06
 
 - Convert constrained bold markup.
 - Convert escaped ellipsis.
@@ -163,3 +163,6 @@ ____
 - Kobenhvn/Köbenhvn.
 - «ec.» -> «e c.»/«etc.».
 - «red.» -> «redactor».
+- «I.L.» -> «international lingue»/«international language» 
+- «L.I.» -> «lingue international»
+- Unificar formate de «I.A.L.A.», con punctus e sin spacies.
