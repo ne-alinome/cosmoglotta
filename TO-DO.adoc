@@ -163,4 +163,6 @@ ____
 - Kobenhvn/Köbenhvn.
 - «ec.» -> «e c.»/«etc.».
 - «red.» -> «redactor».
-- Unificar formate de «I.A.L.A.», con punctus e sin spacies.
+- Homogenize notation «IALA», without dots.
+- Mark and title «Occidental-Bulletin».
+- Remove comments with old separators replaced by titles.
