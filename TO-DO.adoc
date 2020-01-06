@@ -82,7 +82,7 @@ ____
 - Compact "P. E. N." and others.
 - Homogenize "p. e." into "p. ex.", depending on the article.
 - Update orthography: systema, appoy, theatre, thecnica, hyenes,
-  Sylvestre, typic, sinthese, aphoteca, menthol...
+  Sylvestre, typic, sinthese, aphoteca, menthol, tachotypie...
 - Homogenize the decimal numbers notation after the article in
   Cosmoglotta A 95 (apr 1934).
 - Update "ley"/"lege".
@@ -160,3 +160,6 @@ ____
 - Replace «'» with curved version, in English, e.g. in «don't».  
 - Expand «Germ.».
 - «vel» -> «vell».
+- Kobenhvn/Köbenhvn.
+- «ec.» -> «e c.»/«etc.».
+- «red.» -> «redactor».
