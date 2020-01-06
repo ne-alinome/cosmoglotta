@@ -82,7 +82,7 @@ ____
 - Compact "P. E. N." and others.
 - Homogenize "p. e." into "p. ex.", depending on the article.
 - Update orthography: systema, appoy, theatre, thecnica, hyenes,
-  Sylvestre, typic, sinthese...
+  Sylvestre, typic, sinthese, aphoteca, menthol...
 - Homogenize the decimal numbers notation after the article in
   Cosmoglotta A 95 (apr 1934).
 - Update "ley"/"lege".
@@ -158,3 +158,5 @@ ____
 - Check numbers notation with trailing dots, which is usual in some
   languages, e.g. «Napoleon I. in Russia», «chef del 1. regiment».
 - Replace «'» with curved version, in English, e.g. in «don't».  
+- Expand «Germ.».
+- «vel» -> «vell».
