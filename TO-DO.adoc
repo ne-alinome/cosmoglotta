@@ -163,6 +163,4 @@ ____
 - Kobenhvn/Köbenhvn.
 - «ec.» -> «e c.»/«etc.».
 - «red.» -> «redactor».
-- «I.L.» -> «international lingue»/«international language» 
-- «L.I.» -> «lingue international»
 - Unificar formate de «I.A.L.A.», con punctus e sin spacies.
