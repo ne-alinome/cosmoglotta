@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-01-06
+:revdate: 2020-01-07
 
 - Convert constrained bold markup.
 - Convert escaped ellipsis.
@@ -165,4 +165,3 @@ ____
 - «red.» -> «redactor».
 - Homogenize notation «IALA», without dots.
 - Mark and title «Occidental-Bulletin».
-- Remove comments with old separators replaced by titles.
