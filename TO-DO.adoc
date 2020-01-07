@@ -82,7 +82,8 @@ ____
 - Compact "P. E. N." and others.
 - Homogenize "p. e." into "p. ex.", depending on the article.
 - Update orthography: systema, appoy, theatre, thecnica, hyenes,
-  Sylvestre, typic, sinthese, aphoteca, menthol, tachotypie...
+  Sylvestre, typic, sinthese, aphoteca, menthol, tachotypie,
+  sinthetic, Pithagoras...
 - Homogenize the decimal numbers notation after the article in
   Cosmoglotta A 95 (apr 1934).
 - Update "ley"/"lege".
@@ -127,11 +128,11 @@ ____
   parser in all contexts.
 - Expand "Int. Acad." -> "Interimari Academie".
 - Fix "R Bg." -> "R. Bg.".
-- Check month abbreviatures.
+- Check and expand month abbreviatures, e.g. «jan».
 - Homogenize notation of "ex-libris".
 - Update "secue..." -> "seque...".
 - Homogenize notation of numbers (spaces, decimal points).
-- Homogenize abbreviation of "numeró": nro, nró, no, nr...
+- Homogenize abbreviation of "numeró": nro, nró, no, nó, nr...
 - Homogenize titles "On scri nos(...)".
 - Search for bold and italic marks that should be quotes instead.
 - Mark letters in section "Corespondentie".
@@ -153,7 +154,7 @@ ____
 - Confirm "Richard Schirrmann".
 - Mark the article «Signification del prepositiones (cardinal
   senses)».
-- Capitals in «exposition universal».
+- Capitals in «exposition universal», «exposition international».
 - Confirm «effeminar» (angles «effeminate») vs. regular «afeminar».
 - Check numbers notation with trailing dots, which is usual in some
   languages, e.g. «Napoleon I. in Russia», «chef del 1. regiment».
@@ -164,3 +165,7 @@ ____
 - «ec.» -> «e c.»/«etc.».
 - «red.» -> «redactor».
 - Homogenize notation «IALA», without dots.
+- Homogenize «de De Wahl», e.g.  «secun li proposition de Wahl»,
+  «subtenet de Wahl», «qualitás de Wahl». Likewise about «de De
+  Beaufront».
+- Mark the staff paragraphs as lists?, e.g. «Chef redactor:», etc.  
