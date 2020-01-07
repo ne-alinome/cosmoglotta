@@ -164,4 +164,3 @@ ____
 - «ec.» -> «e c.»/«etc.».
 - «red.» -> «redactor».
 - Homogenize notation «IALA», without dots.
-- Mark and title «Occidental-Bulletin».
