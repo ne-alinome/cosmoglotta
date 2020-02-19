@@ -169,3 +169,4 @@ ____
   «subtenet de Wahl», «qualitás de Wahl». Likewise about «de De
   Beaufront».
 - Mark the staff paragraphs as lists?, e.g. «Chef redactor:», etc.  
+- Confirm «pointer» in «quande li pointer stoppa». English word?
