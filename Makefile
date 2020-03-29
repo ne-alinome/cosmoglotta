@@ -2,17 +2,29 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201908092220
+# Last modified 202003300114
 # See change log at the end of the file
 
 # ==============================================================
 # Requirements
 
-# - asciidoctor
-# - asciidoctor-pdf
-# - dbtoepub
-# - pandoc
-# - xsltproc
+# Asciidoctor (by Dan Allen, Sarah White et al.)
+#   http://asciidoctor.org
+
+# Asciidoctor EPUB3 (by Dan Allen and Sarah White)
+#   http://github.com/asciidoctor/asciidoctor-epub3
+
+# Asciidoctor PDF (by Dan Allen and Sarah White)
+#   http://github.com/asciidoctor/asciidoctor-pdf
+
+# dbtoepub
+#   http://docbook.sourceforge.net/release/xsl/current/epub/README
+
+# Pandoc (by John MacFarlane)
+#   http://pandoc.org
+
+# xsltproc
+#   http://xmlsoft.org/xslt/xsltproc.html
 
 # ==============================================================
 # Config
@@ -34,7 +46,10 @@ description="Oficial organ de Interlingue (Occidental); omni numer√≥s publicat √
 all: epub pdf
 
 .PHONY: epub
-epub: epubd epubp epubx
+epub: epuba epubd epubp epubx
+
+.PHONY: epuba
+epuba: target/$(book_basename).adoc.epub
 
 .PHONY: epubd
 epubd: target/$(book_basename).adoc.xml.dbtoepub.epub
@@ -75,6 +90,13 @@ target/%.adoc.a4.pdf: src/%.adoc
 target/%.adoc.letter.pdf: src/%.adoc
 	asciidoctor-pdf \
 		--attribute pdf-page-size=letter \
+		--out-file=$@ $<
+
+# ==============================================================
+# Convert Asciidoctor to EPUB
+
+target/%.adoc.epub: src/%.adoc
+	asciidoctor-epub3 \
 		--out-file=$@ $<
 
 # ==============================================================
@@ -184,3 +206,6 @@ target/$(book_basename).md.epub: src/$(book_basename).md
 # 2019-08-03: Add ODT rule. Set all metadata variables.
 #
 # 2019-08-09: Fix passing of `editor` and `publisher` variables.
+#
+# 2020-03-30: Build an EPUB also with Asciidoctor EPUB3. Improve the list of
+# requirements.
