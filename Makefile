@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 202008091901
+# Last modified 202008100008
 # See change log at the end of the file
 
 # ==============================================================
@@ -35,7 +35,7 @@ book_basename=cosmoglotta
 title="Cosmoglotta"
 author="Cosmoglotta"
 editor="Marcos Cruz (programandala.net)"
-publisher="ne.alinome"
+publisher="ne alinome"
 lang="ie"
 description="Oficial organ de Interlingue (Occidental); omni numerós publicat ínter li annus 1927 e 1950"
 
@@ -211,3 +211,5 @@ target/$(book_basename).md.epub: src/$(book_basename).md
 # requirements.
 #
 # 2020-08-09: Replace DocBook extension .xml with .dbk.
+#
+# 2020-08-10: Update the publisher's name.
