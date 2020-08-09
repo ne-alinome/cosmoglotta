@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-01-07
+:revdate: 2020-08-09
 
 - Convert constrained bold markup.
 - Convert escaped ellipsis.
@@ -170,3 +170,6 @@ ____
   Beaufront».
 - Mark the staff paragraphs as lists?, e.g. «Chef redactor:», etc.  
 - Confirm «pointer» in «quande li pointer stoppa». English word?
+- Check the result of the «Lexico atomic» definition list, especially
+  the formulas.
+- Check the effect of horizontal rules, `'''`.  
