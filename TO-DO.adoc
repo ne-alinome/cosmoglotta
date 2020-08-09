@@ -90,7 +90,6 @@ ____
 - Unificar notation de parol-partes in exemples: "-" e "/" -> "·".
 - Unificar `«_X_»` and `_«X»_`.
 - Consult wether "till" has to be updated to "til".
-- Fix "Leibnitz" -> "Leibniz".
 - Add chapter numbers to the titles of "Complet grammatica de
   Occidental".
 - Check the render of the footnote in poem "In obscuritá".
@@ -142,12 +141,10 @@ ____
   section, not in the article.
 - Expand "IL-oficie".
 - Fix: some `footnote` marks are not rendered.
-- Fix "mersí".
-- Fix "ínamícos".
 - Fix "Occidental-Centrale".
 - Lowercase "DIE HEUTIGE SITUATION DER WELTSPRACHENFRAGE".
-- Fix "es-que" -> "esque".
-- Update "commun".
+- Update "es-que" -> "esque"?
+- Update "commun"?
 - Confirm "collar" <> "collation" -> "colation".
 - Fix "Creux+" and "Moore+".
 - Confirm/Fix "meprisar".
@@ -160,7 +157,6 @@ ____
   languages, e.g. «Napoleon I. in Russia», «chef del 1. regiment».
 - Replace «'» with curved version, in English, e.g. in «don't».  
 - Expand «Germ.».
-- «vel» -> «vell».
 - Kobenhvn/Köbenhvn.
 - «ec.» -> «e c.»/«etc.».
 - «red.» -> «redactor».
