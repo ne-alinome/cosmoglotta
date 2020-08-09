@@ -42,6 +42,7 @@
 - Fix "H2O" and others.
 - Homogenize "A.P.I.S.", "U.E.A.", "U.S.A.", "C.E.L.I.A.", "S.A.P.O."
   and others, without spaces.
+- Fix "Occidental movement" -> "Occidental-movement".  
 - Homogenize the format of author's names in the "Cronica" sections.
 - Fix: footnote numbers 1-4 are repeated (in the HTML conversion):
 +
