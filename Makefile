@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 202003300114
+# Last modified 202008091901
 # See change log at the end of the file
 
 # ==============================================================
@@ -52,16 +52,16 @@ epub: epuba epubd epubp epubx
 epuba: target/$(book_basename).adoc.epub
 
 .PHONY: epubd
-epubd: target/$(book_basename).adoc.xml.dbtoepub.epub
+epubd: target/$(book_basename).adoc.dbk.dbtoepub.epub
 
 .PHONY: epubp
-epubp: target/$(book_basename).adoc.xml.pandoc.epub
+epubp: target/$(book_basename).adoc.dbk.pandoc.epub
 
 .PHONY: epubx
-epubx: target/$(book_basename).adoc.xml.xsltproc.epub
+epubx: target/$(book_basename).adoc.dbk.xsltproc.epub
 
 .PHONY: odt
-odt: target/$(book_basename).adoc.xml.pandoc.odt
+odt: target/$(book_basename).adoc.dbk.pandoc.odt
 
 .PHONY: pdf
 pdf: pdfa4 pdfletter
@@ -102,9 +102,9 @@ target/%.adoc.epub: src/%.adoc
 # ==============================================================
 # Convert Asciidoctor to DocBook
 
-.SECONDARY: tmp/$(book_basename).adoc.xml
+.SECONDARY: tmp/$(book_basename).adoc.dbk
 
-tmp/%.adoc.xml: src/%.adoc
+tmp/%.adoc.dbk: src/%.adoc
 	asciidoctor --backend=docbook5 --out-file=$@ $<
 
 # ==============================================================
@@ -113,8 +113,8 @@ tmp/%.adoc.xml: src/%.adoc
 # ------------------------------------------------
 # With dbtoepub
 
-target/$(book_basename).adoc.xml.dbtoepub.epub: \
-	tmp/$(book_basename).adoc.xml \
+target/$(book_basename).adoc.dbk.dbtoepub.epub: \
+	tmp/$(book_basename).adoc.dbk \
 	src/$(book_basename)-docinfo.xml
 	dbtoepub \
 		--output $@ $<
@@ -122,8 +122,8 @@ target/$(book_basename).adoc.xml.dbtoepub.epub: \
 # ------------------------------------------------
 # With pandoc
 
-target/$(book_basename).adoc.xml.pandoc.epub: \
-	tmp/$(book_basename).adoc.xml \
+target/$(book_basename).adoc.dbk.pandoc.epub: \
+	tmp/$(book_basename).adoc.dbk \
 	src/$(book_basename)-docinfo.xml \
 	src/pandoc_epub_template.txt \
 	src/pandoc_epub_stylesheet.css
@@ -141,7 +141,7 @@ target/$(book_basename).adoc.xml.pandoc.epub: \
 # ------------------------------------------------
 # With xsltproc
 
-target/%.adoc.xml.xsltproc.epub: tmp/%.adoc.xml
+target/%.adoc.dbk.xsltproc.epub: tmp/%.adoc.dbk
 	rm -fr tmp/xsltproc/* && \
 	xsltproc \
 		--output tmp/xsltproc/ \
@@ -165,8 +165,8 @@ target/%.adoc.xml.xsltproc.epub: tmp/%.adoc.xml
 # ==============================================================
 # Convert DocBook to OpenDocument
 
-target/$(book_basename).adoc.xml.pandoc.odt: \
-	tmp/$(book_basename).adoc.xml \
+target/$(book_basename).adoc.dbk.pandoc.odt: \
+	tmp/$(book_basename).adoc.dbk \
 	src/$(book_basename)-docinfo.xml \
 	src/pandoc_odt_template.txt
 	pandoc \
@@ -209,3 +209,5 @@ target/$(book_basename).md.epub: src/$(book_basename).md
 #
 # 2020-03-30: Build an EPUB also with Asciidoctor EPUB3. Improve the list of
 # requirements.
+#
+# 2020-08-09: Replace DocBook extension .xml with .dbk.
