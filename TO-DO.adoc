@@ -105,7 +105,6 @@ ____
   personal name. This convention, used in Spanish and other languages,
   is already used many times in Cosmoglotta. This change improves
   legibility, making clear "De" is not the ordinary preposition "de".
-- Create stylesheet for `[preface]`.
 - Mark the article authors with italics, after the original.
 - Format and mark the missing issues of Cosmoglotta A: 51, 52, 68, 87.
 - Fix: The table column align is lost in EPUB throw DocBook.
@@ -171,3 +170,4 @@ ____
   the formulas.
 - Study how to change the width of thematic breaks (horizontal rules)
   in Asciidoctor PDF.
+- Check usage of `[preface]`.
