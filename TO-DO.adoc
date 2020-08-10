@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-08-10
+:revdate: 2020-08-11
 
 - Convert constrained bold markup.
 - Convert escaped ellipsis.
@@ -19,9 +19,7 @@
   heterogeneous. Besides, they are useless in a digital book, because
   the TOC is built out of the actual headings. Preserving the original
   content lists an converting into links would be too much work for no
-  gain.
-- Confirm: "Neredith" or "Meredith" Knox Gardner. Also used "M.K.
-  Gardner".
+  gain. (Preserve the original lists in comment blocks).
 - Convert remaining footnotes.
 - Comment out and mark notes about missing images.
 - Fix remaining symbols that are used as abbreviatures (km and m are
@@ -43,7 +41,6 @@
 - Homogenize "A.P.I.S.", "U.E.A.", "U.S.A.", "C.E.L.I.A.", "S.A.P.O."
   and others, without spaces.
 - Fix "Occidental movement" -> "Occidental-movement".  
-- Homogenize the format of author's names in the "Cronica" sections.
 - Fix: footnote numbers 1-4 are repeated (in the HTML conversion):
 +
 ____
@@ -131,19 +128,15 @@ ____
 - Homogenize notation of "ex-libris".
 - Update "secue..." -> "seque...".
 - Homogenize notation of numbers (spaces, decimal points).
-- Homogenize abbreviation of "numeró": nro, nró, no, nó, nr...
-- Homogenize titles "On scri nos(...)".
 - Search for bold and italic marks that should be quotes instead.
 - Mark letters in section "Corespondentie".
 - Title sections "Eigentümer, Herausgeber und Verleger...".
 - Homogenize section title "Contene/Contene:".
 - Fix: sometimes authors are mentioned only in the "Contene/Contenete"
   section, not in the article.
-- Expand "IL-oficie".
 - Fix: some `footnote` marks are not rendered.
 - Fix "Occidental-Centrale".
 - Lowercase "DIE HEUTIGE SITUATION DER WELTSPRACHENFRAGE".
-- Update "es-que" -> "esque"?
 - Update "commun"?
 - Confirm "collar" <> "collation" -> "colation".
 - Fix "Creux+" and "Moore+".
@@ -159,8 +152,6 @@ ____
 - Expand «Germ.».
 - Kobenhvn/Köbenhvn.
 - «ec.» -> «e c.»/«etc.».
-- «red.» -> «redactor».
-- Homogenize notation «IALA», without dots.
 - Homogenize «de De Wahl», e.g.  «secun li proposition de Wahl»,
   «subtenet de Wahl», «qualitás de Wahl». Likewise about «de De
   Beaufront».
@@ -171,3 +162,12 @@ ____
 - Study how to change the width of thematic breaks (horizontal rules)
   in Asciidoctor PDF.
 - Check usage of `[preface]`.
+
+== Deprecated
+
+- Homogenize notation «IALA», without dots.
+- Update "es-que" -> "esque"?
+- Homogenize the format of author's names in the "Cronica" sections.
+- Homogenize titles "On scri nos(...)".
+- «red.» -> «redactor».
+- Homogenize abbreviation of "numeró": nro, nró, no, nó, nr...
