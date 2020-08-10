@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 202008100008
+# Last modified 202008101345
 # See change log at the end of the file
 
 # ==============================================================
@@ -43,7 +43,7 @@ description="Oficial organ de Interlingue (Occidental); omni numer√≥s publicat √
 # Interface
 
 .PHONY: all
-all: epub pdf
+all: epuba pdf
 
 .PHONY: epub
 epub: epuba epubd epubp epubx
@@ -212,4 +212,6 @@ target/$(book_basename).md.epub: src/$(book_basename).md
 #
 # 2020-08-09: Replace DocBook extension .xml with .dbk.
 #
-# 2020-08-10: Update the publisher's name.
+# 2020-08-10: Update the publisher's name. Deprecate EPUBs built by Pandoc,
+# dbtoepub and xsltproc: they convert DocBook, which doesn't support
+# horizontal rules.
