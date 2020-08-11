@@ -39,29 +39,6 @@
 - Fix "H2O" and others.
 - Homogenize "A.P.I.S.", "U.E.A.", "U.S.A.", "C.E.L.I.A.", "S.A.P.O."
   and others, without spaces.
-- Fix: footnote numbers 1-4 are repeated (in the HTML conversion):
-+
-____
-
-1. Ex un brochura (in preparation): Li anti-europan caractere de
-"Esperanto" de Ernst Graber (Dresden).
-2. Ples anc leer li articul «Mi o yo» Kosmoglott nro 5 e 6 1922.
-3. Li annu indica li témpore del publication del textu. Li lingues
-posse esser plu old, quam p. ex. tis de Lott, Molenaar, v. Wahl.
-4. Li exemples de Esperanto es haustet ex un anuncia del Leipziger
-Messamt. Li ' indica li diferent partes queles composi li paroles.
-1. "ĵojis" in li original (ma per li h-alfabet, t.e. "jhojis", quel
-por ti edition esset convertet in li ver líteres esperantic. Editor
-digital
-2. Compar. direktoro — direktisto, redakcio — redaktejo etc.
-3. Vide inter altricos li critica de W. E. Collinson pri «Delphos» in
-«Internationial Language» April 1927.
-4. Ma li regulari derivates ne es international: aviadisto, senpere, a
-(...)
-5. Li predilection a long composites con special nuancies es un
-specific (...)
-
-____
 - Convert notation "/".
 - Convert "1. januar" to "1 januar"? The dot is used in other
   languages, e.g. Slovak.
@@ -110,7 +87,6 @@ ____
 - Update "app..." -> "ap..."
 - Update remaining "th", "ph"...
 - Remove comments about position of old separators.
-- Expand "AZR".
 - Consult "extrat-/extract-".
 - Replace roman numbers in chapters of "Complet grammatica de
   Occidental".
@@ -136,7 +112,6 @@ ____
 - Update "commun"?
 - Confirm "collar" <> "collation" -> "colation".
 - Fix "Creux+" and "Moore+".
-- Confirm/Fix "meprisar".
 - Confirm "Richard Schirrmann".
 - Mark the article «Signification del prepositiones (cardinal
   senses)».
@@ -172,3 +147,4 @@ ____
 - Homogenize abbreviation of "numeró": nro, nró, no, nó, nr...
 - Homogenize format of the original TOC items, e.g. dots.
 - Fix "R Bg." -> "R. Bg.".
+- Expand "AZR".
