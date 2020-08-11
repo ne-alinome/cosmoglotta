@@ -32,7 +32,6 @@
 - Convert all of the old abbreviatons of language names, e.g.
   "A.F.G.Esp.". Use their full names in Interlingue, separated by
   commas.
-- Homogenize format of the original TOC items, e.g. dots.
 - Move full stops outside the quotes, when they don't belong to it,
   e.g. "«aaa.»" -> "«aaa».".
 - Convert long quotes at the end of a paragraph into quotes blocks,
@@ -64,7 +63,8 @@ specific (...)
 
 ____
 - Convert notation "/".
-- Convert "1. januar" to "1 januar".
+- Convert "1. januar" to "1 januar"? The dot is used in other
+  languages, e.g. Slovak.
 - Comment out "(foto)", "(image...)", etc.
 - Fix: Markup `****` has no effect in EPUB because class "sidebar" is
   not specified in the CSS.
@@ -121,8 +121,6 @@ ____
 - Consult about notation "Occidental'ist(es)".
 - Use "…" instead of "...", because the conversion is not done by the
   parser in all contexts.
-- Expand "Int. Acad." -> "Interimari Academie".
-- Fix "R Bg." -> "R. Bg.".
 - Check and expand month abbreviatures, e.g. «jan».
 - Homogenize notation of "ex-libris".
 - Update "secue..." -> "seque...".
@@ -134,7 +132,6 @@ ____
 - Fix: sometimes authors are mentioned only in the "Contene/Contenete"
   section, not in the article.
 - Fix: some `footnote` marks are not rendered.
-- Fix "Occidental-Centrale".
 - Lowercase "DIE HEUTIGE SITUATION DER WELTSPRACHENFRAGE".
 - Update "commun"?
 - Confirm "collar" <> "collation" -> "colation".
@@ -161,6 +158,7 @@ ____
 - Study how to change the width of thematic breaks (horizontal rules)
   in Asciidoctor PDF.
 - Check usage of `[preface]`.
+- Comment out the original table of contents.
 
 == Deprecated
 
@@ -170,3 +168,5 @@ ____
 - Homogenize titles "On scri nos(...)".
 - «red.» -> «redactor».
 - Homogenize abbreviation of "numeró": nro, nró, no, nó, nr...
+- Homogenize format of the original TOC items, e.g. dots.
+- Fix "R Bg." -> "R. Bg.".
