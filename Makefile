@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 202008101345
+# Last modified 202008111655
 # See change log at the end of the file
 
 # ==============================================================
@@ -60,6 +60,9 @@ epubp: target/$(book_basename).adoc.dbk.pandoc.epub
 .PHONY: epubx
 epubx: target/$(book_basename).adoc.dbk.xsltproc.epub
 
+.PHONY: html
+html: target/$(book_basename).adoc.html
+
 .PHONY: odt
 odt: target/$(book_basename).adoc.dbk.pandoc.odt
 
@@ -106,6 +109,12 @@ target/%.adoc.epub: src/%.adoc
 
 tmp/%.adoc.dbk: src/%.adoc
 	asciidoctor --backend=docbook5 --out-file=$@ $<
+
+# ==============================================================
+# Convert Asciidoctor to HTML
+
+target/%.adoc.html: src/%.adoc
+	asciidoctor --out-file=$@ $<
 
 # ==============================================================
 # Convert DocBook to EPUB
@@ -215,3 +224,5 @@ target/$(book_basename).md.epub: src/$(book_basename).md
 # 2020-08-10: Update the publisher's name. Deprecate EPUBs built by Pandoc,
 # dbtoepub and xsltproc: they convert DocBook, which doesn't support
 # horizontal rules.
+#
+# 2020-08-11: Add rule to convert Asciidoctor to HTML.
