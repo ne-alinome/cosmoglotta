@@ -136,6 +136,9 @@
 - Fix «nequi» (112) -> «nequí» (35).
 - Fix «nequo» (52) -> «nequó» (48).
 - Expand «IL».
+- Convert «²» to markup.
+- Add missing titles (marked with "XXX ... titular").
+- Confirm notes of the transcriptor: "(?)", "(??)", "????"...
 
 == Deprecated
 
