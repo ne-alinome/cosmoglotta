@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-08-11
+:revdate: 2020-08-13
 
 - Convert constrained bold markup.
 - Convert escaped ellipsis.
@@ -9,7 +9,6 @@
 - Fix paragraphs divided by images or their descriptions.
 - Fix ellipsis with leading space: Keep the trailing space if it's an
   actual ellipsis in a quote.
-- Remove dots and other punctuation at the end of section titles.
 - Add a block markup before the blocks following the content lists
   which are at the end of the issues. These last sections generally
   contain news about new books.
@@ -136,6 +135,7 @@
 - Comment out the original table of contents.
 - Fix «nequi» (112) -> «nequí» (35).
 - Fix «nequo» (52) -> «nequó» (48).
+- Expand «IL».
 
 == Deprecated
 
