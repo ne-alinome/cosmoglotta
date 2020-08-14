@@ -143,6 +143,7 @@
 - Update y->i: «presbyt...», «myop...»...
 - Mark bold and underline (which was not marked during the
   transcription) as bold.
+- Fix «ínfam/ie» -> «infam/ie». 
 
 == Deprecated
 
