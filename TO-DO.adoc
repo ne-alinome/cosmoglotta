@@ -119,7 +119,6 @@
   languages, e.g. «Napoleon I. in Russia», «chef del 1. regiment».
 - Replace «'» with curved version, in English, e.g. in «don't».  
 - Expand «Germ.».
-- Kobenhvn/Köbenhvn.
 - «ec.» -> «e c.»/«etc.».
 - Homogenize «de De Wahl», e.g.  «secun li proposition de Wahl»,
   «subtenet de Wahl», «qualitás de Wahl». Likewise about «de De
@@ -140,6 +139,9 @@
 - Confirm notes of the transcriptor: "(?)", "(??)", "????"...
 - Combine titles marcat per "XXX TODO -- combinar titules".
 - Fix «alquícos» -> «alquicos»; «alqui» -> «alquí».
+- Update y->i: «presbyt...», «myop...»...
+- Mark bold and underline (which was not marked during the
+  transcription) as bold.
 
 == Deprecated
 
@@ -152,3 +154,4 @@
 - Homogenize format of the original TOC items, e.g. dots.
 - Fix "R Bg." -> "R. Bg.".
 - Expand "AZR".
+- Fix Kobenhavn/Köbenhavn/Köbenhaven.
