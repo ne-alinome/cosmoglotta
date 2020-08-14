@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-08-13
+:revdate: 2020-08-14
 
 - Convert constrained bold markup.
 - Convert escaped ellipsis.
@@ -139,6 +139,7 @@
 - Convert «²» to markup.
 - Add missing titles (marked with "XXX ... titular").
 - Confirm notes of the transcriptor: "(?)", "(??)", "????"...
+- Combine titles marcat per "XXX TODO -- combinar titules".
 
 == Deprecated
 
