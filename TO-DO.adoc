@@ -140,6 +140,7 @@
 - Add missing titles (marked with "XXX ... titular").
 - Confirm notes of the transcriptor: "(?)", "(??)", "????"...
 - Combine titles marcat per "XXX TODO -- combinar titules".
+- Fix «alquícos» -> «alquicos»; «alqui» -> «alquí».
 
 == Deprecated
 
