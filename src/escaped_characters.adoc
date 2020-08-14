@@ -1,0 +1,18 @@
+// This file is part of project
+// _Cosmoglotta_
+//
+// by Marcos Cruz (programandala.net)
+// http://ne.alinome.net
+//
+// This file is in Asciidoctor format
+// (http//asciidoctor.org)
+//
+// Last modified 202008141639
+
+// Attributes used for escaping special characters:
+:dot: .
+:equals: =
+:asterisk: *
+:bracket: [
+:lessthan: <
+:plus: +
