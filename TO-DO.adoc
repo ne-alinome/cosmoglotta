@@ -136,7 +136,8 @@
 - Expand «IL».
 - Convert «²» to markup.
 - Add missing titles (marked with "XXX ... titular").
-- Confirm notes of the transcriptor: "(?)", "(??)", "????"...
+- Confirm notes of the transcriptor: "(?)", "(??)", "????"... and
+  convert all of them to `[?]` and `[…?]`.
 - Combine titles marcat per "XXX TODO -- combinar titules".
 - Fix «alquícos» -> «alquicos»; «alqui» -> «alquí».
 - Update y->i: «presbyt...», «myop...»...
