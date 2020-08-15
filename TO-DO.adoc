@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-08-14
+:revdate: 2020-08-15
 
 - Convert constrained bold markup.
 - Convert escaped ellipsis.
@@ -143,7 +143,9 @@
 - Update y->i: «presbyt...», «myop...»...
 - Mark bold and underline (which was not marked during the
   transcription) as bold.
-- Fix «ínfam/ie» -> «infam/ie». 
+- Fix «ínfam/ie» -> «infam/ie».
+- Change notes «ci esset li marca originale de págine» to «ci esset li
+  fine de págine».
 
 == Deprecated
 
