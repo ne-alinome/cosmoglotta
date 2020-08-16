@@ -146,8 +146,12 @@
 - Fix «ínfam/ie» -> «infam/ie».
 - Change notes «ci esset li marca originale de págine» to «ci esset li
   fine de págine».
-- Homogenize the format of titles of numbered documents, e.g. "Doc. 173".
+- Homogenize the format of titles of numbered documents, e.g. "Doc.
+  173".
 - Delete unimportant "FIXED" notes.
+- Homogenize the format of list items in paragraphs? E.g. "1/" ->
+  "1)".
+- Homogenize the format of notes about missing pages with `WARNING:`.
 
 == Deprecated
 
