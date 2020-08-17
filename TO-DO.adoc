@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-08-16
+:revdate: 2020-08-17
 
 - Convert constrained bold markup.
 - Convert escaped ellipsis.
@@ -149,12 +149,14 @@
 - Homogenize the format of list items in paragraphs? E.g. "1/" ->
   "1)".
 - Homogenize the format of notes about missing pages with `WARNING:`.
+- Search for section "Anuncies" in the original tables of contents and
+  update the headings accordingly.
+- Mark also author's names in the "Cronica" sections.
 
 == Deprecated
 
 - Homogenize notation «IALA», without dots.
 - Update "es-que" -> "esque"?
-- Homogenize the format of author's names in the "Cronica" sections.
 - Homogenize titles "On scri nos(...)".
 - «red.» -> «redactor».
 - Homogenize abbreviation of "numeró": nro, nró, no, nó, nr...
