@@ -153,6 +153,7 @@
   update the headings accordingly.
 - Mark also author's names in the "Cronica" sections.
 - Fix «-ésim» -> «-esim».
+- Separate the parts of «Ex li paper-corb» with horizontal rules.
 
 == Deprecated
 
