@@ -154,6 +154,7 @@
 - Mark also author's names in the "Cronica" sections.
 - Fix «-ésim» -> «-esim».
 - Separate the parts of «Ex li paper-corb» with horizontal rules.
+- Update prices "x.—" and "—.xx" to "x,00" and "0,xx"?
 
 == Deprecated
 
