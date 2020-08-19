@@ -25,7 +25,11 @@
   own paragraph.
 - Make footnotes about the new headings.
 - Homogenize the format of the APIS new addresses: dashes, language
-  abbreviations, etc.
+  abbreviations, etc. The countries must be headings. The addresses
+  must be list items. In the items, family names and cities are
+  underlined. When there's only one city in the country list, it is
+  part of the heading. See exemple:
+  http://anno.onb.ac.at/cgi-content/anno-plus?aid=e0m&datum=1938&page=59&size=48
 - Convert all of the old abbreviatons of language names, e.g.
   "A.F.G.Esp.". Use their full names in Interlingue, separated by
   commas.
@@ -155,6 +159,10 @@
 - Fix «-ésim» -> «-esim».
 - Separate the parts of «Ex li paper-corb» with horizontal rules.
 - Update prices "x.—" and "—.xx" to "x,00" and "0,xx"?
+- Mark the first headings of Cosmoglotta B.
+- Review notation in "Cassa de propaganda".
+- Homogenize the layout of section "Concurs de traduction": markup,
+  blocks, headings, lists...
 
 == Deprecated
 
