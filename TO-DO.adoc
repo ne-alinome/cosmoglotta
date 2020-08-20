@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-08-18
+:revdate: 2020-08-21
 
 - Convert constrained bold markup.
 - Convert escaped ellipsis.
@@ -163,6 +163,7 @@
 - Review notation in "Cassa de propaganda".
 - Homogenize the layout of section "Concurs de traduction": markup,
   blocks, headings, lists...
+- Convert Asciidoctor quote notation to Unicode characters.
 
 == Deprecated
 
