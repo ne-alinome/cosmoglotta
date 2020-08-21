@@ -2,6 +2,19 @@
 :author: Marcos Cruz (programandala.net)
 :revdate: 2020-08-21
 
+== Before splitting into years
+
+- Change FIXED -> NOTE in notes about new titles.
+- Translate REMARK -> NOTE, etc.
+- Delete unimportant "FIXED" notes.
+- Remove comments about position of old separators.
+- Check the internal hierarchy of "Diverses" sections.
+- Add and check styles for `.author` and `.center`.
+- Change "su originales ne es disponibil por digitalisation" -> "su
+  scanates manca".
+
+== General
+
 - Convert constrained bold markup.
 - Convert escaped ellipsis.
 - Fix ellipsis without trailing space.
@@ -44,7 +57,7 @@
   languages, e.g. Slovak.
 - Fix: Markup `****` has no effect in EPUB because class "sidebar" is
   not specified in the CSS.
-- Fix: `start` parameter in lists is not supperted in XML. Therefore
+- Fix: `start` parameter in lists is not supported in XML. Therefore
   complex lists must be harcoded instead of marked.
 - Separar "Abonnament a Cosmoglotta".
 - "Lettre à un idist". "à"?
@@ -85,7 +98,6 @@
 - Use bold markup in "I-esim Capitul: Fonologie", after the original.
 - Update "app..." -> "ap..."
 - Update remaining "th", "ph"...
-- Remove comments about position of old separators.
 - Consult "extrat-/extract-".
 - Replace roman numbers in chapters of "Complet grammatica de
   Occidental".
@@ -149,7 +161,6 @@
   fine de págine».
 - Homogenize the format of titles of numbered documents, e.g. "Doc.
   173".
-- Delete unimportant "FIXED" notes.
 - Homogenize the format of list items in paragraphs? E.g. "1/" ->
   "1)".
 - Homogenize the format of notes about missing pages with `WARNING:`.
@@ -164,6 +175,12 @@
 - Homogenize the layout of section "Concurs de traduction": markup,
   blocks, headings, lists...
 - Convert Asciidoctor quote notation to Unicode characters.
+- Add missing page 87 from Cosmoglotta A 72 (1930-09):
+  (http://anno.onb.ac.at/cgi-content/anno-plus?aid=e0g&datum=1930&page=90&size=24).
+- Fix Podobsky/ý/ỳ. It seems the right name is "Podobský".
+- Fix Svec/Švec.
+- Check usage of "°".
+- Update "annunc" -> "anunc".
 
 == Deprecated
 
