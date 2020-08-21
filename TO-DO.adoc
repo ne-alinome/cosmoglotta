@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-08-21
+:revdate: 2020-08-22
 
 == Before splitting into years
 
@@ -181,6 +181,7 @@
 - Fix Svec/Švec.
 - Check usage of "°".
 - Update "annunc" -> "anunc".
+- Mark "Offset".
 
 == Deprecated
 
