@@ -7,7 +7,6 @@
 - Change FIXED -> NOTE in notes about new titles.
 - Translate REMARK -> NOTE, etc.
 - Delete unimportant "FIXED" notes.
-- Remove comments about position of old separators.
 - Check the internal hierarchy of "Diverses" sections.
 - Add and check styles for `.author` and `.center`.
 - Change "su originales ne es disponibil por digitalisation" -> "su
