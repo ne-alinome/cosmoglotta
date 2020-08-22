@@ -2,7 +2,8 @@
 :author: Marcos Cruz (programandala.net)
 :revdate: 2020-08-22
 
-== Before splitting into years
+// Misc, to do before splitting into annual volumes {{{1
+== Misc, to do before splitting into annual volumes
 
 - Change FIXED -> NOTE in notes about new titles.
 - Translate REMARK -> NOTE, etc.
@@ -11,18 +12,51 @@
 - Add and check styles for `.author` and `.center`.
 - Change "su originales ne es disponibil por digitalisation" -> "su
   scanates manca".
+- Add missing titles (marked with "XXX ... titular").
+- Combine titles marcat per "XXX TODO -- combinar titules".
+- Convert Asciidoctor quote notation to Unicode characters.
 
-== General
+// Internal notes {{{1
+== Internal notes
 
-- Convert constrained bold markup.
+- Homogenize the format of notes about missing pages with `WARNING:`.
+
+// Style {{{1
+== Style
+
+- Fix: Markup `****` has no effect in EPUB because class "sidebar" is
+  not specified in the CSS.
+- Fix: The table column align is lost in EPUB throw DocBook.
+- Study how to change the width of thematic breaks (horizontal rules)
+  in Asciidoctor PDF.
+
+// Punctuation {{{1
+== Punctuation
+
 - Convert escaped ellipsis.
 - Fix ellipsis without trailing space.
 - Fix splitted numbers: use hard spaces.
 - Fix ellipsis with leading space: Keep the trailing space if it's an
   actual ellipsis in a quote.
+- Marcar omni paroles pri queles on parola per signes de citation.
+  (but mark foreign words with italics).
+- Unificar `«_X_»` and `_«X»_`.
+
+// Markup {{{1
+== Markup
+
+- Convert constrained bold markup.
 - Add a block markup before the blocks following the content lists
   which are at the end of the issues. These last sections generally
   contain news about new books.
+- Mark remaining footnotes.
+- Fix: `start` parameter in lists is not supported in XML. Therefore
+  complex lists must be harcoded instead of marked.
+- Use bold markup in "I-esim Capitul: Fonologie", after the original.
+
+// Contents {{{1
+== Contents
+
 - Remove the original content lists. It looks they are not accurate
   (sometimes they are incomplete, the titles are different than the
   actual ones, or are in a different order), and their format is
@@ -30,12 +64,9 @@
   the TOC is built out of the actual headings. Preserving the original
   content lists an converting into links would be too much work for no
   gain. (Preserve the original lists in comment blocks).
-- Convert remaining footnotes.
 - Fix remaining symbols that are used as abbreviatures (km and m are
   already fixed).
-- Homogenize the format of article authors' names: Move them to their
-  own paragraph.
-- Make footnotes about the new headings.
+- Add footnotes about the new headings?
 - Homogenize the format of the APIS new addresses: dashes, language
   abbreviations, etc. The countries must be headings. The addresses
   must be list items. In the items, family names and cities are
@@ -51,20 +82,13 @@
   e.g. "bla bla: «...»".
 - Homogenize "A.P.I.S.", "U.E.A.", "U.S.A.", "C.E.L.I.A.", "S.A.P.O."
   and others, without spaces.
-- Convert notation "/".
+  E.g. compact "P. E. N.".
 - Convert "1. januar" to "1 januar"? The dot is used in other
   languages, e.g. Slovak.
-- Fix: Markup `****` has no effect in EPUB because class "sidebar" is
-  not specified in the CSS.
-- Fix: `start` parameter in lists is not supported in XML. Therefore
-  complex lists must be harcoded instead of marked.
 - Separar "Abonnament a Cosmoglotta".
 - "Lettre à un idist". "à"?
-- Marcar omni paroles pri queles on parola per signes de citation.
-  (but mark foreign words with italics).
 - Update "illi".
 - Update "mei" -> mi.
-- Compact "P. E. N." and others.
 - Homogenize "p. e." into "p. ex.", depending on the article.
 - Update orthography: systema, appoy, theatre, thecnica, hyenes,
   Sylvestre, typic, sinthese, aphoteca, menthol, tachotypie,
@@ -73,7 +97,6 @@
   Cosmoglotta A 95 (apr 1934).
 - Update "ley"/"lege".
 - Unificar notation de parol-partes in exemples: "-" e "/" -> "·".
-- Unificar `«_X_»` and `_«X»_`.
 - Consult wether "till" has to be updated to "til".
 - Add chapter numbers to the titles of "Complet grammatica de
   Occidental".
@@ -89,12 +112,8 @@
   personal name. This convention, used in Spanish and other languages,
   is already used many times in Cosmoglotta. This change improves
   legibility, making clear "De" is not the ordinary preposition "de".
-- Mark the article authors with italics, after the original.
-- Format and mark the missing issues of Cosmoglotta A: 51, 52, 68, 87.
-- Fix: The table column align is lost in EPUB throw DocBook.
 - Add the universal calendar to "Li reforme del calendare", after the
   original.
-- Use bold markup in "I-esim Capitul: Fonologie", after the original.
 - Update "app..." -> "ap..."
 - Update remaining "th", "ph"...
 - Consult "extrat-/extract-".
@@ -105,8 +124,6 @@
 - Move "Al la Esperantistaro (continuation de pág. 37)".
 - Remove repetition "Ancor in 1909 De Courtenay scrit:".
 - Consult about notation "Occidental'ist(es)".
-- Use "…" instead of "...", because the conversion is not done by the
-  parser in all contexts.
 - Check and expand month abbreviatures, e.g. «jan».
 - Homogenize notation of "ex-libris".
 - Update "secue..." -> "seque...".
@@ -117,7 +134,6 @@
 - Homogenize section title "Contene/Contene:".
 - Fix: sometimes authors are mentioned only in the "Contene/Contenete"
   section, not in the article.
-- Fix: some `footnote` marks are not rendered.
 - Lowercase "DIE HEUTIGE SITUATION DER WELTSPRACHENFRAGE".
 - Update "commun"?
 - Confirm "collar" <> "collation" -> "colation".
@@ -131,7 +147,7 @@
   languages, e.g. «Napoleon I. in Russia», «chef del 1. regiment».
 - Replace «'» with curved version, in English, e.g. in «don't».  
 - Expand «Germ.».
-- «ec.» -> «e c.»/«etc.».
+- «ec.» -> «e c.»/«etc.»?
 - Homogenize «de De Wahl», e.g.  «secun li proposition de Wahl»,
   «subtenet de Wahl», «qualitás de Wahl». Likewise about «de De
   Beaufront».
@@ -139,18 +155,14 @@
 - Confirm «pointer» in «quande li pointer stoppa». English word?
 - Check the result of the «Lexico atomic» definition list, especially
   the formulas.
-- Study how to change the width of thematic breaks (horizontal rules)
-  in Asciidoctor PDF.
 - Check usage of `[preface]`.
 - Comment out the original table of contents.
 - Fix «nequi» (112) -> «nequí» (35).
 - Fix «nequo» (52) -> «nequó» (48).
 - Expand «IL».
-- Convert «²» to markup.
-- Add missing titles (marked with "XXX ... titular").
+- Convert «²» to markup or the other way around.
 - Confirm notes of the transcriptor: "(?)", "(??)", "????"... and
   convert all of them to `[?]` and `[…?]`.
-- Combine titles marcat per "XXX TODO -- combinar titules".
 - Fix «alquícos» -> «alquicos»; «alqui» -> «alquí».
 - Update y->i: «presbyt...», «myop...»...
 - Mark bold and underline (which was not marked during the
@@ -161,8 +173,7 @@
 - Homogenize the format of titles of numbered documents, e.g. "Doc.
   173".
 - Homogenize the format of list items in paragraphs? E.g. "1/" ->
-  "1)".
-- Homogenize the format of notes about missing pages with `WARNING:`.
+  "1)"?
 - Search for section "Anuncies" in the original tables of contents and
   update the headings accordingly.
 - Mark also author's names in the "Cronica" sections.
@@ -173,7 +184,6 @@
 - Review notation in "Cassa de propaganda".
 - Homogenize the layout of section "Concurs de traduction": markup,
   blocks, headings, lists...
-- Convert Asciidoctor quote notation to Unicode characters.
 - Add missing page 87 from Cosmoglotta A 72 (1930-09):
   (http://anno.onb.ac.at/cgi-content/anno-plus?aid=e0g&datum=1930&page=90&size=24).
 - Fix Podobsky/ý/ỳ. It seems the right name is "Podobský".
@@ -182,6 +192,7 @@
 - Update "annunc" -> "anunc".
 - Mark "Offset".
 
+// Deprecated {{{1
 == Deprecated
 
 - Homogenize notation «IALA», without dots.
