@@ -191,6 +191,8 @@
 - Update "annunc" -> "anunc".
 - Mark "Offset".
 - Consult hyen/hien.
+- Check the price lists of "Abonnament a Cosmoglotta": some of them
+  are broken into several paragraphs.
 
 // Deprecated {{{1
 == Deprecated
