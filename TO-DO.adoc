@@ -81,8 +81,7 @@
 - Convert long quotes at the end of a paragraph into quotes blocks,
   e.g. "bla bla: «...»".
 - Homogenize "A.P.I.S.", "U.E.A.", "U.S.A.", "C.E.L.I.A.", "S.A.P.O."
-  and others, without spaces.
-  E.g. compact "P. E. N.".
+  and others, without spaces. E.g. compact "P. E. N.".
 - Convert "1. januar" to "1 januar"? The dot is used in other
   languages, e.g. Slovak.
 - Separar "Abonnament a Cosmoglotta".
@@ -159,7 +158,6 @@
 - Comment out the original table of contents.
 - Fix «nequi» (112) -> «nequí» (35).
 - Fix «nequo» (52) -> «nequó» (48).
-- Expand «IL».
 - Convert «²» to markup or the other way around.
 - Confirm notes of the transcriptor: "(?)", "(??)", "????"... and
   convert all of them to `[?]` and `[…?]`.
