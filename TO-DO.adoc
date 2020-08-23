@@ -52,6 +52,8 @@
 - Fix: `start` parameter in lists is not supported in XML. Therefore
   complex lists must be harcoded instead of marked.
 - Use bold markup in "I-esim Capitul: Fonologie", after the original.
+- Mark "Vocabularium del centres de interesse in Occidental" with
+  definition lists.
 
 // Contents {{{1
 == Contents
@@ -188,6 +190,7 @@
 - Check usage of "°".
 - Update "annunc" -> "anunc".
 - Mark "Offset".
+- Consult hyen/hien.
 
 // Deprecated {{{1
 == Deprecated
