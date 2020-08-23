@@ -1,11 +1,10 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-08-22
+:revdate: 2020-08-23
 
 // Misc, to do before splitting into annual volumes {{{1
 == Misc, to do before splitting into annual volumes
 
-- Change FIXED -> NOTE in notes about new titles.
 - Translate REMARK -> NOTE, etc.
 - Delete unimportant "FIXED" notes.
 - Check the internal hierarchy of "Diverses" sections.
@@ -15,6 +14,7 @@
 - Add missing titles (marked with "XXX ... titular").
 - Combine titles marcat per "XXX TODO -- combinar titules".
 - Convert Asciidoctor quote notation to Unicode characters.
+- Homogenize puctuation of "Contene" sections (full stops).
 
 // Internal notes {{{1
 == Internal notes
