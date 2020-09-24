@@ -1,13 +1,12 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-09-24
+:revdate: 2020-09-25
 
 // Misc, to do before splitting into annual volumes {{{1
 == Misc, to do before splitting into annual volumes
 
 - Delete unimportant "FIXED" notes.
 - Add and check styles for `.author` and `.center`.
-- Convert Asciidoctor quote notation to Unicode characters.
 - Homogenize the format of "Doc." references in titles.
 - Mark also author's names in the "Cronica" sections.
 - Mark remaining footnotes.
