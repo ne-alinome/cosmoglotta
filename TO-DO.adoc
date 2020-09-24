@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-09-23
+:revdate: 2020-09-24
 
 // Misc, to do before splitting into annual volumes {{{1
 == Misc, to do before splitting into annual volumes
@@ -15,6 +15,7 @@
 - Convert Asciidoctor quote notation to Unicode characters.
 - Homogenize puctuation of "Contene" sections (full stops).
 - Remove useless notes "ci esset ti separator".
+- Homogenize the format of "Doc." references in titles.
 
 // Internal notes {{{1
 == Internal notes
