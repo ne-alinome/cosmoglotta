@@ -6,7 +6,6 @@
 == Misc, to do before splitting into annual volumes
 
 - Delete unimportant "FIXED" notes.
-- Check the internal hierarchy of "Diverses" sections.
 - Add and check styles for `.author` and `.center`.
 - Convert Asciidoctor quote notation to Unicode characters.
 - Homogenize the format of "Doc." references in titles.
