@@ -13,7 +13,6 @@
 - Homogenize the format of "Doc." references in titles.
 - Mark also author's names in the "Cronica" sections.
 - Mark remaining footnotes.
-- Mark languages in "Concurs de traduction".
 
 // Internal notes {{{1
 == Internal notes
