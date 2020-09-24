@@ -7,7 +7,6 @@
 
 - Delete unimportant "FIXED" notes.
 - Add and check styles for `.author` and `.center`.
-- Homogenize the format of "Doc." references in titles.
 - Mark also author's names in the "Cronica" sections.
 - Mark remaining footnotes.
 
