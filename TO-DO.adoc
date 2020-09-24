@@ -10,8 +10,10 @@
 - Add and check styles for `.author` and `.center`.
 - Convert Asciidoctor quote notation to Unicode characters.
 - Homogenize puctuation of "Contene" sections (full stops).
-- Remove useless notes "ci esset ti separator".
 - Homogenize the format of "Doc." references in titles.
+- Mark also author's names in the "Cronica" sections.
+- Mark remaining footnotes.
+- Mark languages in "Concurs de traduction".
 
 // Internal notes {{{1
 == Internal notes
@@ -46,7 +48,6 @@
 - Add a block markup before the blocks following the content lists
   which are at the end of the issues. These last sections generally
   contain news about new books.
-- Mark remaining footnotes.
 - Fix: `start` parameter in lists is not supported in XML. Therefore
   complex lists must be harcoded instead of marked.
 - Use bold markup in "I-esim Capitul: Fonologie", after the original.
@@ -173,7 +174,6 @@
   "1)"?
 - Search for section "Anuncies" in the original tables of contents and
   update the headings accordingly.
-- Mark also author's names in the "Cronica" sections.
 - Fix «-ésim» -> «-esim».
 - Separate the parts of «Ex li paper-corb» with horizontal rules.
 - Update prices "x.—" and "—.xx" to "x,00" and "0,xx"?
