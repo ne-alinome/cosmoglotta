@@ -1,6 +1,6 @@
 = Cosmoglotta
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-08-22
+:revdate: 2020-12-04
 :toc:
 :toc-title: Contenete/Contents
 
@@ -29,6 +29,9 @@ Web-locs::
 1. textification: http://cosmoglotta.pbworks.com[cosmoglotta.pbworks.com]
 2. librification digital: http://ne.alinome.net[ne.alinome.net]
 
+NOTE: In 2020-12-04 li depositoria de Git esset convertet a
+http://fossil-scm.org[Fossil]. GitHub es usat solmen quam un copie.
+
 == English
 
 === Abouth this project
@@ -42,3 +45,7 @@ Authors:: Dave MacLeod, 2018-2019; Marcos Cruz, 2019..2020.
 Websites::
 1. text conversion: http://cosmoglotta.pbworks.com[cosmoglotta.pbworks.com]
 2. e-book creation: http://ne.alinome.net[ne.alinome.net]
+
+NOTE: On 2020-12-04 the Git repository was converted to
+http://fossil-scm.rog[Fossil]. GitHub is used only as a copy.
+
