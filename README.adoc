@@ -1,6 +1,6 @@
 = Cosmoglotta
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-12-04
+:revdate: 2020-12-05
 :toc:
 :toc-title: Contenete/Contents
 
@@ -13,7 +13,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202008221811
+// Last modified 202012051546
 
 == Interlingue
 
@@ -47,5 +47,5 @@ Websites::
 2. e-book creation: http://ne.alinome.net[ne.alinome.net]
 
 NOTE: On 2020-12-04 the Git repository was converted to
-http://fossil-scm.rog[Fossil]. GitHub is used only as a copy.
+http://fossil-scm.org[Fossil]. GitHub is used only as a copy.
 
