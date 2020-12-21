@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-11-20
+:revdate: 2020-11-21
 
 // Misc, to do before splitting into annual volumes {{{1
 == Misc, to do before splitting into annual volumes
@@ -187,6 +187,7 @@
 - Check the price lists of "Abonnament a Cosmoglotta": some of them
   are broken into several paragraphs.
 - Mark "curriculum vitae".
+- Confirm "sovet/soviet".
 
 // Deprecated {{{1
 == Deprecated
