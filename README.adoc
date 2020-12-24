@@ -1,6 +1,6 @@
 = Cosmoglotta
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-12-05
+:revdate: 2020-12-24
 :toc:
 :toc-title: Contenete/Contents
 
@@ -13,7 +13,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202012051546
+// Last modified: 202012241838.
 
 == Interlingue
 
@@ -29,8 +29,10 @@ Web-locs::
 1. textification: http://cosmoglotta.pbworks.com[cosmoglotta.pbworks.com]
 2. librification digital: http://ne.alinome.net[ne.alinome.net]
 
-NOTE: In 2020-12-04 li depositoria de Git esset convertet a
-http://fossil-scm.org[Fossil]. GitHub es usat solmen quam un copie.
+NOTE: In 2020-12-04 li depositoria de Git esset convertet a un
+http://fossil.ne.alinome.net/cosmoglotta[depositoria de Fossil],
+conservante http://github.com/ne-alinome/cosmoglotta[GitHub] quam un
+copie.
 
 == English
 
@@ -46,6 +48,6 @@ Websites::
 1. text conversion: http://cosmoglotta.pbworks.com[cosmoglotta.pbworks.com]
 2. e-book creation: http://ne.alinome.net[ne.alinome.net]
 
-NOTE: On 2020-12-04 the Git repository was converted to
-http://fossil-scm.org[Fossil]. GitHub is used only as a copy.
-
+NOTE: On 2020-12-04 the Git repository was converted to a
+http://fossil.ne.alinome.net/cosmoglotta[Fossil repository], keeping
+http://github.com/ne-alinome/cosmoglotta[GitHub] as a mirror.
