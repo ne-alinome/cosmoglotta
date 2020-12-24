@@ -2,11 +2,11 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 202008111655
-# See change log at the end of the file
+# Last modified: 202012241833.
+# See change log at the end of the file.
 
 # ==============================================================
-# Requirements
+# Requirements {{{1
 
 # Asciidoctor (by Dan Allen, Sarah White et al.)
 #   http://asciidoctor.org
@@ -27,7 +27,7 @@
 #   http://xmlsoft.org/xslt/xsltproc.html
 
 # ==============================================================
-# Config
+# Config {{{1
 
 VPATH=./src:./target
 
@@ -40,7 +40,7 @@ lang="ie"
 description="Oficial organ de Interlingue (Occidental); omni numerós publicat ínter li annus 1927 e 1950"
 
 # ==============================================================
-# Interface
+# Interface {{{1
 
 .PHONY: all
 all: epuba pdf
@@ -84,7 +84,7 @@ clean:
 it: target/$(book_basename).md.epub
 
 # ==============================================================
-# Convert Asciidoctor to PDF
+# Convert Asciidoctor to PDF {{{1
 
 target/%.adoc.a4.pdf: src/%.adoc
 	asciidoctor-pdf \
@@ -96,14 +96,14 @@ target/%.adoc.letter.pdf: src/%.adoc
 		--out-file=$@ $<
 
 # ==============================================================
-# Convert Asciidoctor to EPUB
+# Convert Asciidoctor to EPUB {{{1
 
 target/%.adoc.epub: src/%.adoc
 	asciidoctor-epub3 \
 		--out-file=$@ $<
 
 # ==============================================================
-# Convert Asciidoctor to DocBook
+# Convert Asciidoctor to DocBook {{{1
 
 .SECONDARY: tmp/$(book_basename).adoc.dbk
 
@@ -111,16 +111,16 @@ tmp/%.adoc.dbk: src/%.adoc
 	asciidoctor --backend=docbook5 --out-file=$@ $<
 
 # ==============================================================
-# Convert Asciidoctor to HTML
+# Convert Asciidoctor to HTML {{{1
 
 target/%.adoc.html: src/%.adoc
 	asciidoctor --out-file=$@ $<
 
 # ==============================================================
-# Convert DocBook to EPUB
+# Convert DocBook to EPUB {{{1
 
 # ------------------------------------------------
-# With dbtoepub
+# With dbtoepub {{{2
 
 target/$(book_basename).adoc.dbk.dbtoepub.epub: \
 	tmp/$(book_basename).adoc.dbk \
@@ -129,7 +129,7 @@ target/$(book_basename).adoc.dbk.dbtoepub.epub: \
 		--output $@ $<
 
 # ------------------------------------------------
-# With pandoc
+# With pandoc {{{2
 
 target/$(book_basename).adoc.dbk.pandoc.epub: \
 	tmp/$(book_basename).adoc.dbk \
@@ -148,7 +148,7 @@ target/$(book_basename).adoc.dbk.pandoc.epub: \
 		--output $@ $<
 
 # ------------------------------------------------
-# With xsltproc
+# With xsltproc {{{2
 
 target/%.adoc.dbk.xsltproc.epub: tmp/%.adoc.dbk
 	rm -fr tmp/xsltproc/* && \
@@ -172,7 +172,7 @@ target/%.adoc.dbk.xsltproc.epub: tmp/%.adoc.dbk
 #  cp -f src/xsltproc/stylesheet.css tmp/xsltproc/OEBPS/ && \
 
 # ==============================================================
-# Convert DocBook to OpenDocument
+# Convert DocBook to OpenDocument {{{1
 
 target/$(book_basename).adoc.dbk.pandoc.odt: \
 	tmp/$(book_basename).adoc.dbk \
@@ -189,7 +189,7 @@ target/$(book_basename).adoc.dbk.pandoc.odt: \
 		--output $@ $<
 
 # ==============================================================
-# Convert Markdown to EPUB
+# Convert Markdown to EPUB {{{1
 
 # This is a temporary rule, needed only during the first phase of the project.
 
@@ -206,7 +206,34 @@ target/$(book_basename).md.epub: src/$(book_basename).md
 		--output $@ $<
 
 # ==============================================================
-# Change log
+# Online documentation {{{2
+
+# Online documentation displayed on the Fossil repository.
+
+.PHONY: wwwdoc
+wwwdoc: wwwreadme
+
+.PHONY: cleanwww
+cleanwww:
+	rm -f \
+		doc/www/* \
+		tmp/README.*
+
+.PHONY: wwwreadme
+wwwreadme: doc/www/README.html
+
+doc/www/README.html: tmp/README.html
+	echo "<div class='fossil-doc' data-title='README'>" > $@;\
+	cat $< >> $@;\
+	echo "</div>" >> $@
+
+tmp/README.html: README.adoc
+	asciidoctor \
+		--embedded \
+		--out-file=$@ $<
+
+# ==============================================================
+# Change log {{{1
 
 # 2019-02-24: Start.
 #
@@ -222,7 +249,10 @@ target/$(book_basename).md.epub: src/$(book_basename).md
 # 2020-08-09: Replace DocBook extension .xml with .dbk.
 #
 # 2020-08-10: Update the publisher's name. Deprecate EPUBs built by Pandoc,
-# dbtoepub and xsltproc: they convert DocBook, which doesn't support
-# horizontal rules.
+# dbtoepub and xsltproc: they convert DocBook, which doesn't support horizontal
+# rules.
 #
 # 2020-08-11: Add rule to convert Asciidoctor to HTML.
+#
+# 2020-12-24: Build an online version of the README file for the Fossil
+# repository.
