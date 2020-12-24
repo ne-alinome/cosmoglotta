@@ -13,7 +13,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified: 202012241838.
+// Last modified: 202012241847.
 
 == Interlingue
 
@@ -42,7 +42,7 @@ Goal:: Convert the contents of _Cosmoglotta_ (only the volumes
 1927..1950), the main magazine of the Interlingue/Occidental language,
 into ebooks in EPUB and other formats.
 
-Authors:: Dave MacLeod, 2018-2019; Marcos Cruz, 2019..2020.
+Authors:: Dave MacLeod, 2018..2019; Marcos Cruz, 2019..2020.
 
 Websites::
 1. text conversion: http://cosmoglotta.pbworks.com[cosmoglotta.pbworks.com]
