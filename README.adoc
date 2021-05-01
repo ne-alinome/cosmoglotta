@@ -1,6 +1,6 @@
 = Cosmoglotta
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-12-24
+:revdate: 2021-04-29
 :toc:
 :toc-title: Contenete/Contents
 
@@ -13,17 +13,17 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified: 202012241847.
+// Last modified: 20210429T2101+0200.
 
 == Interlingue
 
 === Pri ti projecte
 
 Scope:: Converter li contenetes de _Cosmoglotta_ (solmen li volumes
-1927..1950), li central jurnale de Interlingue, in libres digital in
+1927/1950), li central jurnale de Interlingue, in libres digital in
 EPUB e altri formates.
 
-Autores:: Dave MacLeod, 2018..2019; Marcos Cruz, 2019..2020.
+Autores:: Dave MacLeod, 2018/2019; Marcos Cruz, 2019/2021.
 
 Web-locs::
 1. textification: http://cosmoglotta.pbworks.com[cosmoglotta.pbworks.com]
@@ -39,10 +39,10 @@ copie.
 === Abouth this project
 
 Goal:: Convert the contents of _Cosmoglotta_ (only the volumes
-1927..1950), the main magazine of the Interlingue/Occidental language,
+1927/1950), the main magazine of the Interlingue/Occidental language,
 into ebooks in EPUB and other formats.
 
-Authors:: Dave MacLeod, 2018..2019; Marcos Cruz, 2019..2020.
+Authors:: Dave MacLeod, 2018/2019; Marcos Cruz, 2019/2021.
 
 Websites::
 1. text conversion: http://cosmoglotta.pbworks.com[cosmoglotta.pbworks.com]
