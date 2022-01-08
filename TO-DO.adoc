@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2021-12-20
+:revdate: 2022-01-08
 
 // Misc, to do before splitting into annual volumes {{{1
 == Misc, to do before splitting into annual volumes
@@ -189,7 +189,6 @@
 - Mark "curriculum vitae".
 - Confirm "sovet/soviet".
 - Confirm typo "tan" -> "tam/tant".
-- Check "demi-"/"demí-".
 
 // Deprecated {{{1
 == Deprecated
