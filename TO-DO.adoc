@@ -1,6 +1,6 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2022-01-08
+:revdate: 2022-08-06
 
 // Misc, to do before splitting into annual volumes {{{1
 == Misc, to do before splitting into annual volumes
@@ -48,6 +48,8 @@
 - Use bold markup in "I-esim Capitul: Fonologie", after the original.
 - Mark "Vocabularium del centres de interesse in Occidental" with
   definition lists.
+- Mark articles intros with `****`. See "Evolution del lingues" by
+  Jespersen.
 
 // Contents {{{1
 == Contents
