@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified: 202012241833.
+# Last modified: 20230406T1054+0200.
 # See change log at the end of the file.
 
 # ==============================================================
@@ -206,33 +206,6 @@ target/$(book_basename).md.epub: src/$(book_basename).md
 		--output $@ $<
 
 # ==============================================================
-# Online documentation {{{2
-
-# Online documentation displayed on the Fossil repository.
-
-.PHONY: wwwdoc
-wwwdoc: wwwreadme
-
-.PHONY: cleanwww
-cleanwww:
-	rm -f \
-		doc/www/* \
-		tmp/README.*
-
-.PHONY: wwwreadme
-wwwreadme: doc/www/README.html
-
-doc/www/README.html: tmp/README.html
-	echo "<div class='fossil-doc' data-title='README'>" > $@;\
-	cat $< >> $@;\
-	echo "</div>" >> $@
-
-tmp/README.html: README.adoc
-	asciidoctor \
-		--embedded \
-		--out-file=$@ $<
-
-# ==============================================================
 # Change log {{{1
 
 # 2019-02-24: Start.
@@ -256,3 +229,5 @@ tmp/README.html: README.adoc
 #
 # 2020-12-24: Build an online version of the README file for the Fossil
 # repository.
+#
+# 2023-04-06: Remove online documentation rules, after migrating to Mercurial.

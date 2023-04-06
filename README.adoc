@@ -1,6 +1,6 @@
 = Cosmoglotta
 :author: Marcos Cruz (programandala.net)
-:revdate: 2021-04-29
+:revdate: 2023-04-06
 :toc:
 :toc-title: Contenete/Contents
 
@@ -13,7 +13,7 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified: 20210429T2101+0200.
+// Last modified: 20230406T1109+0200.
 
 == Interlingue
 
@@ -23,16 +23,21 @@ Scope:: Converter li contenetes de _Cosmoglotta_ (solmen li volumes
 1927/1950), li central jurnale de Interlingue, in libres digital in
 EPUB e altri formates.
 
-Autores:: Dave MacLeod, 2018/2019; Marcos Cruz, 2019/2021.
+Autores:: Dave MacLeod, 2018/2019; Marcos Cruz, 2019/2023.
 
 Web-locs::
 1. textification: http://cosmoglotta.pbworks.com[cosmoglotta.pbworks.com]
 2. librification digital: http://ne.alinome.net[ne.alinome.net]
 
-NOTE: In 2020-12-04 li depositoria de Git esset convertet a un
-http://fossil.ne.alinome.net/cosmoglotta[depositoria de Fossil],
-conservante http://github.com/ne-alinome/cosmoglotta[GitHub] quam un
-copie.
+=== Historie del depositoria
+
+- 2019-05-04: Li depositoria de Git esset publicat
+  https://github.com/ne-alinome/cosmoglotta[in GitHub].
+- 2020-12-04: Li depositoria de Git esset convertet a
+  https://fossil-scm.org[Fossil], conservante GitHub quam un copie.
+- 2023-04-06: Li depositoria esset convertet a
+  https://mercurial-scm.org[Mercurial], possibilisante un melior
+  interaction con GitHub.
 
 == English
 
@@ -42,12 +47,18 @@ Goal:: Convert the contents of _Cosmoglotta_ (only the volumes
 1927/1950), the main magazine of the Interlingue/Occidental language,
 into ebooks in EPUB and other formats.
 
-Authors:: Dave MacLeod, 2018/2019; Marcos Cruz, 2019/2021.
+Authors:: Dave MacLeod, 2018/2019; Marcos Cruz, 2019/2023.
 
 Websites::
 1. text conversion: http://cosmoglotta.pbworks.com[cosmoglotta.pbworks.com]
 2. e-book creation: http://ne.alinome.net[ne.alinome.net]
 
-NOTE: On 2020-12-04 the Git repository was converted to a
-http://fossil.ne.alinome.net/cosmoglotta[Fossil repository], keeping
-http://github.com/ne-alinome/cosmoglotta[GitHub] as a mirror.
+=== History of the repository
+
+- 2019-05-04: The Git repository was published
+  https://github.com/ne-alinome/cosmoglotta[in GitHub].
+- 2020-12-04: The Git repository was converted to
+  https://fossil-scm.org[Fossil], keeping GitHub as a mirror.
+- 2023-04-06: The repository was converted to
+  https://mercurial-scm.org[Mercurial], enabling a better interaction
+  with GitHub.
