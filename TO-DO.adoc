@@ -1,6 +1,8 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2023-04-07
+:revdate: 2023-04-08
+
+// Last modified 20230408T1531+0200.
 
 // Misc, to do before splitting into annual volumes {{{1
 == Misc, to do before splitting into annual volumes
@@ -51,6 +53,14 @@
 - Mark articles intros with `****`. See "Evolution del lingues" by
   Jespersen.
 - `L{dot} I.`, `L{dot}I.` -> "lingue international".
+- Mark underlined texts with `[.underline]#text#`. See
+  https://docs.asciidoctor.org/asciidoc/latest/text/text-span-built-in-roles/[Text
+  Span and Built-in Roles | Asciidoctor Docs].
+- Footnotes in headings don't work in Asciidoctor yet. See GitHub
+  issue:
+  https://github.com/asciidoctor/asciidoctor/issues/2903[footnote on
+  heading numbered incorrectly]. In fact the possible workarounds
+  don't work with Asccidoctor 2.0.18.
 
 // Contents {{{1
 == Contents
@@ -193,6 +203,7 @@
 - Confirm "sovet/soviet".
 - Confirm typo "tan" -> "tam/tant".
 - Fix "par" -> "por/per".
+- Convert "L.A." -> "lingue auxiliari".
 
 // Deprecated {{{1
 == Deprecated
