@@ -2,7 +2,13 @@
 :author: Marcos Cruz (programandala.net)
 :revdate: 2023-04-09
 
-// Last modified 20230409T1243+0200.
+// Last modified 20230409T1340+0200.
+
+// Building {{{1
+== Building
+
+Build only with Asciidoctor; deprecate dbtoepub, Pandoc and xsltproc,
+which need a DocBook conversion.
 
 // Misc, to do before splitting into annual volumes {{{1
 == Misc, to do before splitting into annual volumes
@@ -10,7 +16,6 @@
 - Delete unimportant "FIXED" notes.
 - Add and check styles for `.author` and `.center`.
 - Mark also author's names in the "Cronica" sections.
-- Mark remaining footnotes.
 
 // Internal notes {{{1
 == Internal notes
@@ -40,8 +45,6 @@
 - Add a block markup before the blocks following the content lists
   which are at the end of the issues. These last sections generally
   contain news about new books.
-- Fix: `start` parameter in lists is not supported in XML. Therefore
-  complex lists must be harcoded instead of marked.
 - Use bold markup in "I-esim Capitul: Fonologie", after the original.
 - Mark "Vocabularium del centres de interesse in Occidental" with
   definition lists.
@@ -54,7 +57,8 @@
   issue:
   https://github.com/asciidoctor/asciidoctor/issues/2903[footnote on
   heading numbered incorrectly]. In fact the possible workarounds
-  don't work with Asccidoctor 2.0.18.
+  don't work with Asccidoctor 2.0.18. 2023-04-08: As a temporary
+  workaround, they were replaced by `NOTE:` admonitions.
 
 // Contents {{{1
 == Contents
@@ -108,7 +112,6 @@
   page 40 of Cosmoglotta A 1934].
 - Mark the article introductions with italics, after the original.
 - Add a subtitle to the book.
-- Confirm "Ma quande noi cite". Is it "cita"?
 - Convert surnames' "De" to titlecase when they don't follow the
   personal name. This convention, used in Spanish and other languages,
   is already used many times in Cosmoglotta. This change improves
@@ -176,10 +179,9 @@
   "1)"?
 - Search for section "Anuncies" in the original tables of contents and
   update the headings accordingly.
-- Fix «-ésim» -> «-esim».
+- Change «-ésim» -> «-esim»?
 - Separate the parts of «Ex li paper-corb» with horizontal rules.
 - Update prices "x.—" and "—.xx" to "x,00" and "0,xx"?
-- Mark the first headings of Cosmoglotta B.
 - Review notation in "Cassa de propaganda".
 - Homogenize the layout of section "Concurs de traduction": markup,
   blocks, headings, lists...
@@ -195,8 +197,6 @@
   are broken into several paragraphs.
 - Mark "curriculum vitae".
 - Confirm "sovet/soviet".
-- Confirm typo "tan" -> "tam/tant".
-- Fix "par" -> "por/per".
 - Convert "L.A." -> "lingue auxiliari".
 
 // Deprecated {{{1
