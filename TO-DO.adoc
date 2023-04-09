@@ -2,7 +2,7 @@
 :author: Marcos Cruz (programandala.net)
 :revdate: 2023-04-09
 
-// Last modified 20230409T1340+0200.
+// Last modified 20230409T1614+0200.
 
 // Building {{{1
 == Building
@@ -191,13 +191,8 @@ which need a DocBook conversion.
 - Fix Svec/Švec.
 - Check usage of "°".
 - Update "annunc" -> "anunc".
-- Mark "Offset".
-- Consult hyen/hien.
 - Check the price lists of "Abonnament a Cosmoglotta": some of them
   are broken into several paragraphs.
-- Mark "curriculum vitae".
-- Confirm "sovet/soviet".
-- Convert "L.A." -> "lingue auxiliari".
 
 // Deprecated {{{1
 == Deprecated
