@@ -2,7 +2,7 @@
 :author: Marcos Cruz (programandala.net)
 :revdate: 2023-04-09
 
-// Last modified 20230409T1138+0200.
+// Last modified 20230409T1243+0200.
 
 // Misc, to do before splitting into annual volumes {{{1
 == Misc, to do before splitting into annual volumes
@@ -29,12 +29,7 @@
 // Punctuation {{{1
 == Punctuation
 
-- Convert escaped ellipsis.
-- Fix ellipsis without trailing space.
-- Fix splitted numbers: use hard spaces.
-- Fix ellipsis with leading space: Keep the trailing space if it's an
-  actual ellipsis in a quote.
-- Marcar omni paroles pri queles on parola per signes de citation.
+- Marcar per signes de citation li paroles pri queles on parla
   (but mark foreign words with italics).
 - Unificar `«_X_»` and `_«X»_`.
 
