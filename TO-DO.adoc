@@ -2,13 +2,14 @@
 :author: Marcos Cruz (programandala.net)
 :revdate: 2023-04-09
 
-// Last modified 20230409T1614+0200.
+// Last modified 20230409T1751+0200.
 
 // Building {{{1
 == Building
 
-Build only with Asciidoctor; deprecate dbtoepub, Pandoc and xsltproc,
-which need a DocBook conversion.
+- Build only with Asciidoctor; deprecate dbtoepub, Pandoc and
+  xsltproc, which need a DocBook conversion.
+- Fix hardcoded "View note" in the HTML code of footnote links.
 
 // Misc, to do before splitting into annual volumes {{{1
 == Misc, to do before splitting into annual volumes
@@ -27,7 +28,6 @@ which need a DocBook conversion.
 
 - Fix: Markup `****` has no effect in EPUB because class "sidebar" is
   not specified in the CSS.
-- Fix: The table column align is lost in EPUB throw DocBook.
 - Study how to change the width of thematic breaks (horizontal rules)
   in Asciidoctor PDF.
 
@@ -64,7 +64,7 @@ which need a DocBook conversion.
 == Contents
 
 - Remove the original content lists. It looks they are not accurate
-  (sometimes they are incomplete, the titles are different than the
+  (sometimes they are incomplete, the titles are different from the
   actual ones, or are in a different order), and their format is
   heterogeneous. Besides, they are useless in a digital book, because
   the TOC is built out of the actual headings. Preserving the original
@@ -83,7 +83,7 @@ which need a DocBook conversion.
   "A.F.G.Esp.". Use their full names in Interlingue, separated by
   commas.
 - Move full stops outside the quotes, when they don't belong to it,
-  e.g. "«aaa.»" -> "«aaa».".
+  e.g. "«aaa.»" -> "«aaa»."?
 - Convert long quotes at the end of a paragraph into quotes blocks,
   e.g. "bla bla: «...»".
 - Homogenize "A.P.I.S.", "U.E.A.", "U.S.A.", "C.E.L.I.A.", "S.A.P.O."
@@ -160,7 +160,6 @@ which need a DocBook conversion.
 - Check the result of the «Lexico atomic» definition list, especially
   the formulas.
 - Check usage of `[preface]`.
-- Comment out the original table of contents.
 - Fix «nequi» (112) -> «nequí» (35).
 - Fix «nequo» (52) -> «nequó» (48).
 - Convert «²» to markup or the other way around.
