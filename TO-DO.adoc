@@ -1,8 +1,8 @@
 = TO-DO of _Cosmoglotta_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2023-04-08
+:revdate: 2023-04-09
 
-// Last modified 20230408T1531+0200.
+// Last modified 20230409T1138+0200.
 
 // Misc, to do before splitting into annual volumes {{{1
 == Misc, to do before splitting into annual volumes
@@ -52,7 +52,6 @@
   definition lists.
 - Mark articles intros with `****`. See "Evolution del lingues" by
   Jespersen.
-- `L{dot} I.`, `L{dot}I.` -> "lingue international".
 - Mark underlined texts with `[.underline]#text#`. See
   https://docs.asciidoctor.org/asciidoc/latest/text/text-span-built-in-roles/[Text
   Span and Built-in Roles | Asciidoctor Docs].
