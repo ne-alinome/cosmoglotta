@@ -1,7 +1,7 @@
 # This file is part of project Cosmoglotta (http://ne.alinome.net)
 # by Marcos Cruz (programandala.net).
 #
-# Last modified 20230410T1746+0200.
+# Last modified 20230410T1755+0200.
 # See change log at the end of the file.
 
 # ==============================================================
@@ -38,10 +38,10 @@ epub: $(addsuffix .epub, $(volumes))
 html: $(addsuffix .html, $(volumes))
 
 .PHONY: pdf
-pdf: pdf4
+pdf: pdfa4
 
 .PHONY: pdfa4
-pdfa4: $(addsuffix _din-a4-format.pdf, $(volumes))
+pdfa4: $(addsuffix .pdf, $(volumes))
 
 .PHONY: pdfletter
 pdfletter: $(addsuffix _letter-format.pdf, $(volumes))
@@ -57,7 +57,7 @@ it: target/$(book_basename).md.epub
 # ==============================================================
 # Convert Asciidoctor to PDF {{{1
 
-target/%_din-a4-format.pdf: src/%.adoc src/about_this_book.adoc
+target/%.pdf: src/%.adoc src/about_this_book.adoc
 	asciidoctor-pdf \
 		--out-file=$@ $<
 
