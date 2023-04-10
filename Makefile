@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified: 20230406T1054+0200.
+# Last modified: 20230410T1223+0200.
 # See change log at the end of the file.
 
 # ==============================================================
@@ -86,11 +86,11 @@ it: target/$(book_basename).md.epub
 # ==============================================================
 # Convert Asciidoctor to PDF {{{1
 
-target/%.adoc.a4.pdf: src/%.adoc
+target/%.adoc.a4.pdf: src/%.adoc src/about_this_book.adoc
 	asciidoctor-pdf \
 		--out-file=$@ $<
 
-target/%.adoc.letter.pdf: src/%.adoc
+target/%.adoc.letter.pdf: src/%.adoc src/about_this_book.adoc
 	asciidoctor-pdf \
 		--attribute pdf-page-size=letter \
 		--out-file=$@ $<
@@ -98,7 +98,7 @@ target/%.adoc.letter.pdf: src/%.adoc
 # ==============================================================
 # Convert Asciidoctor to EPUB {{{1
 
-target/%.adoc.epub: src/%.adoc
+target/%.adoc.epub: src/%.adoc src/about_this_book.adoc
 	asciidoctor-epub3 \
 		--out-file=$@ $<
 
@@ -107,13 +107,13 @@ target/%.adoc.epub: src/%.adoc
 
 .SECONDARY: tmp/$(book_basename).adoc.dbk
 
-tmp/%.adoc.dbk: src/%.adoc
+tmp/%.adoc.dbk: src/%.adoc src/about_this_book.adoc
 	asciidoctor --backend=docbook5 --out-file=$@ $<
 
 # ==============================================================
 # Convert Asciidoctor to HTML {{{1
 
-target/%.adoc.html: src/%.adoc
+target/%.adoc.html: src/%.adoc src/about_this_book.adoc
 	asciidoctor --out-file=$@ $<
 
 # ==============================================================
@@ -231,3 +231,5 @@ target/$(book_basename).md.epub: src/$(book_basename).md
 # repository.
 #
 # 2023-04-06: Remove online documentation rules, after migrating to Mercurial.
+#
+# 2023-04-10: Add prerequisite <about_this_book.adoc>.

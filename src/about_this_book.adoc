@@ -7,47 +7,51 @@
 // This file is in Asciidoctor format
 // (http//asciidoctor.org)
 //
-// Last modified 202008141639
+// Last modified 20230410T1512+0200
 
 // Pri ti libre {{{1
 == Pri ti libre
 
-Titul:: Cosmoglotta.
+Titul:: {doctitle}.
 
-Descrition:: Oficial organe del lingue international Interlingue
-(Occidental), quel es publicat desde 1927.
+Descrition:: {docdescription}
 
-Textification e actualisation del ortografie:: Dave MacLeod, 2018-2019.
-Obtenibil in http://cosmoglotta.pbworks.com[cosmoglotta.pbworks.com].
+Scanation del originales::
 
-Conversion a Asciidoctor, revision, corection e edition quam libre digital::
-Marcos Cruz, 2019-2020{dot} Obtenibil in
-http://ne.alinome.net[ne.alinome.net] in formates EPUB, PDF e altris.
+Österreichische Nationalbibliothek:
+http://anno.onb.ac.at/cgi-content/anno-plus?aid=e0g[Cosmoglotta serie
+A], http://anno.onb.ac.at/cgi-content/anno-plus?aid=e0m[Cosmoglotta
+serie B].
 
-Principal changes in ti edition::
-- Corection de omni trovat erras.
-- Amelioration del leibilitá, precipue de tabelles e listes, por omni
-  formates.
-- Creation de intern ligamentes.
+Textification e actualisation del ortografie::
 
-Libre digital fat solmen per líber programas::
-http://asciidoctor.org[Asciidoctor],
-https://github.com/asciidoctor/asciidoctor-epub3[Asciidoctor EPUB3],
-https://github.com/asciidoctor/asciidoctor-pdf[Asciidoctor PDF],
-http://docbook.sourceforge.net/release/xsl/current/epub/README[dbtoepub],
-http://debian.org[Debian],
-http://git-scm.com/[Git],
-https://www.gnu.org/software/make/[GNU make],
-http://neovim.io[Neovim],
-http://pandoc.org[Pandoc],
-http://http://jonas.nitro.dk/tig[Tig],
-http://vim.org[Vim],
-http://xmlsoft.org/XSLT/[xsltproc]…
+Dave MacLeod, 2018/2019:
+http://cosmoglotta.pbworks.com[cosmoglotta.pbworks.com].
 
-// Version de ti edition:: {revnumber}.
+Conversion a formate AsciiDoc, revision e librification digital::
 
-Contributiones:: Corectiones e suggestiones por sequent versiones es
-benevenit che http://ne.alinome.net[ne.alinome.net].
+Marcos Cruz, 2019/2023: http://ne.alinome.net[ne.alinome.net].
 
-NOTE: Li nómine de Interlingue esset «Occidental» til 1949.
+Ti libre digital es fat solmen per líber programas::
 
+https://asciidoctor.org[Asciidoctor],
+https://debian.org[Debian],
+http://elinks.cz[ELinks],
+https://www.falkon.org/[Falkon],
+https://www.mozilla.org/en-US/firefox/new/[Firefox],
+https://fishshell.com/[fish],
+https://www.gnu.org/software/make/[GNU Make],
+http://www.gnu.org/software/screen/[GNU Screen],
+https://mercurial-scm.org/[Mercurial],
+https://neovim.io[Neovim],
+https://www.nongnu.org/ratpoison/[Ratpoison],
+https://vifm.info/[Vifm]…
+
+Contributiones::
+
+Corectiones, suggestiones e colaborationes es benevenit che
+http://ne.alinome.net[ne.alinome.net].
+
+NOTE: Li nómine de Interlingue esset «Occidental» til 1949. Ambi
+nómines es usat quam sinonimes o combinat in pluri formes (p.ex.
+«Interlingue/Occidental»).
