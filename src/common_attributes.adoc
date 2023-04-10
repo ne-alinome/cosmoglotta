@@ -1,0 +1,24 @@
+// This file is part of project Cosmoglotta (http://ne.alinome.net)
+// by Marcos Cruz (programandala.net).
+//
+// This file is in AsciiDoc format (http//asciidoctor.org).
+//
+// Last modified 20230410T1523+0200.
+
+// Document:
+:doctype: book
+:lang: ie
+:epub3-stylesdir: .
+
+// Texts:
+:table-caption!:
+:toc-title: Contenete
+:warning-caption: Advertiment
+
+// Characters:
+:dot: .
+:equals: =
+:asterisk: *
+:bracket: [
+:lessthan: <
+:plus: +
