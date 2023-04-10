@@ -1,8 +1,7 @@
-# Makefile of _Cosmoglotta_
-
-# By Marcos Cruz (programandala.net)
-
-# Last modified: 20230410T1223+0200.
+# This file is part of project Cosmoglotta (http://ne.alinome.net)
+# by Marcos Cruz (programandala.net).
+#
+# Last modified 20230410T1529+0200.
 # See change log at the end of the file.
 
 # ==============================================================

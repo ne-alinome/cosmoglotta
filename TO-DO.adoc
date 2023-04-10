@@ -1,8 +1,13 @@
-= TO-DO of _Cosmoglotta_
+= To-do list of Cosmoglotta
 :author: Marcos Cruz (programandala.net)
 :revdate: 2023-04-09
 
-// Last modified 20230409T1751+0200.
+// This file is part of project Cosmoglotta (http://ne.alinome.net)
+// by Marcos Cruz (programandala.net).
+//
+// This file is in AsciiDoc format (http//asciidoctor.org).
+//
+// Last modified 20230410T1530+0200.
 
 // Building {{{1
 == Building

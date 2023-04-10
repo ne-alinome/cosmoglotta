@@ -1,13 +1,9 @@
-// This file is part of project
-// _Cosmoglotta_
+// This file is part of project Cosmoglotta (http://ne.alinome.net)
+// by Marcos Cruz (programandala.net).
 //
-// by Marcos Cruz (programandala.net)
-// http://ne.alinome.net
+// This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// This file is in Asciidoctor format
-// (http//asciidoctor.org)
-//
-// Last modified 20230410T1512+0200
+// Last modified 20230410T1527+0200.
 
 // Pri ti libre {{{1
 == Pri ti libre
