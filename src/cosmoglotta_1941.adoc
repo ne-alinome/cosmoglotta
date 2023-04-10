@@ -1,0 +1,1244 @@
+= Cosmoglotta 1941
+:revdate: 2023-04-10
+:docdescription: Omni numerós publicat in 1941 \
+del oficial organe del lingue international Occidental/Interlingue.
+
+include::common_attributes.adoc[]
+
+// This file is part of project Cosmoglotta (http://ne.alinome.net)
+// by Marcos Cruz (programandala.net).
+//
+// This file is in AsciiDoc format (http//asciidoctor.org).
+//
+// Last modified 20230410T1635+0200.
+
+include::about_this_book.adoc[]
+
+// Cosmoglotta B 26 (1941-09) {{{1
+== Cosmoglotta B 26 (1941-09)
+
+Oficial organ mensual del Occidental-Union
+
+Redaction e Administration:
+
+INSTITUTE OCCIDENTAL, CHAPELLE (Vaud), SVISSIA
+
+Serie B, poligrafat. Septembre 1941 -- Nr.26(1)
+
+// A nor letores! {{{2
+=== A nor letores!
+
+Desde li ultim numeró de Cosmoglotta, Nr.128 del serie A, quel aparit
+con tarde in comense del annu 1940, nor revúe ne ha dat signe de vive.
+It es nor deve explicar ti silentie, quel nor car letores va certmen
+comprender sin desfacilitá.
+
+Li guerre impedit presc omni relationes con nor extran colaboratores tam
+plu quam solmen cert lingues es admisset in li lettres; mem in Svissia
+nor ordinari auxiliatores, pro mult altri personal obligationes, ne vell
+har posset colaborar; tande li equip redactional esset completmen
+desorganisat. Adplu, del vis-punctu material, li inpossibilitá obtener
+li payament del abonnamentes del max grand parte del europan landes
+esset un impediment financiari quel fortiat nos suspender li edition de
+nor car revúe.
+
+Hodie, pos har profundmen studiat li situation, noi decidet far
+re-aparir nor revúe. Comprensibilmen, to es un revuette de guerre con
+restrictet númer de págines poligrafat. Noi tamen espera far aparir it
+chascun mensu, nam to es necessi si noi vole mantener vivid nor
+relationes con omni coidealistes.
+
+Nul abonnament es fixat; it es voluntari, pro pro que noi save que li
+conditiones de vive es desfacil por multes. Tamen, noi crede que chascun
+occidentalist va far un efortie, micri o grand, secun su personal
+situation, por far viver nor revúe durant ti desfacil témpor. Mem micri
+summar, inviat chascun mensu, regularimen, va permisser nos financiar su
+edition e in plu permisser comprar li necessi materiale por li
+preparation del lexicos e del manuales per un stab de sviss
+colaboratores, queles benevolet interprender ti enormissim labores sub
+lor propri responsabilitá.
+
+Pro to, con chascun numeró de nor revuette, noi va junter un bulletin de
+versament a nor postchec-contos; noi firmmen espera que talmen li
+solidaritá va manifestar se, in un témpor u solmen li neutral landes
+posse ancor laborar por un alt ideal, quel es por noi, occidentalistes,
+li adoption de un lingue international, ti tecnic medie de interrelation tam necessi
+quam li printería o li radio.
+
+Letor!
+
+Esque tu vole auxiliar nos?
+
+[.author]
+Redaction e Administration
+
+N.B. Noi va publicar in chascun numeró li liste del summar recivet.
+
+// Qualmen propagar occidental? {{{2
+=== Qualmen propagar occidental?
+
+Ti question ja esset posit in nor nr. 24 de Cosmoglotta B. Noi peti nor
+letores presentar al Institute Occidental in Chapelle lor idés,
+experimentes, suggestiones, planes, studies. Por esser prendet in
+consideration, li projectetes deve esser realisabil e ne solmen teoric.
+Anc li láter financial deve star profundmen examinat e basat sur secur
+statisticas in li dominia concernet. Li Institute Occidental reserva se
+plen jure utilisar o ne li suggestiones o planes recivet.
+
+Do, car coidealistes, al labore!
+
+Prospect por adjunter in lettre, li pezze 2 c.
+
+// Li ortografic question {{{2
+=== Li ortografic question
+
+Noi vive nu in un historic epoca, caracterisat per ruina de mult antiqui
+heredat customes e opiniones. Noi vide un economic, tecnic e politic
+revolution e transformation del munde, specialmen un sempre nascent fort
+ultra-nationalisme mem in mult micri popules, queles nu elimina in lor
+lingues mult international paroles e usa nov propri national formes e
+novicreationes.
+
+To naturalmen diminue li chances del idé de un international lingue in
+un munde in quel omnicos international es proscrit. Ma pro que li
+comunication inter li popules es plu necessi quam unquande antey, pro li
+divers crud materiales e samli fin tecnic industries, it va esser
+necessi studiar plu e plu nov lingues. To es un labor ínproductiv e
+ultra to mem dangerosi just por li national lingue self. Do un die, just
+pro li nationalism, li san rason va ducter li homanité a un lingue
+neutral, ne de ti o altri potent nation. Ma li situation self in mult va
+har changeat se. Mult international paroles de yer, ja hodie e deman ne
+va plu esser international e samli lor ortografie, pro que li popules
+plu e plu adapta li scrition de ti paroles a lor propri ortografie.
+
+Ti diminution posi nos ante li problema qualmen retener li ancor
+existent internationalitá sin augmentar li desfacilitá de su studie. To
+es atingibil solmen per quant possibil clar regularisation del
+derivation e simplification del ortografie. Un del dominias max
+ínregulari e quasi ínpossibil a submisser a clar e strict regules sin
+multissim exceptiones, es ti del prefixes con li caotic manieres de
+assimilation, conservat in li historic ortografie, usat in A. e Fr.
+Havente li exemple del lingues italian e hispan, queles ha in grand
+mesura simplificat li  scrition, noi deve sequer ti exemple simplificar
+anc nor ortografie per clar regules, per un transparent e strett
+etymologic structura e in sam témpor quant possibil simplic fonetism. It
+es clar que un absolut coordination de ti du oposit postulationes ne es
+possibil. E pro to es necessi li max apt compromiss inter ili.
+
+Nor labores de standardisation nu es ocupat just per ti question
+ortografic. Noi espera ducter les a un bon fine, quel va posser egardar
+chascun del du postulationes in suficent gradu e per to ancor
+simplificar li aprension de nor lingue. Si ja plu minu standardisar, on
+deve far quant possibil plen labor. Ma to postula de nos concentrat
+meditation e mult provas e experimentes. Pro to, nor coidealistes mey
+ancor quelc témpor esser patient, specialmen prendente in calcul li tre
+impedit comunication inter nor competent exploratores, quel hodie es 2-5
+vez plu long in témpor, quam ante li guerre.
+
+Un cose es clar, que li future de nor lingue jace ne in li complicat
+historic ortografie e li mult exceptiones heredat, ma in un clar e
+regulari systema de derivation e simplification del ortografie, quel
+deve esser anc quant possibil fonetic. E. de Wahl
+
+Red.: Ti articul es li ultim quel noi recivet de sr. de Wahl por
+Cosmoglotta ja ante plu quam un annu. Til mensu junio, noi restat in
+constant relationes con li autor de Occidental; il vivet sempre in sat
+bon sanitá, ma li preoccupationes omnidial impedit le laborar al
+standardisation de nor lingue. Nu, pro li guerre, noi es plen de
+angustie pri su fate e nequi posse previder ca nor movement va posser
+ancor juir pri su vast competenties e su long experienties. In omni casu
+ti articul da nos un clar vision del direction in quel nor lingue deve
+developar se in li futur.
+
+// Varietás {{{2
+=== Varietás
+
+// XXX NOTE: 2019-06-17: In li original textu «**» esset usat vice
+// «--» por marcar li changes de tema. «**» esset purmen decorativ,
+// durante que «--» es semantic, usat talmen in Interlingue, anc in
+// mult locs del revúe.
+
+-- Un articul pri li question del lingue international recomendante Occidental e
+citante un textu original in ti lingue aparit in li suplement
+«Kaufmännische Praxis un Fachbildung» del «Schweiz. Kaufm.
+Zentralblatt» (Zürich). Su autor es sr. A. Matejka e it atraet al
+Institute Occidental un sat grand númer de petidas de information ex
+pluri landes.
+
+-- Che li gruppe Basel del «Europa-Union» nor coidealist dura far un
+activ e successosi propaganda in favore de Occidental. Pluri articules
+pri li question del lingue international con recomendation de Occidental, Basic English,
+Anglés e altri lingues aparit in li organ central de ti societá «Der
+Europäer». Un mention special merita li humorist ínvoluntari quel pos
+har constatat que li ja existent «provas de lingues artificial posse
+servir solmen quam primitiv instrument de intercomprension in cert
+limitat casus», asserte que sol li lingues etnic posse satisfar li
+postulates de un lingue universal auxiliari. Li ideal secun le es:
+«aprender tant mult lingues natural quam possibil, nam li labor e li
+pena es micri comparat al resultates (sic!)». Li labor es micri!
+Talmen posse scrir solmen un ignorant, quel in su tot vive nequande ha
+provat aprender mem un sol lingue vivent. Li facte que in li sam articul
+il asserte que li hom es íncapabil expresser su pensas convenentmen, si
+il deve usar un lingue extran, ne sembla genar ti champion del logica.
+Beat es li povris in spiritu…
+
+-- In li «British Esperantist» un del propagatores, quel ocupa se
+presc exclusivmen pri li organisation de discurses pri Esperanto in anglés
+scoles, raporta que in un scot collegie, li director introductet li
+discursero a su scoleros per li secuent paroles: «Well boys! Li
+exámines es passat e noi besona un poc de amusament (some light
+amusement). Ci es sr. X por parlar vos pri un lingue universal quel
+nequi parla e quel ne have alcun literatura. Tamen, un poc de rision ne
+va nocer nos!»
+
+On ne posse esser plu amabil.
+
+-- Li sviss fundation «Lucerna» organisat durant li estive 1941 un
+«curs pri psicologie» in quel li conosset sr. A. Debrunner, professor
+in li Universitá de Bern parlat pri li tema: «Li hom e li lingue». Li
+manca de spacie impedi nos dar un resuma de su discurs, ma noi mentiona
+con plesura que li presse considerat «quam li facte max interessant del
+discussion quel secuet li discurs, que prof. Debrunner, presidente de un
+comission de expertes creat de Americanes respondet in maniere
+absolutmen afirmativ al question ca it es possibil crear sur base
+strictmen scientic, un lingue international carient li artificialitá del
+projectes de lingue international propagat til nu».
+
+Ti positiv subtention del idé de un lingue universal auxiliari per un
+scientist del range de prof. Debrunner es un precios auxilie por nor
+movement e it convene mersiar le por ti spontan apoy.
+
+-- Noi have sub li ocules un tre interessant e documentat articul quel
+aparit in li jurnal «De Bron» (Li fonte) sub li titul «International
+taalverkeer» (lingual comunicationes international). It es debet a nor
+activ colaborator A.F. Poggenbeek de Rotterdam e constitue un excellent
+medie de propaganda por Occidental in Nederland e Flandria. It es un ver
+calamitá que li enorm eforties de nor amicos nederlandés ha esset tant
+brusquimen interruptet per li guerre. Noi di intentionalmen
+«interruptet» e ne anihilat, nam noi save que malgré omni present
+obstacules li idé de un lingue international international ne posse morir. Nor
+coidealistes nederlandés va posser reprender lor activitá pos li guerre
+con duplic ardore e ili va posser recoltar li fructes de lor admirabil
+eforties.
+
+// Un modellic letre de propaganda {{{2
+=== Un modellic letre de propaganda
+
+Al Redaction de
+
+Natura e Tecnica:
+
+Tre estimat seniores,
+
+Ci-junt, yo have li honor inviar vos un excisete ex li «General Gazette
+del Comercie» del 16 decembre relatent li international auxiliari
+lingue Occidental. In sam témpor, yo include anc un exemplare del
+brochura e del postcarte queles ocasionat li publication del articulette
+in li jurnal mentionat.
+
+Noi Occidentalistes vell considerar it quam un grand privilegie, si noi
+vell posser juir li sympatie anc de NATURA E TECNICA. Yo do espera, que
+vu mey trovar it suficentmen interessant por far it conosset anc a vor
+letores.
+
+Yo permisse me far remarcar, que it acte se pri un solution del problema
+del international lingue auxiliari quel totalmen difere de omni
+precedent provas in ti direction. Ma vice provar fabricar un tal lingue
+artificialmen e quasi ex necós, li autor de Occidental, prof. Edgar de
+Wahl, ha successat in maniere genial por talmen dir elevar su lingue ex
+li ja existent international vocabularium ques retrova se in un grand
+parte del europan lingues, talmen que Occidental, quo concerne
+naturalitá e eufonie, totmen ne es inferior al etnic lingues.
+
+Si vu desira reciver ulterior informationes pri ti lingue, it sempre va
+esser me un grand plesura furnir tis.
+
+Esperante reciver vor benevolent co-operation, yo saluta vos con max
+grand respect.
+
+[.author]
+Vor servitor, Ld.
+
+// Sviss automobil-servicie alpin {{{2
+=== Sviss automobil-servicie alpin
+
+On di que existe circa tri mill lingues in li munde, forsan plu mult, ma
+to on ne save. Tamen, ja suficent barrieres contra reciproc
+intercomprension. Ples imaginar tri mill manieres por expresser li sam
+cose, simultanmen anc tri mill impedimentes por comprender unaltru.
+
+Ma hay un lingue quel aboli omni impediment, lingue quem comprende e
+concepte li membres de omni nation e lingue. It escarta omni impediment
+e barriere, líber e ínimpedit es li comprension e conception del
+objectes… to es li lingue del natura.
+
+Vidente li imposant mirabilitás del natura, nasce in nos solmen
+admiration e respect, du emotiones expresset in sam maniere in omni
+lingues.
+
+Ma u on vell comprender plu bon ti admirabil lingue del natura quam avan
+li Alpes! Puntas in zigzag, brilliant glacieros, aquas bruient, vast
+herbieras junte se a un harmonic image impressionant. Junt, ili es li
+paroles queles li natura adressa nos, paroles comprensibil al habitantes
+de omni zone, li lingue directmen penetrant in nor cordie e parlant a
+nor sentimentes.
+
+Li arangeament de sviss tures alpin possibilisa nos penetrar sin dangere
+in li admirabil alpage. Viageante tra Svissia do ples ne omisser un tur
+per li post-automobil alpin del administration postal; sin dúbit it va
+lassar vos impressiones ínobliviabil.
+
+(Excerpte de un prospecte del General Post-Direction in Bern)
+
+'''
+
+- Insignie de Occidental: Fr. 1.50
+- Covertes, postcartes con propaganda-textus, 100 ex.: Fr. 1.50
+
+'''
+
+// Cosmoglotta B 27 (1941-09) {{{1
+== Cosmoglotta B 27 (1941-09)
+
+OFICIAL MENSUAL ORGAN DEL OCCIDENTAL-UNION
+
+Redaction e Administration:
+
+INSTITUTE OCCIDENTAL, CHAPELLE (Vaud), Svissia
+
+Serie B, poligrafat. Septembre 1941 -- Nró 27 (2)
+
+// Fortuna subride al audaciosos! {{{2
+=== Fortuna subride al audaciosos!
+
+In fine de august, quande noi preparat li nr. 26 de Cosmoglotta B, noi
+esset tre ínquiet pri li success de nor interprense. Esque nor
+coidealistes vell comprender que li actual situation postula de nor
+movement un special oferta in un témpor u tant mult homes deve laborar
+solmen por obtener li suprematie in li dominia del destruction? Esque
+nor coidealistes esset in mesura trovar li necessi témpor por colaborar
+con nos in li labores lexicografic e esque ili vell trovar anc li
+possibilitá auxiliar nos financiarimen? Esque noi postulat tro mult e
+superestimat lor sacrificiosi spiritu?
+
+// XXX NOTE: Duplic negation :( «Certmen, ne omnes ne ha ancor
+// respondet a nor petition»:
+
+Tot ne! Hodie, noi posse informar nor letores que noi incontrat che nor
+amicos li max grand benevolentie: nor apell dat li max injoyant
+resultates. Certmen, ne omnes ne ha ancor respondet a nor petition:
+Multes atende, nam ili questiona se ca nor iniciative es vivicapabil.
+Quande ili va esser convictet pri nor seriosi efortie, noi ne dubita que
+ili va acter e anc adjunter lor petre al edificie.
+
+Car letores, nor ambition far aparir Cosmoglotta chascun mensu va esser
+possibil si vu continua apoyar nor labores in sam gradu quam durant li
+unesim semanes de septembre. Li union de omnes es necessi por li
+success: li unes posse ofertar lor líber témpor por executer divers
+labores por li Institute Occidental; li altres, si ili manca de témpor,
+posse auxiliar per spontan subventiones, mem micrissim, por recrutar nov
+interessates a nor movement o inviar nos max apt e interessantissim
+materiale por publicar in nor revúe. Li dominias in queles chascun posse
+colaborar es multiplicat. Nor rol es coordinar omni benevolenties.
+
+Mersí al auxilie de plures, nor labores lexicografic recivet un nov
+impulsion e noi espera que tre bentost li liste del max important
+paroles Occidental va esser pret por copiation(?).
+
+In fine, noi mersia max calidmen omnes queles ha respondet a nor apell!
+To es por nos li max preciosi incorageament por continuar realisar nor
+grand e desfacil tarea!
+
+// Cosmoglotta {{{2
+=== Cosmoglotta
+
+P.S. Ci excerptes de lettres:
+
+[quote "Ed. Bieller (Bienne), Director del «Revue International de sténographie»"]
+____
+Yo gratula vos francmen por li coragie quel vu manifesta per
+recomensar vor bell activitá in favor del difusion de Occidental. Yo
+desira vos anc a vor colaborates li complet success quel vu merita.
+____
+
+[quote "H. Björkman (Jänkisjärvi, Svedia)"]
+____
+Vor iniciative yo saluta con grand joya.
+____
+
+// Comunicationes {{{2
+=== Comunicationes
+
+Al membres del Occidental-Union:
+
+- Noi memora vos ne obliviar inviar al Central Oficie li cedul de
+vocation OUV/11 annual circulare nr. 11, por ne riscar perdir it mem si
+vu ne ha ancor payat vor contribution de 1940 e 1941. Ti payament posse
+esser fat til li 31.12.1941.
+
+- Secun li circulare OUC/11, li provisoritá del insignie, quel vell
+esser finit ye li -- 12.1941, es prolongat til ulteriori nova.
+
+// Quo vu save pri vor horloge? {{{2
+=== Quo vu save pri vor horloge?
+
+Presc chascun epoca del historie es caracterisat per un preponderant
+activitá in dominia material e spiritual. Si noi questiona qual es li
+marca distintiv del 20-ésim secul noi va responder sin hesitation que it
+es li gigantesc developation del tecnica. Li tecnica domina li vive de
+omni popules civilisat e quelc de su branches quam li automobilisme,
+aviation, radio, etc. ha tant fortmen influet li spiritual orientation
+de nor contemporanos que infantos in li etá de 10 annus usa expressiones
+quam «dinamo, valve, bielle, scintille, candel, acuplator,
+accelerator» etc., quam si ili vell har nascet in un fabrica de
+automobiles.
+
+Ma si on questiona vos pri li mecanisme de vor horloge, li modest e
+fidel acompaniator de vor vive desde li yunesse til vor morte, tande vu
+es fortiat confesser que vu es ignorant pri it quam li bebé in su
+lulluore. Vu considera quam tot normal e natural que vor horloge indica
+vos li just témpor ye omni moment del die e vu ne save quant scientie
+esset necessi solmen por far mover li indicatores. Un tal ignorantie es
+un poc humiliant precipue por noi Svisses quande on pensa al fama quel
+jui nor horloge-industrie in omni landes del terra.
+
+Yo va provar reparar ti ínjusticie per un curt -- benque tre íncomplet --
+descrition del horloge e de su metodes de fabrication.
+
+Li mecanisme consiste ex tri partes cardinal:
+
+1. li ressor (motor),
+2. li rotes dentat (organes de transmission),
+3. li escapament (regulation).
+
+It es li escapament quel conditiona li precision del movement e it es do
+li organ max important, ma anc li max delicat del mecanisme.
+
+On distinte in general tri systemas de escapament:
+
+1. Li escapament «Roskopf»,
+2. Li escapament per «cylindre»,
+3. Li escapament per «ancre».
+
+Li unesim du es trovabil solmen in horloges de qualitá inferior. Li
+maximal precision es obtenet per li escapament con ancre. Su organes es:
+li rote de escapament con su dentes de contact, li ancre, e li
+balansuore con su spiral. Li fortie motori transmisset del ressor al
+balansuore med li systema de rotes dentat provoca li oscillationes del
+balansuore, li amplitá de queles es determinat per li action del spiral.
+Per li medie del ancre, quel acte sur li rote de escapament quam un
+levuore, halxante e laxante it in regulari intervalles, li oscillationes
+del balansuore ne solmen controla li rapiditá de rotation del rote de
+escapament, ma anc de omni altri rotes transmissori. Li centre de un de
+tis actiona li indicatores e talmen «traducte in clar» li mesura de
+témpor efectuat per li balansuore.
+
+Por obtener ti resultate, un cert relation es naturalmen necessi inter
+li númer de oscillationes del balansuore e li númer de rotationes del
+rotes queles comanda li indicatores. Ti relation es determinat per un
+calcul elementari e consequentmen ne necessita special explication. In
+revancha, quelc indicationes pri li labor del balansuore, «li cordie»
+del horloge va possibilmen interessar li letores.
+
+In general li balansuore efectua 5 oscillationes in un secunde, to es 18
+000 oscillationes chascun hor. Durant un die li dentes del rote de
+escapament contacte 432{nbsp}000 vezes con li extremitás del ancre, e li
+«viage» total quel fa li bord del balansuore durant ti sam témpor es
+circa 25 km.
+
+It es do, quam on vide, li amplitá de oscillation del balansuore quel
+forma li base por li mesura del témpor. On va comprender quo to
+significa quande on reflecte que un diferentie de 1/10{nbsp}000-ésim de
+secunde por un oscillation provoca un variation de 1 minute (o presc) in
+24 hores. Por evitar tal diferenties un precision quel ea til li
+400-ésim de millimetre es necessi in li fabrication. Por ti scope it
+existe machines queles es capabil mesurar millesimes de millimetres. Ma
+ancor altri cuidas deve esser prendet por assecurar ne solmen un maximal
+precision in li indication del témpor, ma anc por garantir li bon
+functionament del mecanisme sub li max divers conditiones.
+
+Ma pri to, yo va parlar un altri vez, si li tema interessa nor letores.
+
+[.author]
+A{dot} Matejka
+
+// Anecdote -- Por far cantar Caruso {{{2
+=== Anecdote -- Por far cantar Caruso
+
+In die, in New York Caruso volet prender in li posta un important lettre
+contenent un chec. Il monstrat su passport. «Ne suficent» declarat li
+oficiario. Esque vu ne have altri pezze de identitá? Caruso monstrat
+lettres, billetes, ma, ínperturbabil, li American repeti: «Ne
+suficent».
+
+Caruso es desesperat, nam il besona moné. Quo far? «Nu, dit li
+oficiario, si vu es Caruso, pruva it, canta!». Pos hesitation, Caruso
+resigna se, infla su péctore e canta per su max bell voce li Tosca.
+
+Li posteros, in turb, hat acurret e quande li cantator hat finit, ili
+aplaudet con entusiasme. «E nu, dit li oficiario, yo da vor lettre. Yo
+hat tre bon reconosset vos, ma proque vu fa payar al povri public
+exorbitant precie por audir vos, yo captet li ocasion audir vos
+gratuitmen. Con mi sincer mersís!»
+
+Prospect 8 pag. por includer in lettres: 2 c.
+
+// Varietás {{{2
+=== Varietás
+
+// XXX NOTE: 2019-06-17: In li original textu «**» esset usat vice
+// «--» por marcar li changes de tema. «**» esset purmen decorativ,
+// durante que «--» es semantic, usat talmen in Interlingue, anc in
+// mult locs del revúe.
+
+-- Un de nor adherentes, sr. Kurt Hamburger de St. Gallen ha fat un
+discurs pri li «Question del lingue international» che li section del
+Svissia oriental del Europa Union. Noi espera posser dar un curt resuma
+de ti discurs in li proxim numeró, ma noi ja nu gratula sr. Hamburger
+pro li success obtenet e mersia le pro su precios auxilie quam
+concombattent occidentalistic.
+
+-- Ex li corespondentie de un de nor amicos concernent li desirabilitá
+del introduction de un lingue neutral auxiliari, noi cita li secuent
+opinion de un adversario german sviss de lingues artificial:
+
+____
+Pourquoi créer une nouvelle langue international? Il y en a-t-il pas
+déjà trop des langues? Pourquoi ne pas en choisier une déjà existante?
+Par exemple le français? puisque celle-ci est la plus facile à parler.
+Pour ma part je laisse ce casse-tête à d'autre.
+____
+
+Si li usa del lingue «max facil» da ja tam remarcabil resultates
+concernent ortografie, grammatica e syntaxe (solmen 10 erras in 4
+lineas) tande on va questionar se con angustie qual vell esser li
+resultate si per hasard on vell selecter un lingue vivent «minu facil»
+quam li francés.
+
+It ne es astonant que li practic propagation de un lingue international
+incontra tant mult resistentie. Noi ne have solmen contra noi tis
+queles, ne savente alcun lingue vivent e consequentmen ignorante li
+desfacilitás del studia de un tal, imagina se voluntarimen que li
+aprension de un lingue natural promoet al ra(??) de un lingue universal
+vell dar les plu mult ínmediat profites, ma noi deve adplu ancor
+combatter contra omni tis queles ja conosset un lingue extran e
+considera it quam facil pro que nequi monstra les li multissim gross
+errores queles ili fa in parla e scrition. E ti categorie es, pro lor
+innascet superbie, mult plu dangerosi quam li unesim.
+
+It es do anc ne astonant que noi have in nor ranges tant mult
+poliglottes, nam solmen tis queles ha seriosimen studiat un lingue foren
+e queles parla it correctmen comprende li necessitá de un lingue international facil a
+aprender. Li principie de sr. E. de Wahl secun quel un lingue auxiliari
+es in unesim loc destinat a tis queles sta in relationes international e
+deve do satisfar ante omnicos li besonas special de ti categorie de
+homes es pro to tre justificat e anc avantageosi. Talmen noi ne besona
+dissipar nor forties in un van lucta contra li indiferentes e li
+obstinat idiotes, ma mersí al intrinsic qualitás de nor lingue noi
+facilmen convicte li instructet strates del popules e che li altris noi
+tucha solmen li elite. Or 10 convictet adherentes queles have li
+material possibilitá usar li lingue in lor relationes international fa
+plu mult por li avansament del idé de un lingue international quam 100 beat e passiv
+admiratores.
+
+LASSA NOS MEMORAR TO SEMPRE IN NOR LABOR DE PROPAGANDA.
+
+// Fabul chines {{{2
+=== Fabul chines
+
+Un chinese traet aqua ex un bronn. In li fund del bronn, il percepte li
+image del lune.
+
+-- Vi, il dit, to es alquicos seriosi. Li lune ha cadet in li bronn. Mi
+deventie es repiscar it.
+
+Il fat redescender su sitel e traet tam fort que li cord ruptet e que il
+cadet retro sur li dors. Tande, il videt li luna in li ciel.
+
+-- Yo fat vermen bon labor, il sospirat.
+
+E il departet felici, malgré li perde de su sitelle.
+
+// Subventiones e payamentes recivet (1-26.9.41) {{{2
+=== Subventiones e payamentes recivet (1-26.9.41)
+
+M{dot} Huguenin, Fr. 4.10; A. Matejka, Fr. 5.—; J. Ritter, Fr. 10.—; J.
+Denzler, Fr.3.—; Dr. Haas, Fr. 23.—; Anonym, Fr. 3.—; J.J. Joho,
+Fr. 5.—; A. Hagmann, Fr. 1.—; Prof. Debrunner, Fr. 2.—; Ed.
+Bieller, Fr. 10.—; K. Hamburger, Fr. 5.50; E. Gämperle, Fr. —.50; F.
+Lagnel, Fr. 5.—; H. Björkman, Fr. 3.—.
+
+Cordialissim mersí ad omnes!
+
+'''
+
+Quam anunciat in Cosmoglotta B/26, noi adjunte in chascun numeró un
+bulletin de payament a nor postchec-conto, pri quel noi peti vos cuidar
+con benevolentie!
+
+// Comunicationes (vide págine 10) {{{2
+=== Comunicationes (vide págine 10)
+
+Ad omnes:
+
+Li excellent libre in german lingue «Occidental, die Weltsprache»
+(anc li edition in 3 cadernes) es exhaustet che li Institute Occidental.
+Pro li guerre it es ínpossibil renovar nor stock. Noi va studiar li
+possibilitá far un sviss edition fortmen condensat o eventualmen
+preparar un altri brochura por plenar ti manca. Noi vell esser grat a
+nor coidealistes presentar nos concret propositiones concernent sive li
+condensation de «Occidental, die Weltsprache», sive li preparation del supra mentionat brochura.
+
+// Por amusar vos! {{{2
+=== Por amusar vos!
+
+Un comerciant de cavalles, quel desira expedir per tren
+28 cavalles questiona li chef de station quant il besona wagones. Li
+chef responde que un wagon es necessi por 7 cavalles e que in
+consequentie li comerciant deve comendar 13 wagones. Qualmen ha calculat
+li chef? Vi li operation!
+
+// XXX TODO: Demandar pri li interpretation del prim operation.
+
+// XXX TODO: Confirmar li efecte de `---`, ca it es interpretat quam
+// un marcation de bloc:
+
+....
+ 28: 7 = 13
+  7
+---
+ 21
+....
+
+(Il comensat li division a dextri)
+
+E li pruva!
+
+....
+ 13
+x 7
+---
+ 21
+  7
+---
+ 28
+....
+
+// Cosmoglotta B 28 (1941-11) {{{1
+== Cosmoglotta B 28 (1941-11)
+
+OFICIAL MENSUAL ORGAN DEL OCCIDENTAL-UNION
+
+Redaction e Administration:
+
+INSTITUTE OCCIDENTAL, CHAPELLE (Vaud), Svissia
+
+Serie B, poligrafat. Novembre 1941 -- Nró 28 (2)
+
+// Nor inqueste {{{2
+=== Nor inqueste
+
+Qualmen vu ha aprendet Occidental?
+
+On ha ja mult discusset pri li divers metodes de aprension del lingues
+vivent. Li facte que ti discussiones ancor dura, pruva que on ancor ne
+ha trovat un solution ideal. Li cardinal obstacul a un unification es
+probabilmen li individualistic tendenties del aprensor self, nam un
+metode quel revela se quam excellent por li studiant A posse facilmen
+dar resultates tre mediocri si it es aplicat a studiant B.
+
+It es ver que un cose adminim sembla esser pruvat: it es li
+íncontestabil avantages del modern metodes direct sur li old metode
+grammatical. Ma mem in li cadre del metode direct it existe ancor sat
+mult libertá por li tractation del divers problemas linguistic e
+specificmen grammatical.
+
+Quam li letor save, noi es presentmen fortiat reediter presc completmen
+nor tot literatura in manuales de aprension e vocabulariums. Ti labores
+ja es comensat e noi espera posser terminar li manuscrites in li curs
+del proxim annu. Tamen it vell esser interessant saver qualmen nor
+amicos ha aprendet Occidental e quel es li experienties queles ili ha
+fat con li ja existent manuales. To vell dar nos tre precios
+indicationes concernent li preparation del nov materiale aprensori.
+
+Ti question es minu acut quande it acte se pri li studie de Esperanto o
+Volapük. In ti lingues li desfacilitás a victer es presc li sam por omni
+popules e on posse do sin alcun íncomoditá aplicar anc li sam metodes de
+aprension in li divers manuales. Ma in Occidental to es diferent. Ti
+lingue es comprensibil a prim visu por milliones de homes instructet e
+ti facte naturalmen mult influe li conditiones queles un bon manuale
+deve satisfar.
+
+Yo, personalmen, nequande ha studiat systematicmen ni Ido ni Occidental.
+Yo ha aquisitet presc omni conossenties unicmen per letura. Solmen mult
+plu tard yo ha ocupat me plu atentivmen anc pri grammatica. Ma li gustes
+e inclinationes es índiferent e to quo tre bon convenet a me, posse in
+revancha ne convener al altres. Pro to noi invita nor letores auxiliar
+nos in nor labor, respondente max precismen possibil al secuent
+questiones:
+
+1. Queles es li medies de aprension (manuales, lexicos, curses oral,
+   etc.) queles format li base de vor studie de Occidental?
+
+2. Esque li manuale usat de von ha dat bon resultates? Quel es ti
+   manuale? Quo vu have a objecter contra it? Esque vu conosse per
+   hasard un altri libre de aprension quel secun vu responde plu bon a
+   vor dispositiones lingual?
+
+3. Quant témpor vu besonat por li studie de Occidental, suposiente que
+   vu ha ductet ti studie systematicmen secun un del existent
+   manuales?
+
+4. Queles es li problemas grammatical quel semblat vos li max desfacil
+   a aprender?
+
+5. Quo vu postula de un bon manuale? Qualmen it vell dever presentar
+   se, por garantir li max bon resultates?
+
+6. Altri personal remarcas suplementari.
+
+Noi mersia cordialmen li letores queles va benevoler partiprender a nor
+inqueste.
+
+// Quo vu save pri vor horloge? {{{2
+=== Quo vu save pri vor horloge?
+
+In mi precedent articul yo indicat quam principal organes del mecanisme:
+1) li ressore (motor), li rotes dentat (organes transmissori) e li
+escapament (organ regulatori). Ti classification, intentionalmen
+simplificat, advere ne posse esser considerat quam tre ortodox de tecnic
+vispunctu. It convene sin dubitá esser un poc plu precis e far li clar
+distintion inter escapament e li organ regulatori quel es constituet per
+li balansuore con su spirale. Noi posse mentionar ci, por completar li
+classification, li mecanisme de retention e adjustation del indicatores,
+e li «cage» o «ébauche». Ma yo vole restricter me ci a quelc
+remarcas pri li regulator (balansuore con spirale).
+
+Si, in un horloge ne tendet, on da un litt impulsion al balansuore, it
+va far un curt serie de oscillationes de amplitá decrescent e poy
+stoppar. To es li sam lege fysical quel determina li movement del
+pendul. It es li rol del ressore, restituer al balansuore per medie del
+rotes e del escapament li energie perdit per li efect del frictiones e
+del resistenties exterior. Li factores determinant por li regulation e
+li dura del oscillationes es: 1) li grandore (particularimen li
+diametre) e li pesa del balansuore e 2) li elasticitá, longore, spessore
+e largore del spirale. Ma li functionament del organ regulatori es
+fortmen influentiat per li variation del temperatura. On constata un
+retard de 10-11 secundes in 24 hores por chascun elevation del
+temperatura per 1° centigrad. Li horloge deve do esser providet de un
+dispositive de compensation. Li max conosset metode es li usation de un
+balansuore bi-metallic ciset. Li leges del dilatation e contraction de
+metalles causa un augmentation o diminution del diametre del balansuore
+e talmen compensa li retard o avans provocat per li variationes de
+elasticitá del spirale. Ma un mult plu bon resultate ha posset esser
+obtenet mersí al descovrition de un metall con elasticitá ínvariabil;
+pro to li spirale fat ex ti metall es nominat spirale elinvar. It
+permisse usar un balansuore monometallic ne ciset (do minu custosi) e it
+have li avantage suplementari far li mecanisme practicmen ínsensibil al
+influenties magnetic. Un altri specie de spirale fat ex berillium es
+nominat «nivarox»; it presenta li sam avantages quam li spirale
+«elinvar» e adplu ancor un plu grand insensibilitá al influenties
+magnetic. Li usation de balansuores monometallic in combination con
+spirales elinvar o nivarox furni do li maximum de precision.
+
+Li resultates de regulation de un horloge varia secun li position del
+mecanisme. Pro to li horloges de bon qualitá es sempre regulat in divers
+positiones e sub divers temperaturas (horizontal con cadran adsupra e
+adinfra, vertical con li «corona» de remontuore adsupra, a levul e a
+dextri, temperatura normal, alt e bass. Avertiment a amatores de
+precision: un tasca-horloge va sempre esser plu precis quam un
+brasselett-horloge de sam qualitá, ne solmen pro que li mecanisme es plu
+grand, ma anc proque on porta it sempre in li sam position (vertical)
+durant que un brasselett-horloge changea constantmen su position durant
+un die. Pro to li toleranties es anc plu grand por un
+brasselett-horloge. In general on posse dir que un brasselett-horloge es
+tre bon si li variation dial ne superpassa 20-30 secundes. Si li
+diferentie es minu quam 15 secundes, tande it es excellent e posse
+obtener un certificate de «bon marcha» del oficial institutes de
+controle horometrical specialmen creat por ti scope.
+
+Ínutil dir que che cronometres e precipue cronometres de marine, li
+variationes mesura se mem per fractiones de secundes.
+
+// XXX TODO: Ligament:
+(A sequer in li proxim numeró.)
+
+// NOTE: ci esset li marca original de págine -20-
+
+// Quo es li «SCOED»? {{{2
+=== Quo es li «SCOED»?
+
+In august 1939 esset constituet li «Societé cooperativ del
+Occidental-Editiones», abreviat in SCOED (anteriorimen SOCOCED). Li
+statutes esset adoptet li 6 august 1939 in Zürich e li comité e li
+director esset electet per li membres queles adheret al societé (vide
+Cosmoglotta A, Nr. 128, p. 75).
+
+Quel es li scope del SCOED? Noi crede util reproducter ci un parte del
+circulare quel noi inviat a nor coidealistes e de quel li contene va
+ancor interessar les:
+
+____
+Li sol existentie de un invention ancor ne fa su success. Mult
+importantissim inventiones restat ínconosset durant decenes de annus til
+quande mannes activ demonstrat lor importantie al publica. Difuser
+conossentie pri alquicos, demonstrar su importantie, to significa:
+propagar it. E por propaganda it es necessi publicar informationes pri
+li invention, descritiones pri it, monstrar quo it va aportar al munde
+quande it va esser generalmen usat. Por to, on besona materiale de
+propaganda, prospectes, reclames, manuales, literatura, etc., etc. Ti
+coses ne crea se self: ili postula labor e moné.
+
+Creder que OCCIDENTAL, per hasard, es un exception e vell escapar al
+necessitás general, vell esser un ínjustificabil ilusion. Li simplic
+facte que it existe, e que li competent persones considera it quam li
+lingue max perfect sur li interlinguistic mercate, ne sufice por su
+success. Occidental es nor merce, ma it besona esser conosset tra li tot
+munde.
+
+// XXX NOTE: li marca original de págine -21- esset in li sequent
+// paragraf:
+
+Por trovar capitales necessi a to, pluri possibilitás ofertat se. Noi
+decidet por li max modern e max sympatic form de organisation: li
+societé cooperativ. Quicunc desira, posse partiprender ti cooperative
+secun su possibilitás financiari. Li moné prestat va dar un
+modest intereste e li membres va reciver special rabattes sur li
+editiones del cooperative.
+____
+
+Pro li guesse, li comensat activitá del SCOED devet esser strax stoppat.
+Nu, noi vide que it ne es possibil atender su fine por preparar nor
+movement por li pos-guerre. In contrari, noi deve efortiar nos, tis
+queles have li privilegie posser laborar por li realisation de nor
+ideale, crear un solid organisation capabil startar nor movement strax
+pos li storm.
+
+Per li SCOED, noi da li necessi base al futur developament de
+Occidental: li possibilitá editer li manuales e medies de aprension
+queles es nu presc omnes exhaustet.
+
+Qualmen devenir membre del SCOED? Ti societé emisse partes social de
+Fr. 20.— sviss (= sved Kr. 20.—). Ti partes posse esser payat anc in
+du rates de Fr. 10.— o quar rates de Fr. 5.—. Chascun membre posse
+subscrir tam mult partes quam il desira, ma chascun membre have solmen
+un vote in li deliberationes o votationes. Chascun parte da un intereste
+desde li 1-ésim januar del annu quel seque li annu de subscrition.
+
+Por strax recomensar nor activitá, noi adjunte al present nr. 28 de
+Cosmoglotta B, un cedule de subscrition por coidealistes queles desira
+devenir membre de nor societé cooperativ o quel desira prender nov
+partes.
+
+Interim, noi mersia max calidmen omnes queles subtene o va subtener li
+organisation quel es destinat a devenir li clave del futur successes de
+Occidental. Li Comité
+
+// Pensas {{{2
+=== Pensas
+
+____
+Poc sufice chascun die si chascun die aquisite ti poc.
+____
+
+[quote, Walter Akermann]
+____
+Li negatores have nultémpor aportat un progress.
+____
+
+[quote, Goethe]
+____
+To es in li specialisation que on perveni al perfection.
+____
+
+// XXX NOTE: ci esset li marca original de págine -22-
+
+// On scri nos… {{{2
+=== On scri nos…
+
+[quote, "A{dot} Haldin, Kvicksund, Svedia"]
+____
+Yo gratula li resurrection ex li silentie. Li vive in splendid isolation
+mey do haver un fine e noi mey recomensar li labore.
+____
+
+[quote "Haller, Solothurn"]
+____
+Ad avan malgré li guerre!
+____
+
+[quote, "Kitty Chanaud, Genève"]
+____
+Videt con plesura que Occidental persevera e mi omni desiras p r que it
+mey viver malgré li desfacilitás.
+____
+
+[quote, "Lector B. Blomé, Stockholm"]
+____
+Max calid bondesires por vor nov iniciative.
+____
+
+// Comunicationes {{{2
+=== Comunicationes
+
+// Ad omnes {{{3
+==== Ad omnes
+
+Noi permisse ci mersiar omnes queles subtene nor recomensat activitá por
+Occidental sive per activ colaboration, per subventiones o altri
+incorageamentes. To es por nos un grandissim joya constatar que
+SOLIDARITÁ ne es un van parol: li resultates de nor apell trapassat quo
+max optimisticmen noi vell esperar. Si ti movement de solidaritá
+persiste, noi posse asserter que it va esser possibil far mult plu quam
+noi vell audaciar esperar. Do noi di ad omnes: Ples continuar!
+
+// Al membres del SCOED {{{3
+==== Al membres del SCOED
+
+Li membres del SCOED es informat que li intereste de lor partes,
+subscrit in 1939, por li annu 1940, es contabilisat in lor credite che
+li Institute Occidental ú tá ili posse disponer. Li intereste por
+1940 es fixat ye 3%, do chascun parte de Fr. 20.— da un intereste de
+Fr. 0.60 sviss. Li subscritores de partes va reciver ye li comensa de
+novembre lor parte numerotat con li nota de credite che li Institute
+Occidental concernent lor intereste. In casu u ili ne vell har recivet
+les ye li fine de novembre, ples informar li: SCOED, CHAPELLE (Vaud),
+Svissia.
+
+// Payamentes {{{3
+==== Payamentes
+
+Omni payamentes deve esser fat al postchec-contos del
+Institute Occidental in li landes u li Institute possede tales. Por
+altri landes, li payamentes per mandate international es sol
+recomendabil. Por facilisar nor labores, noi peti omnes benevoler notar
+sur li cupon li destination de lor payament, por ex.: contribution al
+Occidental-Union, por Cosmoglotta, por SCOED, por literatura comendat,
+por credite che Institute Occidental, etc.
+
+// XXX NOTE: ci esset li marca original de págine -23-
+
+// Subventiones e contributiones recivet (24.10.41) {{{2
+=== Subventiones e contributiones recivet (24.10.41)
+
+Recivet in 1940: Y. Sköld, Fr. 10.60; Aug. Brand, Fr. 4.—; E.
+Wettstein, Fr. 5.—; H. Leuthold, Fr. 5.—; J. Denzler, Fr. 4.—;
+Prof. Dr. A. Picchi, Fr. 5.—; G. Bevilacqua, Fr. 4.—; E. Ahlström,
+Fr. 4.—; H. Björkman, Fr. 4.—; E.O. Frias, Fr. 4.—.
+
+Recivet del 27.9.41 til 24.10.41: Major H. Tanner, Fr. 6.—; C.E.
+Sjöstedt Fr. 3.—; A. Nordlund, Fr. 9.—; Ferd. Haller, Fr. 3.—; K.
+Chanaud, Fr. 5.—; A. Matejka, Fr. 5.—; Ch. Piaget, Fr. 5.—; J.
+Denzler, fr. 1.—; Fred. Lagnel, Fr. 5.—; B. Hammar, Fr. 3.—; V.
+Ahlstedt, fr. 5.—; J.J. Joho, Fr. 2.—; R. Ström, fr. 5.—; Major H.
+Tanner, Fr. 5.—; Prof. Dr. A. Picchi, Fr. 3.—; E. Gämperle, Fr.
+-.50; Ferd. Haller, fr. 1.—; E.A. Landén, fr. 10.—; Lector B. Blomé,
+fr. 5.—; Apot. A. Haldin, Fr. 12.—; T.V. Bäckström, fr. 8.—;
+Anonym, fr. 2.—; Dr. Fritz Haas, fr. 5.—; Dr. A. Wormser, Fr.
+10.—.
+
+Cordialissim mersí ad omnes!
+
+// XXX NOTE: ci esset li marca original de págine -24-
+
+// Cosmoglotta B 29 (1941-12) {{{1
+== Cosmoglotta B 29 (1941-12)
+
+OFICIAL MENSUAL ORGAN DEL OCCIDENTAL-UNION
+
+Redaction e Administration:
+
+INSTITUTE OCCIDENTAL, CHAPELLE (Vaud), Svissia
+
+Serie B, poligrafat. Decembre 1941 -- Nró 27 (4)
+
+// Quo es correct occidental? {{{2
+=== Quo es correct occidental?
+
+Ti titul es inspirat de un excellent e interessantissim contribution
+quel nor devoet coidealist William Gilbert misset al redaction de
+Cosmoglotta pri li question del «problemas a soluer». Ti contribution
+quel noi pro su amplore regretabilmen ne posse inserter integralmen in
+Cosmoglotta monstra un tal gradu de observation a de san rason que yo ne
+vole comensar li discussion ante expresser a su autor mi max calid mersí
+pro li plesur quel dat me li letura de su lettre.
+
+In curt, li tese de sr. Gilbert consiste in li constatation que in mani
+punctus it existe ancor cert libertás de expression queles embarassa li
+novicio e que it es do li tache del colaboratores de Cosmoglotta,
+«presentar al letores li max modellic lingue, evitante precipue usar
+diferent formes (in stil e ortografie)».
+
+// XXX NOTE: li marca original de págine -25- esset in li sequent
+// paragraf:
+
+Li constatation es tre just, ma li factes criticat have un causa real e
+facilmen explicabil. Occidental ne es, quam Esperanto e Ido, un ludette quel
+di automaticmen «papa» e «mamá» secun li mecanic leges de su
+construction: in li structura morfologic interveni anc factores
+lingue-psicologic queles ne es codificabil per autoritativ ukas. It es
+li grandissim merite de nor maestre que il ne ha ferocimen imposit su
+volentie in li max micri detalies quam to es li casu in Esperanto: il ha mem
+dat plu mult libertá in li usation de su lingue quam to esset agreabil a
+mani de su adeptes. Ma per ti
+liberalitá il ha servit nor movement, creante li possibilitá de un
+constant amelioration del lingue sur li base de practic experienties. In
+se self, li libertá ya ne es un calamitá; in contrari it es un factor de
+facilitá in li aprension. To quo embarassa cert novicios anc ne es ti
+libertá self, ma unicmen li facte que que quelcvez ili ne save in quel
+precis punctus it existe realmen libertá e ú ne. Ma anc ci li solution
+es proxim. Li observationes presentat de sr. Gilbert ha esset fat ja
+desde quelc témpor de altri láter e ili ha ductet li Academie de
+Occidental a far un labor de standardisation de quel li scope esset
+precismen diminuer li casus de possibil hesitation in li practic usation
+del lingue. Regretabilmen ti labor esset interruptet per li guerre, ma
+un cert númer de punctus ha posset esser clarificat, quam céterimen un
+grand passu vers unification ja ha esset fat per li quasi oficialisation
+del scrition fonetic. Adplu on ha fat un selection definitiv inter cert
+paralel-formes indicat quam egalmen admissibil in nor vocabulariums. Noi
+va dar un liste de ti formes novmen selectet in nor proxim numeró.
+
+Yo va nu passar al practic láter del question, respondente a quelc del
+questiones linguistic contenet in li lettre de nor simpatic coidealist:
+
+// XXX NOTE: li marca original de págine -26- esset in li listun 1:
+
+// XXX NOTE: li marca original de págine -27- esset in li listun 3:
+
+1. Pro quo li duplic negation? It es recomendat in «Spiritu de
+   Occidental», ma quasi nequande usat, ni in Cosmoglotta, ni mem in
+   «Spiritu de Occidental» (quo pruva su ínpopularitá). Noi usa li
+   duplic negation in mi matrin lingue, tamen yo prefere li simplicitá
+   de anglés: «I never saw him» (yo nequande videt le). Probabilmen it
+   es un afere de gusta, ma in ti casu on deve selecter lu max
+   simplic.
++
+Response: To es exactmen mi opinion. On nequande ha successat
+justificar li duplic negation per argumentes vermen convictibil e
+probabilmen on anc ha pro to solmen permisset, ma ne imposit un
+maniere de expression quel anc yo considera quam ínutil complication.
+On es presc sempre cert ne errar quande on seque li metode plu simplic
+e pro to anc yo sempre usa li simplic negation.
+
+2. Li pronunciation de y vocalic quam u francés ne sembla me
+   acceptabil. Li son u francés ne es util in li lingue international
+   e in omni casu li son i es mult plu international e natural por y
+   vocalic.
++
+Response: Yo ea mem plu lontan quam sr. Gilbert e yo ne solmen
+pronuncia, ma anc scri i in omni casus u li modern ortografie italian
+e hispan da nos li bon exemple. It es a remarcar que on ha de sempre
+permisset li pronunciation de y quam i e si, pro li utilitá de un
+distintion che quelc scientic paroles, on ancor admisse li
+pronunciation de y quam u francés, it tamen existe nu un clar
+tendentie, reverser li regul, i.e. dar li pronunciation de y quam i
+quam standard-regul e admisser, ma ne plu recomendar, li pronunciation
+quam ü german.
+
+3. On vell dever facilisar li pronunciation del consonantic gruppe
+   «sc» e oficialisar li pronunciation «ss» in paroles quam
+   «scientist, evanescer, crescer», et. (pron. sientist, evanesser,
+   cresser).
++
+Response: Li pronunciation de sc quam ss es certmen plu facil por
+franceses, e si ili pronuncia anc talmen in Occidental, to ne va nocer
+li comprensibilitá. Ma yo ne pensa que it vell esser recomendabil
+introducter un special exception in li grammatica pro un fenomen
+fonetic quel e un poc plu desfacil por franceses, ma totmen ne gena li
+altri usatores de Occidental. Noi ne vell in ti casu dever far plu
+mult concessiones ancor al angleses queles have un maniere de
+pronunciation tot particulari e creant plu mult desfacilitás in li
+aprension de romanic lingues, quam li criticat sc por francéses. To
+vale -- mutatis mutandis -- anc por altri lingues.
+
+[.author]
+A{dot} Matejka
+
+// XXX TODO: Ligament.
+(A sequer in li proxim numeró)
+
+// Curiositás matematical {{{2
+=== Curiositás matematical
+
+Du amicos promena in un public jardin de Vevey. Li uno paria contra li
+altro que il vell pedear al castell de Chillon e retrovenir ante que
+ti-ci vell har recoliet e retroaportat li un pos li altri, in un corb
+plazzat al loc de depart, 100 lápides plazzat in rect linea ye 2 metres
+de distantie li unes del altres.
+
+Esque il va ganiar li pari? Yes, nam:
+
+Por recolier li lápides, li via a percurrer es:
+
+4 + 12 + 12 + … metres.
+
+To es li summa del termines (membres) de un progression aritmetic de
+quel li diferentie es 4 e quel have 99 termines. Li termine extrem es:
+4 + (98 {asterisk} 4) {equals} 396. Li summa del termines es:
+
+(4 + 396) 99 / 2 {equals} 200 x 99 {equals} 19'800 m.
+
+Or, li distantie de Vevey al castell de Chillon es aproximativmen 9
+kilometres quo fa 18 km por li eada e retrovenida.
+
+'''
+
+Un nenufar quel duplica su grandore omni dies posse covrir li superficie
+de un stagne in un mensu. Quant témpor vell besonar du nenufares?
+
+Ye li duesim die, li unesim nenufar ha duplicat su grandore. Desde ti
+moment, li progression es li sam quam si it vell exister du nenufares.
+Du nenufares va do besonar un mensu minus un die por covrir li stagne.
+
+// NOTE: ci esset li marca original de págine -28-
+
+// Quo vu save pri vor horloge? {{{2
+=== Quo vu save pri vor horloge?
+
+Omni horloges de bon qualitá es providet de un cert númer de petres
+queles es usat in omni partes (balansuore, ancre, pivotes del rotes,
+etc.) particularimen exposit a frictiones. On usa por ti scope
+preferibilmen li rubin artificial o sintetic, anc nominat «scientic»,
+pro su qualitás de duritá e laborabilitá. It es li position del petres
+quel fixa li position del mobiles; li precision del infixation (quel ea
+quam ja dit til li 4/100-ésim de mm.) es pro to de maximal importantie.
+Li petres contene un litt reservuore de oleo, nam quam on save -- o
+forsan anc ne save -- li mobiles deve esser oleat por garantir un bon
+functionament. It existe oleos special por li mecanismes de horloges;
+ili deve satisfar a divers conditiones particulari e ili es li resultate
+de long e laborosi explorationes in li laboratorias. It es un
+supersticie evaluar li qualitá de un horloge solmen secun li númer del
+petres; in facte un precis interfunctionament del partes cuidosimen
+fabricat es adminim tam important. Naturalmen un cert númer de petres es
+necessi por un horloge seriosi. In li bon qualitás current ti númer es
+15, durant que li minimum necessi posse esser fixat a 7. Naturalmen it
+existe anc mecanismes con plu mult (til 23) petres; ma on posse dir que
+por li bon horloge de omnidial usa to quo superpassa 15 have sovente un
+valore plu decorativ quam real.
+
+// XXX NOTE: li marca original de págine -29- esset in li sequent
+// paragraf:
+
+Li fabrication del modern horloge es caracterisat per un extrem
+divisibilitá del labor. Durant que in li comensa, li horlogero fabricat
+self omni partes del horloge, it ne existe hodie un sol fabrica quel
+producte omni partes in su propri atelieres. Mem tis queles fabrica lor
+propri «carpentes» (F ébauche, G rohwerk) prefere sovente comprar cert
+partes che furnitores specialisat. On posse do distinter ho-die
+du gruppes de productores: 1) tis queles realmen fabrica self li
+cardinal partes del mecanisme, precipue li «ébauches» e 2) tis queles
+contenta se per comprar li ébauche e omni altri partes del horloge che
+li specialistes e ocupa se solmen pri li montage del mecanisme. Li
+fabrication del «ébauches» exige machines e utensiles extremmen
+custosi. Li creation de un nov «calibre» (grandore) de horloge custa
+circa Fr. 50'000.— sviss o plu mult e un grand production es necessi
+por amortisar un tal capitale investit in studies tecnic e fabrication
+del necessi utensiles. Pro to solmen grand fabricas posse payar se li
+luxu haver su propri «calibres». Li grand specialisation in li
+production del divers horloge-partes ha fortmen contribuet al grand
+progresses fat in li fabrication e de altri láter it ha ductet a ti
+«interchangeabilitá» del horloge-partes quel ne solmen afacila
+grandmen li labor de reparaturas, ma anc ha remarcabilmen abassat li
+precie de custa del product finit. Por ilustrar li importantie de ti
+specialisation it sufice saver que por li fabrication de un horloge es
+necessi circa 1350 labor-processes.
+
+It existe in Svissia ancor 7 scoles special por horlogeros. Por devenir
+tecnico o horlogero «complet», familiarisat anc con li fabrication de
+tal nominat «horloges complicat» (cronografos, horloges de repetition,
+etc.) quin annus de studies es necessi. Li materies a aprender durant ti
+quin annus es: algebra, geometrie, fisica, chemie, trigonometrie,
+geometrie descriptiv, geometrie analitic, mecanica, electricitá,
+contabilitá, mecanica industrial, tecnologie general, tecnologie
+horlogeri, teorie horlogeri, horlogeríe electric, astronomie, dessin
+tecnic e construction horlogeri e mecanic.
+
+// XXX NOTE: ci esset li marca original de págine -30-
+
+On save que li sviss horloge-industrie es concentrat in li regiones del
+Jura. Li centre es li canton Neuchâtel con li metropole La
+Chaux-de-Fonds -- Le Locle e li Jura bernes. Apu ti region noi have ancor
+quam secundari, ma anc tre important centres de production: Baselland,
+Solothurn, Seeland, Vallée de Joux (Vaud) e Genève. On posse mem til un
+cert gradu determinar li qualitá de un horloge secun su loc de
+provenientie: horloges de max bon qualitá veni de Genève e del Vallée de
+Joux, de tre bon e medial qualitá del Jura neuchâteles e bernes e de
+Bienne, durant que li productes a modic precie es fabricat in li
+cantones de Solothurn e Baselland. It existe naturalmen exceptiones in
+li du senses, ma quam indicatione general li classification dat in supra
+es tre convenent.
+
+Yo vell posser dar ancor un grand númer de informationes
+interessantissim pri ti bell industrie quel ha portat li fama de Svissia
+in omni landes del terra, ma yo vole contentar me de ti poc e tre
+íncomplet excerptes, por dar al letores adminim un general idé de ti
+branche de activitá industrial.
+
+[.author]
+A{dot} Matejka
+
+// Comunicationes {{{2
+=== Comunicationes
+
+// Propaganda de Occidental {{{3
+==== Propaganda de Occidental
+
+Noi ha recivet interessant suggestiones de Dr.
+H{dot} Nidecker e de sr. Kurt Hamburger.
+
+// Qualmen studiar Occidental {{{3
+==== Qualmen studiar Occidental
+
+Sres Kurt Hamburger, Major Tanner e W.
+Gilbert hat inviat nos contributiones quam response a nor inqueste. Noi
+mersia les max sincermen pro lor interesse a nor lingue. Noi espera que
+altri coidealistes, queles ha certmen fat experimentes in ti dominia va
+ancor comunicar nos lor remarcas.
+
+// XXX NOTE: li marca original de págine -31- esset in li sequent
+// paragraf:
+
+// Occidental-Union {{{3
+==== Occidental-Union
+
+Noi memora a nor membres que li ultim termine por li
+invia de lor cedules
+de votationes es li 31.12.41, to es lor arriva a Chapelle. Pro que
+multes, pro li trublat circumstanties, have poc li ocasion contacter con
+nos, noi espera adminim recivet de les ti signe de vive.
+
+// Ad omni letores {{{3
+==== Ad omni letores
+
+Mersí a lor generositá e a lor comprension, noi have li
+joya informar letores que li aparition de nor revúe es securat por li
+proxim mensus in li edition B. Noi anc espera augmentar li númer del
+pagines til 12 desde li proxim numeró, januar 1942. Pro li injoyant
+resultate, noi decidet ne fixar li abonnament por 1942. Noi va continuar
+adjunter un buletin de payament a nor postchec-conto in chascun numeró e
+chascun letor va posser inviar liber contributiones quande to convene le
+e secun su possibilitá e generositá. To va permisser nos atinger
+coidealistes queles posse reciver nor revúe, ma ne inviar moné. To es
+ver solidaritá, quel chascun va certmen aprobar.
+
+// Subventiones e contributiones recivet (29.11.41) {{{2
+=== Subventiones e contributiones recivet (29.11.41)
+
+// XXX TODO: Ti section esset movet a infra,
+// nam it dividet un paragraf del section «Communicationes».
+
+H{dot} Björkman, Fr. 2.—; A. Erhard, fr. 3.—; H. Leuthold, Fr. 10.—; M.
+Edwardsson, Fr. 5.—; J. Denzler, fr. 1.—; Ed. Mayor, Fr. 5.—;  E.
+Kündig, fr. 1.—; A. Matejka. fr. 5.—; Kurt Hamburger, Fr. 1.50; G.
+Ahlstrand, fr. 5.—; Anonym, Fr. 2.—; E.A. Landén, fr. 5.—; A.
+Lindström, fr. 10.—; prof. C.W.v. Sydow, fr. 5.—; Apot. A. Haldin,
+fr. 2.—; F. Lagnel, Fr. 5.—; Aug. Dalhem, Fr. 5.—; N. Stålberg,
+fr. 3.—; Dr. F. Haas, Fr. 5.—
+
+SCOED: L. Klaesi, 5 partes; K. Hamburger, 2 partes; F. Lagnel, 2
+partes.
+
+Cordialissim mersí ad omnes!
+
+// XXX NOTE: ci esset li marca original de págine -32-
+
