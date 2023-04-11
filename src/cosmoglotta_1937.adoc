@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified: 20230411T1213+0200.
+// Last modified: 20230411T1614+0200.
 
 include::about_this_book.adoc[]
 
@@ -2231,7 +2231,7 @@ del propri vertús excellent.
 
 Li tribe del nordic forestes,
 it vive in contemplation
-de su valor ínsuperabil --
+de su valor ínsuperabil {en_dash}
 in su propri opinion.
 
 Lor armes es haches e furcas

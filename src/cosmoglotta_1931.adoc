@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified: 20230411T1213+0200.
+// Last modified: 20230411T1550+0200.
 
 include::about_this_book.adoc[]
 
@@ -5391,7 +5391,7 @@ Li crev a retro tira
 E nostri lucio desira
 Se plongear in sui element.
 Qui es culpabil pri li accident?
-Nequem yo ne acusa, ma --
+Nequem yo ne acusa, ma {en_dash}
 Til nu li carre sur li loco sta.
 ____
 

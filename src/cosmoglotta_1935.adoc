@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified: 20230411T1213+0200.
+// Last modified: 20230411T1613+0200.
 
 include::about_this_book.adoc[]
 
@@ -10427,7 +10427,7 @@ J{dot} Peitrequin
 ____
 
 Un yuno, un flicca se ha incontrat,
--- Hat sentit solitá quam enoy e dolore --
+-- Hat sentit solitá quam enoy e dolore {en_dash}
 Ili ha se prendet e se ha inbrassat,
 Ha ludet por un témpor li lude Amore.
 
@@ -10437,7 +10437,7 @@ Ha se alternantmen besat e vexat,
 Nu se plu proxim e nu plu lontan.
 
 Ha tristmen sedent in comun meditat:
--- Ha in funde savet ni necos con se far --
+-- Ha in funde savet ni necos con se far {en_dash}
 Decidet se in fine a reseparar,
 E poy ha unaltru bentost obliviat.
 ____

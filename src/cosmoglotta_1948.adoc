@@ -1,5 +1,5 @@
 = Cosmoglotta 1948
-:revdate: 2023-04-10
+:revdate: 2023-04-11
 :docdescription: Omni numerós publicat in 1948 \
 del oficial organe del lingue international Occidental/Interlingue.
 include::common_attributes.adoc[]
@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified 20230410T2054+0200.
+// Last modified 20230411T1534+0200.
 
 include::about_this_book.adoc[]
 
@@ -3688,22 +3688,23 @@ R.J{dot}
 
 Al c. J. Podobský.
 
-// XXX TODO: Confirmar li punctuation:
-// XXX TODO: Revisar li punctuation:
-// XXX TODO: Corecter li tip-erras:
+// XXX REMARK `--` in li fine del verse fa ti-ci combinarse con li
+// sequent; `{nbsp}` (ne `{blank}`) evita to, ma in HTML evita anc li
+// conversión de `--` to ver strec. Finalmen, li nov creat `{en_dash}`
+// es usat.
 
 [verse]
 ____
 Unquande… nocte proxim… quam infant
 in li hem yo restat sol sin mi mamá.
-Detra l'fenestre vente torrent e siflant-
+Detra l' fenestre vente torrent e siflant {en_dash}
 Tal atmosphere yo ama.
 
 Sur li mur li horloge sona su serenad'
 durantque burasc in folies canta tristi psalm
 per voce pesosi per voce timid per voce de luna calm{blank}footnote:[Li parol
 ne es clar in li original, solmen li du prim lítteres: «ca». Note del editor
-digital.]
+digital.].
 Tal atmosphere yo amat.
 
 Sta! Quo evenit? Alqui frappa l' porta lent'

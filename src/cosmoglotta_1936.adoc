@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified: 20230411T1213+0200.
+// Last modified: 20230411T1614+0200.
 
 include::about_this_book.adoc[]
 
@@ -2396,7 +2396,7 @@ Con se, e parfúm florin.
 
 Ebrimen fe intricar yo
 Li odore exquisit.
-Ma in dom intrar fe ella --
+Ma in dom intrar fe ella {en_dash}
 E hiverne revenit.
 ____
 

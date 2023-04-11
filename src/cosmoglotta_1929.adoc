@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified: 20230411T1213+0200.
+// Last modified: 20230411T1549+0200.
 
 include::about_this_book.adoc[]
 
@@ -6292,7 +6292,8 @@ Traductet de Dr. K. Schüppel.
 // Du epigrammas {{{3
 ==== Du epigrammas
 
-.1
+===== 1
+
 [verse]
 ____
 Ne vade, paisan, sur glacie con un senior,
@@ -6301,7 +6302,8 @@ si glissa li senior -- li paisan
 rupter su gamb facilmen posse.
 ____
 
-.2
+===== 2
+
 [verse]
 ____
 Un amical consilie
@@ -7543,8 +7545,6 @@ Trad. Dr. Ing. A. Wormser
 // Cicade e formíca {{{3
 ==== Cicade e formíca
 
-// XXX TODO: Confirmar li agruppation del verses:
-
 [verse]
 ____
 Durant li seson estival
@@ -7566,7 +7566,7 @@ Su bon amíca.
 Yo sta por morir!
 Oh! presta me per caritá
 Alcuni granes por me nutrir…
-Yo te va payar -- parol cicadal --
+Yo te va payar {en_dash} parol cicadal {en_dash}
 Interesse con capital
 Ante li mensu de li flores.
 Oh! ples esser bon: te prega mi plores…»
