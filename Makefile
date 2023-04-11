@@ -1,7 +1,7 @@
 # This file is part of project Cosmoglotta (http://ne.alinome.net)
 # by Marcos Cruz (programandala.net).
 #
-# Last modified 20230410T1755+0200.
+# Last modified 20230411T0916+0200.
 # See change log at the end of the file.
 
 # ==============================================================
@@ -21,8 +21,8 @@
 
 VPATH=./src:./target
 
-book_basename=cosmoglotta
-
+about=src/about_this_book.adoc
+attrs=src/common_attributes.adoc
 volumes=$(addprefix target/, $(basename $(notdir $(wildcard src/cosmoglotta_*.adoc))))
 
 # ==============================================================
@@ -50,18 +50,14 @@ pdfletter: $(addsuffix _letter-format.pdf, $(volumes))
 clean:
 	rm -f target/* tmp/*
 
-# A temporary rule:
-.PHONY: it
-it: target/$(book_basename).md.epub
-
 # ==============================================================
 # Convert Asciidoctor to PDF {{{1
 
-target/%.pdf: src/%.adoc src/about_this_book.adoc
+target/%.pdf: src/%.adoc $(about) $(attrs)
 	asciidoctor-pdf \
 		--out-file=$@ $<
 
-target/%_letter-format.pdf: src/%.adoc src/about_this_book.adoc
+target/%_letter-format.pdf: src/%.adoc $(about) $(attrs)
 	asciidoctor-pdf \
 		--attribute pdf-page-size=letter \
 		--out-file=$@ $<
@@ -69,14 +65,14 @@ target/%_letter-format.pdf: src/%.adoc src/about_this_book.adoc
 # ==============================================================
 # Convert Asciidoctor to EPUB {{{1
 
-target/%.epub: src/%.adoc src/about_this_book.adoc
+target/%.epub: src/%.adoc $(about) $(attrs)
 	asciidoctor-epub3 \
 		--out-file=$@ $<
 
 # ==============================================================
 # Convert Asciidoctor to HTML {{{1
 
-target/%.html: src/%.adoc src/about_this_book.adoc
+target/%.html: src/%.adoc $(about) $(attrs)
 	asciidoctor --out-file=$@ $<
 
 # ==============================================================
