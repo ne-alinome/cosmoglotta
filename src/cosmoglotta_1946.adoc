@@ -2,7 +2,6 @@
 :revdate: 2023-04-10
 :docdescription: Omni numerós publicat in 1946 \
 del oficial organe del lingue international Occidental/Interlingue.
-
 include::common_attributes.adoc[]
 
 // This file is part of project Cosmoglotta (http://ne.alinome.net)
@@ -10,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified 20230410T1635+0200.
+// Last modified 20230410T2054+0200.
 
 include::about_this_book.adoc[]
 
