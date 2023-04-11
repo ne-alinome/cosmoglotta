@@ -7,7 +7,7 @@
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified 20230411T1156+0200.
+// Last modified 20230411T1602+0200.
 
 // Building {{{1
 == Building
@@ -62,6 +62,9 @@
   heading numbered incorrectly]. In fact the possible workarounds
   don't work with Asccidoctor 2.0.18. 2023-04-08: As a temporary
   workaround, they were replaced by `NOTE:` admonitions.
+- Asciidoctor and Asciidoctor PDF render
+  https://docs.asciidoctor.org/asciidoc/latest/blocks/add-title/#captioned-titles[captioned
+  titles), but Asciidoctor EPUB3 ignores them.
 
 // Contents {{{1
 == Contents
@@ -86,7 +89,6 @@
   and others, without spaces. E.g. compact "P. E. N.".
 - Convert "1. januar" to "1 januar"? The dot is used in other
   languages, e.g. Slovak.
-- Separar "Abonnament a Cosmoglotta".
 - "Lettre à un idist". "à"?
 - Update "illi"?
 - Update "mei" -> mi.
