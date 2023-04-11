@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified 20230411T0842+0200.
+// Last modified 20230411T1040+0200.
 
 include::about_this_book.adoc[]
 
@@ -3532,8 +3532,8 @@ Adjective: Resta sin acordation. Finition ínobligatori «i».
 
 Comparation: «Plu, max; minu, minst{blank}footnote:[Ínter «minim» e «minst»,
 proposit in li unesim libres de Occidental, li practica selectet li
-unesim. Vide <<cgl_b44_standardisation, Standardisation in Cosmoglotta
-B 44>>. Note del editor digital.]»; finition -issim.
+unesim. Vide articul «Standardisation» in Cosmoglotta B 44 (1943-03).
+Note del editor digital.]»; finition -issim.
 
 Pronomines: personal: mi -- me, tu -- te, il -- le, illa -- la, it, noi
 -- nos, vo -- vos, ili -- les; possessiv: mu, tu, su, nor, vor, los.
