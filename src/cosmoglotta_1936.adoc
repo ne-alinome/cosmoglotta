@@ -1,5 +1,5 @@
 = Cosmoglotta 1936
-:revdate: 2023-04-10
+:revdate: 2023-04-11
 :docdescription: Omni numerós publicat in 1936 \
 del oficial organe del lingue international Occidental/Interlingue.
 include::common_attributes.adoc[]
@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified 20230411T0821+0200.
+// Last modified 20230411T1152+0200.
 
 include::about_this_book.adoc[]
 
@@ -1284,8 +1284,8 @@ o periodes de stabilitá, ma pro que it es inradicat in li base del
 lingues vivent e parlat. -- Ido time nos quam max dangerosi concurrente;
 su passiv atitude, malgré pretendet lingual superioritá, es un eloquent
 simptoma. Desde su aparition Occidental ha atraet quam un magnete li elite del
-Idistes; vi quelc nómines ex li long serie: Berger, Casse, Creux+,
-Depin, De Guesnet, Hörbiger, Janotta, Kajš, Lagnel, Lindström, Moore+,
+Idistes; vi quelc nómines ex li long serie: Berger, Casse, Creux{nbsp}†,
+Depin, De Guesnet, Hörbiger, Janotta, Kajš, Lagnel, Lindström, Moore{nbsp}†,
 Niedecker, Peipers, Pigal, Ramstedt, Ritter, Stastny, e in recent
 témpor: Akerman, Dimitriev, Géza Hant, Kofmann, Svec e Matejka, li
 refundator e ex-secretario del ULI, ex-chefredactor de PROGRESO,

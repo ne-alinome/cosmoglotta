@@ -7,7 +7,7 @@
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified 20230411T1153+0200.
+// Last modified 20230411T1156+0200.
 
 // Building {{{1
 == Building
@@ -138,7 +138,6 @@
 - Lowercase "DIE HEUTIGE SITUATION DER WELTSPRACHENFRAGE".
 - Update "commun"?
 - Confirm "collar" <> "collation" -> "colation".
-- Fix "Creux+" and "Moore+".
 - Confirm "Richard Schirrmann".
 - Mark the article «Signification del prepositiones (cardinal
   senses)».
