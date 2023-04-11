@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified 20230411T0821+0200.
+// Last modified 20230411T0842+0200.
 
 include::about_this_book.adoc[]
 
@@ -5596,7 +5596,7 @@ uniar Vos al Astral-Internationale in li lingue Occidental! Li mures ha
 ruit, li portas sta apert e sur ili Vu posse leer: «Ricuperate ogni
 speranza, Voi ch'entrate»footnote:[Sur li porta del inferne de Dante
 es scrit: «Lasciate ogni speranza, Voi ch'entrate» (Ples abandonar
-omni esperantie, Vo qui intra), li correctet citate de Astralist nro 1
+omni esperantie, Vu qui intra), li correctet citate de Astralist nro 1
 vell significar: Ples re-prender omni esperantie… etc. Red.].
 
 [.author]
