@@ -1,5 +1,5 @@
 = Cosmoglotta 1949
-:revdate: 2023-04-10
+:revdate: 2023-04-11
 :docdescription: Omni numerós publicat in 1949 \
 del oficial organe del lingue international Occidental/Interlingue.
 include::common_attributes.adoc[]
@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified 20230410T2054+0200.
+// Last modified 20230411T1203+0200.
 
 include::about_this_book.adoc[]
 
@@ -7038,7 +7038,7 @@ Ric Berger
 
 -- Mi marita es tam sparniaci que ella fa mi cravattes in su old robes.
 
--- To es nequo: li mi fa robes ex me old cravattes!
+-- To es nequo: li mi fa robes ex mi old cravattes!
 
 (Image)
 

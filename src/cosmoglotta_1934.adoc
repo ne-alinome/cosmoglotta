@@ -1,5 +1,5 @@
 = Cosmoglotta 1934
-:revdate: 2023-04-10
+:revdate: 2023-04-11
 :docdescription: Omni numerós publicat in 1934 \
 del oficial organe del lingue international Occidental/Interlingue.
 include::common_attributes.adoc[]
@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified 20230410T2054+0200.
+// Last modified 20230411T1201+0200.
 
 include::about_this_book.adoc[]
 
@@ -395,10 +395,8 @@ desira in plu?
 
 Un perseverantie mal plazzat.
 
-// XXX TODO: Confirmar «propagar su desde» -> «propagar sui desde»:
-
 Con un perseverantie digni de un ovre plu interessant, sr. Foster
-continua propagar sui desde 1906 (27 annus!) publicante claves e mem un
+continua propagar su sistema desde 1906 (27 annus!) publicante claves e mem un
 micri revúe, sin har fat til hodie un sol
 adepte… parlant. Ma nor coidealist ne es descorageat pro tam poc, il
 continua ofertar al munde un anacronic singularitá, credente servir un
@@ -5624,8 +5622,6 @@ annus.)
 
 // Li svin sub li querc {{{3
 ==== Li svin sub li querc
-
-// XXX TODO: Actualisar paroles, p.ex. sui, mei…
 
 Fabul de Krylow
 
