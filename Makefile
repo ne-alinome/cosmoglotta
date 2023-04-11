@@ -1,7 +1,7 @@
 # This file is part of project Cosmoglotta (http://ne.alinome.net)
 # by Marcos Cruz (programandala.net).
 #
-# Last modified 20230411T0916+0200.
+# Last modified 20230411T0933+0200.
 # See change log at the end of the file.
 
 # ==============================================================
@@ -16,6 +16,9 @@
 # Asciidoctor PDF (by Dan Allen and Sarah White)
 #   http://github.com/asciidoctor/asciidoctor-pdf
 
+# img2pdf (by Johannes 'josch' Schauer)
+#   https://gitlab.mister-muffin.de/josch/img2pdf
+
 # ==============================================================
 # Config {{{1
 
@@ -29,7 +32,7 @@ volumes=$(addprefix target/, $(basename $(notdir $(wildcard src/cosmoglotta_*.ad
 # Interface {{{1
 
 .PHONY: all
-all: epuba pdf
+all: epub pdf
 
 .PHONY: epub
 epub: $(addsuffix .epub, $(volumes))
@@ -53,19 +56,24 @@ clean:
 # ==============================================================
 # Convert Asciidoctor to PDF {{{1
 
-target/%.pdf: src/%.adoc $(about) $(attrs)
+.SECONDARY: $(wildcard tmp/*.jpg.pdf)
+
+target/%.pdf: src/%.adoc $(about) $(attrs) tmp/%.jpg.pdf
 	asciidoctor-pdf \
 		--out-file=$@ $<
 
-target/%_letter-format.pdf: src/%.adoc $(about) $(attrs)
+target/%_letter-format.pdf: src/%.adoc $(about) $(attrs) tmp/%.jpg.pdf
 	asciidoctor-pdf \
 		--attribute pdf-page-size=letter \
 		--out-file=$@ $<
 
+tmp/%.jpg.pdf: img/%.jpg
+	img2pdf --output $@ --border 0 $<
+
 # ==============================================================
 # Convert Asciidoctor to EPUB {{{1
 
-target/%.epub: src/%.adoc $(about) $(attrs)
+target/%.epub: src/%.adoc $(about) $(attrs) img/%.jpg
 	asciidoctor-epub3 \
 		--out-file=$@ $<
 
@@ -104,3 +112,5 @@ target/%.html: src/%.adoc $(about) $(attrs)
 #
 # 2023-04-10: Add prerequisite <about_this_book.adoc>. Remove building with
 # Pandoc, dbtoepub and xsltproc. Remove .adoc suffix from target files.
+#
+# 2023-04-11: Add cover images.
