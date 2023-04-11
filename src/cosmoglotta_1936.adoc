@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified 20230411T1152+0200.
+// Last modified 20230411T1202+0200.
 
 include::about_this_book.adoc[]
 
@@ -1161,7 +1161,8 @@ Occidental. Ido semblat esser li precombattente del idé. -- Recentmen on
 ha fat propositiones por organisatori aproximation de Idistes a Esperanto. Ti
 propositiones es li tema del sequent corespondentie:)
 
-Al secretario del ULI, Sr. Heinz Jacob, Woodford Green, Anglia
+// Al secretario del ULI, Sr. Heinz Jacob, Woodford Green, Anglia {{{3
+==== Al secretario del ULI, Sr. Heinz Jacob, Woodford Green, Anglia
 
 1.1.1936
 
@@ -1187,6 +1188,7 @@ Occidental inbrassar plu larg circules. In li servicie de ti idé yo
 considera ti lettre quam public e peti te consentir a publication de tu
 response. Prosperitá e successe al mundlinguistic idé in 1936!
 
+[.author]
 Ilmari Federn, membre del Occidental-Academie
 
 PS. Simultan membritá che ULI e organisationes de altri lingual sistemas
@@ -1195,7 +1197,8 @@ secretariatu de ULI. Un change de ti conception vell permisser me -- sub
 reservation de mi present linguistic convictiones -- readherer a ULI, a
 quel yo apartenet desde su refundation.    I.F.
 
-Sioro Ilmari Federn, Köbenhavn, Dania
+// Sioro Ilmari Federn, Köbenhavn, Dania {{{3
+==== Sioro Ilmari Federn, Köbenhavn, Dania
 
 6.1.1936
 
@@ -1216,9 +1219,11 @@ diskuto pri ol es expektenda.
 Me dankas tu sincere pri la expreso di bonvolo, quan me volunte
 reciprokas! -- Kun bondeziri por 1936, sincere
 
+[.author]
 Heinz Jacob, hon. sekretario dil Uniono
 
-Sr. Heinz Jacob, Secretario dil ULI, Woodford Green, Anglia
+// Sr. Heinz Jacob, Secretario dil ULI, Woodford Green, Anglia {{{3
+==== Sr. Heinz Jacob, Secretario dil ULI, Woodford Green, Anglia
 
 29.1.1936
 
@@ -1234,13 +1239,15 @@ Li expression «esas … aceptata» in li unesim paragraf de tu lettre
 significa logicmen, que li propositiones trova se just nu (in epoca de
 scrition de tu lettre) in stadie de esser acceptet del comité directiv,
 do ne ancor es acceptet definitivmen. Es to corect? O devet it ne esser
-«esas … aceptita»?
+«esas … acept**i**ta»?
 
-Sincer salutationes
-
+[.author]
+Sincer salutationes +
++
 Ilmari Federn
 
-Sioro Ilmari Federn, Koebenhavn, Dania
+// Sioro Ilmari Federn, Koebenhavn, Dania {{{3
+==== Sioro Ilmari Federn, Koebenhavn, Dania
 
 5.2.1936
 
@@ -1250,9 +1257,15 @@ kunveno dil Sueda Idofederuro. Erste pose me editos la nova circk. dil
 komitato en qua la afero traktesos kun omna questioni relatanta ol. Mea
 propozi koncerne Esperanto aceptes**i**s «principe» dal komitato. --
 Regretinde me ne povas donar a tu plusa informa, ma tu audos de me kande
-decidi facesos. Kun sincera saluti     Heinz Jacob
+decidi facesos. Kun sincera saluti
 
-A nor letores: In mi ultim annu che Ido yo ha laborat (benque ne in
+[.author]
+Heinz Jacob
+
+// A nor letores {{{3
+==== A nor letores
+
+In mi ultim annu che Ido yo ha laborat (benque ne in
 public) por colaboration del sistemas, e ti idé (inter altris) ductet me
 a Occidental, u yo ha reprendet it in li corespondentie ci presentat con li
 sequent tre compresset comentario: Li secretario de ULI fa omnicos por
@@ -1307,6 +1320,7 @@ pensar, on deve passar un témpor durant quel on deve changear su
 mentalitá e ne nor lingue. Pos ti periode on va sentir un progresse in
 su mental self-education.
 
+[.author]
 Ilmari Federn
 
 (Extra-printe ex Cosmoglotta-Informationes Jan. 36)

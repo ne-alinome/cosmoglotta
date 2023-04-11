@@ -1,5 +1,5 @@
 = Cosmoglotta 1931
-:revdate: 2023-04-10
+:revdate: 2023-04-11
 :docdescription: Omni numerós publicat in 1931 \
 del oficial organe del lingue international Occidental/Interlingue.
 include::common_attributes.adoc[]
@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified 20230410T2054+0200.
+// Last modified 20230411T1118+0200.
 
 include::about_this_book.adoc[]
 
@@ -1136,10 +1136,10 @@ exister.
 Un ideal international lingua qui vell poter effuger ad ist objectiones
 et ad mult alters deber satisfacer les sequent conditiones:
 
-1 o il deber star legé ab omni les doctes sine preparation aut jam post
+1. il deber star legé ab omni les doctes sine preparation aut jam post
 le lectura de pauc lineas de praeliminari explication.
 
-2 o il deber star stribé sine difficultat post le lectura de pauc
+2. il deber star stribé sine difficultat post le lectura de pauc
 paginas de explication et sine le necessitat de un nov lexic.
 
 // «Mundolingue» de J. Lott 1898 {{{3
