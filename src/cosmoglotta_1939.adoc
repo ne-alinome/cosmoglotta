@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified 20230410T2054+0200.
+// Last modified 20230411T0822+0200.
 
 include::about_this_book.adoc[]
 
@@ -3352,8 +3352,8 @@ comunicationes e marcat in li angul dextri superiori «Yul».
 
 // XXX NOTE: ci esset li marca original de págine -28-
 
-// N{dot} Posthuma: Pri questiones in «Lingue Vivent»: {{{2
-=== N{dot} Posthuma: Pri questiones in «Lingue Vivent»:
+// N. Posthuma: Pri questiones in «Lingue Vivent»: {{{2
+=== N. Posthuma: Pri questiones in «Lingue Vivent»:
 
 On deve divider li eleves de Occidental in 2 gruppes: linguistic e
 ordinari eleves. Si on desira popularisar li lingue, to es: si on desira
@@ -8457,7 +8457,7 @@ Chapelle (Vaud), Svissia.
 [.author]
 F{dot} L.
 
-// Li numeró 000{nbsp}000 {{{2
+// Li numeró 000 000 {{{2
 === Li numeró 000{nbsp}000
 
 Li colpes del hasard es ínprevisibil! Li

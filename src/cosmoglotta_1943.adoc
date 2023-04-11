@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified 20230410T2054+0200.
+// Last modified 20230411T0822+0200.
 
 include::about_this_book.adoc[]
 
@@ -1714,8 +1714,8 @@ sempre mult «traductiones», ma por facilisar les on ha elaborat tre
 practic tabelles. In principie omni sistemas precede per li sam metode:
 ili compara li póndere del fil a su longore. Ma poy li vias separa se.
 
-// I{dot} Li anglesi numeration {{{3
-==== I{dot} Li anglesi numeration
+// I. Li anglesi numeration {{{3
+==== I. Li anglesi numeration
 
 It indica li númere de cordes pesant un pund anglesi (453,6 gr.).
 
@@ -1735,8 +1735,8 @@ mult cordes va esser necessi. Ex to on posse derivar que ye li anglesi
 numeration spess files have sempre micri, e tenui files sempre grand
 numerós.
 
-// II{dot} Numeration per «denarios» {{{3
-==== II{dot} Numeration per «denarios»
+// II. Numeration per «denarios» {{{3
+==== II. Numeration per «denarios»
 
 // XXX NOTE: li marca original de págine -43- esset in li sequent paragraf:
 
@@ -1754,8 +1754,8 @@ Durant li últim annus li numeration per denarios ha mult augmentat in
 importantie, nam it ha esset adoptet por presc omni sintetic
 textil-fibres quam «rayone», «casein-lan», «nylon», «pe-ce», etc.
 
-// III{dot} Li metric numeration {{{3
-==== III{dot} Li metric numeration
+// III. Li metric numeration {{{3
+==== III. Li metric numeration
 
 It es plu modern ma ne tre mult usat. Li numeró indica ci sempre li
 númere de metres pesant un gramme. Si p.ex. 100 metres de un fil have un

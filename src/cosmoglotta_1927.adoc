@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified 20230410T2054+0200.
+// Last modified 20230411T0821+0200.
 
 include::about_this_book.adoc[]
 
@@ -2095,7 +2095,7 @@ lingual.
 // // Li anti-occidental ortografie in Esperanto {{{2
 // === Li anti-occidental ortografie in Esperanto{blank}footnote:[{pednote2113}]
 
-=== Li anti-occidental ortografie in Esperanto{blank
+=== Li anti-occidental ortografie in Esperanto
 
 NOTE: Ex un brochura in preparation: _Li anti-europan caractere de
 «Esperanto»_ de Ernst Graber (Dresden).
@@ -6487,7 +6487,7 @@ E{dot} P.
 // // Mi -- mu, yo -- mi {{{2
 // === Mi -- mu, yo -- mi{blank}footnote:[{pednote6386}]
 
-=== Mi -- mu, yo -- mi{blank
+=== Mi -- mu, yo -- mi
 
 NOTE: Ples anc leer li articul «Mi o yo», Kosmoglott nro 5 e 6 1922.
 

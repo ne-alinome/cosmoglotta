@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified 20230410T2054+0200.
+// Last modified 20230411T0821+0200.
 
 include::about_this_book.adoc[]
 
@@ -6900,8 +6900,8 @@ I.F.
 
 // XXX NOTE: ci esset li marca original de págine -53-
 
-// J{dot} Denzler: Esperantistic Tolerantie {{{2
-=== J{dot} Denzler: Esperantistic Tolerantie
+// J. Denzler: Esperantistic Tolerantie {{{2
+=== J. Denzler: Esperantistic Tolerantie
 
 Ante circa du mensus yo ha fat li conossentie del ductor del
 Esperanto-movement in Biel. Su nómine es Micheil Miltscheff. Il es un

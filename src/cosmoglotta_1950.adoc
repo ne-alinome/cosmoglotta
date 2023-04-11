@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified 20230410T2054+0200.
+// Last modified 20230411T0823+0200.
 
 include::about_this_book.adoc[]
 
@@ -2435,8 +2435,8 @@ departe.
 
 -UT: -ut, -uda: brancut, branchut
 
-// B{dot} Verbes {{{4
-===== B{dot} Verbes
+// B. Verbes {{{4
+===== B. Verbes
 
 -AR: -ar, airar, alhar, -olar, -enar, etc. Servi a formar verbes con li
 adjectives o substantives sin apreciabil nuancies de sense.

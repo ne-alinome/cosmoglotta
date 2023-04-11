@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified 20230410T2054+0200.
+// Last modified 20230411T0822+0200.
 
 include::about_this_book.adoc[]
 
@@ -5696,7 +5696,7 @@ del scientist quel decovrit it in 1862.
 
 // XXX NOTE: ci esset li marca original de págine -23-
 
-// Pri {asterisk}fiaba {{{2
+// Pri *fiaba {{{2
 === Pri {asterisk}fiaba
 
 In Cosmoglotta, nró 133, pg. 11, sr A.E. Cortinas proposi li parol
