@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified 20230411T1201+0200.
+// Last modified: 20230411T1213+0200.
 
 include::about_this_book.adoc[]
 
@@ -4842,7 +4842,7 @@ o apertori, li duesim cludent o clusori.
 11{dot} Referenties a ped-notes. Por indicar li ped-notes, nequel medie es
 tam simplic e commod quam li números; nam ili es li max bon e clar
 signes, e ili es disponibil in un ínlimitat quantité. Si on usa
-asteriscos ({asterisk}) o crucettes (†), quam in quelc printerías, e si on
+asteriscos ({asterisk}) o crucettes ({cross}), quam in quelc printerías, e si on
 have mult notes sur li sam págin, on neplu save, qualmen arangear
 it.
 
@@ -5112,7 +5112,7 @@ K{dot} Signes non alfabetic.
 {asterisk} (asterisc) {equals} (in general:) hant nascet in…; (in lingues mort:)
 ínatestat, ma conjectet; (in lingues modern:) neologisme.
 
-† (crucette) {equals} (in general:) mort in…; (in lingues:) arcaic,
+{cross} (crucette) {equals} (in general:) mort in…; (in lingues:) arcaic,
 obsolet.
 
 On mey ne usar ti du signes por ped-notes.
@@ -5218,8 +5218,8 @@ Hodie sam autor declara, pos 25 annus de oposition, que logicmen «on ni
 deve ni posse supresser ti sufixes in composit paroles». Li logica de
 Sr. de Beaufront es un machine tre comod per su elasticitá!
 
-// † Dr. Arnold Schrag {{{2
-=== † Dr. Arnold Schrag
+// {cross} Dr. Arnold Schrag {{{2
+=== {cross} Dr. Arnold Schrag
 
 Noi have li dolore informar nor letores pri li morte de nor coidealist
 Sr. Dr Arnold Szhrag, inspector del scoles secundari del Canton Bern
@@ -8514,8 +8514,8 @@ quam un avie!»
 
 // XXX NOTE: ci esset li marca original de págine -108-
 
-// † Jean Chanaud {{{2
-=== † Jean Chanaud
+// {cross} Jean Chanaud {{{2
+=== {cross} Jean Chanaud
 
 Ante alcun mensus venit nos li trist nova del morte de sr. Jean Chanaud,
 secretario in li burós del Societé del Nationes in Genève. Sr. Chanaud
@@ -8809,7 +8809,7 @@ Cordialissim mersí a omnes!
 
 COSMOGLOTTA, nov.-dec. 1934.   No 8 (99)
 
-(Image: E. PIGAL, K. JANOTTA, E. DEMINGER, E. GRABER, †HANS HOERBIGER,
+(Image: E. PIGAL, K. JANOTTA, E. DEMINGER, E. GRABER, {cross}{nbsp}HANS HOERBIGER,
 E{dot} MOESS, Hans Robert HOERBIGER. Li equip de Vienna.)
 
 Malgré su aspect romanic, Occidental ha nascet in un nordic land. Su

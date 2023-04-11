@@ -1,5 +1,5 @@
 = Cosmoglotta 1943
-:revdate: 2023-04-10
+:revdate: 2023-04-11
 :docdescription: Omni numerós publicat in 1943 \
 del oficial organe del lingue international Occidental/Interlingue.
 include::common_attributes.adoc[]
@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified 20230411T1040+0200.
+// Last modified: 20230411T1213+0200.
 
 include::about_this_book.adoc[]
 
@@ -1900,8 +1900,8 @@ It es un grand joya saver que sr. de Wahl posse traviver omni
 desfacilitás del ho-témpores e noi fa nor max calid desires por que il
 mey luctar victoriosimen contra li fate.
 
-// † Jean Denzler {{{2
-=== † Jean Denzler
+// {cross} Jean Denzler {{{2
+=== {cross} Jean Denzler
 
 Li 1-ésim marte 1943 morit in Bienne nor car coidealist Jean Denzler in
 li etá de 72 annus. Il esset ancian esperantist e, quancam tre
@@ -4003,8 +4003,8 @@ letores pri li real situation.
 [.author]
 Li redaction
 
-// † Karl Federn {{{2
-=== † Karl Federn
+// {cross} Karl Federn {{{2
+=== {cross} Karl Federn
 
 Li sviss presse ha recentmen difuset li nova pri li morte del german
 scritor Karl Federn, patre de nor coidealist Ilmari Federn.
@@ -4181,7 +4181,7 @@ ifdef::original-tocs[]
 
 - Anglés quam lingue international?
 - Remarca concernent li articul «Turre de Babilonia».
-- † Karl Federn.
+- {cross} Karl Federn.
 - De aure e diamante.
 - Sol in un fare.
 - Publicationes in preparation: «L' Occidental sans peine»,
@@ -4511,8 +4511,8 @@ Il studiat li interlinguistica de Volapük til Occidental; il adheret a
 nor movement in 1928, quande esset creat li Sviss Association por
 Occidental.
 
-// † Erwin Wettstein {{{2
-=== † Erwin Wettstein
+// {cross} Erwin Wettstein {{{2
+=== {cross} Erwin Wettstein
 
 Ye li 24 august 1943 ha morit pos un curt maladie de 10 semanes nor
 venerat coidealist Enwin Wettstein, depó-chef del Sviss Ferrovias in
@@ -4547,8 +4547,8 @@ E nu il ha abandonat nos mult tro temporan, ma noi ne va obliviar le!
 [.author]
 H.F.H.
 
-// † Charles Piaget {{{2
-=== † Charles Piaget
+// {cross} Charles Piaget {{{2
+=== {cross} Charles Piaget
 
 Li 11 septembre 1943 morit in Bienne, pos quelc dies de maladie, nor
 afabil coidealist Charles Piaget.
@@ -4644,8 +4644,8 @@ ifdef::original-tocs[]
 - Interimari Academie
 - Cronica
 - Li 70-ésim annu de Major Tanner
-- † E. Wettstein
-- † Charles Piaget
+- {cross} E. Wettstein
+- {cross} Charles Piaget
 - A nor corespondentes
 - Li Sved Occidentalist
 - Contributiones 1944

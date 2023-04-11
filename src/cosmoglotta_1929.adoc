@@ -1,5 +1,5 @@
 = Cosmoglotta 1929
-:revdate: 2023-04-10
+:revdate: 2023-04-11
 :docdescription: Omni numerós publicat in 1929 \
 del oficial organe del lingue international Occidental/Interlingue.
 include::common_attributes.adoc[]
@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified 20230410T2054+0200.
+// Last modified: 20230411T1213+0200.
 
 include::about_this_book.adoc[]
 
@@ -5606,9 +5606,9 @@ se plu apt quam li antiqui. In ultra on sempre posse tener generalmen
 usabil li antiquat libres per inserter folies complementari contenent
 omni obsolet formes con lor versiones actual. Ma in general va suficer
 que secun li propose de sr Janotta li complet vocabulariums
-Occidental-national contene anc li obsolet formes signat per un cruce †
+Occidental-national contene anc li obsolet formes signat per un cruce{nbsp}{cross}
 (morte); durant que li formes in experimentation es signat per un
-asterisc {asterisk} (nascentie) ante li parol. Publicationes queles contene nov
+asterisc{nbsp}{asterisk} (nascentie) ante li parol. Publicationes queles contene nov
 formes ne acceptat, sin marcar les quam tales, con null equitá pretende
 esser scrit in Occidental. Per li reformes organisat e subtenet
 generalmen ne es a timer un relevant desavantage material por li
@@ -10861,7 +10861,7 @@ ifdef::original-tocs[]
 - Un felici nov annu!, Engelbert Pigal -- Hanns Hoerbiger
 - Complet grammatica de Occidental (4), K. Janotta
 - Analitic e sintetic, Edgar de Wahl
-- Baudouin de Courtenay †, K. Janotta -- E. Piga
+- Baudouin de Courtenay {cross}, K. Janotta -- E. Piga
 - Cronica
 - Subventiones al Occidental-Union
 - Avises
@@ -11422,7 +11422,7 @@ comparar li VI-m capitul B, 7.
 
 vide les in C, 1 in infra.
 
--et †
+-et {cross}
 
 {equals} -ett.
 
@@ -11445,7 +11445,7 @@ it have sovente un, signification frequentativ, vide -ett-a(r) in li
 articul sequent. Ples attenter que li nómines de animal-yunes es format
 per li suffix -ell; vide it in supra.
 
--ez †
+-ez {cross}
 
 {equals} ess(e); vide it in supra.
 
@@ -11795,8 +11795,8 @@ Talmen li analitic structura de Occidental es un assecurament que anc ye
 intrusion de necessi exotic paroles it va posser adaptar se al
 postulationes del témpore. Solmen to quo posse evoluer, posse viver.
 
-// Baudouin de Courtenay † {{{2
-=== Baudouin de Courtenay †
+// Baudouin de Courtenay {cross} {{{2
+=== Baudouin de Courtenay {cross}
 
 Con emotion noi recive li communication que Professor JAN BAUDOUIN DE
 COURTENAY, Protector del Occidental-Union, ha morit li 5 novembre in

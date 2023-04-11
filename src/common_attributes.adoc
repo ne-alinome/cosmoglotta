@@ -3,7 +3,7 @@
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified 20230411T0947+0200.
+// Last modified 20230411T1240+0200.
 //
 // Document:
 :doctype: book
@@ -33,3 +33,6 @@ endif::[]
 :bracket: [
 :lessthan: <
 :plus: +
+:cross: †
+//:cross: ✝
+:book: □

@@ -1,5 +1,5 @@
 = Cosmoglotta 1927
-:revdate: 2023-04-10
+:revdate: 2023-04-11
 :docdescription: Omni numerós publicat in 1927 \
 del oficial organe del lingue international Occidental/Interlingue.
 include::common_attributes.adoc[]
@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified 20230411T1040+0200.
+// Last modified: 20230411T1213+0200.
 
 include::about_this_book.adoc[]
 
@@ -6953,8 +6953,8 @@ que il ne save li fundamental regules de su Ido pri formar verbes de
 substantives significant un statu. Secun su opinion it es permisset al
 idistes formar «sintezar, pacar» de «sintezo, paco» solmen si su
 «Akademio» va ratificar ti ínmediat derivates. Essent «docero
-diplomizita dal Ido-Akademio» per lor membres F. Schneeberger †, Dr. St.
-Liljedahl † e Ing. K. Feder in annu 1921, yo deve protestar contra un
+diplomizita dal Ido-Akademio» per lor membres F. Schneeberger{nbsp}{cross}, Dr. St.
+Liljedahl{nbsp}{cross} e Ing. K. Feder in annu 1921, yo deve protestar contra un
 tal restriction e coruption del verbal teorie de Dr. Couturat. Yo es
 cert que omni ver Idistes va adherer mi proteste. -- Secun li raport in
 «Mondo» nr 207 sr G. A. (Paris) enunciat in li Westeuropan

@@ -1,5 +1,5 @@
 = Cosmoglotta 1933
-:revdate: 2023-04-10
+:revdate: 2023-04-11
 :docdescription: Omni numerós publicat in 1933 \
 del oficial organe del lingue international Occidental/Interlingue.
 include::common_attributes.adoc[]
@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified 20230410T2054+0200.
+// Last modified: 20230411T1213+0200.
 
 include::about_this_book.adoc[]
 
@@ -2969,8 +2969,8 @@ Edvard Rydahls Boktryckeri, Stockholm 1933
 
 Annu XII   Septembre -- Octobre 1933   No. 5 (90)
 
-// † Ad. Creux {{{2
-=== † Ad. Creux
+// {cross} Ad. Creux {{{2
+=== {cross} Ad. Creux
 
 Nor coidealist Ad. Creux, membre del Academie e del comité del SAPO ha
 morit in junio in Rue (Frib. Svissia) u il esset prestre. Omni tis

@@ -1,5 +1,5 @@
 = Cosmoglotta 1937
-:revdate: 2023-04-10
+:revdate: 2023-04-11
 :docdescription: Omni numerós publicat in 1937 \
 del oficial organe del lingue international Occidental/Interlingue.
 include::common_attributes.adoc[]
@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified 20230411T0821+0200.
+// Last modified: 20230411T1213+0200.
 
 include::about_this_book.adoc[]
 
@@ -25,7 +25,7 @@ ifdef::original-tocs[]
 // Contene {{{2
 === Contene
 
-- † Dr Kemp.
+- {cross} Dr Kemp.
 - Li criteria de IALA.
 - Tabelle comparativ.
 - Li derivation in li lingue international.
@@ -6302,8 +6302,8 @@ Ples supresser li adresses sequent:
 
 Hispania: Barcelona: nrós 94 e 99; -- Svissia: Meiringen: nró 107.
 
-// Peus † {{{2
-=== Peus †
+// Peus {cross} {{{2
+=== Peus {cross}
 
 // XXX TODO: Confirmar li signate «Apostata» de ti articul:
 
@@ -7374,7 +7374,7 @@ ifdef::original-tocs[]
 - Li vrec.
 - Lexico Occidental-Occidental.
 - Numeró festiv.
-- † Jules Gross.
+- {cross} Jules Gross.
 
 endif::original-tocs[]
 
@@ -8448,8 +8448,8 @@ ti special numeró. Per to, li serie de Cosmoglotta A va contener ho-annu
 [.author]
 Adm.
 
-// † Jules Gross {{{2´
-=== † Jules Gross
+// {cross} Jules Gross {{{2´
+=== {cross} Jules Gross
 
 In ultim moment noi es informat que li conosset litterator e
 mundlingues, canonico Jules Gross, de Martigny (Svissia), ha morit li 25
@@ -14280,8 +14280,8 @@ Nezavislá Politika del 2. oct. contene un long articul «Edgar de Wahl e
 su ovre»  in ocasion del 70. esim anniversarie. Li articul, retardat
 pro manca de spacie, es scrit de nor coidealist Jaroslav Podobsky. C.R.
 
-// Thomas G. Masaryk † {{{2
-=== Thomas G. Masaryk †
+// Thomas G. Masaryk {cross} {{{2
+=== Thomas G. Masaryk {cross}
 
 Li 14 septembre 1937, in Lány proxim Praha, morit li prim presidente de
 Tchecoslovacia, sr. Thomas G. Masaryk, professor e filosof, nominat

@@ -1,5 +1,5 @@
 = Cosmoglotta 1935
-:revdate: 2023-04-10
+:revdate: 2023-04-11
 :docdescription: Omni numerós publicat in 1935 \
 del oficial organe del lingue international Occidental/Interlingue.
 include::common_attributes.adoc[]
@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified 20230410T2054+0200.
+// Last modified: 20230411T1213+0200.
 
 include::about_this_book.adoc[]
 
@@ -3028,8 +3028,8 @@ li duplic lítteres ta u li internationalitá ne postula les, anc preferer
 f a ph, t a th. Ex. Crestomatie e ne chrestomathie; ortografie e ne
 orthographie, etc.
 
-// Gerald A. Moore † {{{2
-=== Gerald A. Moore †
+// Gerald A. Moore {cross} {{{2
+=== Gerald A. Moore {cross}
 
 Noi have li dolore informar nor letores pri li morte subit de nor devoet
 colaborator Gerald A. Moore in London. Sr. Beer, del anglés Occidental
@@ -8209,8 +8209,8 @@ letores al articul aparit in Cosmoglotta de januar 1934, pagine 5.
 [.author]
 R{dot} B.
 
-// † Sr. Gerald A. Moore {{{2
-=== † Sr. Gerald A. Moore
+// {cross} Sr. Gerald A. Moore {{{2
+=== {cross} Sr. Gerald A. Moore
 
 Cosmoglotta -- Informationes ha ja anunciat li trist nova del morte de
 Sr. G. A. Moore, evenit in april in London. Nor coidealist forpassat in

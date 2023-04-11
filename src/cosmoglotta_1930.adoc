@@ -1,5 +1,5 @@
 = Cosmoglotta 1930
-:revdate: 2023-04-10
+:revdate: 2023-04-11
 :docdescription: Omni numerós publicat in 1930 \
 del oficial organe del lingue international Occidental/Interlingue.
 include::common_attributes.adoc[]
@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified 20230410T2054+0200.
+// Last modified: 20230411T1213+0200.
 
 include::about_this_book.adoc[]
 
@@ -323,7 +323,7 @@ conform al Statute del Union (vide Cosmoglotta nr 55) por:
 
 1. Protectores:
 +
-Dr. J. BAUDOUIN DE COURTENAY †, Professor de Linguistica, Universitá
+Dr. J. BAUDOUIN DE COURTENAY{nbsp}{cross}, Professor de Linguistica, Universitá
 de Warszawa, Polonia; Dr. Albert GUÉRARD, Professor de Litteratura
 General e Comparat, Universitá de Stanford, California, USA; Dr.
 Albert SAARESTE, Professor de Litteratura, Universitá de Tartu
@@ -661,12 +661,12 @@ del Comité.
 +
 --
 
-- † (cruce) por obsolet o abolit formes, con li eventual indication
+- {cross} (cruce) por obsolet o abolit formes, con li eventual indication
 del periode de transition.
 
-- * (asterisc) por nov formes ancor ne admisset del Academie.
+- {asterisk} (asterisc) por nov formes ancor ne admisset del Academie.
 
-- □ (i.e. un libre) por términos special, queles es tolerat por
+- {book} (i.e. un libre) por términos special, queles es tolerat por
 usation in li scientic o tecnic litteratura; ti ultim signe posse
 esser remplazzat per altri signes indicant li special scientie e
 tecnica.
@@ -2197,7 +2197,7 @@ diferent, p. ex. laborosi (diligent); ingenios, grandios, generos etc.
 cultel, cultelott (hacc-cultel); furc, furcott. -- Vide li verbal
 aplication che -ar (g) in li sequent articul 2.
 
--pl †:: {equals} *-plic.*
+-pl {cross}:: {equals} *-plic.*
 
 -plic:: pos consonantes *-iplic* o
 *-uplic*, indica «numerales multiplicatori» e es atonic
@@ -2241,7 +2241,7 @@ anc -tá in ti ci casus in vice de -té. Ma to es ni desirabil ni necessi
 secun li sam vispunctus queles pleda por diferentiar -agie de -age; vide
 in supra che -agie.
 
--ti †:: ha indicat antey (in li unesim form de Occidental) li
+-ti {cross}:: ha indicat antey (in li unesim form de Occidental) li
 númeres decenal derivat: duti {equals} 20, triti {equals} 30, ninti {equals} 90. Nu es usat:
 duant, triant, ninant; vide in supra che li sufix -ant.
 
@@ -4036,26 +4036,26 @@ se sur ti ci dominia; e mem ti poc persones havet poc fortun.»
 Prof. Dr. A. Velleman, Universitá de Genève, in su dictionarium del
 lingue ladin (romansch de Engadin o de Tyrol, Engadin Press Co.,
 Samaden, Svissia, 1929, precie: fr. sv. 15,70) cita apu li nov classic
-etimologic formes lor obselet fonetic scrition (indicat per †): affirmer
-(† affarmêr: Occidental afirmar), alloger († aluschêr: Occidental alogiar), ampel (†
-aumpel: Occidental ampli), benedir († banadir), benediczion († banadischun: Occidental
-benediction), brav († braef), clav († clef, clave), confirmer (†
-cuffarmêr: confirmar), consoler († cussulêr), consentir, († cussantir),
-contenter († cuntantêr), decent († daschaint: decent), diriger (†
-derscher), derisiun († draschun: derision), esser († essar: esser),
-imaginer († imischnêr: imaginar), important († impurtaunt),
-intelligibel († inclegentaivel), ma († mu: ma), maniera († mingiergia),
-merit († miert), mort († muort, † moart), moventer († amuanter:
-moventar, far mover), offender († ufender), perceptibel (†
-partscheivel), perir († pryr: perir), posseder († pussidair), possibil
-(† possaivel), rester († rastêr: restar), san e salv (saun e † salf),
-scolar († sculêr, scolero), sconsoler († scussulêr: desconsolar, far
-desolat), scriver († schriver: scrir), secta († seichta: secte),
-sentenza († sintintzchia: judicie), sentir (†sintijr), soffler (†
-zufflêr), sort († soart, † suort: sorte, destin), splendurir (†
-schplandurir: splender), terra († tearra: land, país), traffic (†
-trêfsth, † travsch: trafic), vendetta († vandetta: vengea), veritabel (†
-veritaivel), verm († vierm: verm), vicin († vischin), visibil (†
+etimologic formes lor obselet fonetic scrition (indicat per {cross}): affirmer
+({cross} affarmêr: Occidental afirmar), alloger ({cross} aluschêr: Occidental alogiar), ampel ({cross}
+aumpel: Occidental ampli), benedir ({cross} banadir), benediczion ({cross} banadischun: Occidental
+benediction), brav ({cross} braef), clav ({cross} clef, clave), confirmer ({cross}
+cuffarmêr: confirmar), consoler ({cross} cussulêr), consentir, ({cross} cussantir),
+contenter ({cross} cuntantêr), decent ({cross} daschaint: decent), diriger ({cross}
+derscher), derisiun ({cross} draschun: derision), esser ({cross} essar: esser),
+imaginer ({cross} imischnêr: imaginar), important ({cross} impurtaunt),
+intelligibel ({cross} inclegentaivel), ma ({cross} mu: ma), maniera ({cross} mingiergia),
+merit ({cross} miert), mort ({cross} muort, {cross} moart), moventer ({cross} amuanter:
+moventar, far mover), offender ({cross} ufender), perceptibel ({cross}
+partscheivel), perir ({cross} pryr: perir), posseder ({cross} pussidair), possibil
+({cross} possaivel), rester ({cross} rastêr: restar), san e salv (saun e {cross} salf),
+scolar ({cross} sculêr, scolero), sconsoler ({cross} scussulêr: desconsolar, far
+desolat), scriver ({cross} schriver: scrir), secta ({cross} seichta: secte),
+sentenza ({cross} sintintzchia: judicie), sentir ({cross}sintijr), soffler ({cross}
+zufflêr), sort ({cross} soart, {cross} suort: sorte, destin), splendurir ({cross}
+schplandurir: splender), terra ({cross} tearra: land, país), traffic ({cross}
+trêfsth, {cross} travsch: trafic), vendetta ({cross} vandetta: vengea), veritabel ({cross}
+veritaivel), verm ({cross} vierm: verm), vicin ({cross} vischin), visibil ({cross}
 visaivel: visibil).
 
 Li letor de un micri o non-litterari lingue es customat al historic
@@ -4216,7 +4216,7 @@ totalmen diferent.
 
 -esce-r :: vide it in C.2 in infra.
 
--eta-r † :: {equals}
+-eta-r {cross} :: {equals}
 -ett-a-r.
 
 -etta-r e -illa-r :: have un signification frequentativ, ili es usat
