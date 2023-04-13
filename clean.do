@@ -9,8 +9,10 @@
 # Requirement:
 # - fish (https://fishshell.com)
 #
-# Last modified 20230413T1500+0200.
+# Last modified 20230413T1632+0200.
 
 find target/* tmp/* ! -name "*.do" -delete
+find . -name "*.did" -delete
+find . -name "*.did.tmp" -delete
 
 # vim: filetype=sh
