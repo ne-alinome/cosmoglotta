@@ -1,4 +1,8 @@
+*.did
+*.did.tmp
 *_session*.vim
+.do_built
+.do_built.dir/
 000-info.txt
 _meta/
 target/
