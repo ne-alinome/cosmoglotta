@@ -1,30 +1,24 @@
 = To-do list of Cosmoglotta
 :author: Marcos Cruz (programandala.net)
-:revdate: 2023-04-11
+:revdate: 2023-04-14
 
 // This file is part of project Cosmoglotta (http://ne.alinome.net)
 // by Marcos Cruz (programandala.net).
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified 20230411T1602+0200.
+// Last modified 20230414T1149+0200.
 
 // Building {{{1
 == Building
 
 - Fix hardcoded "View note" in the HTML code of footnote links.
 
-// Misc, to do before splitting into annual volumes {{{1
-== Misc, to do before splitting into annual volumes
-
-- Delete unimportant "FIXED" notes.
-- Add and check styles for `.author` and `.center`.
-- Mark also author's names in the "Cronica" sections.
-
 // Internal notes {{{1
 == Internal notes
 
 - Homogenize the format of notes about missing pages with `WARNING:`.
+- Delete unimportant "FIXED" notes.
 
 // Style {{{1
 == Style
@@ -33,13 +27,7 @@
   not specified in the CSS.
 - Study how to change the width of thematic breaks (horizontal rules)
   in Asciidoctor PDF.
-
-// Punctuation {{{1
-== Punctuation
-
-- Marcar per signes de citation li paroles pri queles on parla
-  (but mark foreign words with italics).
-- Unificar `«_X_»` and `_«X»_`.
+- Add and check styles for `.author` and `.center`.
 
 // Markup {{{1
 == Markup
@@ -64,7 +52,9 @@
   workaround, they were replaced by `NOTE:` admonitions.
 - Asciidoctor and Asciidoctor PDF render
   https://docs.asciidoctor.org/asciidoc/latest/blocks/add-title/#captioned-titles[captioned
-  titles), but Asciidoctor EPUB3 ignores them.
+  titles], but Asciidoctor EPUB3 ignores them.
+- Mark also author's names in the "Cronica" sections.
+- Homogenize `«_X_»` and `_«X»_`.
 
 // Contents {{{1
 == Contents
@@ -190,9 +180,11 @@
 - Update "annunc" -> "anunc".
 - Check the price lists of "Abonnament a Cosmoglotta": some of them
   are broken into several paragraphs.
+- Quote the words written about in the text (but mark foreign words
+  with italics).
 
-// Deprecated {{{1
-== Deprecated
+// Deprecated tasks {{{1
+== Deprecated tasks
 
 - Homogenize notation «IALA», without dots.
 - Update "es-que" -> "esque"?
