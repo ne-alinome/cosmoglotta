@@ -10,12 +10,12 @@
 # - Asciidoctor PDF, by Dan Allen and Sarah White
 #   (https://github.com/asciidoctor/asciidoctor-pdf)
 #
-# Last modified 20230413T1453+0200.
+# Last modified 20230413T1555+0200.
 
 redo-ifchange \
   ../src/about_this_book.adoc \
   ../src/common_attributes.adoc \
-  ../tmp/$2.jpg.pdf
+  ../tmp/$2.cover.jpg.pdf
 
 asciidoctor-pdf --out-file=$3 ../src/$2.adoc
 

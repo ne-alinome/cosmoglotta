@@ -10,12 +10,12 @@
 # - Asciidoctor EPUB3, by Dan Allen and Sarah White
 #   (https://github.com/asciidoctor/asciidoctor-epub3)
 #
-# Last modified 20230413T1453+0200.
+# Last modified 20230413T1555+0200.
 
 redo-ifchange \
   ../src/about_this_book.adoc \
   ../src/common_attributes.adoc \
-  ../img/$2.jpg
+  ../tmp/$2.cover.jpg
 
 asciidoctor-epub3 --out-file=$3 ../src/$2.adoc
 
