@@ -1,5 +1,5 @@
 = Cosmoglotta 1932
-:revdate: 2023-04-11
+:revdate: 2023-04-14
 :docdescription: Omni numerós publicat in 1932 \
 del oficial organe del lingue international Occidental/Interlingue.
 include::common_attributes.adoc[]
@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified: 20230411T1213+0200.
+// Last modified: 20230414T1208+0200.
 
 include::about_this_book.adoc[]
 
@@ -4461,8 +4461,8 @@ Fontainebleau. Li sequent congress va evenir in august 1933 in Köln,
 Germania.
 
 Maxim sensational esset li decision del «Konstanta Reprezentantaro»
-anullar li «Kontrakto de Helsinki» secun quel li Universala Esperanto
-Asocio ha esset til nu un índependent organisation, e a un comité de 7
+anullar li «Kontrakto de Helsinki» secun quel li Universala Esperanto-Asocio
+ha esset til nu un índependent organisation, e a un comité de 7
 persones esset dat li obliga reorganisar li tot Esperanto-
 
 movement talmen que in future va exister solmen un international

@@ -1,5 +1,5 @@
 = Cosmoglotta 1929
-:revdate: 2023-04-11
+:revdate: 2023-04-14
 :docdescription: Omni numerós publicat in 1929 \
 del oficial organe del lingue international Occidental/Interlingue.
 include::common_attributes.adoc[]
@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified: 20230411T1549+0200.
+// Last modified: 20230414T1546+0200.
 
 include::about_this_book.adoc[]
 
@@ -520,8 +520,7 @@ poc regules ha fat órdine in ti cáos. Omni international vocabules
 conosset e precipue de grec e latin orígine quam aviator (Esperanto:
 aerflugisto{blank}footnote:[Omni vocabules citat de Esperanto es prendet ex li autoritativ
 lexicos de Paul Bennemann, editet de Ferdinand Hirt & Sohn in Leipzig, o
-ex «Esperanto», oficial revúe de U. E. A. (Universala Esperanto
-Asocio).],
+ex «Esperanto», oficial revúe de U. E. A. (Universala Esperanto-Asocio).],
 salvation (Esperanto: savado), expedition (ekspedado),
 additiv (adicia), executor (ekzekuciisto), creatura (kreitaĵo),
 multiplicand (multobligato) etc., in Occidental ne es forenes, queles on

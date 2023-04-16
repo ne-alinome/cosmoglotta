@@ -1,5 +1,5 @@
 = Cosmoglotta 1936
-:revdate: 2023-04-11
+:revdate: 2023-04-14
 :docdescription: Omni numerós publicat in 1936 \
 del oficial organe del lingue international Occidental/Interlingue.
 include::common_attributes.adoc[]
@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified: 20230411T1614+0200.
+// Last modified: 20230414T1207+0200.
 
 include::about_this_book.adoc[]
 
@@ -7467,7 +7467,7 @@ concertes con abundantie del bell sones o, uj, ajn, ojn!
 // XXX NOTE: li marca original de págine -35- esset in li sequent
 // paragraf:
 
-Esperanto, Internacia Revuo, eldonata de la Universala Esperanto Asocio.
+Esperanto, Internacia Revuo, eldonata de la Universala Esperanto-Asocio.
 Genève. jaro 31, 1935. No. 422.424. 32, 1936, No. 425. scrit totalmen in
 Esperanto. Bellmen ilustrat. No. 422 anuncia li Esperanto-version de «Sango kaj
 Sablo» de Blasco Ibáñez. Noi solmen questiona ca li majorité del
@@ -7588,7 +7588,7 @@ ____
 li altri scandinavic landes e in Anglia e Francia have satisfant o mem
 tre bon resultates, existe tamen altri important institutiones, pri
 queles li cronica raconta poc o nullcos. Regretabilmen noi deve contar
-inter tis anc Universala Esperanto Asocio, e si on vole esser tam
+inter tis anc Universala Esperanto-Asocio, e si on vole esser tam
 sarcastic quam li redactor de Heroldo, on di que UEA in 1935 ha emisset
 2 comunicationes al publica, de queles li un comunica que li director de
 UEA pro crula ha devenit ínvalid por labore durant un suficent long
@@ -8512,7 +8512,7 @@ S{dot} prende su vocabules che li Nyam-Nyams del Congo. poc importa a il li
 internationalitá.
 
 Che li Esperantistes eveni un grav querelle. Li no de may de «Esperanto»
-li organ central del Universala Esperanto Asocio exposi li tot afere:
+li organ central del Universala Esperanto-Asocio exposi li tot afere:
 li potent UEA esset sur li via del bancrott. Li 100.000 frs sviss donat
 per testament del sviss Hodler in 1920 es completmen perdit. Ja in 1934
 li proprietario menaciat expulser li oficie pro que li location ne esset

@@ -1,5 +1,5 @@
 = Cosmoglotta 1927
-:revdate: 2023-04-11
+:revdate: 2023-04-14
 :docdescription: Omni numerós publicat in 1927 \
 del oficial organe del lingue international Occidental/Interlingue.
 include::common_attributes.adoc[]
@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified: 20230411T1213+0200.
+// Last modified: 20230414T1546+0200.
 
 include::about_this_book.adoc[]
 
@@ -6034,7 +6034,7 @@ international e national organisationes de esperantistic laboreros.
 
 Comprensibilmen noi ne va asserter, que Esperanto es li lingue
 exclusivmen proletari e apartenent al laboreros. To ne vell esser ver.
-Un important númere de membres del Universala Esperanto Asocio e li
+Un important númere de membres del Universala Esperanto-Asocio e li
 «neutralistes» de divers color-nuancies continua exister, usar nor
 lingue e propagar it{blank}footnote:[Sublineat de mi. Ch. C.].
 Ma in omni casu it es impossibil negar ti fact;
