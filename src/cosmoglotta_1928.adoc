@@ -1,5 +1,5 @@
 = Cosmoglotta 1928
-:revdate: 2023-04-10
+:revdate: 2023-04-14
 :docdescription: Omni numerós publicat in 1928 \
 del oficial organe del lingue international Occidental/Interlingue.
 include::common_attributes.adoc[]
@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified 20230410T2054+0200.
+// Last modified 20230414T1546+0200.
 
 include::about_this_book.adoc[]
 
@@ -3692,7 +3692,7 @@ de Africa quam it presentat se al portugalesi decovritores.
 
 Li insules de Cap Verde e li Sunda-insul Flores fa divinar un poc pri li
 paradisic clima. Li Sunda-insul Timor ha fixat li unesim traviventie
-quel hat ta li decovritores. Li traduction de Rhodesia resulta «land de
+quel havet ta li decovritores. Li traduction de Rhodesia resulta «land de
 Rhodes», li famosi anglesi rey de diamantes (cp. anc Pretoria,
 Columbia). In America li fantasie del scoleros es apartmen vivaci
 animat. Lor spiritual ocul vide li Rocky Mountains, inspirant terrore e
@@ -8286,7 +8286,7 @@ bon resultate.
 
 Ma it monstra nos qualmen calcular li 700000 persones.
 
-Si on hat occasion vider li generalmen miserabil conossentie de Esperanto che
+Si on havet occasion vider li generalmen miserabil conossentie de Esperanto che
 su adherentes, sovente anc redactores de revúes, on va haver un plu just
 judicie pri li ver expansion e conossentie de Esperanto. Yo self ha
 constatat durant un congress, que mem li functionarios decorat per verdi
@@ -10461,7 +10461,7 @@ Ibsen apostrofat le in un acri e brusc ton:
 
 Unquande on racontat in li presentie de Ibsen, que Andersen periodicmen
 sufre ye li maladiv suggestion, que on posse forsan interrar le vivi e
-que in tal témpores il hat li custome scrir omni véspere sur un paper li
+que in tal témpores il havet li custome scrir omni véspere sur un paper li
 sequent lineas:
 
 «Yo ne es morti, ma solmen morti-aparent», e mettet it apu se sur li
