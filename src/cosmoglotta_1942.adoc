@@ -314,9 +314,9 @@ Cosmoglotta.
 | bul'on         | bullion
 | jorn           | die
 | cal'ar         | coagular
-| legal          | leyal
+| leyal          | legal{blank}footnote:ley_leg[In li originale, li paroles esset interchangeat. Note del editor digital]
 | camaril'a      | camarilla
-| legitim        | leyitim
+| leyitim        | legitim{blank}footnote:ley_leg[]
 | campan'e       | campanie
 | lorn'ette      | lorniette
 | caravanseral'e | caravanserái
@@ -338,7 +338,7 @@ Cosmoglotta.
 | comencear      | comensar
 | negligeabil    | negligibil
 | con'ac         | cognac
-| nostri | nor
+| nostri         | nor
 |===
 
 (fine del liste in li proxim numeró)
