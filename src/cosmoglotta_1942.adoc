@@ -1,5 +1,5 @@
 = Cosmoglotta 1942
-:revdate: 2023-04-11
+:revdate: 2023-04-15
 :docdescription: Omni numerós publicat in 1942 \
 del oficial organe del lingue international Occidental/Interlingue.
 include::common_attributes.adoc[]
@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified: 20230411T1213+0200.
+// Last modified: 20230415T2051+0200.
 
 include::about_this_book.adoc[]
 
@@ -2650,7 +2650,7 @@ altri lingues roman anc li rhaetoroman ne originat del classic latin,
 quel on parlat e scrit in Roma, ma plu
 bon del latin populari, del «lingua rustica», quel esset parlat per li
 legionarios e quel tre tost monstrat
-tracies ex li antean indigen idiomas.
+tracies ex li anteyan indigen idiomas.
 
 It esset li alemanes, li antecessores del svissogermanes, queles plu
 tard forpulset li romanic lingues ex
