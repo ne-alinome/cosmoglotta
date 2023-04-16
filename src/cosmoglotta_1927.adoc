@@ -1,5 +1,5 @@
 = Cosmoglotta 1927
-:revdate: 2023-04-14
+:revdate: 2023-04-16
 :docdescription: Omni numerós publicat in 1927 \
 del oficial organe del lingue international Occidental/Interlingue.
 include::common_attributes.adoc[]
@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified: 20230414T1546+0200.
+// Last modified: 20230416T1508+0200.
 
 include::about_this_book.adoc[]
 
@@ -106,7 +106,7 @@ kaj italoj.
 Ad omni interessat e interessabil persones ja essent in un del existent
 sistemas, it ha posset semblar un follie aparir ancor con un nov sistema
 pos li fallida de cent altri efemeri projectes. Sol, sin financial base,
-durant mult annus stant exter li activ moviment, li autor de Occidental
+durant mult annus stant exter li activ movement, li autor de Occidental
 comensat li lucta contra li grand organisationes, ductet de persones
 conosset pro lor energie, eloquentie e
 sciential fama. Ma li preparat durant 30 annus scientic armament

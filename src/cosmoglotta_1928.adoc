@@ -1,5 +1,5 @@
 = Cosmoglotta 1928
-:revdate: 2023-04-14
+:revdate: 2023-04-16
 :docdescription: Omni numerós publicat in 1928 \
 del oficial organe del lingue international Occidental/Interlingue.
 include::common_attributes.adoc[]
@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified 20230414T1546+0200.
+// Last modified 20230416T1509+0200.
 
 include::about_this_book.adoc[]
 
@@ -8388,7 +8388,7 @@ ver cause de omni guerres, noi anc va posser indicar li ínfallibil
 remedie, to es li medie por adducter li mund-pace.
 
 Omnicos quo concerne pecunie, financies, bastament, chomage, stagnation,
-misere del agricultura, revolution, guerre, social movimentes e parties,
+misere del agricultura, revolution, guerre, social movementes e parties,
 omni ti apartene a nor tema; noi va esser grat a omnis queles pro
 interesse va contribuer al solution de ti urgent problemas per articules
 por nor social e economie rubrica.

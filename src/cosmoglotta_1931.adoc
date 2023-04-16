@@ -1,5 +1,5 @@
 = Cosmoglotta 1931
-:revdate: 2023-04-11
+:revdate: 2023-04-16
 :docdescription: Omni numerós publicat in 1931 \
 del oficial organe del lingue international Occidental/Interlingue.
 include::common_attributes.adoc[]
@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified: 20230411T1550+0200.
+// Last modified: 20230416T1511+0200.
 
 include::about_this_book.adoc[]
 
@@ -1216,7 +1216,7 @@ ancora studer per memorie singul vocabul, nam es impossibil saper ex que
 lingue es prendet singul vocabul particular.
 
 Un alter grande inconveniente, que resulta del absentie de principies
-directive, es el disunion que ille provoca in nostre movimente. Nam, si
+directive, es el disunion que ille provoca in nostre movemente. Nam, si
 existe null principie certe, singul auctor obedi a motives particular
 que depende sue nationalitate, de sue education, de sue caracter, etc.
 SIngulo adopta vocabules aut formes differente, que illo judica esser

@@ -1,5 +1,5 @@
 = Cosmoglotta 1929
-:revdate: 2023-04-14
+:revdate: 2023-04-16
 :docdescription: Omni numerós publicat in 1929 \
 del oficial organe del lingue international Occidental/Interlingue.
 include::common_attributes.adoc[]
@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified: 20230414T1546+0200.
+// Last modified: 20230416T1509+0200.
 
 include::about_this_book.adoc[]
 
@@ -2903,7 +2903,7 @@ Tande va esser possibil li sequent casus:
    posse esser calculat quam absolut ínpossibil. Nor lege natural do
    es un statistic lege del grand númere.
 
-Do antequam va evenir un nov cause, quel vell dar al ínregulari moviment
+Do antequam va evenir un nov cause, quel vell dar al ínregulari movement
 un precis direction p. ex. ad dextri, li vapor nequande va compresser se
 per se self.
 
@@ -3001,7 +3001,7 @@ del atomes in directet. Ci vell esser possibil du casus:
    cert gruppament de atomes ad cellules, ma representa li primari
    principie del munde, do es anc contenet in alcun primitiv form ja
    in li atomes self. Tande es pensabil altri medies por regular li
-   movimentes del atomes.
+   movementes del atomes.
 
 Un exemple mey ilustrar nos ti idé. Si in un chambre li moscas íncomoda
 nos, noi adobscura ti chambre e lassa líber un fensura in li fortmen
@@ -4843,12 +4843,12 @@ li partie del plu grand filmbataliones egal ca ili es commandat per Otto
 Gebühr -- Fridericus o per Dieudonné -- Napoleon. On deve har travivet
 li total fiasco de un del max magnific german filmes -- yo parla pri
 «Hintertreppe» (detra-scaliere) de Feßner (manuscrite: Karl Mayer) --
-por sentir que li clar representation de moviment, ci dat tam bell e
+por sentir que li clar representation de movement, ci dat tam bell e
 ritmic precis, li nobil joya ye li evolution de pantomimic movet
 córpores, (li film curret sin film-titules) quel ti film mediat, que to
 absolut ne sufice por un success che li publica, si in it ne es contenet
 li possibilitá de un masse-traviventie. Romantica de ascension, politic
-collectiv-movimentes e un humor movimental quel permisse al plu habil,
+collectiv-movementes e un humor movemental quel permisse al plu habil,
 plu malin victer li plu fort, e ancor li tot inventare del
 borges-sentimental roman amoros -- ultra to ne va exister mult plu
 filmsituationes, queles posse esser secur pri su publica. Nietzsche vell
