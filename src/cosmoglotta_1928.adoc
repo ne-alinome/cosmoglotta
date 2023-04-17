@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified 20230416T1509+0200.
+// Last modified 20230416T1946+0200.
 
 include::about_this_book.adoc[]
 
@@ -5599,19 +5599,15 @@ Li majoritá del membres ha uniat se pri li secuent pronomines:
 // XXX NOTE: li marca original de págine -111- esset in li sequent
 // paragraf:
 
-// XXX FIXME
-// XXX TODO Confirmar «e/o»:
-// «posse esser usat e li subjectiv o li objectiv formes,».
-
 Un detalliat discussion ha durat long pri li personal e possessiv
 pronomines in Occidental, causat per li constant critica del
 anteyan formes, specialmen directet contra li form «mu», de quel li
-substantivat formes es tro ínnatural. Yo, me e mi es pur hispan e in sam
-témpore anc li max international. Tui posse esser abreviat a tu, si li
-principal parol seque: «tu libre», ma «li libre es tui». Vu es frances,
-Vo trova se necú, e es evitand pro confusion con yo. -- Con
-prepositiones posse esser usat e li subjectiv o li objectiv formes,
-tamen solmen me e te, con me, con te, con noi o con nos, con vu o con
+substantivat formes es tro ínnatural. _Yo_, _me_ e _mi_ es pur hispan e in sam
+témpore anc li max international. _Tui_ posse esser abreviat a _tu_, si li
+principal parol seque: «tu libre», ma «li libre es tui». _Vu_ es frances,
+_Vo_ trova se necú, e es evitand pro confusion con _yo_. -- Con
+prepositiones posse esser usat e li subjectiv e li objectiv formes,
+tamen solmen _me_ e _te_: con me, con te, con noi o con nos, con vu o con
 vos, contra il o contra le, inter illi o inter les, etc.
 
 [.author]
@@ -5622,8 +5618,8 @@ Li secretario: A. Z. Ramstedt.
 
 In futuritá noi va usar solmen ti nov formes adoptet por
 experimentation. Li articules queles ja esset compostet alor li votation
-del Comité Explorativ ancor va haver: mi vice yo, mu vice mi, vo vice
-vu, etc.
+del Comité Explorativ ancor va haver: _mi_ vice _yo_, _mu_ vice _mi_, _vo_ vice
+_vu_, etc.
 
 [.author]
 Red.

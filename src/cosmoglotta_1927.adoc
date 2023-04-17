@@ -1,5 +1,5 @@
 = Cosmoglotta 1927
-:revdate: 2023-04-16
+:revdate: 2023-04-17
 :docdescription: Omni numerós publicat in 1927 \
 del oficial organe del lingue international Occidental/Interlingue.
 include::common_attributes.adoc[]
@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified: 20230416T1508+0200.
+// Last modified: 20230417T0813+0200.
 
 include::about_this_book.adoc[]
 
@@ -95,7 +95,7 @@ italianos.
 ****
 ESPERANTO disvastiĝis sur publiko virguleca en senco mondlingvana. Ĝi
 do havas la gloron esti disvastiginta kaj propaginta la ideon de la
-lingvo internacia inter la publiko. IDO bazita sur aŭtoreco de la fama
+lingvo internacia inter la publiko. IDO, bazita sur aŭtoreco de la fama
 Delegitaro, grandaj kapitaloj kaj la eminenta energio de la konata
 profesoro Couturat, povis tuj komenci kun sufiĉe granda reformemula
 eksesperantista anaro. LATINO SINE FLEXIONE, kondukita de la eminenta
@@ -233,7 +233,7 @@ Esperanto.
 
 ****
 Ĉar tiel longe kiel la kulturaj klasoj de la loĝantaro gvidos la
-sorton de Eŭropo, iu ĵargono kiel Esperanto kies konstruiteco staras
+sorton de Eŭropo, iu ĵargono kiel Esperanto, kies konstruiteco staras
 ekster la kunteniĝo kun la tradiciaj eŭropaj
 internaciaj
 paroloj kulturaj, hereditaj de la klasika antikveco kaj mezepoko, devas
@@ -245,7 +245,7 @@ Creder que un institution quam li Liga de Nationes o un simil vell
 posser accepter Esperanto ancor hodie, quande existe Occidental, es un
 infantesc utopie, un politica de avie struce. Omni resolutiones fat til
 nu in favor de Esperanto es fat por li idé e sub li suggestion que
-Esperanto es li sol Lingue International e que it es expandet
+Esperanto es li sol lingue international e que it es expandet
 immensimen: E támen omni ti resolutiones ha restat sur paper de
 gazettes. Un proverbie di: «papere es patient», ma anc por paper veni
 un límite, i.e. tande, quande manca spacie caus altricos plu recent. E
@@ -259,10 +259,10 @@ Esperanton ankoraŭ hodiaŭ, kiam ekzistas Occidental, estas infana
 utopio, politiko de la strutobirdo. Ĉiuj rezolucioj faritaj ĝis nun
 favore al Esperanto estis farataj por la ideo kaj sub la sugestio, ke
 Esperanto estas la sola lingvo internacia kaj ĝi estas treege
-disvastigita: kaj tamen ĉiuj tiuj rezolucíoj restis sur la papero de la
+disvastigita: kaj tamen ĉiuj tiuj rezolucioj restis sur la papero de la
 gazetoj. Proverbo diras: «papero estas pacienca», sed ankaŭ por la
 papero venas limo, tio estas: tiam kiam mankas spaco pro io alia pli
-nova. Kaj tiu afero de antaŭ nelonge estas Occidental ĝis nun nur
+nova. Kaj tiu afero de antaŭ nelonge estas Occidental, ĝis nun nur
 malmulte konata ekster la rondoj mondlingvanaj, sed nun en
 marŝado.
 ****
@@ -275,7 +275,7 @@ grand.
 ****
 La nura apero de Occidental ĉe la kongreso de Tuteŭropo en Wien
 devigis Esperanton al nepra silento: tiu lasta kvazaŭ ne ekzistis! La
-interneca supereco de Occidental estis tro ega…
+interneca supereco de Occidental estis tro ega.
 ****
 
 In futur Occidental posse expectar ancor un fort alliate contra
@@ -428,7 +428,7 @@ suficent simplic grammatica. Li paroles es omni quam possibil uniformat
 ye un abstract schema, apart barbari stil, quasi neutral. Que to es un
 principie fundamental che Schleyer monstra li circumstantie, que mem
 omni international e absolut comun paroles es alterat, p. ex. technica {equals}
-_kaen_, locomotive {equals} _lemüf_ etc. Quáncam Volapük ha existet ja 8 annus e
+_kaen_, locomotive {equals} _lemüf_ etc. Quáncam Volapük hat existet ja 8 annus e
 havet 3 congresses, on tamen ne posset parlar ti lingue. On posset scrir
 it, leer e mem far e
 comprender discurses, ma li líber parlada esset ínpossibil. Yo tre bon
@@ -439,7 +439,7 @@ desfacil grammatica fa un lingue parlabil o ne ma 1) li paroles e 2) li
 metodes de expression de su pensas. Pro to, quande ha aparit Esperanto, quel
 unesim ha monstrat li possibilitá junter un regulari simplic grammatica
 con conosset
-rádicas, Volapük devet fallir. Li principie de un
+radicas, Volapük devet fallir. Li principie de un
 lingue quasi artificial talmen esset refutat. E ancor alquicos: Li
 pretension: _menade bal püki bal_ (a un homanité un lingue) ha esset
 viceat per un altri. Desde tande on parla pri un lingue auxiliari e ne
@@ -614,7 +614,9 @@ respectar it ancor long. Hotémpor ti combatte es plu por li max apt
 sistema quam por li sanction in principie -- i.e. hodie un combatte por
 li sistema.
 
-Nu nequel de ti du combattes es ja finit. Li question es: Esque li
+Nu nequel de ti du combattes es ja finit.
+
+Li question es: Esque li
 duplic fronte de combatte ne es un impediment, quel vell esser ad evitar
 in unesim rang? E vermen on audi voces, queles vide in it un destructiv
 dangere, e opine, on mey cessar li reciproc combatte del sistemas por un
@@ -654,8 +656,8 @@ universal.
 Esperanto es basat sur un artificial e simplicissim grammatica e
 parolformation, al aspritá de quel ha devet acomodar se un vocabularium
 coliet ex divers lingues. Naturalmen it ha ductet a deformitás, quo ha
-caricat mem li max international paroles til inreconossibilitá. Ti
-inreconossibilitá es augmentat ancor per li exonomisation in li
+caricat mem li max international paroles til ínreconossibilitá. Ti
+ínreconossibilitá es augmentat ancor per li exonomisation in li
 vocabularium de Esperanto, derivant p. ex. li contrari notiones ex un
 radica (curt {equals} _mal-longa_ etc).
 
@@ -736,7 +738,7 @@ Galilei.
 
 Yo vell mem consiliar, subtener li Esperantistes partú, u pro manca de
 medies on ancor ne posse propagar Occidental, pro que sin Esperanto noi
-es comprensibil solmen a ti, queles comprende li respectiv lingue
+es comprensibil solmen a tis, queles comprende li respectiv lingue
 national; ma per omni nov Esperantist noi ha ganiat un adplu, quel
 comprende Occidental sin mult instruction de
 usada.
@@ -798,9 +800,9 @@ sv.
 Le Monde Esperantiste Nro. 6 (148) cita quelc passages ex Kosmoglott Nro.
 5.
 
-In Heroldo de Esperanto Nro. 58, rubrica Libera Tribuno Jan Trichowski
-scri: Estas pruvita fakto ke precipe instruistoj ne favoras ech rifuzas
-la lingvon (i. e. Esperanto).
+In Heroldo de Esperanto Nro. 58, rubrica Libera Tribuno, Jan Trichowski
+scri: «Estas pruvita fakto ke precipe instruistoj ne favoras eĉ rifuzas
+la lingvon» (i. e. Esperanto).
 
 // XXX NOTE: ci esset li marca original de págine -12-
 
@@ -810,7 +812,7 @@ es totmen privat affere. -- Noi pensa sammen privat quam li action del
 Esperantistes, ma con plu bon
 success.
 
-Heroldo de Esperanto Nr 1 (1927) rubrica Ni kaj la aliaj contene un
+Heroldo de Esperanto Nr 1 (1927), rubrica «Ni kaj la aliaj», contene un
 raport pri li recent evenimentes in li Occidental-moventie e pri li
 fundation de Cosmoglotta.
 
@@ -832,7 +834,7 @@ publica malgré li reclame de Esperanto ne vole accepter Esperanto. Homes con
 guste literari clarmen deve esser chocat del barbaresc form de Esperanto. Li
 gross del esperantistes consiste ya ex collectores de postmarcas e postcartes
 illustrat, e un micri societé de circa 500 persones, qui viagea a omni
-Espocongresses e subtene li moventie. Li altris have visibilmen tre
+Esperanto-congresses e subtene li moventie. Li altris have visibilmen tre
 practic pecuniari interesses, li unes quam editores de *literaturo* e
 li altres quam agentes, viageantes etc ye custas del credaci publica.
 Nam tal plendes on posse leer in divers variationes in li tot
@@ -855,7 +857,7 @@ Julian Prorók
 Quam edition de Cosmoglotta Mauer bei Wien, in bell equipation ha
 aparit in tri lingues (german, esperanto e Occidental) un brochura
 propagativ de J. Robert e E. Pigal sub titul «Der Weg zur europäischen
-Verständigungssprache» Li Via al lingue del europan intercomprension,
+Verständigungssprache» (Li Via al lingue del europan intercomprension),
 quel ha esset exposit in li Paneuropan Congress in Vienna e evocat
 sufficent attention, anc inter esperantistic
 publica.
@@ -976,7 +978,7 @@ In contra súper li form predicativ:
 // XXX TODO: Expander «ital.-mus.».
 
 mey esser mentionat, que ti verbe in su sense ne deriva se de alquel
-«cirkúlo» per to ci es significat in «Esperanto» li circulation
+«cirkúlo» (per to-ci es significat in «Esperanto» li circulation
 self), ma de -- cirklo! In ultra: ti ultim ne mem es un vocabul
 official; nam li populari término por ti notion in Esperanto es
 «rondo». Li ital.-mus. «rondo» in contra es «rondelo», e li «rondell»
@@ -1261,22 +1263,22 @@ Si on examina plu precismen li form acustic del paroles de un lingue, on
 va trovar que chascun lingue have su propri stil quel rarmen o plu ver
 nequande concorde con ti de un altri lingue. Pro to chascun lingue
 acceptent un foren parol transforma e adapta it a su propri stil,
-til que it ne es plu reconossibil quam foren p. ex. F boulevard de D
-Bollwerk, D Pferd de L paraveredus, R Kulebäka de D Kohlgebäck, Est
-selts de D Gesellschaft, D rist de R krest etc.
+til que it ne es plu reconossibil quam foren p. ex. F _boulevard_ de D
+_Bollwerk_, D _Pferd_ de L _paraveredus_, R _Kulebäka_ de D _Kohlgebäck_, Est
+_selts_ de D _Gesellschaft_, D _rist_ de R _krest_ etc.
 
 It es clar, que li sam regules e leges guverna anc li lingue international. Ma just pro
 to, proque li lingue international es fat artificialmen on deve esser excessivmen caut
 in adoption de paroles de divers lingues por ne leder li stil normal ja
 dat per li international paroles de latin orígine. Por exemple on
-nequalmen posse adaptar un parol quam D Schraube al styl del lingue international e li
+nequalmen posse adaptar un parol quam D _Schraube_ al styl del lingue international e li
 inplantation de ti parol a Esperanto es un grav misprense, tam fonetic
 quam estetic e practic. Occidental ha tamen adoptet ti germanic parol ma
-in un form scandinavic, scruve quel bon adapta se al caractere general.
+in un form scandinavic, *scruve*, quel bon adapta se al caractere general.
 
 Pro to li mixtura ínselectiv de max divers paroles de omni lingues es
 íntolerabil e deve repugnar omni persones con natural instincte. Li sam
-instincte revolta contra li ligation del romanic finition o con german
+instincte revolta contra li ligation del romanic finition _o_ con german
 paroles quam _knabo_, _ŝraŭbo_ etc. in Esperanto.
 
 Petroleo es bon cose, e lacte es bon cose, ma lacte con petroleo es
@@ -1308,7 +1310,7 @@ conceptiones u in Esperanto o Ido es usat romanics, p. ex.:
 | segle      | velo
 | ost        | oriento
 | west       | okcidento
-| sarc       | cherko
+| sarc       | ĉerko
 | strax      | tuj
 | sparro     | pasero
 | fox        | vulpo
@@ -1362,7 +1364,7 @@ substantie vell esser chinesi!
 
 // XXX TODO: pednote pri duplic negation «ne trova necos»:
 
-Ma li paroles sol ne far ancor un lingue. Ili es ligat per grammatica,
+Ma li paroles sol ne fa ancor un lingue. Ili es ligat per grammatica,
 etimologie e sintaxe. E ci nu on ja ne trova necos latin. Li grammatica
 ha devenit absolut modernissim paneuropan, simil al frances, angles e
 mem chines. Omni special romanic customes, quam li diftongisation sub
@@ -1482,8 +1484,8 @@ conosset optic images fa li letion plu desfacil o ínpossibil. De to
 seque, que ti lingue international, quel possede li plu grand stock del
 ínmutilat lingual images, conosset in ante de li max grand númere del
 usatores del lingue, es plu facil quam ti, quel possede it minu. Si p.
-ex. Occidental usa formes quam delegation, fiction, formation, ma Ido
-delegitaro, fiktiveso, formacuro, lingual images, conosset in ante de
+ex. Occidental usa formes quam _delegation, fiction, formation,_ ma Ido
+_delegitaro, fiktiveso, formacuro,_ lingual images, conosset in ante de
 nequi, e ultra to ne format in analogie, ma chascun aprendend por se,
 Occidental es in ti respect ínnegabilmen plu facil quam Ido. To es un
 cose tam simplic e evident, que on astona, quande on audi persones
@@ -1515,11 +1517,11 @@ unquande in ante. Chascun idé consiste ne solmen de intelectual
 notiones, ma in grand parte anc de sentimental e volitionari momentes.
 Li scope del lingue es evocar che li auditor li sam idé quel existe che
 li parlator, o un cert sentiment, atitude, volentie. It es evident que
-p{dot} ex. li parol fémina in Occidental plu ínmediatmen evoca li desirat
+p{dot} ex. li parol _fémina_ in Occidental plu ínmediatmen evoca li desirat
 efecte che un italiano qui in su lingue matrin dí «femina», quam li
-esperantic parol virino, quel va haver null resonantie, null
-«espressivitá», malgré to que it es tre regularmen derivat de viro. Lu
-sam vale anc por delegitaro de Ido in vice de delegation, etc. Un
+esperantic parol _virino_, quel va haver null resonantie, null
+«espressivitá», malgré to que it es tre regularmen derivat de _viro_. Lu
+sam vale anc por _delegitaro_ de Ido in vice de _delegation_, etc. Un
 expressivitá ne posse esser atinget per paroles artificial, sin
 historie, sin contenentie, e prof. Reynold pro to tre just remarca, que
 al esperantic lingues manca totalmen sentiment. Li natural lingues ne
@@ -1547,7 +1549,7 @@ lingue vade a progressent intelectualisation.
 
 Ma omni tecnica -- to oblivia nor intelectualistes -- omni tecnica have
 su ideal, to es li mesur de su corectitá in se self, ne extra, ne supra.
-Partú u existe un special tecnica, existe un special idé eo ipso. Li
+Partú u existe un special tecnica, existe un special idé _eo ipso_. Li
 tecnica del pictor servi li idé del piction, li musico li idé del
 musica. Pro to li grammatica, essente li tecnica del lingue, servi
 solmen li idé del lingue, ne ti del logica. Ti simplic veritá que li
@@ -1568,12 +1570,12 @@ del expression» (Sweet).
 
 On asserte ancor, que un strict logical grammatica e precipue morfologie
 es necessi por li monosemie (unisensitá) del paroles e frases. On posi
-quam li ideale li devise: un vorto -- un nociono; un nociono -- un
-vorto. Ma to es pur reva, e mem ne un bell reva, quel nequande es
+quam li ideale li devise: _un vorto -- un nociono; un nociono -- un
+vorto_. Ma to es pur reva, e mem ne un bell reva, quel nequande es
 realisabil, tre fortunosimen por noi homes. Un lingue, quel hat realisat
 ti principie, va posseder milliones de paroles pro to va esser
 ínpossibil. Li veritá es que li max evoluet lingues ne tende ad
-monosemie, ma a polisemie (multsensitá), quo fa un grand númere de
+monosemie, ma a polisemie (multisensitá), quo fa un grand númere de
 paroles superflú. «To, quo on nómina in general un rich lingue, es in
 veritá un complicat, circumstantial lingue. Cultural plu developat
 lingues besona plu poc paroles por expresser su afectes e notiones e pro
@@ -1592,7 +1594,7 @@ elevar nos self del firm terre a superior sferes de pur intelectualitá,
 per li peruc del logica, quam li famosi Münchhausen. Noi es tre
 terrestrial entes, anc «in cosmoglotticis».
 
-Mecanic, rationalistic lingues quam Esperanto, Ido es basat sur
+Mecanic, rationalistic lingues quam Esperanto e Ido es basat sur
 psicologicmen fals premisses. Li max bon comprension del natura del
 lingue monstra Occidental. (Fine seque).
 
@@ -1633,7 +1635,7 @@ yo ha expresset ti idé in un articul «Heredie e
 autonomie»footnote:[«Corespondense International» 1908, nr 9.].
 
 Ma it es altricos, si li international paroles es «fremduloj» o derivat
-secun propri leges. Yo va citar quelc passages del interessant de Dr.
+secun propri leges. Yo va citar quelc passages del interessant articul de Dr.
 Pr. (in traduction Occidental):
 
 ____
@@ -1641,18 +1643,16 @@ Nor lingue con prudent instincte … ha
 inglotit les solmen poc a poc … altri mundlingues ha apertet li bocc
 talmen larg, que ili esset suffocat per li invasion. Ha restat solmen un
 rich cadavre … Li max vivent elemente es to, quo on hauste ex su
-propri fonte … Quam viviplen es … ano, aniĝi; aro, ariĝi; ema,
-emi; ebla, ebligi; malebligi etc. … «la china Esperanto» … Quande un
+propri fonte … Quam viviplen es … _ano, aniĝi; aro, ariĝi; ema,
+emi; ebla, ebligi; malebligi_ etc. … «la ĉina Esperanto» … Quande un
 de ti «forenes» ne recivet per usation su Esperanto-baptisation, tande
 es necessi intervention e definition in official lexico … etc.
 ____
 
-// XXX FIXME U. S. S. R.
-
 Per altri paroles, in li societé de nov-rich nigger-aristocratie
-Esperantan quam li supra citat «China-Esperanto» li ver europan
+«Esperanta» quam li supra citat «China-Esperanto» li ver europan
 cultur-nationes Grecia e Roma es admisset in «Esperantujo» solmen si ili
-transvesti e colora se ye «nigger», sammen quam in U. S. S. R. li
+transvesti e colora se ye «nigger», sammen quam in U.S.S.R. li
 scientistes sembla dever mascar-se ye communistes por posser laborar e
 viver. Li similitá deveni ancor plu grand, si on torna su attention al
 admonitiones del presidente del Esperantic academie al discipline.
@@ -1678,9 +1678,9 @@ Ceterimen yo dubita, ca noi ne trova omni pur international paroles de
 Occidental anc in li Esperanto-lexicos de Christaller, Bennemann etc.,
 con micri «niggerisationes»! Ma ili omni es «fremduloj» in
 «Esperantujo», forenes sin contacter con li indigen nov-riches de
-Esperanto, omni ti nepri (dever), ree (denov), laui (esser conform),
-malanigi (excluder), iomete (un poc), endas (deve esser fat), eke
-(subit), virino (femina), estro (chef) etc. Ma just li «forenes» es
+Esperanto, omni ti _nepri_ (dever), _ree_ (denov), _laŭi_ (esser conform),
+_malanigi_ (excluder), _iomete_ (un poc), _endas_ (deve esser fat), _eke_
+(subit), _virino_ (femina), _estro_ (chef) etc. Ma just li «forenes» es
 posit in li «montrofenestro» de Esperanto, quam noi ha posset vider in
 li raporte al Liga de Nationes, por monstrar que li diferentie de
 Esperanto e li nov projectes es solmen minimal. «Bluff for outsiders».
@@ -1726,7 +1726,7 @@ E{dot} W.
 J{dot} Rosselló-Ordines. Lingua intelligibil, sine studio, ad primo visu.
 Grammatica cum textu in interlingua et in Franc.
 
-Ti ovre de nor conosset samideano representa un adaptation del metode de
+Ti ovre de nor conosset «samideano» representa un adaptation del metode de
 Occidental ad Interlingua, penant eliminar del Latino sine Flexione li inregularitá
 de su participies heredat del latin. In general il repeti li idées ja
 expresset in Kgl. Nr 3-4 (21-22) 1924 con quelc variationes. Basant
@@ -1753,40 +1753,40 @@ Prof. R.-O. nu vole conservar quam possibil anc li tema del infinitive,
 e il discerne du coses: Th (thema general {equals} infinitive minus r) e G
 (generator {equals} participie passat {equals} Th + to).
 
-Nota. Si Th fini per x, s, d (changeat in s) on adjunte solmen o.
+Nota. Si Th fini per _x, s, d_ (changeat in _s_) on adjunte solmen _o_.
 
-Li finale e del Th deveni curt i in G.
+Li finale _e_ del Th deveni curt _i_ in G.
 
-amar -- amato, gemer -- gémito, ma dicer -- dicto, vider -- viso,
-annexer -- annexo, audir -- audito.
+_amar_ -- _amato_, _gemer_ -- _gémito_, ma _dicer_ -- dicto_, _vider_ -- _viso_,
+_annexer_ -- _annexo_, _audir_ -- _audito_.
 
-Do in li verbes dicer, vider, annexer li Th ne es dice, vide, annexe ma
-dic, vid, annex, e in gemer it ne es gem ma geme. Regretabilmen li
-estimat autor ne di nos qualmen un person ne-latinist va saver ca li e
+Do in li verbes _dicer, vider, annexer_ li Th ne es _dice, vide, annexe_ ma
+_dic, vid, annex_, e in _gemer_ it ne es _gem_ ma _geme_. Regretabilmen li
+estimat autor ne di nos qualmen un person ne-latinist va saver ca li _e_
 apartene al Th o ne.
 
 Proque nu mult latin verbes ne submisse se a ti regules, li autor deve
 un poc changear les, specialmen li infinitive. Talmen noi recive li nov
-formes: construcer, elecer, andjuncer, afflicer, esque anc fluxer?
+formes: _construcer, elecer, andjuncer, afflicer_, esque anc _fluxer_?
 
 Regretabilmen li autor ne ha corectet, ni mem alludet li mancas de su
 sistema queles noi ha criticat in li sam Nr. 21-22 de Kosmoglott. Il
 simplicmen tace li desfacilitás, p. ex. qualmen es soluet li question
-con li verbes L.: tangere -- tactum, creder esque creso? rumpere -- ruptum
-(ruper?) posse, venire -- ventum, nascere -- natum, noscere -- notum,
-currere -- cursum, fingere -- fictum, fluere -- fluxum (fluxer?),
-frangere -- fractum (fracer?) fundere -- fusum, mergere -- mersum,
-movere -- motum, mulgere -- emulsion, pellere -- pulsum, premere -- pressum,
-quaerere -- quaesitum, adhaerere -- adhaes-ion, scindere -- scissum,
-sidere -- sess-ion, solvere -- solutum, stringere -- strictum,
-terere -- tritum, torquere -- tortum, vivere -- victum, vincere -- victum
+con li verbes L.: _tangere_ -- _tactum_, _creder_ esque _creso_? _rumpere_ -- _ruptum_
+(_ruper_?) _posse_, _venire_ -- _ventum_, _nascere_ -- _natum_, _noscere_ -- _notum_,
+_currere_ -- _cursum_, _fingere_ -- _fictum_, _fluere_ -- _fluxum_ (_fluxer_?),
+_frangere_ -- _fractum_ (_fracer_?) _fundere_ -- _fusum_, _mergere_ -- _mersum_,
+_movere_ -- _motum_, _mulgere_ -- _emulsion_, _pellere_ -- _pulsum_, _premere_ -- _pressum_,
+_quaerere_ -- _quaesitum_, _adhaerere_ -- _adhaes-ion_, _scindere_ -- _scissum_,
+_sidere_ -- _sess-ion_, _solvere_ -- _solutum_, _stringere_ -- _strictum_,
+_terere_ -- _tritum_, _torquere_ -- _tortum_, _vivere_ -- _victum_, _vincere_ -- _victum_
 etc. etc.
 
 Ci adjunte se ancor li desfacilitá totalmen tacet pri li assimilation
-del consonantes por ex. trah-er -- trah-to -- tracto,
-distinguere -- distincto, jungere -- juncto etc.
+del consonantes por ex. _trah-er_ -- _trah-to_ -- _tracto_,
+_distinguere_ -- _distincto_, _jungere_ -- _juncto_ etc.
 
-Li desfacilitá pri constant mutation del consonante in dicer -- dicto anc
+Li desfacilitá pri constant mutation del consonante in _dicer_ -- _dicto_ anc
 es suficent grand in conjugation.
 
 Do yo trova que ti parte del labor del estimat prof. R.-O. ne es vermen
@@ -1798,25 +1798,25 @@ reveni al solution de Dr. Zamenhof con li tegment-lítteres in un plu
 modern visage, per un apostrofe, do g' {equals} dj, ch' {equals} tch, l' {equals} quam in
 Occidental.
 
-Li nominatives me e te sembla esser repugnant, un casu objectiv es
+Li nominatives _me_ e _te_ sembla esser repugnant, un casu objectiv es
 solmen in li triesim person. Ma in li unesim it vell esser anc necessi
 quam monstra li modern europan lingues.
 
 Li altri pronómines latin regretabilmen ne conforma se al regul del
-accentu alíqui, aliquíd, altér, ultér, illúd, idém, nunquám etc. e in
-general tre mult latin paroles ne va submisser se a ti regul: juvénes,
-homíne, sempér, quamódo, extér, pretér, supér, puéro.
+accentu _alíqui, aliquíd, altér, ultér, illúd, idém, nunquám_ etc. e in
+general tre mult latin paroles ne va submisser se a ti regul: _juvénes,
+homíne, sempér, quamódo, extér, pretér, supér, puéro_.
 
 Secun Peano in Interlingua es admisset omni parol Anglo-latin, ma in
 facto Interlingua, anc ti de prof. R.-O. contene mult latin obsolet
-formes ja ne existent in li modern lingues quam p. ex. acervo (amasse),
-sole (D pflegt) quel coincide con sole (D Sonne) e solo (D allein), hom
-{equals} F on, obsequio (F hommage), fier (D werden), suffixe -ense
-(Siam-ense), post-charta, etc.
+formes ja ne existent in li modern lingues quam p. ex. _acervo_ (amasse),
+_sole_ (D _pflegt_) quel coincide con _sole_ (D _Sonne_) e _solo_ (D _allein_), _hom_
+{equals} F _on_, _obsequio_ (F _hommage_), _fier_ (D _werden_), suffixe _-ense_
+(_Siam-ense_), _post-charta_, etc.
 
 // XXX NOTE: ci esset li marca original de págine -27-
 
-Curios e nelatin sembla nos paroles quam: mutto (parol, F mot) midio =
+Curios e nelatin sembla nos paroles quam: _mutto_ (parol, F _mot_), _midio_ {equals}
 1/2.
 
 Interessant e elegant es li clar disposition del materiale, nov in li
@@ -1825,29 +1825,29 @@ maniere ti del prepositiones e afixes, qui es gruppat ne in li alfabetic
 Occidental (li form self del sufixes sovente es plu arcaic latin) ma
 existe quelc nov vispunctus queles merite special mention e discussion.
 
--etu (L -etum) es absolut obsolet e existe solmen in quelc poc paroles,
+_-etu_ (L _-etum_) es absolut obsolet e existe solmen in quelc poc paroles,
 in omni casu it ne es international.
 
-In li sense de collective nu es quasi international li suffix -age,
+In li sense de collective nu es quasi international li suffix _-age_,
 boscage, plumage etc., ma ti suffixe ne es usat che Sr. R.-O.
 
 // XXX FIXME «es international til R.»:
 
 Sr. R.-O. abuse li idé que just Latin es international. Li rota del
 historie ne torna ad retro e hodie altricos es international quam in
-témpores de antiqui latin, p. ex. li radica manca es international til
-R{dot} durant que carenti es obsolet parol solmen scientic. Li lingue international ne es
+témpores de antiqui latin, p. ex. li radica _manca_ es international til
+R{dot} durant que _carenti_ es obsolet parol solmen scientic. Li lingue international ne es
 solmen un lingue por scientistes, e deve esser un vivent lingue e ne
 basat sur martallia.
 
-Li contrarietá, expresset per du affixes: des- e anti- sembla esser ne
+Li contrarietá, expresset per du affixes: _des-_ e _anti-_ sembla esser ne
 rect preciset.
 
-Es dit, que anti es usat in vocabules ne verbisabil, ples comparar F
-antidater, antidoté.
+Es dit, que _anti_ es usat in vocabules ne verbisabil, ples comparar F
+_antidater, antidoté_.
 
-Inversmen des sovente es usat che paroles ne verbisiabil p. ex. F
-désastre, désavantage, désharmonie.
+Inversmen _des_ sovente es usat che paroles ne verbisiabil p. ex. F
+_désastre, désavantage, désharmonie_.
 
 Sembla me que li idé de ti du affixes es fundamental divers in li sense
 del movement, max bon comprensibil per ideografic representation:
@@ -1856,28 +1856,28 @@ anti {equals} →←: anticrist, antisocial, antisemit.
 
 des {equals} ←→: desarmar, desharmonie, deshonor.
 
--urio sembla ne motivat.
+_-urio_ sembla ne motivat.
 
-Tre bon es li remarcat qualitá que li suffix -ia local, pos i del radica
-contracte se ad i accentuat: librario-libraria.
+Tre bon es li remarcat qualitá que li suffix _-ia_ local, pos _i_ del radica
+contracte se ad _i_ accentuat: _librario-libraria_.
 
-Íncomprensibil es li diferentie inter arium e -aria, aquarium e aquaria.
+Íncomprensibil es li diferentie inter _-arium_ e _-aria_, _aquarium_ e _aquaria_.
 
-Absolut ínmodern es conservar li a final in -ista. a have li idé
-international de feminin e ci a final in ti sufixe ha perdit se in li
+Absolut ínmodern es conservar li _a_ final in _-ista_, _a_ have li idé
+international de feminin e ci _a_ final in ti sufixe ha perdit se in li
 principal lingues ADFR!
 
 Li sense de ti suffix: fautore es ne per extension, ma primitiv, e li
 altri sense tecnic, artistic es per extension.
 
--ario ne sempre significa officie, occupation, function, ples comparar:
+_-ario_ ne sempre significa officie, occupation, function, ples comparar:
 millionario, destinatario.
 
-Li suffixe -ilia sembla esser ne motivat; li exemples citat ne es
+Li suffixe _-ilia_ sembla esser ne motivat; li exemples citat ne es
 convictiv.
 
-Interessant es anc li sense de -eo (igneo, aureo) {equals} simil in aspectu, in
-composition e li juxtaposition apu -ear, quel sufixe es prendet just in
+Interessant es anc li sense de _-eo_ (_igneo, aureo_) {equals} simil in aspectu, in
+composition e li juxtaposition apu _-ear_, quel sufixe es prendet just in
 li sense de Occidental.
 
 In summa un interessant e scientic ovre, quem omni interlinguist
@@ -1918,6 +1918,9 @@ Do ne possente refutar in maniere vermen scientific li bon fundat
 metodes de Occidental il repeti denove omni old fals assertiones del
 annu 1922!
 
+// XXX TODO marcar:
+// https://anno.onb.ac.at/cgi-content/anno-plus?aid=e0g&datum=1927&page=34&size=80
+
 Quelc exemples ex su critica: Il critica li different finales del
 infinitive ar, ir, er, e del participie at, it, et, e nomina to
 exceptiones. Do il sembla ne comprender que li finale es r (resp. t) e
@@ -1937,17 +1940,15 @@ de Prof. Couturat. Il scri p. ex.: «Vice “institucuro” apud
 Vermen «si tacuisses…!» Li parol institution es regularmen derivat de
 institu-er, institu-t, institu-t-ion, etc.
 
-// XXX TODO: Confirmar «pri c»:
-
-Il scri pri c: «Ta semblanta naturaleso esas tote superflua e nur
-nocoza naturales. Ma per ti nocoza naturaleso Occidental deriva
+Il scri pri _c_: «Ta semblanta naturaleso esas tote superflua e nur
+nocoza naturaleso». Ma per ti _nocoza naturaleso_ Occidental deriva
 regularmen, quo Ido ne posse: catolic-catolicism, (in Ido katolikismo),
 classic-classicism, silice-silicio-silicat, dec-decade-decimal-decimetre
 etc., caduc-caducitá, vice-vicario-vicariatu,
-simplic-simplicitá-simplicissim.»
+simplic-simplicitá-simplicissim.
 
 Pri ti ultim parol sr Peus ne posse comprender per quo ti parol es plu
-bon quam *simpla*. Nu 1) simplic (= sin plic {equals} ohne Falte) es parallel
+bon quam _simpla_. Nu 1) simplic (= sin plic {equals} ohne Falte) es parallel
 a du-plic, tri-plic etc. e 2) derivar regularmen simplicitá,
 simplicissim, duplicitá etc., international conosset paroles!, li
 Ido-paroles simpleso, duopleso etc. existe necú. E pri ti metode de
@@ -1967,7 +1968,7 @@ E{dot} de Wahl
 // XXX NEW: Li supra titul esset mettet in ti edition.
 
 Li Union del esperantistic laboreros, Leipzig-Thonberg, Wasastr. 16, ha
-editet un german brochura in 32 págines, con titul Die Wahrheit über Ido
+editet un german brochura in 32 págines, con titul _Die Wahrheit über Ido_
 (Li veritá pri Ido). It contene un curt exposition pri li historie del
 Delegitaro por adopto di Linguo Internaciona Helpanta, pri li lingual
 reformes de Ido es un explication detalliat pro quo li esperantistes
@@ -2018,7 +2019,7 @@ ____
 Universala Esperanto-Asocio, pere de la
 Centra Oficejo, entreprenis kompletan bibliografion kaj katalogon de
 ĉiuj «mondlingvaj projektoj». Unuaj monatoj jam alportis pli ol 400
-nomojn. (Ordinare oni scias nur pri 150 ĝis 200 lingvojprojektoj).
+nomojn. (Ordinare oni scias nur pri 150 ĝis 200 lingvo-projektoj).
 Fakuloj, kiuj konas mondlingvajn verkojn, aliajn ol tiuj de la nomaro en
 Oficiala Jarlibro 1925, bonvolu komuniki precizan titolon, aŭtornomon,
 formaton, paĝonombron. Kiu scias pri nepublikitaj reformprojektoj aŭ
@@ -2138,11 +2139,11 @@ D piece)!
 // XXX NOTE: ci esset li marca original de págine -31-
 
 Un parol quam _danco_ possibilmen un german o angles va miscomprender
-in F merci, D dank, A thank. Ma _danco_ Esperanto {equals} F danse, A
-dance, IS danza, D tanz!
+in F _merci_, D _dank_, A _thank_. Ma _danco_ Esperanto {equals} F _danse_, A
+_dance_, IS _danza_, D _tanz_!
 
 Ma in li form _laca_ omni occidentale va creder reconosser li liquide:
-A lac, S laca, I lacca, D lack. Támen _laca_ Esperanto {equals}
+A _lac_, S _laca_, I _lacca_, D _lack_. Támen _laca_ Esperanto {equals}
 «fatigat» (FSAL)!…
 
 [.author]
@@ -2425,10 +2426,7 @@ babillar quam infantes.
 E it sembla me que on nequande va posser fortiar (per quel medies?)
 civilisat homes parlar quam barbares.
 
-// XXX TODO: Confirmar «nationes del occidente» (originalment
-// «nationes del occ.»):
-
-Un lingue international auxiliari por li cultural nationes del occidente ne posse esser
+Un lingue international auxiliari por li cultural nationes del Occidente ne posse esser
 altri quam un lingue reflectent lor cultur. Un masse de practic, natural
 e cultural factores acte quam linguistic formativ e limitativ potenties:
 historic, politic, geografic, economic, estetic, etc. Determinativ va
@@ -2476,7 +2474,7 @@ international vocabularium -- cultural, scientic, tecnic, etc. paroles
 -- constitue li íncontestabil base por li lingue international.
 
 Si on ne vole, quam fa cert linguificatores -- accepter li existent
-scientic e tecnic terminologie tal qual it es, on es fortia rebaptisar
+scientic e tecnic terminologie tal qual it es, on es fortiat rebaptisar
 li tot scientie e tecnica de Occident -- un labor de Sisifos. Util?
 Possibil?
 
@@ -2526,11 +2524,11 @@ de paroles li practic conossentie de Esperanto es aquisitet in plu curt
 témpore; e que just li possibilitá formar regularmen derivates «per bon
 diferentiat afixes» es un ínsuperabil qualitá de Esperanto, quel talmen es
 superior a omni lingue international sur neolatin base.footnote:[Ma li regulari
-derivates ne es international: aviadisto, senpere, alcentrigo (in
+derivates ne es international: _aviadisto, senpere, alcentrigo_ (in
 Occidental aviator, ínmediat, concentration regulari derivationes), e
 li acceptet secun regul 16 international paroles ne es regularmen
 derivat ma sta isolat exter gramatical coherentie qual exceptiones:
-observatorio, produktiva, transformatoro (in Occidental ili es
+_observatorio, produktiva, transformatoro_ (in Occidental ili es
 regulari derivationes observa-t-or-ia, pro-duct-iv,
 trans-form-a-t-or).]
 
@@ -2554,8 +2552,8 @@ predilection a long composites con special nuancies es un specific
 caractere del lingues de primitiv popules.]
 Ma just li parol redaction,
 existent in omni principal europan lingues til li Russ, ne existe in
-Esperanto{blank}footnote:[Li nov introductet redakcio sta exter
-grammatical conexe con li radica redakt.],
+Esperanto{blank}footnote:[Li nov introductet _redakcio_ sta exter
+grammatical conexe con li radica _redakt_.],
 e vice posser utilisar un conosset parol (ultra to absolut
 regularmen derivat in Occidental), on deve chascun vez composir un ancor ne
 existent e ne usabil necú nov parol secun li tre special nuancie. Esque
@@ -2563,8 +2561,8 @@ to es facil e economic?
 
 Ma in altri casus pro mancant diferentiat adjectivic sufixes un sol
 parol deve expresser tre diversi senses, sovente totalmen ne precisibil
-per li contextu, p. ex.: paca kongreso. Ca to es D friedlicher Kongreß o
-Friedenskongreß?
+per li contextu, p. ex.: _paca kongreso_. Ca to es D _friedlicher Kongreß_ o
+_Friedenskongreß_?
 
 Li possibilitá formar per li sam affixe un masse de paroles con paralel
 sense es certmen un avantage in un lingue, ma it relate solmen nov
@@ -2576,13 +2574,13 @@ producter un quantité de nov paroles por nov conceptiones queles ha
 mancat les til tande. It es do clar que ili producte les per li sam
 afixe, ja usat in lor lingue, sin cuidar pri ja internationalisat
 formes in li grand europan lingues. (flotte, biblioteca, vocabularium
-etc.)footnote:[Ma anc ili ne di arbaro, herbejo quam in Esperanto ma
+etc.)footnote:[Ma anc ili ne di _arbaro_, _herbejo_ quam in Esperanto ma
 have autonom paroles por ti conceptiones de un propri totalité. Esque
-vermen apu vocabularium (vortaro), arbaro ne vell significar plu bon D
-Baumschule, F pépiniére, I semenzajo quam just un forest? Sr. Teo Jung
+vermen apu «vocabularium» (_vortaro_), _arbaro_ ne vell significar plu bon D
+_Baumschule_, F _pépiniére_, I _semenzajo_ quam just un forest? Sr. Teo Jung
 in su jurnal «Heroldo de Esperanto» nr. 14 scri pri li paroles
-mal-bona, mal-longa etc: En la poezio sin venĝas tiu ŝajna facileco
-akirita per ŝparo de tiaj preskaŭ ĉiuminute uzataj esprimoj.]
+_mal-bona_, _mal-longa_ etc: «En la poezio sin venĝas tiu ŝajna facileco
+akirita per ŝparo de tiaj preskaŭ ĉiuminute uzataj esprimoj».]
 It es un processe absolutmen analog al formation de paroles por nov
 coses quam che ti tribe de Central Africa, qui nomina un chapel:
 cap-tegmente.footnote:[It es un nationalistic lude quel ha productet D
@@ -2653,7 +2651,7 @@ Li criticantes qui trova Esperanto plu facil di que ili hesita che usa de ti
 o altri form in Occidental, quo ili ne senti usante Esperanto. Unesimmen on deve
 constatar que Esperanto es ja familiari por ili e Occidental ínconosset.
 Ultra to partmen ti hesitation veni de to que ancor ne existe plen
-lexicos national-occidental (almen ja printat), e anc solmen poc
+lexicos national-Occidental (almen ja printat), e anc solmen poc
 persones possede li Occidental-national Radicarium (presc nequande li
 seniores criticantes).
 
@@ -2706,7 +2704,7 @@ erudites, qui forsan vell posser exister sin it, ma anc por li grand
 masses del popules. To es naturalmen ver. Ma anc por ili un lingue quasi
 natural, quam Occidental, va esser plu facil, proque it totmen ne es tam facil
 por li simplic hom discerner li grammatical categories, quam on asserte
-to! On save p. es. que in German e Dan lingue li substantives es scrit
+to! On save p. ex. que in German e Dan lingues li substantives es scrit
 per majuscules. Nu, chascun quel havet occasion observar infantes e
 ínerudites va constatar li grand confusion in scrition de majuscules. Do
 anc li reclam-laudat finales de grammatical categories es plu un
@@ -2719,9 +2717,9 @@ adjectivic e adverbial sufixes.
 
 Anc li postulation formar self o deschifrar Esperanto-charades on ne posse
 nominar facilitá. O esque p. ex. talmen commun paroles quam li
-Esperantan sciigo, senpere, estro, militistara, nepre etc. es plu facil
-anc por li max ínerudit simplic hom quam information, ínmediat, chef,
-militari, absolut?
+«Esperantaj» _sciigo, senpere, estro, militistara, nepre_ etc. es plu facil
+anc por li max ínerudit simplic hom quam _information, ínmediat, chef,
+militari, absolut_?
 
 // XXX NOTE: li marca original de págine -39- esset in li
 // sequent paragraf:
@@ -2737,7 +2735,7 @@ ductores.
 
 It es vermen ja urgent témpore, que omni progressiv clarvident e etic
 persones de alt cultura e tendentie mey uniar se circum li democratic
-latin. «Occidental», quel pro manca de arbitrari regules es sempre
+latin «Occidental», quel pro manca de arbitrari regules es sempre
 perfectibil in omni direction.
 
 It es necessi aperter li ocules al misguidates per li micri capitalistic
@@ -2756,13 +2754,13 @@ utopisteríe, si ili ne have li possibilitá parlar pri su real necessitás
 in un lingue correspondent a nor hodial statu de cultura. E li grand
 joyosi masse va aprender Occidental in sam curt témpore quam nu Esperanto, ma
 con plu grand cultural e civilisatori valore por ili self. E si on va
-asserter que ili nequande va parlar it rect, mi va questionar quant
+asserter que ili nequande va parlar it rect, yo va questionar: quant
 persones usa in just maniere li acusative?, mem ne li redactores de
 jurnales.footnote:[Ples comparar li constatation de plu quam 10 casus
 de fals usat acusative in un sol nr del official gazette de
 «Universala Esperanto-Asocio» (Kosmoglott nr 5). Mem li redactor de «Bulteno
 de Internacia Scienca Asocio Esperantista» ne save usar it rect,
-scriente (nr 6, april 1927, pag. 13): lau la metodojn uzitajn.]
+scriente (nr 6, april 1927, pag. 13): «laŭ la metodojn uzitajn».]
 
 35 annus li Esperantistes ha luctat con bon conscientie por victorie de
 lor idé e ili esset fort!
@@ -2781,7 +2779,7 @@ E{dot} de Wahl
 // paragraf:
 
 In «La Progreso», Oficial organ del Tchecoslovac Esperanto-Association,
-marte 1927, sub titul Rememorajhoj pri la unua tempo de Esperanto O. D.
+marte 1927, sub titul _Rememoraĵoj pri la unua tempo de Esperanto_ O. D.
 Ribaulb raporta (traduction ex Esperanto): «Li max interessant epistul
 de Dr. Zamenhof, quel es in li colection de «Espero», datat 1889,
 contene li confession quel jetta un ínatendet lúmine sur li historie de
@@ -2793,15 +2791,13 @@ rol cosmopolitic e pro su historic traditiones. Con li lingue vell venir
 li nov religion Homaranismo, quel finalmen deveni religion del tot
 munde. Do li amore a su popul, li nationalism, ha esset li prim motor
 por Zamenhof, quel adjunte
-in li sam epistul: si yo ne vell firm creder que li nov religion va
+in li sam epistul: «si yo ne vell firm creder que li nov religion va
 triumfar, yo nequande vell publicar li lingue, quel es solmen medie, ne
-scope… Quam omni fundatores de religiones, anc Zamenhof ha creat dogmas.
-Omni hom es líber acceptar les o ne, ma ne discusser!»
-
-// XXX FIXME Confirmar: «for por victoriar» -> «por victoriar»
+scope…» Quam omni fundatores de religiones, anc Zamenhof ha creat dogmas.
+Omni hom es líber acceptar les o ne, ma ne discusser!
 
 Malgré ti conception, pri quel li estimat letor self mey judicar, it es
-tre dubios que li «Homaranismo» del Esperantistes va esser suficent for
+tre dubios que li «Homaranismo» del Esperantistes va esser suficent fort
 por victoriar súper li resistentie del munde non-esperantistic, essent
 in aplastant preponderantie. In ultra li homaranistes in Esperantujo
 self es solmen un micri minorité, contra que ti homes quel vole usar li
@@ -2820,11 +2816,8 @@ ne successe capter les, pro que it es null. Talmen it es comprensibil
 que li ductores sempre demanda perseverantie e «sinofero»
 (self-sacrificie) del propagandistes.
 
-// XXX TODO Confirmar esque «fair» es anglesi (dunc in cursive) o
-// tiperra:
-
-Noi totalmen ne condamna li fair utilitarisme, pensante que sub li
-actual circumstanties li Lingue International va introducter-se
+Noi totalmen ne condamna li _fair_ utilitarisme, pensante que sub li
+actual circumstanties li lingue international va introducter-se
 unesimmen solmen in comercie, tecnica, scientie, radio e céteri trafica.
 Poy, quande it es aconosset e oficialisat generalmen quam lingue
 auxiliari, it va conquestar poc a poc, sin sucusses e revolutiones, li
@@ -2835,7 +2828,7 @@ successiv introduction e natural evolution es possibil solmen per un
 lingue inter-national del tip de Occidental, basat sur li dominant
 cultur-paroles occidental, e ne per atrusiv imperialisme de un
 artificial jargon extra-national de isolat secta quel continualmen
-discrediter li idé del lingue international.
+discredita li idé del lingue international.
 
 In su libre «Delphos» Miss S. Pankhurst cita un judicie de Liga de
 Nationes pri Esperanto: «LdN caus reciver votas pro adoption de Esperanto
@@ -2857,10 +2850,10 @@ mistificationes.
 // paragraf:
 
 Cúlmine de menties (o «sinofero»?) pro la «sankta afero» es un
-Esperanto-prospecte de Steyrermühl-Verlag, Wien, u dr Pfeffer scri: «E.
+Esperanto-prospecte de Steyrermühl-Verlag, Wien, u dr Pfeffer scri: «Esperanto
 trace li linea medial del europan lingues. It es plu educativ e ligativ
 quam quelcunc lingue, pro que it doce al europanes lu comun in lor
-lingues! Li studia de E. have un extrem plu alt valore educativ quam ti
+lingues! Li studia de Esperanto have un extrem plu alt valore educativ quam ti
 de un altri lingue, pro que on apropria se per it lu comun e essential
 de omni europan lingues e un
 ampli conossentie de extran paroles!» Ti ci teses sembla esser copiat de
@@ -2955,7 +2948,7 @@ quel es tot pret e oferta li max grand avantages.»
 
 To es sin dubita tre ver. It va depender de to, ca Paneuropa o li
 Triesim Interantionale va electer. Yo támen ne pensa que to va esser
-Ido. Li sol possibil election e inter Esperanto e Occidental, nam presc li
+Ido. Li sol possibil election es inter Esperanto e Occidental, nam presc li
 sam simplificationes proposit de Nemo on posse far anc in Esperanto e tande
 li chances de Ido es denove diminuet. Li reformas de Nemo es li unesim
 batte de martelle. Va sequer altris pri li derivation, pri li tot
@@ -2989,13 +2982,13 @@ In ti articul «Lexikologio de Arulo» (tal es li nómine del nov Idido, un
 apoteose de scolasticitá) noi vide que anc in su logica Dr. T. severmen
 contradí a se self in chascun passu. Il contradí al principie nr II «Li
 original paroles deve esser maxim international possibil». Li parol
-verdar {equals} D werden, F devenir, contradí al principie III: «un form deve
+verdar {equals} D _werden_, F _devenir_, contradí al principie III: «un form deve
 reciver li comun international signification, ne un altri!» Nu li form
-verd es conform al parol F verg A green, e ne a D «werden», quel anc ne
+_verd_ es conform al parol F _verg_, A _green_, e ne a D _werden_, quel anc ne
 es international. Yo cita ancor quelc altri «international» paroles de
-Arulo: termato, gresar, erastanti, noturizar, arkíatro, arkto (ne arctic
-ma F étroit D eng), axino, barno, bizoniar ne parent con bison),
-borno (ca D Born o F borne?), qui save to sin explication, e quel logica
+Arulo: _termato, gresar, erastanti, noturizar, arkíatro, arkto_ (ne «arctic»
+ma F _étroit_, D _eng_), _axino, barno, bizoniar_ ne parent con _bison_),
+_borno_ (ca D _Born_ o F _borne_?), qui save to sin explication, e quel logica
 vell auxiliar nos ci, si ne li «sic volo, sic jubeo» de Dr Talmey?
 
 Si in un lingue monstra se talmen divergent flutiones quam li du supra
@@ -3050,7 +3043,7 @@ omni europan lingues (de Portugal til Russia) usa les precipue
 // XXX TODO: Confirmar corection fat: «Academie de» -> «Academie del»:
 
 In ti 3 casus li scrition per duplic consonantes es obligativ. Ma in
-general on max aplicar hodie in Occidental preliminarimen li facil
+general on max aplica hodie in Occidental preliminarimen li facil
 regul: «In dubita ples scrir un consonant!» To es tre simplic e ne
 imposi studia durant mult annus, quam on vole far creder. Ma it es
 possibil que li futuri Academie del Lingue International, fundat p. ex. per Liga de
@@ -3085,9 +3078,9 @@ sovente quam Occidental e malgré li acusa de letores, que it retarde li
 Li historie del scientie de lingue international monstra que li evolution desde Volapük
 til li max recent sistemas es in direction a plu grand internationalitá
 e naturalitá e minu arbitraritá e artificialitá. In Occidental es
-atinget li maximum possibil. Ne conservante antiquat formes latin charta
-(paper), copia (abundantie), equo (cavalle) quam Interlingua de prof.
-Peano, ni compilante hiperlogic caprioles savigar da olua registragisto
+atinget li maximum possibil. Ne conservante antiquat formes latin _charta_
+(paper), _copia_ (abundantie), _equo_ (cavalle) quam Interlingua de prof.
+Peano, ni compilante hiperlogic caprioles _savigar da olua registragisto_
 (informar su registrator) quam Ido, li lingue Occidental marcha li
 medial via aurin. Abstraente de su derivation-metode mem plu
 elefantiastic, Ido esset forsan plu modern quam Esperanto; to es ante 1922.
@@ -3098,7 +3091,7 @@ coherentie del paroles e just pro to anc fa desfacil li
 aprension{blank}footnote:[P. ex. li perhorrescet historic «aphel» es
 etimologicmen plu transparent quam «afel», in quel es efaciat li
 coherentie con «peri-hel». Solmen li adept save que li Esperanto-Ido
-klorofilo es chlorophyll e ne chlororphil. Li Italian ha tant consumat
+_klorofilo_ es «chlorophyll» e ne «chlororphil». Li Italian ha tant consumat
 apt e act, radicas genuin e completmen international per su derivates,
 que it hodie have solmen li un parol atto por li du significationes
 disparat.], es un tre riscant lude: nam on ne save que li publica va
@@ -3152,7 +3145,7 @@ Secun Miss Pankhurst Occidental es un «partially a priori amalgam». Quam
 «purmen apriori» ella nomina li formes «fe», «vell». Ma in un frances
 dialecte on di justmen: _il fe remesser_, e «vell» es latin _vellem, velles,
 vellet_ {equals} angles _would_ e usat in sam maniere. Si «fe» e «vell» es apriori,
-tande in li laudat Interlingua li auxiliari del preterit e anc es tal,
+tande in li laudat Interlingua li auxiliari del preterit _e_ anc es tal,
 proque in veritá it es un prefixe in li grec verbes, ma in Occidental li
 «juxtaposition of words from various languages makes a discordant
 impression». Tamen in Interlingua to es permisset, e mem li usation de
@@ -3174,7 +3167,7 @@ es remarcat!
 «It is strange to introduce a synthetic perfect … fe {equals} did,
 and hav{blank}footnote:[Un tal auxiliari ne existe in Occidental.]
 {equals} to have. Fe is in part used like the English did; but in English,
-of course, did is used «correctly» (nor sublineation) only in the
+of course, _did_ is used _correctly_ (nor sublineation) only in the
 negative and interrogative. To employ it in the affirmative is
 colloquial, if not vulgar».
 
@@ -3190,7 +3183,7 @@ It ne es tuchat lu fundamental nov, inaugurat in li mundlingual movement
 per Occidental, i.e. su mirabil metode derivar regularmen omni
 ínregulari international paroles de latin orígine, e su profund cultural
 e pedagogic valore in li cristallin clar analise del conosset, ma ne
-comprendet del popul-masses international scientic paroles. Per ti
+comprendet del popul-masses, international scientic paroles. Per ti
 cultur-action, Occidental va esser un del max efectiv medies por
 destructer li mures inter li erudit latinistes e li «profanum vulgus» e
 talmen apporta su lepta al mitigation del sempre crescent lucta de
@@ -3211,20 +3204,20 @@ Julian Prorók
 
 // XXX TODO: Confirmar titul del libre e marcation de paroles:
 
-Interlexico del lingue arico-semitic.
-Monario-italiano-français-english-deutsch de Aldo Lavagnini, Roma 1926.
+_Interlexico del lingue arico-semitic.
+Monario-Italiano-Français-English-Deutsch_ de Aldo Lavagnini, Roma 1926.
 -- Vermen on ne posse dir per quel rasones li autor es ductet ad
 introducter radicas ne international grec, arab, sanscrit, russ etc.
-sembla anc esser paroles negri-somali e tamil p. ex. ibar {equals} comprar. Ma
+Sembla anc esser paroles negri-somali e tamil p. ex. _ibar_ {equals} comprar. Ma
 proque ne existe lexicos national-monario on ancor ne posse usar ti
 lingue, tre desfacil a comprender ye unesim vide. Qui va saver p. ex.
-que xar {equals} tsar, e {equals} forsan, zanho {equals} mercur, zazar {equals} agitar, wienco =
-scientie, weptro {equals} sceptre, kamar {equals} amar, udo {equals} aqua, etc. …? Li
+que _xar_ {equals} tsar, _e_ {equals} forsan, _zanho_ {equals} mercur, _zazar_ {equals} agitar, _wienco_ {equals}
+scientie, _weptro_ {equals} sceptre, _kamar_ {equals} amar, _udo_ {equals} aqua, etc. …? Li
 german traduction es fat tre ínsuficentmen. Visibilmen li autor ne
 conosse ti lingue, proque li lexico abunda ye erras e tal paroles quel
-ne existe in german, ni mem quam parol extran, quam p. es. skiuren por
-Eichhorn, handgeben por einhändigen, Flösse por Floß etc. E paroles
-german quam Konscius, vituperieren etc. totalmen ne existe. Russ doroga
+ne existe in german, ni mem quam parol extran, quam p. ex. _skiuren_ por
+_Eichhorn_, _handgeben_ por _einhändigen_, _Flösse_ por _Floß_ etc. E paroles
+german quam _Konscius_, _vituperieren_ etc. totalmen ne existe. Russ _doroga_
 significa «via» e ne «car». Do secun ti provas on ne save si on posse
 fider al paroles sanscrit, tamil, arab etc. Talmen it es regretand que
 anc li scientic valore es problematic.
@@ -3245,17 +3238,20 @@ monument índelebil, si il vell perfinir ti grandissim ovre con li
 necessi precautiones, i.e. it deve esser sin grav erras, e to postula un
 tal conossentie de lingues, quel sr L. visibilmen ne possede. It ne
 suffice prender li 23 lexicos e prender del ta monstrat pluri paroles un
-de ili ad libitum quo ducte ad absurditás. Sr L. mey assecurar se li
+de ili _ad libitum_ quo ducte ad absurditás. Sr L. mey assecurar se li
 colaboration de national lingue-conossores, qui conosse almen 4 -- 5 del
 nominat lingues por posser controlar li plu precis sense del parol,
 altrimen va evenir tal cose, que per superficial examination yo ha
 constatat in li quar págines con 47 paroles ne minu quam 31 erras, li
 max mult de queles es originat per ínconossentie del lingues, e solmen
-poc per print-erras. p. ex.: ABANDON (D Verlassung ne existe), ABBATAR
-(ne D schlagen ma niederschlagen, R ne svalivat' ma nisvergat),
-AB-HORRAR (R imet' have li sense haver. Probabilmen in li lexico ha
-esset imet' otvrashtchenie {equals} haver horrore!), ABJEKTO (ne es D niedrig,
-R níchtojnyi ma D verworfen, R gnusnyi, niskí).
+poc per print-erras. p. ex.: _abandon_ (D _Verlassung_ ne existe), _abbatar_
+(ne D _schlagen_ ma _niederschlagen_, R ne _svalivat'_ ma _nisvergat'_),
+_ab-horrar_ (R _imet'_ have li sense «haver». Probabilmen in li lexico ha
+esset _imet' otvrashtchenie_ {equals} «haver horrore»!), abjekto (ne es D _niedrig_,
+R _níchtojnyi_ ma D _verworfen_, R _gnusnyi, niskí_).
+
+// XXX TODO 2023-04-17: missage misset al gruppe por confirmar li
+// accentuation del du russ paroles in li ultim frase in supra.
 
 [.author]
 E{dot} W.
@@ -3272,36 +3268,36 @@ Dr. Zamenhof ha explicat ti misterios radica in un epistul a sr. Boirac
 // XXX NOTE: li marca original de págine -47- esset in li sequent
 // paragraf:
 
-Dr. Zamenhof ha prendet it de D Kronprinzessin, quel il transscrit per
-kronprincedzino, concludente que li finale -edzino have li sense de…
-marita, ex quel il derivat li parol edzo por marito, pos
-subtraction de -ino, sufix por lu feminin.footnote:[Li originari
-signification (just conservat in Occidental) del sufix -in es:
+Dr. Zamenhof ha prendet it de D _Kronprinzessin_, quel il transscrit per
+_kronprincedzino_, concludente que li finale -edzino have li sense de…
+marita, ex quel il derivat li parol _edzo_ por marito, pos
+subtraction de _-ino_, sufix por lu feminin.footnote:[Li originari
+signification (just conservat in Occidental) del sufix _-in_ es:
 descendent, provenient, consistent de… (p. ex. argentin, marin,
 alpin, canin, cristallin, serpentin, rubin, maltin, bernhardin, platin
-de S plata {equals} argente etc.).] Analog il derivat: fraŭlo
-(garson) de fraŭlino (garsona e senioretta junt), kuzo (cusino) de
-kuzino (cusina)
+de S _plata_ {equals} argente etc.).] Analog il derivat: _fraŭlo_
+(garson) de _fraŭlino_ (garsona e senioretta junt), _kuzo_ (cusino) de
+_kuzino_ (cusina)
 
 On ne posse suficentmen admirar ti «logica», memorant a li «antediluvial
-scientistes» quel ha explicat li etimologie de A monkey (simio) per
-«creatur quel, hant manqué (mancat, fallit) devenir un hom, ha devenit
+scientistes» quel ha explicat li etimologie de A _monkey_ (simio) per
+«creatur quel, hant _manqué_ (mancat, fallit) devenir un hom, ha devenit
 un simio».
 
-Dr. Zamenhof arbitrari ha attribuet al -essin li signification de
-marita. Nam Prinzessin (sam quam Äbtissin, Diakonissin etc.) ne deve
-esser maritat, quáncam Kronprinzessin es sempre li marita del Kronprinz.
+Dr. Zamenhof arbitrari ha attribuet al _-essin_ li signification de
+marita. Nam _Prinzessin_ (sam quam _Äbtissin, Diakonissin_ etc.) ne deve
+esser maritat, quáncam _Kronprinzessin_ es sempre li marita del _Kronprinz_.
 To es li motive pro quel Dr. Zamenhof (con intention o sin) startat de
-Kronprinzessin. Ex ti ci unic casu, fals interpretat, Dr. Zamenhof deductet li
-pseudo-radica edzo. Talmen li element ess (quel naturalmen have li
+_Kronprinzessin_. Ex ti ci unic casu, fals interpretat, Dr. Zamenhof deductet li
+pseudo-radica _edzo_. Talmen li element ess (quel naturalmen have li
 sense: fémina, specialmen ligat con oficie o dignitá etc, p. ex.:
 directressa, actressa) prende arbitrarimen li sense de marito! On ne
 posse monstrar plu clar li metode capricios, e li procede presc pueril,
-quel li autor de Esperanto, li venerat Majstro de nor demí-fratres, ha
+quel li autor de Esperanto, li venerat «Majstro» de nor demí-fratres, ha
 aplicat in li construction de su lingue.footnote:[Ples admirar anc li
-Esperanto-paroles ega (grand) e estro (mastro), queles es resultat per
-amputation de G m-ega e IS ma-estro, e -ingo de D R-ing (annel) por
-«portant», p. ex. kandel-ingo (candeliero), cigar-ingo (cigariero).]
+Esperanto-paroles _ega_ (grand) e _estro_ (mastro), queles es resultat per
+amputation de G _m-ega_ e IS _ma-estro_, e _-ingo_ de D _R-ing_ (annel) por
+«portant», p. ex. _kandel-ingo_ (candeliero), _cigar-ingo_ (cigariero).]
 To totalmen es simil al
 procedes de fabrication de Volapük.
 
@@ -3323,12 +3319,12 @@ L{dot} Couturat e li parte laudat del adeptes quam li max splendid de Ido,
 pro su logica. On discusse vicear li formes plulongigar, ekterigar,
 enkarcerigar per alongar, ekterar, enkarcerar etc.!
 
-In «Mondo» nr 7 sr. de Beaufront, li autor de Ido, scri: «Sintezesez
-esas kontreregula pri ke sintezar ne darfas existar en Ido. Sintezo esas
+In «Mondo» nr 7 sr. de Beaufront, li autor de Ido, scri: «_Sintezesez_
+esas kontreregula pro ke _sintezar_ ne darfas existar en Ido. _Sintezo_ esas
 nomo, ne verbo.» Ho no, sr. de B., secun vor regretat collego Dr.
-Couturat, li spiritus rector del Delegation, sintezo have radica verbal
-e sintezar existe in Ido, sam quam analizar, placar etc.! Ples consultar
-p{dot} ex. li «Kompleta Radikaro Ido-D», 1919 (composit de F. Schneeberger,
+Couturat, li spiritus rector del Delegation, _sintezo_ have radica verbal
+e sintezar existe in Ido, sam quam _analizar, placar_ etc.! Ples consultar
+p{dot} ex. li «Kompleta Radikaro Ido-Deutsch», 1919 (composit de F. Schneeberger,
 ex-presidente del Ido-Akademio e K. Feder, ex-secretario del
 Ido-Akademio), u vu va trovar printat per grass lítteres li special
 radica sintez-ar {equals} synthetisch behandeln, zusammenfügen (Teile zum
@@ -3349,8 +3345,8 @@ E{dot} P.
 === Ex nor movement
 
 Li comité preparativ del «Societé Interlinguistic» in Helsingfors ha
-editet un propaganda-brochura in sved lingue: Occidental -- ett
-västerländskt kultursprak de mag. phil. A. Z. Ramstedt.
+editet un propaganda-brochura in sved lingue: _Occidental -- ett
+västerländskt kultursprak_ de mag. phil. A. Z. Ramstedt.
 
 «A bis Z», Mitteilungen für Scheithauersche Stenographen, Leipzig, Nr. 3
 contene un articul propagativ por Occidental e Cosmoglotta. On di que li
@@ -4150,7 +4146,7 @@ Zamenhof, it es: junter li regularitá del grammatica con li naturalitá
 del radicas, sequer su fin linguistic instincte, visibil in su «lingvaj
 respondoj» e altri consilies, in ti témpore yo recivet un epistul de sr
 Antoni Grabowski, quel es talmen caracteristic por li evolution de ti
-conosset nobil samideano, que yo ne posse celar ti valorosi document
+conosset nobil «samideano», que yo ne posse celar ti valorosi document
 human, anc si por li «fideluloj» it ne va esser tre agreabil, e yo cita
 it «in plen» in traduction ad Occidental:
 
@@ -5632,7 +5628,7 @@ Ti construction significa sempre in li lingues anglesi, italian e hispan
 real perfect, t.e. un action quel ha evenit in passat témpore ma es
 finit nu, o ancor have actual interesse del vidpunctu del parlante. Ma
 franceses e germanes usa li sam construction quam historic perfect in
-vice de lor preterite e passé defini.
+vice de lor preterite e _passé défini_.
 
 It es remarcabil, que ti transition de perfect a preterite ha evenit
 che diferent nationes e in diferent témpores, quasi secun universal
@@ -5707,7 +5703,7 @@ usationes in li max mult lingues. Pri li corespondentie con li angles
 preterite, german preterite e perfect, slavic preterite, li perfect
 del Lingua Franca mi ha ja mentionat. Ci on deve anc amemorar, que
 existe in li francesi un schema, paralel al supramentionat anglesi:
-cpr. p. ex. de mettre (metter) -- perf. ind. «j'ai mis», passé defini
+cpr. p. ex. de mettre (metter) -- perf. ind. «j'ai mis», _passé défini_
 «je mis», perf. part. «mis». Ma ultra to li accentuation del final
 síllabe coresponde al final-accentuat preterit formes del modern
 romanic lingues, queles ha developat del vulgari latin, in quel noi
@@ -5741,15 +5737,15 @@ A{dot} Z. Ramstedt
 === Li possibil futur evolution del lingue international
 
 In li Editerio P. Ahlberg-Stockholm, Surbrunnsgatan 37, ha aparit li
-Ido-traduction del fam-conosset brochura de prof. Edward Sapir pri La
-Problemo di Internaciona Linguo Helpanta. In un curt articul yo ne posse
+Ido-traduction del fam-conosset brochura de prof. Edward Sapir pri _La
+Problemo di Internaciona Linguo Helpanta_. In un curt articul yo ne posse
 tuchar omni interessant e grav idés del estimat professor, quel advere
 ha visibilmen studiat divers lingues (Esperanto, Ido, Latino sine Flexione, Romanal) ma
 es nov in li interesse pri li lingue auxiliari, do il ne possede li
 interlinguistic experientie de noi antiqui pioneros. Yo vole ci parlar
 pri li principal idé de prof. S., i.e. pri li simplification (plu rect
 chinesation del lingue), quel in su tendentie coincide in general con li
-idés de Dr. F. Riedel in su Principes of de Mundelangue (Uniti Langue),
+idés de Dr. F. Riedel in su _Principes of de Mundelangue (Uniti Langue)_,
 publicat in Kosmoglott Marte 1923 nro 1.
 
 Il vole haver un absolut analitisme quam in chines, ne solmen in li
@@ -6691,12 +6687,12 @@ etiquette sillabic del classe de notiones, a quel li cose expressendi
 apartene. P. ex.: yul-op {equals} Europa(-continent), mel-op =
 America(-continent), tal-op {equals} Australia(-continent).
 
-Ti metode bon-antiquat celebra un gloriosi resurection in «Esperanto». A
+Ti metode bon-antiquat celebra un gloriosi resurection in Esperanto. A
 ti-ci lingue ne sufice expresser un notion per li radica self e sol, i.
 e{dot} un cose per su nómine. «Lingvo» sovent adjunte, egal quam li «Pük»
 beatmen morit, in ultra un síllabe, indicant li concernet categorie de
 paroles, e per to atinge un alongation, quel have un drolli efect por
-chascun san sentiment lingual: Ĥin-ujo {equals} China, ADS(FI), Portugal-ujo =
+chascun san sentiment lingual: Ĥin-ujo {equals} China, ADS(FI); Portugal-ujo =
 Portugal, ADFS(I).
 
 // XXX NOTE: li marca original de págine -100- esset in li sequent
@@ -6959,7 +6955,7 @@ tal restriction e coruption del verbal teorie de Dr. Couturat. Yo es
 cert que omni ver Idistes va adherer mi proteste. -- Secun li raport in
 «Mondo» nr 207 sr G. A. (Paris) enunciat in li Westeuropan
 Ido-Conferentie que Occidental es un lingue solmen por erudites, regretabilmen
-sin que li tre estimat samideano pruva ti opinion. Ma til nu es
+sin que li tre estimat «samideano» pruva ti opinion. Ma til nu es
 demonstrat solmen que Ido es un extrem desfacil lingue; mem li ductores
 e redactores ne save usar it rect. Támen sr de Beaufront per sofisteries
 e prestidigitation vole far creder al letores ne persequent e ne

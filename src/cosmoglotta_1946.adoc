@@ -1,5 +1,5 @@
 = Cosmoglotta 1946
-:revdate: 2023-04-11
+:revdate: 2023-04-16
 :docdescription: Omni numerós publicat in 1946 \
 del oficial organe del lingue international Occidental/Interlingue.
 include::common_attributes.adoc[]
@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified: 20230411T1213+0200.
+// Last modified: 20230416T1952+0200.
 
 include::about_this_book.adoc[]
 
@@ -5226,13 +5226,13 @@ quel es completmen finit e plu ne have alquel conection con li presente:
 Ex.: Yer yo scrit un lettre a mi patre. (Li action ha comensat e finit
 in li passate e plu ne sta in alquel relation con li presente). Li
 perfecte es dunc li caracteristic témpore del *narration*. It va esser
-usat in omni casus u on usa in francesi li passé simple (je fis) e in
-anglesi li «perfect» (I made). It coresponde anc al german perfecte
+usat in omni casus u on usa in francesi li «passé simple» (_je fis_) e in
+anglesi li «perfect» (_I made_). It coresponde anc al german perfecte
 (vollendete Vergangenheit) benque ta, precipue in li lingue parlat, on
-va sovente usar anc li presente perfect (vollendete Gegenwart). Pro que
+va sovente usar anc li presente perfect (_vollendete Gegenwart_). Pro que
 in Occidental on ne distinte inter «ínperfecte» e «passate simplic»
 quam in F, on va usar li perfecte anc in tal casus u F usa li
-«imparfait » (je faisais).
+«imparfait » (_je faisais_).
 
 *Li ínperfecte* mey esser usat quande on parla de un eveniment in
 maniere general, sin situar exactmen li témpor passat durant quel it
