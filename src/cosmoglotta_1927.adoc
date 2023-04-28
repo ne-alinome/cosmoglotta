@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified: 20230428T0812+0200.
+// Last modified: 20230428T0851+0200.
 
 include::about_this_book.adoc[]
 
@@ -2078,8 +2078,8 @@ apt solmen por simplic trafic, p. ex. comercie.»
 === Judicies
 
 Sra. Magda HOPPSTOCK-HUTH, presidente del german section del
-«International Liga de féminas por pace e libertá», propaga Occidental,
-declarante it quam li unesim apt sistema de Lingue International.
+International Liga de Féminas por Pace e Libertá, propaga Occidental,
+declarante it quam li unesim apt sistema de lingue international.
 
 Secun «The International Language», revúe del angles esperantistes, li
 comité executiv del Liga de Nationes denove ha repulset li proposition
@@ -3614,13 +3614,13 @@ b) adjectivic
 -os:: rich in
 -ut:: exuberant
 
-// XXX TODO: Confirmar li continuation, secun ti note original:
+// XXX In li originale ci esset note «continuation sur pag III del
+// covriment», nam li contiunation esset in li fine del revúe. In
+// ti-ci edition ti parte final
+// (https://anno.onb.ac.at/cgi-content/anno-plus?aid=e0g&datum=1927&page=83&size=50)
+// es movet ci:
 
-// continuation sur pag III del covriment
-
-// XXX TODO: Confirmar ti marca de págine:
-//
-// -76a-
+// XXX NOTE: ci esset li marca original de págine -76a-
 
 c) verbal
 
@@ -3651,70 +3651,6 @@ ama-r ama-t, credi-r credi-t, vid-er vis, curr-er curs, adopt-er adopt,
 opin-er opin, construct-er construct. Ex ili es format li international
 paroles: amat-or, a-credit-iv, vis-ion, excurs-ion, curs-iv, adopt-iv,
 opin-ion, construct-or, construct-iv, construct-ion, struct-ura.
-
-// Opiniones pri Occidental {{{2
-=== Opiniones pri Occidental
-
-// XXX TODO: Marcar citates:
-
-Prof. Dr. phil Karl Schüppel, presidente del Esperanto-Societé Parchim:
-
-Occidental finalmen es li sistema quel satisfá li postulationes del
-scientic interlinguistica … Pos 3/4 annual studie yo ha resoluet
-transir a Occidental quáncam li gigantic labore del propagation deve
-ancor esser interprendet. Ma pos li aparition de un tal unic lingue
-international resta nos solmen li alternative completmen resignar pri li
-idé mundolingual o combatter por Occidental. Yo es pret auxiliar Vos …
-
-Karl Scheithauer, Leipzig:
-
-Per Occidental li scope del evolution del Lingue International sembla
-esser atinget. Ti lingue finalmen es li satisfation de un ardent desir
-del homanité.
-
-Magda Hoppstock-Huth, presidente del German Section del International
-Liga de féminas por pace e libertá:
-
-Occidental es li unesim lingue international quel on posse subtener.
-
-Prof. Dr. A. L. Guérard, Universitate Stanford, California:
-
-Occidental significa un decisiv progress. It sembla me que ti lingue
-representa un passu in li rect direction.
-
-Prof. Dr. Albert Saareste, Universitate Tartu-Dorpat:
-
-Yo deve attestar que in li amasse de hodial creat lingues international,
-Occidental es li max facilmen comprensibil. Li letura de textus redactet
-in ti lingue ne ha causat me minimal desfacilitá. Yo gratula sr. E. de
-Wahl cordialmen pro ti laborfructe honorant nor comun patria e yo crede
-in li progress e victorie de ti lingue.
-
-Ivan Locnikar, Maribor:
-
-Pos curt studia de Vor «Ucebnice» yo ha esset surprisat pri li bon
-qualitás de Occidental, quel vermen es creat in spíritu europan e pro to
-posse servir anc quam lingue panamerican auxiliari. Su ínmediat
-comprensibilitá es ínsuperabil … Florea e prospera li grand ovre del
-genial scientic nordic mann! Esse Occidental li lingue comun del Europa
-futuri!
-
-Anton Fuchs, forjero (74 annus), Wien:
-
-It es un trist situation que on vole saturar li laboreros per li talmi
-Esperanto, quel presenta les necos in direction xenolexicologic e mem
-corupte lor poc saventies lingual e li caractere del propagandistes,
-devente usar índigni metodes por apoyar li mal cose. Esperanto fa
-ínpossibil omni serios studia de un modern lingue natural. Occidental,
-in contrari, es un bon scol por preparar se por ti lingues e por
-comprender li términos tecnic, li aquisition de queles aperte por li
-laborero li portas al scientie e a plu alt nivelle social e cultural. Yo
-va ne negliger directer li atention de ductores de laboreros al bell e
-facil idioma Occidental, li Latin del Democratie.
-
-// XXX TODO: Confirmar li signification de ti note:
-
-// -apart folie-
 
 // Fotografie de Edgar de Wahl in etá de 59 annus, septembre 1926 {{{2
 === Fotografie de Edgar de Wahl in etá de 59 annus, septembre 1926
@@ -5045,6 +4981,7 @@ W., Argenteuil: 20 fr; O. P., Tallinn: 3 RM; J. P., Tallinn: 3 RM; W.
 Sch., Lauenburg: 5 ö. S; I. L., Selnica o. D.: 5 ö. S; C. G., Warszawa:
 10 Zl.
 
+// XXX TODO ligar
 Pro manca de loc noi regretabilmen ha devet procrastinar li articules:
 Dr. Karl Schüppel: Pedagogic valore de Occidental. A. Z. Ramstedt:
 Preterite per -t. E. de Wahl: Exceptiones e li vive. Julian Prorók:
@@ -5075,6 +5012,72 @@ lingue posseder un tal alliate e noi peti nor amicos adherer al
 Naunhof b. Leipzig, Germ. In céteri li adhesion a ti societé have un
 grand valore por omni intellectuale qui perseque ancor quicunc altri
 interesses ideal o practic.
+
+// Opiniones pri Occidental {{{2
+=== Opiniones pri Occidental
+
+[quote, Prof. Dr. phil Karl Schüppel, presidente del Esperanto-Societé Parchim]
+____
+Occidental finalmen es li sistema quel satisfá li postulationes del
+scientic interlinguistica … Pos 3/4 annual studie yo ha resoluet
+transir a Occidental quáncam li gigantic labore del propagation deve
+ancor esser interprendet. Ma pos li aparition de un tal unic lingue
+international resta nos solmen li alternative completmen resignar pri li
+idé mundolingual o combatter por Occidental. Yo es pret auxiliar Vos …
+____
+
+[quote, Karl Scheithauer, Leipzig]
+____
+Per Occidental li scope del evolution del Lingue International sembla
+esser atinget. Ti lingue finalmen es li satisfation de un ardent desir
+del homanité.
+____
+
+[quote, Magda Hoppstock-Huth, presidente del german section del International Liga de Féminas por Pace e Libertá]
+____
+Occidental es li unesim lingue international quel on posse subtener.
+____
+
+[quote, Prof. Dr. A. L. Guérard, Universitate Stanford, California]
+
+____
+Occidental significa un decisiv progress. It sembla me que ti lingue
+representa un passu in li rect direction.
+____
+
+[quote, Prof. Dr. Albert Saareste, Universitate Tartu-Dorpat]
+____
+Yo deve attestar que in li amasse de hodial creat lingues international,
+Occidental es li max facilmen comprensibil. Li letura de textus redactet
+in ti lingue ne ha causat me minimal desfacilitá. Yo gratula sr. E. de
+Wahl cordialmen pro ti laborfructe honorant nor comun patria e yo crede
+in li progress e victorie de ti lingue.
+____
+
+[quote, Ivan Locnikar, Maribor]
+____
+Pos curt studia de Vor «Ucebnice» yo ha esset surprisat pri li bon
+qualitás de Occidental, quel vermen es creat in spíritu europan e pro to
+posse servir anc quam lingue panamerican auxiliari. Su ínmediat
+comprensibilitá es ínsuperabil … Florea e prospera li grand ovre del
+genial scientic nordic mann! Esse Occidental li lingue comun del Europa
+futuri!
+____
+
+[quote, Anton Fuchs, "forjero (74 annus), Wien"]
+
+____
+It es un trist situation que on vole saturar li laboreros per li talmi
+Esperanto, quel presenta les necos in direction xenolexicologic e mem
+corupte lor poc saventies lingual e li caractere del propagandistes,
+devente usar índigni metodes por apoyar li mal cose. Esperanto fa
+ínpossibil omni serios studia de un modern lingue natural. Occidental,
+in contrari, es un bon scol por preparar se por ti lingues e por
+comprender li términos tecnic, li aquisition de queles aperte por li
+laborero li portas al scientie e a plu alt nivelle social e cultural. Yo
+va ne negliger directer li atention de ductores de laboreros al bell e
+facil idioma Occidental, li Latin del Democratie.
+____
 
 // XXX NOTE: ci esset li marca original de págine -76b- (ma it mey
 // esser -77-)
