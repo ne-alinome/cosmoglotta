@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified: 20230428T0747+0200.
+// Last modified: 20230428T0812+0200.
 
 include::about_this_book.adoc[]
 
@@ -3502,17 +3502,20 @@ Pronunciation{blank}footnote:[Quelc punctus de ti pronunciation ne plu
 es actual, ma ili es conservat sin change pro historic motives. Ples
 consultar li actual pronunciation in modern libres de aprension. Note
 del editor digital.]: Vocales quam in german, italian, hispan etc.;
-«y» quam vocale {equals} sved y, german ü, frances u; «y» quam
-consonante {equals} y angles, hispan; c ante e, i, y {equals} ts, in
-omni altri casus {equals} k; g ante e, i, y {equals} j frances, in
-altri casus quam g german; h aspirat quam in angles, german; q quam in
-german e angles; s quam in frances; v quam in angles e romanic; x
-{equals} ks; z {equals} ds; ch quam in angles e hispan; eu quam in
-frances; n', l' tones molliat {equals} frances gn, ille, j {equals} j
+«y» quam vocale {equals} sved _y_, german _ü_, frances _u_; «y» quam
+consonante {equals} _y_ angles, hispan; «c» ante «e», «i», «y» {equals} _ts_, in
+omni altri casus {equals} «k»; «g» ante «e», «i», «y» {equals} _j_ frances, in
+altri casus quam _g_ german; «h» aspirat quam in angles, german; «q» quam in
+german e angles; «s» quam in frances; «v» quam in angles e romanic; «x»
+{equals} _ks_; «z» {equals} _ds_; «ch» quam in angles e hispan; «eu» quam in
+frances; «n'», «l'» tones molliat {equals} frances _gn_, _ille_, «j» {equals} _j_
 angles.
 
-Accentu: Sur li vocale ante li ultim consonante. Li finition de plurale
-«s» ne have influentie al accentu. Finitiones «bil, ic, im, ul» es
+Accentu: Sur li vocale ante li ultim consonante. Li finition de plurale «s» ne
+have influentie al accentu. Finitiones «bil, ic {blank}footnote:[Solmen quande
+it es pronunciat «ik». Por exemple, li regulari accentu de «felici» es sur li
+prim «i». Vide «Complet grammatica de Occidental» de Karl Janotta in
+Cosmoglotta serie A, numeró 65 (1929-10). Note del editor digital.], im, ul» es
 ínaccentuat. In altri casus li accentu es scrit.
 
 Declination: Per prepositiones «de, a, per» etc. Articul «l(i), un».
