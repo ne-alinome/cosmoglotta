@@ -1,5 +1,5 @@
 = Cosmoglotta 1928
-:revdate: 2023-04-16
+:revdate: 2023-04-17
 :docdescription: Omni numerós publicat in 1928 \
 del oficial organe del lingue international Occidental/Interlingue.
 include::common_attributes.adoc[]
@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified 20230416T1946+0200.
+// Last modified 20230417T0927+0200.
 
 include::about_this_book.adoc[]
 
@@ -3596,7 +3596,7 @@ medie antiprogressiv, impedient li evolution natural in li direction de
 plu rapid parlada.
 
 Do in fine noi posse expectar un evolution del Occidental ad un form
-simil a «etem» de Yushmánov, modelles de quel on posse leer in li jurnal
+simil a «etem» de Yushmanov, modelles de quel on posse leer in li jurnal
 Kosmoglott. Probabilmen ti form va esser atinget al sam témpore con li
 ortografic reform. Ma hodie ti statu, quasi chinesi, por nos europanes
 ancor ne es usabil. Adplu it postula un absolut sintactic stabilisation

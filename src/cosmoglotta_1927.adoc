@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified: 20230417T0813+0200.
+// Last modified: 20230417T1335+0200.
 
 include::about_this_book.adoc[]
 
@@ -3248,7 +3248,7 @@ poc per print-erras. p. ex.: _abandon_ (D _Verlassung_ ne existe), _abbatar_
 (ne D _schlagen_ ma _niederschlagen_, R ne _svalivat'_ ma _nisvergat'_),
 _ab-horrar_ (R _imet'_ have li sense «haver». Probabilmen in li lexico ha
 esset _imet' otvrashtchenie_ {equals} «haver horrore»!), abjekto (ne es D _niedrig_,
-R _níchtojnyi_ ma D _verworfen_, R _gnusnyi, niskí_).
+R _nichtójnyi_ ma D _verworfen_, R _gnúsnyi, níski_).
 
 // XXX TODO 2023-04-17: missage misset al gruppe por confirmar li
 // accentuation del du russ paroles in li ultim frase in supra.
