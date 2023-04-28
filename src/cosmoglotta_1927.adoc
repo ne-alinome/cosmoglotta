@@ -3445,13 +3445,6 @@ endif::original-tocs[]
 // Li problema del lingue international {{{2
 === Li problema del lingue international
 
-// XXX FIXED: «pos nominat» -> «poy nominat»:
-
-// XXX TODO: Confirmar «ege» (eĝo?) in pednote.
-// XXX TODO: Confirmar «ekzekuciisto»i in pednote.
-// XXX TODO: Ameliorar ancor li traduction de «nepre», quel ja esset
-// changeat de «absolut» a «absolutmen»; in pednote.
-
 Li problema del lingue international
 ha occupat li pensas de mult persones. Li unesim projecte, quel ha havet
 alcun success es Volapük del canonica J. M. Schleyer (1881). Un grand
@@ -3459,16 +3452,16 @@ progress representa ja li «Lingvo internacia» de Dr. L. Zamenhof, poy
 nominat «Esperanto» (1887), quel pro su facilitá e grandissim propaganda
 ha atinget suficent atention in li munde. Ma li defectiv e ínnatural
 formes ha evocat li critica de divers competent persones{blank}footnote:[Ples
-vider Esperanto-paroles p. ex.: ĉiam (sempre), kiom (quant), malebleco
-(ínpossibilitá), saneca (sanitari), kazo (casu), kaso (casse), caro
-(tsar), patrino (matre), nepre (absolutmen), malbona (mal), mallonga
-(curt), ege (extrem), boao (boa), firmao (firma), ekspansiebleco
-(expansibilitá), ekzekuciisto (executor), aerflugisto (aviator),
-senarmiliĝo (desarmation), foresto (absentie), colo (inch), fraŭlo
-(garson), savinto (salvator), menso (mente), ĝardeno (jardin),
-ĉirkaŭpolusa (circumpolar), deca (decent), laca (fatigat),
-dekoraciisto (decorator), bedaŭrinde (regretabil), ĉeestanta
-(present), anstataŭ (vice).]. Li
+vider Esperanto-paroles p. ex.: _ĉiam_ (sempre), _kiom_ (quant), _malebleco_
+(ínpossibilitá), _saneca_ (sanitari), _kazo_ (casu), _kaso_ (casse), _caro_
+(tsar), _patrino_ (matre), _nepre_ (absolutmen), _malbona_ (mal), _mallonga_
+(curt), _ege_ (extrem), _boao_ (boa), _firmao_ (firma), _ekspansiebleco_
+(expansibilitá), _ekzekuciisto_ (executor), _aerflugisto_ (aviator),
+_senarmiliĝo_ (desarmation), _foresto_ (absentie), _colo_ (inch), _fraŭlo_
+(garson), _savinto_ (salvator), _menso_ (mente), _ĝardeno_ (jardin),
+_ĉirkaŭpolusa_ (circumpolar), _deca_ (decent), _laca_ (fatigat),
+_dekoraciisto_ (decorator), _bedaŭrinde_ (regretabil), _ĉeestanta_
+(present), _anstataŭ_ (vice).]. Li
 esperantistes ha refusat omni reformas in lor lingue e pro to aparit
 mult nov projectes, quam Neutral, Universal, Ido, Esperantida, Romanal,
 Latino sine Flexione, etem, Medial etc. (totalmen circa 600 projectes),
