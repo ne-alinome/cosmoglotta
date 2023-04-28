@@ -1,5 +1,5 @@
 = Cosmoglotta 1937
-:revdate: 2023-04-11
+:revdate: 2023-04-28
 :docdescription: Omni numerós publicat in 1937 \
 del oficial organe del lingue international Occidental/Interlingue.
 include::common_attributes.adoc[]
@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified: 20230411T1614+0200.
+// Last modified: 20230428T0750+0200.
 
 include::about_this_book.adoc[]
 
@@ -5120,7 +5120,7 @@ fa un parte, ne besona finir.
 ==== Sr. Aurel Eschenasy, de Craiova, Rumania
 
 Nascet in 1900, Sr. Eschenasy studiat in li secundari scoles e in li
-politechnicum de Budapest. Hodie il habita Craiova u il have li
+politecnicum de Budapest. Hodie il habita Craiova u il have li
 profession de commerciante. Li unesim lingue quel il parlat esset
 german, poy il aprendet completmen francés, ruman e hungarian. Il anc
 studiat anglés e italian.
@@ -7595,7 +7595,7 @@ ci li principal partes de ti articul con li permission del Autor, del
 Administration del mentionat Revúe e del Sviss Association de
 Normation.
 
-To quo significa li International Electrotechnic Commission (IEC) por li
+To quo significa li International Electrotecnic Commission (IEC) por li
 electrotecnica, to es por li céteri dominias del tecnica li mundan
 federation del normativ institutiones «ISA» (International Federation
 of Associations), fundat solmen 20 annus pos IEC. Li scope de ISA ne es
@@ -7615,7 +7615,7 @@ ho-témpore Sr Niels Fredriksson, Stockholm.
 
 Por li singul dominias de normation, special «Tecnic Comités» es
 instituet. In present existe 40 tal comités con numerosi subcomités. Li
-secretariatus del Technic Comités es repartit inter li divers national
+secretariatus del Tecnic Comités es repartit inter li divers national
 institutiones de normation.
 
 Quande un problema de normation es tractat a fine, li resultates,
@@ -7674,7 +7674,7 @@ Til present li sequent ISA-bulletines ha esset editet:
 Li assemblé de ISA in Budapest ha unionat 225 delegates ex 17 landes, ne
 contat li representantes del International Air Traffic Association
 (IATA) e del Comission Internationale de Navigation Aérienne (CINA). 13
-Technic Comités ha tenet sessiones.
+Tecnic Comités ha tenet sessiones.
 
 Li unesim tri dies del Conferentie in Budapest esset consacrat inter
 altricos al oficial fundation de un nov Comité: «ISA 37,
@@ -7699,7 +7699,7 @@ terminologic labores deve far se max possibilmen conform al órdine
 etablisset per li Decimal Classification{blank}footnote:[Vide articul de E.
 Pigal in Cosmoglotta No 106. pg. 9-13 (1936).].
 
-Li fundation del Technic Comité ISA 37 resulta de un proposition del
+Li fundation del Tecnic Comité ISA 37 resulta de un proposition del
 Russ Comission por Normation, fat in verne 1934. Li russ suggestion
 quel, de su parte, junte se a anteriori german labores recomandat que
 ISA mey etablisser international conventet paroles queles, por exemple,
@@ -11549,13 +11549,16 @@ Ma ti experimentes devet esser fat un vez por convicter li skepticos.
 Noi save que in quelc casus on posse copular animales de divers
 species,  almen de sam génere, si ili ne es tro desproxim, p. ex.
 cavalle e ásin,  ma li mul es steril. In li lingues tal combinationes es
-in cert casus usat,  ma specialmen in technica, p. ex, tele-vision,
+in cert casus usat,  ma specialmen in tecnica, p. ex, tele-vision,
 combination de antiqui  mort grec con latin ancor vivent, sammen
 auto-mobil. Ma malgré li  grand inundation de tecnic paroles in li
 natural vivent lingues, li  lingue self resta alquicos vivent in quel
 reye ne li leges del tecnica ma leges psicologic. Sin egardar ti natural
 leges on ne va posser introducter un vermen usabil lingue
-international.  E. de Wahl.
+international.
+
+[.author]
+E. de Wahl.
 
 // XXX NOTE: ci esset li marca original de págine -86-
 

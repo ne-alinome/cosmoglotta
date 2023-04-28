@@ -1,5 +1,5 @@
 = Cosmoglotta 1929
-:revdate: 2023-04-16
+:revdate: 2023-04-28
 :docdescription: Omni numerós publicat in 1929 \
 del oficial organe del lingue international Occidental/Interlingue.
 include::common_attributes.adoc[]
@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified: 20230416T1951+0200.
+// Last modified: 20230428T0748+0200.
 
 include::about_this_book.adoc[]
 
@@ -175,7 +175,7 @@ avantages del du extrem-solutiones, Esperanto e Interlingua, ma anc
 evita lor mancas.
 
 Occidental per su transparent structura etimologic fa accessibil anc al
-proletario li comprension del special términos technic e aperte le li
+proletario li comprension del special términos tecnic e aperte le li
 porta al ínmediat studia del scienties, queles per un lingue quam
 Esperanto resta le cludet sam quam antey. Til nu li scientie es li
 dominia reservat solmen a un classe de homes queles have témpore e
@@ -1370,7 +1370,7 @@ solution del problema de derivation, e ti problema es li cardinal
 punctu, nam si noi ne have international derivates, noi ne have
 international paroles e li principal postulation, un international
 vocabularium, ne es satisfat. Artificial lingues ne havent international
-vocabularium es fortiat rebaptizar li tot scientie e technica, un labor
+vocabularium es fortiat rebaptizar li tot scientie e tecnica, un labor
 de Sisifos, absolut ínutil. Pro to yo es strict e absolut contra un
 compromisse inter li sistemas Esperanto e Occidental e contra
 quelcunc conferenties o negociationes con li
@@ -5809,7 +5809,7 @@ oposi se al introduction e agnoscion del mundlingue in li form de
 Esperanto. -- Li publication de ti articul tre propagatori aportat un
 flutu de entusiasmat aprobationes e interpellationes de letores pri
 Occidental e it monstra li grand interesse del publica, specialmen del
-technicos, pri li solution del problemas ci descrit.
+tecnicos, pri li solution del problemas ci descrit.
 
 [.author]
 -i-

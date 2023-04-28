@@ -1,5 +1,5 @@
 = Cosmoglotta 1928
-:revdate: 2023-04-17
+:revdate: 2023-04-28
 :docdescription: Omni numerós publicat in 1928 \
 del oficial organe del lingue international Occidental/Interlingue.
 include::common_attributes.adoc[]
@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified 20230417T0927+0200.
+// Last modified 20230428T0747+0200.
 
 include::about_this_book.adoc[]
 
@@ -4669,7 +4669,7 @@ li interesse tam del fabricante quam in ti del consumante.
 
 Prof. Dr. Dessauer nomina li normation li victorios intrada del ordinant
 spíritu in li caotic materie. Li spíritu del tecnica es un spíritu del
-órdine; per ordinar li materie e li energie in nov formes li technica da
+órdine; per ordinar li materie e li energie in nov formes li tecnica da
 al substanties potenties enorm. Li medicament es un materie ordinat per
 spíritu. Originalmen ti materie esset caotic. Ma essente ordinat secun
 un cert conception, it posse reciver un potentie quem sovente mem li
@@ -4699,10 +4699,10 @@ cutin e por cordes, rotes dentat, tubes, valves, armatures, caldrones,
 levatores, utensiles, utensil-machines, machines por fassonar ligne,
 metallurgie, fonderíe, welderie, autogen-industrie, rel-vias,
 locomotives, wagones, navigation, aviation, automobiles,
-bicicles, electrotecnica, radio, parafoyerie, frigoritechnica, machines
+bicicles, electrotecnica, radio, parafoyerie, frigoritecnica, machines
 agricultural, architectura, meubles, requisites e aparates por contores
 e scoles, valises, installation de hospitales, instrumentes chirurgic,
-instrumentes por laboratorias, menage, fototechnica, cinema,
+instrumentes por laboratorias, menage, fototecnica, cinema,
 scrimachines, textil-industrie, stoffes etc, etc.
 
 Li labores normativ es dividet inter mult sub-comitées special, in quel
@@ -4723,7 +4723,7 @@ adversarios. On ha timet economic detrimentes per abandonar li anterior
 usanties in li production, e on considerat li normes mem quam
 impedimentes in li evolution industrial. Ma ti timore miscomprende li
 scopes visat. Li normes ne obliga li economie a crear tipes ínchangeabil
-e rigid, ma in contrari ili deve esser adaptat al technical progress.
+e rigid, ma in contrari ili deve esser adaptat al tecnical progress.
 
 Li DINormes es li resultate de líber convention. Pro to ili ne posse
 esser creat per revolutiones del majorité. Li votation ne es usual in li
@@ -5375,7 +5375,7 @@ problema del derivation es li max important. Si per li derivation on ne
 posse retrovar li international formes, li tot base es fals e it es
 ínpossibil que li lingue va posser usar li comun vocabularium
 international. In ti casu it va esser necessi reconstructer completmen
-li scientic e technic terminologie, un ínpossibil labor!
+li scientic e tecnic terminologie, un ínpossibil labor!
 
 Li question de li lingue international per Occidental ha intrat in su definitiv
 periode, pos li experienties de Volapük e de Esperanto-Ido. Tamen ti
@@ -5413,7 +5413,7 @@ Occidental. Ma pos quelc minutes li conversation devenit sempre e sempre
 plu fluent e pos du dies, it es pos circa six hores de interparlada, li
 conversation esset perfect e tre rapid. Plur altri idistes posse atestar
 li facte. Existe quasi null diferentie de pronunciation; e li
-intercomprension, mem pri temas technical e political, esset excellent.
+intercomprension, mem pri temas tecnical e political, esset excellent.
 
 Quande on ha abandonat li maniere de rasonament artificial de Esperanto-Ido,
 li usada de Occidental deveni tot natural e on scri e parla it
@@ -5431,7 +5431,7 @@ propagandistes obstina se in propaganda de lingues, queles por devenir
 utilisabil, deve
 reconstructer li tot scientic e tecnic lingue, it es un grand erra,
 imputabil forsan a manca de general cultura. Li entusiasme, in ili, es
-victor del rason. Ma li technica ne cuida pri entusiasme, ma pri efect.
+victor del rason. Ma li tecnica ne cuida pri entusiasme, ma pri efect.
 Solmen un lingue alliant li maximum de internationalitá con li
 regularitá, conciliabil con li facilitá, posse atraer li interessates.
 Ne per tornar li dors a omni international customes on posse interessar
@@ -5781,7 +5781,7 @@ conosse li excellent sistema Underwood, quel ha esset imitat per presc
 omni altri fabricantes, pro que it ha soluet li problema del scrimachine
 con visibil scritura in modellari maniere.
 
-Ma ancor pluri altri technical problemas resta a soluer in li
+Ma ancor pluri altri tecnical problemas resta a soluer in li
 construction del scrimachine.
 
 Por accelerar li scrition on ha inventet un special sistema de scrition,

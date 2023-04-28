@@ -1,5 +1,5 @@
 = Cosmoglotta 1936
-:revdate: 2023-04-14
+:revdate: 2023-04-28
 :docdescription: Omni numerós publicat in 1936 \
 del oficial organe del lingue international Occidental/Interlingue.
 include::common_attributes.adoc[]
@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified: 20230414T1207+0200.
+// Last modified: 20230428T0748+0200.
 
 include::about_this_book.adoc[]
 
@@ -1883,7 +1883,7 @@ al communication in li social medie constituet
 DC 5 Li pur scienties, mathematica, physica e li altri scienties pri
 natura, queles es li fundament del
 
-DC 6 applicat scienties, li technic activitás queles concerne li
+DC 6 applicat scienties, li tecnic activitás queles concerne li
 transformation per li hom del natura e de su medie
 
 DC 7 Li classe del bell e applicat artes e
@@ -1904,7 +1904,7 @@ modern scientic conception (precipue de Wilhelm Ostwald) vell esser p.
 ex. in li secuent consecution:
 
 0 general bibliographie -- 1 historie -- geographie -- 2 philosophie -- 3
-pur natural-scienties -- applicat naturscienties, technica -- 5 sociologie
+pur natural-scienties -- applicat naturscienties, tecnica -- 5 sociologie
 -- 6 pedagogica -- 7 lingue e scritura -- 8 bell litteratura -- 9 altri
 artes e plesura.
 
@@ -1913,7 +1913,7 @@ Ma li principal sectiones hodie generalmen acceptet definitiv es
 DC 0 general, bibliographie -- DC 1 philosophie -- DC 2 religion,
 theologie -- DC 3 social scienties, jure, administration -- DC 4
 philologie, linguistica -- DC 5 mathematica, naturscienties -- DC 6
-applicat scienties, medicina, physiologie, technica -- DC 7 bell e
+applicat scienties, medicina, physiologie, tecnica -- DC 7 bell e
 applic8at artes, photographie, musica, ludes e sport -- DC 8 bell
 litteratura DC 9 historie, geographie.
 
@@ -8411,7 +8411,7 @@ Ing. Hans Hoerbiger, Wien.
 
 Un nov brochura in Occidental aparit in Wien sub li titul
 «Construction de un terminologic code». It es signat de nor altestimat
-coidealist Karl Janotta, ancian chef del electrotechnic firma «Fröhlich
+coidealist Karl Janotta, ancian chef del electrotecnic firma «Fröhlich
 & Perthen» in Wien, e editet del Occidental. Club Progress. Precie: 1
 repons-cupon. On posse obtener it che Ing. A. Reichert, Hebragasse
 9/III/12, Wien IX. -- To es un anihilant critica de Esperanto,

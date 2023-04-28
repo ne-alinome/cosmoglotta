@@ -1,5 +1,5 @@
 = Cosmoglotta 1927
-:revdate: 2023-04-17
+:revdate: 2023-04-28
 :docdescription: Omni numerós publicat in 1927 \
 del oficial organe del lingue international Occidental/Interlingue.
 include::common_attributes.adoc[]
@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified: 20230417T1335+0200.
+// Last modified: 20230428T0747+0200.
 
 include::about_this_book.adoc[]
 
@@ -427,7 +427,7 @@ que lu desfacil in nor lingues ha esset li grammatica e li
 suficent simplic grammatica. Li paroles es omni quam possibil uniformat
 ye un abstract schema, apart barbari stil, quasi neutral. Que to es un
 principie fundamental che Schleyer monstra li circumstantie, que mem
-omni international e absolut comun paroles es alterat, p. ex. technica {equals}
+omni international e absolut comun paroles es alterat, p. ex. tecnica {equals}
 _kaen_, locomotive {equals} _lemüf_ etc. Quáncam Volapük hat existet ja 8 annus e
 havet 3 congresses, on tamen ne posset parlar ti lingue. On posset scrir
 it, leer e mem far e
@@ -455,7 +455,7 @@ posser far to. Proque nu on ja ne es content con li idé de un lingue con
 conosset radicas e facil grammatica. Nu on postula ja internationalitá,
 max grand facilitá por omnis etc. e in li recent témpores por omni
 interessates in un medie de communication. Do nu li manca del
-international paroles del technica, scientie, jure, economie, arte etc.
+international paroles del tecnica, scientie, jure, economie, arte etc.
 in Esperanto e Ido es sentit quam manca fundamental. Li politic metode
 de Esperanto accepter omni ti paroles in plu minu conosset formes ducte
 a un grand númere de duplicates sin visibil differentie in li
@@ -1337,7 +1337,7 @@ piano, andante, cassa, conto, giro, tratte);
 banquette, hotel, menú, champagne, haut goût);
 - navigation: holandés (mast, stir, bote, sterne, tacle, strand) e
 angles (top, jib, ref, stropp, watch);
-- technica e industrie: germanic (scruv, muff, ersatz, vind, slitt,
+- tecnica e industrie: germanic (scruv, muff, ersatz, vind, slitt,
 spul, stal, staple, strad, strap);
 - sport: angles (sport, lawntennis, start, box, turf);
 - despotie e ínfrenat voluntá: russ (ukas, knut, bolchevic, pogrom) e
@@ -3898,7 +3898,7 @@ anc in li academie de artes, u yo laborat in li posmidí e véspere.
 // paragraf:
 
 In fine del annu 1887 o comensa 1888 un colego de mi patre ingeniero
-Rosenberger fat un discurs in li politechnic societé pri li «Mundlingue»
+Rosenberger fat un discurs in li politecnic societé pri li «Mundlingue»
 Volapük a quel mi patre invitat me prender parte pro mi linguistic
 interesses. Yo esset tre sceptic pri tal cose, ma yo venit al discurse.
 Quáncam Volapük me desgustat, li idé de un lingue international talmen
@@ -5568,7 +5568,7 @@ conossent e usant it, esque tande anc por li micri hom, li
 opresset, li povri, li proletario posse exister question quel lingue il
 mey electer? Esque Esperanto, quel liga le a un micri fanatic popul de
 divers monomanes, o li cultural superlingue del Occidental Civilisation,
-apertent li porta al total actual real munde scientic, technic,
+apertent li porta al total actual real munde scientic, tecnic,
 industrial, comercial, economic, politic, spiritual, filosofic,
 religiosi; e provident le per li imens e clarmen usabil instrumentarium
 por ti scope.
