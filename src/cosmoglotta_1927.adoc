@@ -3553,9 +3553,9 @@ dis-:: ad omni directiones
 ín- (con adjectives):: negation
 mis-:: fals
 pre-:: ante
-pro:: adavan
-re:: de nov, ad comensa
-retro:: ad dorse, in direction advers al anteyan
+pro-:: adavan
+re-:: de nov, ad comensa
+retro-:: ad dorse, in direction advers al anteyan
 
 Nuanciant Finitiones
 
@@ -3570,10 +3570,10 @@ Sufixes:
 a) substantivic
 
 -ade:: multité, serie, contenida
--age:: collectives (órdine)
+-age:: collective (órdine)
 -agie (de verbes):: concretisation del activitá
--al'a:: collectives (sin órdine)
--ard:: mal persones
+-al'a:: collective (sin órdine)
+-ard:: mal persone
 -ario:: person caracterisat per exteriori qualitá o oficie
 -arium:: scientic collection
 -atu:: institution o situation social o legal, anc dignitá
