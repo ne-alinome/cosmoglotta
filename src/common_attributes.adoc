@@ -3,13 +3,14 @@
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified 20230508T1245+0200.
+// Last modified 20230508T1339+0200.
 //
 // Document:
 :doctype: book
 :lang: ie
 :epub3-stylesdir: .
 :toclevels: 5
+:imagesdir: img/
 ifdef::backend-epub3[]
 :front-cover-image: ../tmp/{docname}.cover.jpg
 endif::[]

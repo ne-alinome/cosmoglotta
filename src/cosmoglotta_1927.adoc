@@ -3652,6 +3652,14 @@ opin-er opin, construct-er construct. Ex ili es format li international
 paroles: amat-or, a-credit-iv, vis-ion, excurs-ion, curs-iv, adopt-iv,
 opin-ion, construct-or, construct-iv, construct-ion, struct-ura.
 
+////
+
+// XXX FIXME Ti-ci fotografie ne es ci in li originale, vi
+// https://anno.onb.ac.at/cgi-content/anno-plus?aid=e0g&datum=1927&page=56
+// https://anno.onb.ac.at/cgi-content/anno-plus?aid=e0g&datum=1927&page=57
+// ma quam suplement págine:
+// https://anno.onb.ac.at/cgi-content/anno-plus?aid=e0g&datum=1927&page=117&size=45
+
 // Fotografie de Edgar de Wahl in etá de 59 annus, septembre 1926 {{{2
 === Fotografie de Edgar de Wahl in etá de 59 annus, septembre 1926
 
@@ -3659,10 +3667,15 @@ opin-ion, construct-or, construct-iv, construct-ion, struct-ura.
 
 festa li 11 august 1927 su 60-esim die de nascentie.
 
+////
+
 // XXX NOTE: ci esset li marca original de págine -51-
 
 // A Edgar de Wahl {{{2
 === A Edgar de Wahl
+
+.Edgar de Wahl, li max grand interlinguist vivent, festa li 11 august 1927 su 60-esim die de nascentie.
+image::cosmoglotta_1927_p_117.jpg.png.crop.png.q90.jpg["Fotografie de Edgar de Whal in etá de 59 annus, septembre 1926", align="center"]
 
 A Vor 60-esim anniversarie li Occidentalistes transmisse Vos cordial
 gratulationes e profund mersías pro Vor grandios e genial ovre a quel Vu
