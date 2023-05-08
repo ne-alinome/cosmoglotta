@@ -1,5 +1,5 @@
 = Cosmoglotta 1945
-:revdate: 2023-04-10
+:revdate: 2023-05-08
 :docdescription: Omni numerós publicat in 1945 \
 del oficial organe del lingue international Occidental/Interlingue.
 include::common_attributes.adoc[]
@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified 20230410T2054+0200.
+// Last modified 20230508T1145+0200.
 
 include::about_this_book.adoc[]
 
@@ -3097,7 +3097,7 @@ obligat preferer «terra» a «terre».
 Tost. Til hodie on ha traductet li idé de F «tôt», E «early», D «früh» per
 «temporan» quel logicmen significa: quo apartene al témpor. Un radica
 special sembla ci necessi e lu max bon sembla esser «tost», con su
-corespondente adjectivic «tosti». Bentost resta por traducter F
+corespondente adjectivic «tosti». «Bentost» resta por traducter F
 «bientôt», E «soon», D «bald».
 
 Quelc altri paroles adoptet:

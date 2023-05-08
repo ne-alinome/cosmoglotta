@@ -1,5 +1,5 @@
 = Cosmoglotta 1943
-:revdate: 2023-04-11
+:revdate: 2023-05-08
 :docdescription: Omni numerós publicat in 1943 \
 del oficial organe del lingue international Occidental/Interlingue.
 include::common_attributes.adoc[]
@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified: 20230411T1213+0200.
+// Last modified: 20230508T0950+0200.
 
 include::about_this_book.adoc[]
 
@@ -5395,7 +5395,7 @@ successat decovrir li fonte!
 
 Ti suposition, quel por cert archeologos interim devenit firm
 conviction, es confirmat
-in ultra per altri plu temporan decovritiones. Nan precisimen in ti
+in ultra per altri plu temporan decovritiones. Nam precisimen in ti
 region on ha trovat tracies de stradas, queles have nequo comun con li
 vias, queles ducte in Africa de village a village o queles hat esset
 tramplat per li elefantes. It acte se plutost pri stradas vast, bon
