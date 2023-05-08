@@ -1,5 +1,5 @@
 = Cosmoglotta 1937
-:revdate: 2023-04-28
+:revdate: 2023-05-08
 :docdescription: Omni numerós publicat in 1937 \
 del oficial organe del lingue international Occidental/Interlingue.
 include::common_attributes.adoc[]
@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified: 20230428T0750+0200.
+// Last modified: 20230508T1216+0200.
 
 include::about_this_book.adoc[]
 
@@ -5430,21 +5430,20 @@ fonetic scrition.
 // Centres de interesse: cocine {{{2
 === Centres de interesse: cocine
 
-Cocine, cocin-er-ia, forn, flamme. in-flamm-ette, gas-forn, portabil
+*Cocine,* cocin-er-ia, forn, flamme. in-flamm-ette, gas-forn, portabil
 forn, triped, grill. -- Scaf, platil-buffet, garda-manjage, camera de
 provision, buffet. -- Table, tabl-ette, toale de table, toale cirat,
 bav-toale por bebé, table-linette, serviette, covert. Platt platil,
 argent-erie, coclare, furc, furc-ette.
+Cultel, canif, cultelot, manche, lame, tranchant, punte.
 
-Cultel. canif, cultelot, manche, lame, tranchant, punte.
-
-Utensiles. -- Apparate, prepar-ette, hacc-uore. pist-uore, rasp-uore,
+*Utensiles.* -- Apparate, prepar-ette, hacc-uore. pist-uore, rasp-uore,
 rasp-ette, scrap, scrap-uore, scrap-ette, hacc-uore, hacc-plate. --
 Quirl, pica, torna-pica, sofl-ette, sofl-uore, boll-iere, boll-uore,
 scum-iere, scum-ette, cribell, filtre, padelle, padell-ette, casserolle,
 calid-iere, caldron.
 
-Vasage. -- Vase. vas-allia, platil, plate, argentin, vas-age. -- Anse,
+*Vasage.* -- Vase. vas-allia, platil, plate, argentin, vas-age. -- Anse,
 col, fund, bec. -- Servis, pott-erie, porcelane, fayance, sand-petre.
 -- Class, cope, calicie, cop-ette, tymbal. calabass. carafe, flacone
 cruch, botel (coll de botel, corc, tira-corc), sup-iere, teiere,
@@ -5452,18 +5451,18 @@ café-iere, sucr-iere, sauc-iere, salad-iere, ole-iere, pipr-tere,
 sal-iere, mustard-iere, case-iere, potte, scudell, terrine, bowle,
 tasse, sub-tasse, platil-planc. succ-reciv-uore.
 
-Nettation. -- Aqu-iere, lav-uore, bassin, lav-petre, sitell, lignin
+*Nettation.* -- Aqu-iere, lav-uore, bassin, lav-petre, sitell, lignin
 sitell, ex-gutt-uore, ex-vers-uore. -- Chiffon, lav-ette, lixive,
 essuy-ette, terson, tergi-lapp, ex-vers-uore, terg-ette, brosse, balay,
 balay-ette, plum-tof, plum-balay, e-polv-ette. -- Scur-age. scur-ette,
 balay-age, balay-alya, residues, iett-alya, balay-bux, corb. corb-ette.
 
-Cava. -- Céllar, cava, sub-terran, excavation, tonnel, baril, tonne,
+*Cava.* -- Céllar, cava, sub-terran, excavation, tonnel, baril, tonne,
 botel, corb-botel (daube, fund, annel de barril, de tonnel), tapon,
 tampon, corc, clave, robinete, tornette, lignin, stannin, cruch, funel,
 sub-tiration,
 
-Repastes, -- Alimentes, fame, famine, sitie. apetite, satur-itá,
+*Repastes.* -- Alimentes, fame, famine, sitie. apetite, satur-itá,
 satur-ation, gloton-ene, subsistentie, nutri-ment, nutri-tura,
 nutri-tion, aliment, aliment-ation, consumation. victuales. -- Arte
 culinari, libre de cocine, labor domestic, hem-labore, menage. --
@@ -5474,14 +5473,13 @@ receptu, cocination, manna, ration, portion, menu, cart, serviette,
 mors-ade, bocc-ade, mania favorit, gust, sapore, covert, ante-manja,
 carnine, vegetabiles, dessert.
 
-Persones. -- Gastronom, gurmand, manja-tor, gloton, trinca-tor,
+*Persones.* -- Gastronom, gurmand, manja-tor, gloton, trinca-tor,
 trinc-on, festin-ard, trinc-ard, libertino, deboch-ard.
-
 Econom. menagero, cocin-ero. cocin-era, chef-cocinero. -- Servi-tor,
 domestico, factotum, ganymed, boy, serv-ero. servient, famulo
 servi-tora, servi-tressa, serv-era, bonna.
 
-Carne, -- Carne de bove, de vacc-ello, de mutton, de agnell, rostat,
+*Carne.* -- Carne de bove, de vacc-ello, de mutton, de agnell, rostat,
 bollit, in ragut, frit, haccat, con sauce. -- Gallin, gallin-elle,
 perdriz. -- Crev, crevette. fructe del mare. -- Pisc, pisc-age, pisc
 fumicat, anguill, salmon, caviar, sardin, carp, anchove, morue, stur,
@@ -5490,7 +5488,7 @@ bifsteck, filé rostat, bov-lumbe, gamb de agno, cotlet, lardat carne de
 vacello, carne bovin, bov-ine, vacell-ine, ren, ragut, stov-ate. --
 farcie, succ, sauce, blanc ragut, hach-ate, bul-ette, fri-tura.
 
-Carne svinin. -- Carne svin-in, porc-in. -- Jambon, sociss,
+*Carne svinin.* -- Carne svin-in, porc-in. -- Jambon, sociss,
 sociss-ette, socisson, salami, sangue-sociss, sociss fum-icat, surcrut,
 cervelate, lard-pelle, lard fondet, grasse porc-in, carne fumicat,
 intrallia, intestines, fricassé, blanc ragut, pastete de vaccelle e
@@ -5499,31 +5497,29 @@ jambon, sandwich.
 // XXX NOTE: li marca original de págine -39- esset in li sequent
 // paragraf:
 
-Legumes e farinages. -- Potates, terr-pom, artichoc, cauliflor,
+*Legumes e farinages.* -- Potates, terr-pom, artichoc, cauliflor,
 brussel-caul, rubi-caul, blanc faseol, verd faseol, pise, carotte, nap,
 rap, radis, oxal, sauerkraut, asparge, champinion. -- Farine, pan gris,
 blanc, (pan-pezze,
 crust, crumel, crumel-ette). -- Sup, potage, puré, bullion,
 gruel de farine, vermicell, maccarone, nudle, gruel, tapioca, sago, ris,
-leven, ferment-pasta, lad de cress, de cicoré, de lattugp de seleri,
+leven, ferment-pasta, lad de cress, de cicoré, de lattug, de seleri,
 cidonio, marmel, suflé, gelé, ove, omelette, marganne, pasta, pasta
 foliat.
 
-Dessert. -- Pastille, pastete, pastet-erie, lacte, flad, pudding,
+*Dessert.* -- Pastille, pastete, pastet-erie, lacte, flad, pudding,
 torte, tort-ette, creme crem battet, pastete de carne, macron, besé,
 biscuit, vafre, vafre-ferre, gurmand-erie, bonbon, dragé, anis,
 pistache, cracnel, praline, compot, marmelate, confitura, miel-torte,
 glacie, sorbet, butre, butre-torte, pan-covrit, caseo.
 
-Fructes. -- Uve de Corinth, rosin, uve, figue, ananas, orange,
+*Fructes.* -- Uve de Corinth, rosin, uve, figue, ananas, orange,
 mandarine, datil, nuce (craca-nuce, nuce-cracator), pom, pom-marmelade,
 compott, pir, citron, prun, orange, crusber, fresber, bramber, avellane.
 uve-fruct, apricose, cerese, mandul, castanie. melon, aqua-melon.
 banane, persica.
 
-Trincages.
-
-Fermentat trincage, vin, champagne (parfum del vin), bir, bir-eria,
+*Trincages.* -- Fermentat trincage, vin, champagne (parfum del vin), bir, bir-eria,
 chop, chopine, bir-glass, bock, carafe, cruche, boccale, cidre,
 pom-cidre, pir-alcohol, liquore, liqueur, aquavit. brandy, rum, punch,
 cognac, porter,
@@ -5533,33 +5529,27 @@ tira-corc, tapon-scruv), mandel sirop, limonade, sifon, gasos aqua,
 hydromel, lacte, crem, café, cicoré, café-moline, residue, té, samovar,
 cacao, chocolade.
 
-Condimentes.
-
--- Ingredient-ie, aroma, oleo, vinagre, sal, spice, pipre, caryofil,
+*Condimentes.* -- Ingredient-ie, aroma, oleo, vinagre, sal, spice, pipre, caryofil,
 cloves, muscad, cannel, vanille, salvia, cerfolie, cumine, safran,
-zingibre, cappare, mustard.
-
+zingibre, cappare, mustard. --
 Sucre. sucr-erie, sucr-age, sucre-cone, sucre-pane, sucre candit,
 rafinat, crud sucre. caramell, melasse.
 
-ADJ.: Li maniator posse esser: affamat, sitios, saturat, voracit
-gloton-esc, ebrie; trincut, in-satur-abil, avid. -- Li alimentes posse
-esser: bon, mal, rancie, corupt, putrid, old, ínsipid, fad, sin gust,
+*Adjectives:* _Li manjator posse esser:_ affamat, sitios, saturat, voracit
+gloton-esc, ebrie; trincut, in-satur-abil, avid. -- _Li alimentes posse
+esser:_- bon, mal, rancie, corupt, putrid, old, ínsipid, fad, sin gust,
 sin sapore, apetitos, nutri-tiv, crud, coctnat, spicat, sapor-os,
 gust-os, delicat, odoros, aromatic, fin, brul-odorant, frugal, coct,
 matur, in-matur. frisc, frigid. calid, tepid.
 
-VERBES: suffrer ye, sentir fame, fame-ar, morir de fame. -- esser
+*Verbes:* suffrer ye, sentir fame, fame-ar, morir de fame. -- esser
 salutari.
-
 Inviter. des-anunciar, contramandar, nutrir, regalar, saturar. --
 Maniar, consumar, devorar, glotir, maniar, trincar. -- Cocinar,
 accender li foy, soflar, bollir, frir, rostar, grillar, fricassar,
 calent-ar, a-frigid-ar.
-
 Condiment-ar, spicear, sal-ar, pipr-ar, sucr-ar, caramell-ar, candir.
 stovar, macerar, mannar.
-
 -- Pistar, coagular, quirlar, aplastar. triturar. raspar, scrapar,
 tranchar, de-haccar, de-cupar, ex-cis-er, ex-cupar, servir, desservir,
 garrnr, in-tablar, apretar, preparar, ac-commod-ar. -- Torrificar,
@@ -5570,14 +5560,16 @@ corc-ar, des-corc-ar,
 funel-ar. -- Odor-ar, haver aroma, saper, haver guste. -- Deboch-ar,
 bankett-ar,
 festin-ar, nippar.
-
 Balayar, scurar, brossar, nett-ar, rinsar, terger, essuyar, frottar
 
-Li alimentes posse: mofar. putrir, putrificar se, des-composir se,
-odorar. Concernent li alimentes, li homes posse: suffrer, tolerar,
+_Li alimentes posse:_ mofar, putrir, putrificar se, des-composir se,
+odorar. _Concernent li alimentes, li homes posse:_ suffrer, tolerar,
 supportar, digester.
 
-Ll ARTE VERSAR LIQUORE EX CRUCHES TRO PLEN. -- Li dómina ha invitat
+// Li arte versar liquore ex cruches tro plen {{{3
+==== Li arte versar liquore ex cruches tro plen
+
+Li dómina ha invitat
 pluri gastes; ella ha decorat li table secun su forties, precipue per
 un nov precios toale. Nu ella apporta un potte plen de cacáo. Ma qualmen
 versar it in li tasses sin que li liquore, fatalmen brun, flue along li
@@ -5593,14 +5585,20 @@ superficie del coclare es grass.
 
 // XXX NOTE: ci esset li marca original de págine -40-
 
-LI CITRON -- In Francia. in li 17esim secul, li scoleros del Universitá
+// Li citron {{{3
+==== Li citron
+
+In Francia. in li 17esim secul, li scoleros del Universitá
 havet li custom ofertar, in li mensu junio, citrones a lor professores.
 Li citron esset tande un novitá, it just hat esset importat che nos. It
 esset usat tande quam refriscator e quam parfúm: li damas del corte
 portat sur se ti fructes quel ellas mordet de témpor a témpor por
 parfumar lor hala e rubiar lor labies.
 
-LI SERVIETTE -- Li serviette, quel mult citeanes usa chascun die, quel
+// Li serviette {{{3
+==== Li serviette
+
+Li serviette, quel mult citeanes usa chascun die, quel
 li ruranes surti ex lor old scafes ye li grand festas, es, secun li
 dictionarium, li pezze de linage per quel on essuya se ye table e in li
 toilette.
@@ -5612,14 +5610,17 @@ self aportat. In li medievie, li repastes esset precedet e sequet de un
 lava-manu; manjante on essuyat su bocca e su fingres per lateres del
 table-tapisse.
 
-Solmen in li XV esim secul. sub li reyentie de Charles VI, li serviette
+Solmen in li XV-esim secul. sub li reyentie de Charles VI, li serviette
 esset changeat pluri vezes durant li repastes. Sub Louis XIII, on nodat
 li serviette circum li colle. E ja on presentat it plicat in agreabil
 maniere: in gallino, in lépor, in tortugo, in cruce. Solmen plu tard on
 ligat it elegantmen al robe o al gilete e finalmen on extendet it sur su
 genús, apen desplicat.
 
-QUANDE APARIT LI FURCETTE? -- Li custom manjar per un furcette aparit in
+// Quande aparit li furcette? {{{3
+==== Quande aparit li furcette?
+
+Li custom manjar per un furcette aparit in
 li XIesim secul. In prim ti custom causat scandale. Li doge de Venezia
 hat maritat un dama de Constantinopolis quel morit de un maladie quel on
 atribuet al usu del furcette. Li francés scritor Montaigne self manjat
@@ -5627,7 +5628,10 @@ per su fingres. Noi save it pro que il self scri: «It es índecent
 manjar glotonicmen quam yo fa; yo sovente morde mi lingue, e mem mi
 fingres pro rapiditá.»
 
-TRINCAGES, -- Li archeologos attribue al ancian Egiptianes li arte far
+// Trincages {{{3
+==== Trincages
+
+Li archeologos attribue al ancian Egiptianes li arte far
 per hordeo un trincage fermentat simil a nor bir. Li bir esset egalmen
 ordinari trincage de omni nationes del oriente e del nord: ma chascun
 de ili fat it per granes e procedes diferent.
@@ -5646,16 +5650,22 @@ Circa 1660, li limonade esset detronat del café, li chocolate (cacáo) e
 li té; in ti epoca li butica del limonadero prendet li nómin de café (=
 caféia), quo monstra li grand favore trovat del benefant trincage.
 
-ORÍGINE DEL PAROL «COCKTAIL». -- Omnes parla pri cocktail ma solmen
+// Orígine del parol «cocktail» {{{3
+==== Orígine del parol «cocktail»
+
+Omnes parla pri _cocktail_ ma solmen
 poc persones conosse li orígine de ti expression. Ti parol anglés, quel
-significa litteralmen «caude de gallino» (cock -- gallino, tail -- caude)
+significa litteralmen «caude de gallino» (_cock_ -- gallino, _tail_ -- caude)
 origina de un epoca quande li combatte de gallinos esset un del max
 populari amusamentes del popul anglés. Pos chascun combatte, li
 pariatores, queles hat ganiat, trincat ye li sanitá de lor gallino, e
 poc-a-poc li custom etablisset se versar in ti glass tam mult species de
 trincages quam li gallino hat conservat plumes in su caude.
 
-UN ROSTATE OLD DE 10.000 ANNUS. -- Un sved directet de professor
+// Un rostate old de 10.000 annus {{{3
+==== Un rostate old de 10.000 annus
+
+Un sved directet de professor
 Lindberg, ha revenit a Stockholm fro Taiga-Nord u it ha descovrit li
 retes de un mámmut conservat in li glacie e originant in li antediluvian
 epoca.
@@ -5669,7 +5679,10 @@ Sibiria.
 Naturalmen li carne hat esset examinat antey de specialistes e declarat
 perfectmen manjabil pos ti long sejorn in ti natural glaciera.
 
-LI SANDWICH. -- Li sandwich es conosset del gastronomes desde presc du
+// Li sandwich {{{3
+==== Li sandwich
+
+Li sandwich es conosset del gastronomes desde presc du
 secules. Lord Sandwich esset un passionat ludero. Quande il esset avan
 li lud-table, il obliviat omnicos, su familie, su ocupationes, e sovente
 mem il obliviat prender su repastes. Por un hom tam ocupat quam Lord
@@ -5681,19 +5694,28 @@ Francia adoptet ti sistema de rapid repastes e dat per comparation li
 nómin de «sandwich-mann» al mann quel portat comercial reclames in
 avan e sur li dors, talmen que su córpor ludet quasi li rol del jambon.
 
-LI CAN IN LI ALIMENTATION. -- Desde long, li carne de can intra li
+// Li can in li alimentation {{{3
+==== Li can in li alimentation
+
+Desde long, li carne de can intra li
 alimentation del Chineses e Senegaleses. In Europa ti carne es ja
 utilisat in pluri cités, por exemple in München, li municipie devet
 regulamentar su consumation. Secun J. Pertus, li carne de can aproxima
 se max a ti del agne per li natura del grasse e su repartition. Li
 confusion es mem possibil.
 
-LI CONSERVES ALIMENTARI. -- In 1804, li parisan cocinero Appert trovat
+// Li conserves alimentari {{{3
+==== Li conserves alimentari
+
+In 1804, li parisan cocinero Appert trovat
 li medie conservar li alimentes: li sterilisation quel consiste in
 calidar les e cluder les hermeticmen. Li menageras usa ancor ti procede
 e to esset li comensa del industries del conserves.
 
-LI RIS. -- On save que ex du milliardes de homes queles popula nor
+// Li ris {{{3
+==== Li ris
+
+On save que ex du milliardes de homes queles popula nor
 glob, circa li demí manja principalmen ris.
 
 Nascet in China, li ris ha conquestat li quin partes del munde. It es
@@ -5717,7 +5739,10 @@ grandmen li pistation e pro que it fermenta desfacilmen, li pane infla
 mal quande it contene ris. Do li crumel resta blanc, tro densi, presc
 ínmanjabil in li frisc statu e índigestibil in li statu plu old.
 
-ORÍGINE DEL PANES IN FORM DE DEMÍ-LUNE. -- Li micri panes in form de
+// Orígine del panes in form de demí-lune {{{3
+==== Orígine del panes in form de demí-lune
+
+Li micri panes in form de
 demí-lune have un tre ancian orígine: es un superviventie del grec
 tortes quel servit quam sacrificies e queles imitat li form de un
 demí-lune (crescente). Ti torte esset li simbolic image del sacrificies
@@ -13819,49 +13844,49 @@ Dr. Peipers, Köln.
 
 Por automobile e aviation, ples vider sub ti titules.
 
-Via. -- Move-ntie. viag-e, viage-ator, viag-ero. depart, start,
-destination, arriva,  vi-arium, for-marcha, ab-marcha, detorn, circuit.
-indirect via, curvi via, mis-via, ye  demí-via, curse, curr-ida,
-zig-zag, re-veni-da, passagie, traject, sejorn -- pacc-age,  bagage,
+*Via.* -- Move-ntie. viag-e, viage-ator, viag-ero. depart, start,
+destination, arriva, vi-arium, for-marcha, ab-marcha, detorn, circuit.
+indirect via, curvi via, mis-via, ye demí-via, curse, curr-ida,
+zig-zag, re-veni-da, passagie, traject, sejorn -- pacc-age, bagage,
 coli, valise, pacca, cofre, -ette, sac -- passport, permiss de restantie
---  caravane. safari.
+-- caravane. safari.
 
-Vehiculation. -- Vehicul, coche, carre, carr-ette, carr-ede, landau,
-caleche, tilbury  -- timon, furcat timon, rot, radion, felg, nabe,
-rot-axe, fren, porta, tenette, fenestre,  sede, harnes, brid, flagel,
-attelage --  taximetre, remise, hangar, garage, omnibus,  tram,
+*Vehiculation.* -- Vehicul, coche, carre, carr-ette, carr-ede, landau,
+caleche, tilbury -- timon, furcat timon, rot, radion, felg, nabe,
+rot-axe, fren, porta, tenette, fenestre, sede, harnes, brid, flagel,
+attelage -- taximetre, remise, hangar, garage, omnibus, tram,
 tram-via, strad-rel-via, diligence -- postilion, coch-ero, carr-ero,
-carr-ett-ero,  carr-ductor, con-ductor --  halta, relé.
+carr-ett-ero, carr-ductor, con-ductor -- halta, relé.
 
-Marcha. -- Promenada, excursion  -- march-ator, ped-on  -- via, rut,
-ped-via.  vi-ette, pal indicatori, born, carril, rot- sulc, slamm-fore,
-slamm-iera, ravin -- baston,  bastonazzo, sac, dors-sac,  tur, tur-ism,
-tur-ist, alpin, -ism, -ist, ascension,  guid, port-ator, Pica.
+*Marcha.* -- Promenada, excursion -- march-ator, ped-on -- via, rut,
+ped-via. vi-ette, pal indicatori, born, carril, rot- sulc, slamm-fore,
+slamm-iera, ravin -- baston, bastonazzo, sac, dors-sac, tur, tur-ism,
+tur-ist, alpin, -ism, -ist, ascension, guid, port-ator, Pica.
 Ferrovia. -- Rel-via, rel-rut, rel-age, rel-ament, rel, ferrovi-ari
-rete, rel-sistema,  interspacie del rotes, escarte del rotes, traverse,
-pal, viaduct, tunnel, cable, rel-via  funiculare, nivel-passage, agulye,
-bifurcation, aguly-ero, garda-via, station, intr-ada,  surti-da,
+rete, rel-sistema, interspacie del rotes, escarte del rotes, traverse,
+pal, viaduct, tunnel, cable, rel-via funiculare, nivel-passage, agulye,
+bifurcation, aguly-ero, garda-via, station, intr-ada, surti-da,
 plat-form, tornant placc, disco, signal, trott-uore, caye, sala de
-attende,  buffet, café-ia, in-registr-ation del bagages, venditoria del
--- lava-toria,  latrine, closet  -- tren, convoy, express, direct
-tren, locomotive, ténder, station-chef,  chauffero, control-ero,
-tren-chef  -- furgon, transport-wagon, wagon, charj-wagon,  cupé,
+attende, buffet, café-ia, in-registr-ation del bagages, venditoria del
+-- lava-toria, latrine, closet -- tren, convoy, express, direct
+tren, locomotive, ténder, station-chef, chauffero, control-ero,
+tren-chef -- furgon, transport-wagon, wagon, charj-wagon, cupé,
 partition, compartiment, banca, porta, fenestre, danger-signal, corde de
-alarm --  parachoc, bufre --  vi-arium, tren-libre, tren-list, guid de
-relvias, bagage-depó,  cargo, charie, bilet, abonnament, porte,
-transport-polis, ballot, fret-wagon, merce  de ordinari velocitá.
+alarm -- parachoc, bufre -- vi-arium, tren-libre, tren-list, guid de
+relvias, bagage-depó, cargo, charie, bilet, abonnament, porte,
+transport-polis, ballot, fret-wagon, merce de ordinari velocitá.
 
-Verbes: Ear, vader, veni-r, departer, for-vehicular, viagiar, moer.
-arrivar, avansar,  vehicul-ar, retornar, retro-ear, revenir, sejornar,
-attelar, des-attelar, frenar, haltar,  flagel-ar, bridar, harnesar,
+*Verbes:* Ear, vader, veni-r, departer, for-vehicular, viagiar, moer.
+arrivar, avansar, vehicul-ar, retornar, retro-ear, revenir, sejornar,
+attelar, des-attelar, frenar, haltar, flagel-ar, bridar, harnesar,
 startar, rapid-ear, lent-ear, stoppar, in-pacc-ar, in-ball-ar,
 promenar, ex-ear, quittar, for-ear, curr-er, ex-currer, marchar,
-ascender, descender,  de-rel-ar, currer ex li reles.
+ascender, descender, de-rel-ar, currer ex li reles.
 
 // Un magnetic balayator {{{2
 === Un magnetic balayator
 
-Li administration del Vias de Quebec  ha just
+Li administration del Vias de Quebec ha just
 provat un nov machine balayatori.  Li balayator possede, vice un balay,
 un electro-magnete. Durant  li unesim prova along li strada de
 Little-River in Quebec, li electromagnet atraet circa 9 kg de cloves,

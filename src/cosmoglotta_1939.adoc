@@ -1,5 +1,5 @@
 = Cosmoglotta 1939
-:revdate: 2023-04-10
+:revdate: 2023-05-08
 :docdescription: Omni numerós publicat in 1939 \
 del oficial organe del lingue international Occidental/Interlingue.
 include::common_attributes.adoc[]
@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified 20230411T0822+0200.
+// Last modified 20230508T1652+0200.
 
 include::about_this_book.adoc[]
 
@@ -6060,7 +6060,7 @@ I.F.
 // Li centres de interesse {{{2
 === Li centres de interesse
 
-Por augmentar li interesse e utilitá del *Vocabularium del centres
+Por augmentar li interesse e utilitá del *Vocabularium del Centres
 de Interesse in Occidental*, publicat ante poc mensus in nor
 Centrale de Chapelle noi intentet ilustrar it per litt esquisses del max
 conosset objectes citat in chascun capitul. Tecnic desfacilitás
@@ -6068,7 +6068,7 @@ regretabilmen impedit nos realisar ti bell projecte, ma li coidealistes
 utilisant nor Vocabularium va trovar nu li desirat ilustrationes in un
 brochura just aparit in francès che li _Editions SPES_ de Lausanne
 por li docentie
-del dessin e titulat «_Le croquis rapide_». Li present image,
+del dessin e titulat «Le croquis rapide». Li present image,
 extract de ti brochura, monstra un lecion concernent li _lixivation,
 li nettation del vestimentes._ (Li titules de chascun figura es in
 francès e ne in Occidental). Coidealistes desirant comprar li metode,

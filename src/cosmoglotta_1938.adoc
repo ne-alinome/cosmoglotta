@@ -1,5 +1,5 @@
 = Cosmoglotta 1938
-:revdate: 2023-04-10
+:revdate: 2023-05-08
 :docdescription: Omni numerós publicat in 1938 \
 del oficial organe del lingue international Occidental/Interlingue.
 include::common_attributes.adoc[]
@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified 20230410T2054+0200.
+// Last modified 20230508T1652+0200.
 
 include::about_this_book.adoc[]
 
@@ -153,50 +153,50 @@ general leges fysical.
 
 Ente homan, homan-ité, rasse, embryon, sexu, hom(-o, -a), mann, fémina,
 
-Córpor: membre, organ, pelle, cute, derma(t), epiderma(t), pore,
+*Córpor:* membre, organ, pelle, cute, derma(t), epiderma(t), pore,
 sud-ore, transpiration, sebe, membran,
 mucose, -- Muscul, fibre, carne, cellul, call, call-os-itá,
 pustul, glandul.
 
-Cap: visage, facie, trate, figura, profil, mime, grimasse, fysionomie,
+*Cap:* visage, facie, trate, figura, profil, mime, grimasse, fysionomie,
 cranio, front, nase (aquilin, puntat, aplatat), narice, menton, tempie,
 mach-uore, cerebre,
-orel, tympan,
+orel, tympan.
 
 Bocca, labie, dent (molari, os-ori, incis-lv, can-in), gengive, alveole
-dental, bave, salive, saliv-age,
+dental, bave, salive, saliv-age.
 
 Ocul, palpebre, ocul-glob, cilie, orbite, ocul-cave, brov, iris, retine,
-cornea, camp visual, spacie visibil
+cornea, camp visual, spacie visibil.
 
 Barb, mustache (up-torder li mustaches), puntat, -- Color de facie,
-carnation, rug(a),
+carnation, rug(a).
 
 Coll, nuc(a), crine del cap, capille, capill-tress, capillatura,
-gurgul, gúttur,
+gurgul, gúttur.
 
-Trunc: torso, vertebre, péctor, torac, sinu, tette, buton de mamme,
+*Trunc:* torso, vertebre, péctor, torac, sinu, tette, buton de mamme,
 papille, dors, boss, cordie, ventricul, pulmon(e), aorta, flanc,
-stomac, bili, diafragma, bronchies
+stomac, bili, diafragma, bronchies.
 
-Ventre: abdomin, hanche, coxe, panse, ren, hepat, matrice, intestine,
+*Ventre:* abdomin, hanche, coxe, panse, ren, hepat, matrice, intestine,
 vessuca, anus, cul, sede, posteriore, vagine, fec, fec-alya, gremie,
 appendice, pube, genit-alya, partes
-sexual,
+sexual.
 
-Membres:
+*Membres:*
 brass, manu, punye, fingre (pollic, index, fingre medial,
 annelar, auriculari, thenar o palme del manu, ungul,
 crure, genu, gamb, pede,
 talon,
-calcan,
+calcan.
 
-Skelet: osse, oss-age, oss-atura, ossa-ment, medull, tendon,
+*Skelet:* osse, oss-age, oss-atura, ossa-ment, medull, tendon,
 cartilagine, articulation, Junt-ura, cramo, vertebre, spin dorsal, cost,
 scapul clavicul, humerus, radius, cubitus, femur, pélvis, tibia,
-calcaneo, malleol, rotul
+calcaneo, malleol, rotul.
 
-Status e movementes:
+*Status e movementes:*
 form, statura, aplomb, fasson, geste, fysionorrue, caractere, marca,
 typ, mime, aspect, pall-ore, pallid-itá, -- Nascentie, morte, --
 Hala, sofle, spira, spira-tion, letargie,
@@ -204,13 +204,15 @@ asfyxie, quasi-morte, reva, cochemare,
 audition gust, besa, dorme, somnie, sospir,
 genu-flexion, -- Nan, pygmé, corpulentie,
 gigant, magr-itá,
-grass-itá,
+grass-itá.
 
-Adj.: capillat, capill-ut, crin-osi, audi-bil, percept-ibil, acustic,
+*Adjectives:* capillat, capill-ut, crin-osi, audi-bil, percept-ibil, acustic,
 corpulent, grass(osi), grass-ut, obesi, gracil, magri,
 muscul-osi, -ari, vulner-abil,
 in-vulner-abil, immun, claudicant, paralysat,
-sanguant, carn-ut, Verbes: crescer, viver,
+sanguant, carn-ut.
+
+*Verbes:* crescer, viver,
 vegetar, viv-achar, permaner, susbister, durar, nascer,
 morir, in-grass-ar, exhalar, transprar,
 ex-sudar, salivar, sputar, manjar, trincar,
@@ -228,8 +230,8 @@ li manu, salt-ar, salt-illar, currer, ear,
 vader, tramplar, trott-illar, trott-ar,
 mis-passu-ar, genu-flecter, star sur genues,
 genu-star, marchar, ped-presser, calcanear,
-talonar, palpar, tuchar, des-sangu-ar, -- Li
-capilles posse: crispar, buclar,
+talonar, palpar, tuchar, des-sangu-ar, -- _Li
+capilles posse:_ crispar, buclar,
 
 // XXX NOTE: ci esset li marca original de págine -3-
 
@@ -239,74 +241,66 @@ capilles posse: crispar, buclar,
 // Vision {{{4
 ===== Vision
 
-Nómines: ocul, vise, vis-lon, regard, percept-ion,
+*Nómines:* ocul, vise, vis-lon, regard, percept-ion,
 contemplation, aparition, des-aparition, luce, lúmine, lumin-os-itá,
 clar-itá, eclat, brillia-nt-ie, splend-ore, obscur-itá, tenebre,
 transparent-ie, opac-itá, vis-ibil-itá, clar-ation.
-
 Ecran, scren, protection. para-sole. lornion, lorniette, nas-binocul,
 pince-nase.
-
 Visionario, illusion-ist. -- Observator. inspect-or, spion.
-
 Illusion, fascination, hallucination, fantasie, signe, adverti-ment.
-
 Color, color-ation, nuancae, nuanciation.
 
-Adj.: vis-ibil, in-vis-ibil, remarca-bil, percept-ibil, contempla-tiv,
+*Adjectives:* vis-ibil, in-vis-ibil, remarca-bil, percept-ibil, contempla-tiv,
 luc-id. lumin-osi, eclatant, brilliant, scintillant, splend-id, obscur,
 tenebr-osi, transparent, opac,
 pall-id, colorat, nuanciat, clar, optic.
 
-Verbes: Li ocules posse: vider, regardar, gapar, percepter, remarcar,
+*Verbes:* _Li ocules posse:_ vider, regardar, gapar, percepter, remarcar,
 constatar, considerar, contemplar, examinar, a-clar-ar, illusion-ar,
 fascinar, hallucinar, palpebrar, ocul-signar,
 advertir, inspecter, controlar, spiar.
-
-Li coses posse: aparir, des-aparir, luc-er, luc-id-ar, eclatar,
+_Li coses posse:_ aparir, des-aparir, luc-er, luc-id-ar, eclatar,
 brilliar, scintillar, splend-er, obscur-ar, transparer, ciec-ar,
 fulmin-ar, pall-er, fantasi-ar, color-ar, nuanci-ar.
 
 // Audition {{{4
 ===== Audition
 
-Nómines: Orel, brui, brui-da, son, ton, musica, clam-ore,
+*Nómines:* Orel, brui, brui-da, son, ton, musica, clam-ore,
 clam-ada, cri, cri-ada, cant, ulul-ada, turbul, fracass, tumultu,
 rumore, pataratá, tic-tac. tic-tac-ament, crac, detonation, distantie de
 audibilitá, portada de voce, ecó, sonor-itá, rauc-itá, discordantie,
 audi-tor, escuta-tor; son-instrumentes: crac-uore, cloche, tintinette,
 siflette, sifl-uore, flyte, trumpet, tambur, saxofon.
 
-Adj.: dulci, rud, aspri, rasp-ic, rauc, brui-ent, sonori, silenti-osi,
+*Adjectives:* dulci, rud, aspri, rasp-ic, rauc, brui-ent, sonori, silenti-osi,
 tranquil, sin brui, strident, penetrant, -- audibil, perceptibil,
 acustic, audi-t-iv, -- bass, alt,
 voc-osi, fort, des-voc-osi, pian, eclatant,
 discordant, strident.
 
-Verbes: sonar, re-sonar, detonar, raslar, clikettar, fracassar,
+*Verbes:* sonar, re-sonar, detonar, raslar, clikettar, fracassar,
 eclatar, vellar, strider, bruir, muir, rumotar, frascar, sonorar,
-cracar, claccar, smaccar, tintinar, croacar, tictac-ar
-
-Li voce posse: tremular, chuchotar, murmurar, susurrar, gacardar,
+cracar, claccar, smaccar, tintinar, croacar, tictac-ar.
+_Li voce posse:_ tremular, chuchotar, murmurar, susurrar, gacardar,
 gagotar, balbutiar, grunir, siflar, clamar, criar, gemer, sospirar,
 guayar, gemir.
-
-Li nase posse: anhelar, spirottar, roncar, nasillar.
-
-Li orel posse: audir, escutar, auscultar (medico).
+_Li nase posse:_ anhelar, spirottar, roncar, nasillar.
+_Li orel posse:_ audir, escutar, auscultar (medico).
 
 // Gust {{{4
 ===== Gust
 
-Nómines: lingue, savure, sapore, ín-sipid-itá, fad-itá,
+*Nómines:* lingue, savure, sapore, ín-sipid-itá, fad-itá,
 dulc-itá. aspri-tá, acri-tá, amar-itá, rancid-itá, desir, apetite,
 avid-itá.
 
-Adj.: savur-osi, gapor-osl. acri, acid, amari, ranc-id, fad, sal-in,
+*Adjectives:* savur-osi, gapor-osl. acri, acid, amari, ranc-id, fad, sal-in,
 aroma-tic, dulci,
 aspri, ín-sipid. sucrat.
 
-Verbes: savurar, a-dulci-ar, salar, sucrar.
+*Verbes:* savurar, a-dulci-ar, salar, sucrar.
 
 // Odor {{{4
 ===== Odor
@@ -324,14 +318,14 @@ emanar, inhalar, infect-er, nausear.
 // Tucha {{{4
 ===== Tucha
 
-Nómines: manu, pelle, tuchada, titillation, frottation,
+*Nómines:* manu, pelle, tuchada, titillation, frottation,
 palpation, massage, choc, colp, contact, tangent-ie, tactil-itá.
 
-Adj.: sent-ibil (passiv), sens-ibil (activ), in-sens-ibil, apatic,
+_Adjectives:* sent-ibil (passiv), sens-ibil (activ), in-sens-ibil, apatic,
 sagaci, percept-ibil,
 concret, palpa-bil, evident, polit, glatt, rud, rug-osi, dur, tendri.
 
-Verbes: sentir, tastar, palpar, titillar, frottar, massar, tuchar,
+*Verbes:* sentir, tastar, palpar, titillar, frottar, massar, tuchar,
 tappar, batter,
 atinyer, a-trapp-ar, caressar, chocar.
 
@@ -2223,16 +2217,16 @@ tal sistematic deformation mental.
 // Lingue {{{2
 === Lingue
 
-// Vocabularium del centres de interesse {{{3
-==== Vocabularium del centres de interesse
-
-// Vive e morte {{{4
-===== Vive e morte
+// Vocabularium del centres de interesse: vive e morte {{{3
+==== Vocabularium del centres de interesse: vive e morte
 
 // XXX TODO Confirmar:
 // "coche- retiratie"
 
-VIVE. -- Nomines: vive. vital-itá, ente, existent-ie, etá, era,
+// Vive {{{4
+===== Vive
+
+*Nomines:* vive. vital-itá, ente, existent-ie, etá, era,
 fili-ation, genealogie, destin, sortet fate, carriera, etá, infant-ie,
 puber-tá, adolescent-o, boy, garson,
 infant-o, adolescent-ie. yun-esse, yun-itá,
@@ -2241,33 +2235,40 @@ viril-itá, matur-itá, adult, adult-ie,
 old-esse, old-o, old-a, ott-ant-ario, centen-a-rio, etc., senil-itá,
 ruga, --  gemell. trigemell, orfan, filio
 dorlotat, dorloton, -- vigilie, dorme,
-coche- retiratie, pension,
-emerition,
-mare, reva.
+cochemare, reva -- retiratie, pension,
+emerition.
 
-Adj.: Li córpor homan posse esser: infant-esc, infant-il, infant-in,
+*Adjectives:* _Li córpor homan posse esser:_ infant-esc, infant-il, infant-in,
 yun, juvenil, adolescent, viril. puber, mann-ic, mann-esc, matur,
 adult, plen-crescet, old, senil, rugat,
 caduc, vital, minor, de minor etá, junior,
-senior. : viver, habitar, esser extra lette,
+senior.
+
+*Verbes:* viver, habitar, esser extra lette,
 esser vigil, vigilar, dormi-r,
 somni-ar, revar, roncar,
 dorm-illar.
 
-NASCENTIE. INFANTE. -- Nomine: maritagie, nuptie, natal-itá, embrion,
+// Nascentie, infantie {{{4
+===== Nascentie, infantie
+
+*Nomines:* maritagie, nuptie, natal-itá, embrion,
 fétus, acucha, acuch-era, lette de nascentie, bebé, suc-on, a-lact-at,
 involuette, a-lact-ation, anniversarie, die de nascentie, infant-era,
 nutr-essa, bonna, coche de bebé, infant garderia, asyl de infantes,
 simplicitá infantin, in-nocent-ie,
 naiv-itá. infantagie, infantil-esse, infantil-itá, pueril-itá.
 
-Adj.: nasce-nt, mort-nascet, infantin, pueril, originari, natural,
+*Adjectives:* nasce-nt, mort-nascet, infantin, pueril, originari, natural,
 indigen.
 
-Verbes: nasce-r, venir al munde, nascent-ar, far viver, vivent-ar,
+*Verbes:* nasce-r, venir al munde, nascent-ar, far viver, vivent-ar,
 re-nascer, re-viver. re-vive-nt-ar.
 
-SEXUAL VIVE. -- Nomines: amore, passion, inclination, flamme,
+// Sexual vive {{{4
+===== Sexual vive
+
+*Nomines:* amore, passion, inclination, flamme,
 affection, foy, tendri sentiment, flirt, galant-erie, tendresse, pena de
 cordie, capricie, idolatrie, amorette, jalusie, constantie, fidelitá,
 in-fidelitá, frigore, conquesta, caresse, gentil-esse, amic-itá,
@@ -2281,19 +2282,19 @@ scandal, in-pur-itá, in-pud-ic-itá, in-pud-ore, in-decent-ie,
 deboch-erie, prostitution, impudicie, coit-ion, co-habit-ation,
 castration.
 
-Persones: am-ant, amant-es, amant-o, amant-a, amor-os-o, amor-os-a,
+*Persones:* am-ant, amant-es, amant-o, amant-a, amor-os-o, amor-os-a,
 am-at-o, am-at-a, idol, car-o, car-issim-o, galant, don Juan, seduct-or,
 adonis, amic-o, amic-a, favorit, amit-essa, metressa, cuple, pare
 inamorat, deboch-ero, suten-ero, alfons, proxenet, eunuc, castrat,
 harem, curtisana, hetera, concubina, prostituta.
 
-Adj.: ardent. tendri, foll, ciec, platonic, sentimental, brulant,
+*Adjectives:* ardent. tendri, foll, ciec, platonic, sentimental, brulant,
 caressant, dulci,
 miel-osi, comples-ent, dulc-or-osi, ama-bil, libertin, sensu-al,
 volupt-osi, pur, in-pur, inconvenent, lubric, glissid, obscen, lasciv,
 debochant, scandal-osi, luxun-osi, in-constant, flirt-aci, levi.
 
-Verbes: am-ar. amor-ettar, in-amor-ar se por, in-passionar se por,
+*Verbes:* am-ar. amor-ettar, in-amor-ar se por, in-passionar se por,
 idolatrar, arder por, rucular, flirtar. cort-es-ar, preferer, caressar,
 dorlot-ar, im-brass-ar, besar, bes-ettar, serrar in su brasses, presser
 sur su cordie, ocul-ettar, a-femin-ar, seduct-er, raviss-er. charmar,
@@ -2301,7 +2302,10 @@ copular, dormir con, coit-er, castrar, pud-er, dec-er, deboch-ar,
 incontine-r, prostitu-er, geniter,
 inconvener.
 
-MARITAGE. -- Nomines: spons-agie, alliant-ie, union, -- civil,
+// Maritage {{{4
+===== Maritage
+
+*Nomines:* spons-agie, alliant-ie, union, -- civil,
 religiosi, morganatic maritage, demanda de maritage, promesse de
 maritage, marit-antie, notification de maritage, consenti-ment,
 publication, spons-ion, celebration del maritage, nuptie, nuptial
@@ -2315,46 +2319,54 @@ in-fidelitá, concubin-atu, bigam-ie. monogam-ie, polygam-ie.
 
 // XXX NOTE: ci esset li marca original de págine -20-
 
-Persones: pretendent, mari-to, marit-a, spons-o, spons-a, bel-fili-o,
+*Persones:* pretendent, mari-to, marit-a, spons-o, spons-a, bel-fili-o,
 bel-fili-a, bel- patre, bel-matre, bel-parente, femina, pare,
 testimonio, vidu-o, vidu-a, conjunct. doar-iera, bigam, monogam,
 polygam, celib, celibat-ario, celib-o, celib-a,
 divorciat, adulter-ant-o, metressa,
 concubin-o, concubin-a, fals marites.
 
-Adj.: matrimonial. nupti-al, marit-al, marit-ibil, dot-al, nubil,
+*Adjectives:* matrimonial. nupti-al, marit-al, marit-ibil, dot-al, nubil,
 puber.
 
-Verbes: spond-er, benedir. dupar, trahi-r, des-honor-ar, dot-ar,
+*Verbes:* spond-er, benedir. dupar, trahi-r, des-honor-ar, dot-ar,
 divorci-ar, sepa-rar.
 
-FAMILIE. -- Nomines: gánere, gente, rasse, genealogie, origine,
-genit-ura-
+// Familie {{{4
+===== Familie
 
+*Nomines:* génere, gente, rasse, genealogie, origine,
+genit-ura,
 filiation, parent, parent-itá, patre, patr-in-iti, papi, patr-ette,
 mami, matr-ette, matre, infant, puer, puer-il-itá, filie, fratre,
 sestra, gemel, o-, a-, senior, junior, bapt, bapt-bassin, matrona,
 com-patre, com-matre, famili-ari-tá.
 
-Adj.: famili-ari, genealogic, patr-in, paternal, matr-in, maternal,
+*Adjectives:* famili-ari, genealogic, patr-in, paternal, matr-in, maternal.
 
-Verbes: descender, originar, geniter, progeniter, bapt-isar.
+*Verbes:* descender, originar, geniter, progeniter, bapt-isar.
 
-GENERATION. -- Nomines: reproduction, multi-plic-ation, creation,
-formation, genese, matern-ith, matr-in-iti, patr-in iti, mascul,
+// Generation {{{4
+===== Generation
+
+*Nomines:* reproduction, multi-plic-ation, creation,
+formation, genese, matern-itá, matr-in-itá, patr-in-itá, mascul,
 feminin, sexu, fecundation, conception, gestation, formation,
 parturition, hereditá, atavism, genit-alya, genit-ura, embryon, fetus,
 ove, micre, progenitura, infant, mulatt, mulatt-essa, hybrid, mestizo,
 -- abort-ion, partur, mis-partur.
 
-Adj.; genesic, reproductori, prolific, fecund, steril, vivibil, vivipar,
+*Adjectives;* genesic, reproductori, prolific, fecund, steril, vivibil, vivipar,
 ovipar, ovovivipar.
 
-Verbes: fecund-ar, copular, genit-er, gener-ar, pro-cre-ar,
+*Verbes:* fecund-ar, copular, genit-er, gener-ar, pro-cre-ar,
 reproduct-er, ov-ar, acuch-ar, parturir, dar nascentie a, far nascer,
 a-lact-ar, mammant-ar, dorlotar.
 
-MORTE. -- Nomines: morte, mort-al-itá, in-mort-al-iti, agonie, --
+// Morte {{{4
+===== Morte
+
+*Nomines:* morte, mort-al-itá, in-mort-al-iti, agonie, --
 morto, cadavre, suicid, suicid-ie, self-mortation, salta mortal, culbut,
 luctu, funebre, affliction, tristesse, poster-itá, epigones, herede, --
 supervivent, superviventie, resurrection, re-vivent-ie, sarc,
@@ -2365,10 +2377,10 @@ tombe, tomb, -- camp, jardin del mortes, -- sarcofag, cenotafio,
 mausolé, epitafe, necrolog, -ie, necroscopie, urne cindral, funebre,
 funeral messe, monument sepultori.
 
-Adj.: mori-ent, mort-al, in-mort-al, cadavr-ic, sepulcr-al,
+*Adjectives:* mori-ent, mort-al, in-mort-al, cadavr-ic, sepulcr-al,
 supervivent.
 
-Verbe: mori-r, peri-r, agonisar, pend-er, strangular, mort-ar, --
+*Verbe:* mori-r, peri-r, agonisar, pend-er, strangular, mort-ar, --
 esser afllictet,
 esser trist, portar luctu, -- resurrecter, re-viver, re-vive-nt-ar, --
 in-terr-ar, in-hum-ar, cremar, in-cindr-ar, sepult-er, foss-ar.
@@ -8011,7 +8023,7 @@ Scorpion
 
 // XXX NEW: Li titul esset mettet in ti edition.
 
-Li Vocabularium del Centres de Interesse de Ric Berger ha aparit!
+Li _Vocabularium del Centres de Interesse_ de Ric Berger ha aparit!
 
 Poligrafat in maniere de Cosmoglotta B, it contene in 100 capitules sur
 120 págines omni paroles usual de Occidental gruppat secun temas. Quelc
