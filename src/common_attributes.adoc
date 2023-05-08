@@ -20,6 +20,7 @@ ifdef::backend-pdf[]
 :toc: auto
 :front-cover-image: ../tmp/{docname}.cover.jpg.pdf
 endif::[]
+:figure-caption!:
 //
 // Texts:
 :table-caption!:
