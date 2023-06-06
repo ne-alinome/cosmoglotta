@@ -1,5 +1,5 @@
 = Cosmoglotta 1927
-:revdate: 2023-04-28
+:revdate: 2023-05-24
 :docdescription: Omni numerós publicat in 1927 \
 del oficial organe del lingue international Occidental/Interlingue.
 include::common_attributes.adoc[]
@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified: 20230428T0851+0200.
+// Last modified: 20230524T1201+0200.
 
 include::about_this_book.adoc[]
 
@@ -133,7 +133,7 @@ In li unesim témpore li Esperantistes esset benigni, proque li unesim
 attacca de Occidental esset directet contra Ido. Ili quasi ha joyat pri
 li nov ínesperat socio in lor antiqui lucta contra su schismaticos. E
 solmen poy ili ha comprendet que li lucta contra Ido destructe anc li
-fundamentes de Esperanto. Li Esperantopresse quel durant mult annus ha
+fundamentes de Esperanto. Li Esperanto-presse quel durant mult annus ha
 simplicmen ignorat li Ido-movement, ne ha posset far lu sam con
 Occidental, e nu mem guidant periodicos de Esperanto ha concedet que
 teoricmen Occidental es li sistema max proxim al ideal de un lingue

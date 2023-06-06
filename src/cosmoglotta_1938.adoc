@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified 20230508T1652+0200.
+// Last modified 20230530T1852+0200.
 
 include::about_this_book.adoc[]
 
@@ -8635,7 +8635,7 @@ diferent formes del radica latent, o mem completmen diferent radicas.
 
 Li cardinal obstacul incontrat del autor de Esperanto (quam de mult
 altres) esset li paroles finient in -ion (tion, sion), -or (-tor, -sor),
--ura, iv, -nde (-antie, -entie), -ori etc. quam p. ex. construction,
+-ura, -iv, -nde (-antie, -entie), -ori etc. quam p. ex. construction,
 division, acumulator, productiv, reparation, garnitura, organisatori,
 diferentie, multiplication, tolerantie, provisori, definitiv, ruptura,
 etc.
