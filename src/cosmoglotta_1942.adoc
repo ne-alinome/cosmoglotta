@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified: 20230415T2051+0200.
+// Last modified: 20240328T1055+0100.
 
 include::about_this_book.adoc[]
 
@@ -3735,7 +3735,7 @@ nascet in Firenze li 26 marte 1875 e vers li fine de annu 1897 completat
 su academic studies in Torino. Il esset competentissim docent de
 electricitá e mecanica.
 
-// XXX TODO: Confirmar errore ja corecter: «preparation “Vocabulario
+// XXX TODO: Confirmar errore ja corectet: «preparation “Vocabulario
 // (…)», e ca li titul del studie esset in cursiv (it ha esset marcat
 // per "«»", samquam ti del vocabulario.
 

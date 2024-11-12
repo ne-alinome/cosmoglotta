@@ -1,5 +1,5 @@
 = Cosmoglotta 1950
-:revdate: 2023-04-16
+:revdate: 2024-11-12
 :docdescription: Omni numerós publicat in 1950 \
 del oficial organe del lingue international Occidental/Interlingue.
 include::common_attributes.adoc[]
@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified: 20230416T1511+0200.
+// Last modified: 20241112T2224+0100.
 
 include::about_this_book.adoc[]
 
@@ -1116,17 +1116,17 @@ li popules ne-occidental: russ, chinesi, indian, etc., de quel li fate
 es por le un veritabil obsession, quam por Sr Decormis (vide Cosmoglotta,
 april 1949). Por ili il vole un lingue *max schematic*, con un minimum
 de radicas, quam Esperanto. E il comensa citar exemples comparativ. Il
-di: «Esperanto economisa per su derivate kuracisto li radica *medico*
+di: «Esperanto economisa per su derivate _kuracisto_ li radica *medico*
 adoptet in Interlingue».
 
 // XXX NOTE: li marca original de págine -19- esset in li sequent
 // paragraf:
 
 Tre jolli ti argument, ma noi crede saver que in Esperanto existe apu li
-radica kurac/i
-li altri radica medicin/o! Ti-ci, in Intl, es derivat *regularimen* (e
-ne solmen etimologicmen, quam Sr G. vole far it creder) de medico per li
-sufixe -in. Dunc un Chinese, o un Tibetan, por queles Sr. G. ha changeat
+radica _kurac/i_
+li altri radica _medicin/o_! Ti-ci, in Interlingue, es derivat *regularimen* (e
+ne solmen etimologicmen, quam Sr G. vole far it creder) de «medico» per li
+sufixe «-in». Dunc un Chinese, o un Tibetan, por queles Sr. G. ha changeat
 su convictiones, va plu facilmen comprender li conexion e li derivation
 in Interlingue: medic/o, medic/al, medic/ar, medic/in/a, quam tis de Esperanto:
 kurac/ist/o, kurac/i, kurac/a, medicin/o!
@@ -1140,21 +1140,21 @@ apu *natur*. Per un demonstration pri li *simplicitá* del structura
 de Esperanto li titul es vermen drollimen selectet.
 
 Li reste del demonstration es de sam valore. Il di, por exemple, por
-condamnar Interlingue, que it have 5 sufixes por li adjectives: mar-in,
-interim-ari, hero-ic, soci-al, problem-atic, durante que Esperanto have
-mar-a, provizor-a (quam si provisori es li sam quam interimari!),
-hero-a, soci-a (yes, ma Esperanto devet poy adopter nov radicas: social/ist,
-social/ism!), dub-a (Esque *dubitativ* es li sam quam
+condamnar Interlingue, que it have 5 sufixes por li adjectives: «mar-in»,
+«interim-ari», «hero-ic», «soci-al», «problem-atic», durante que Esperanto have
+_mar-a_, _provizor-a_ (quam si «provisori» es li sam quam «interimari»!),
+_hero-a_, _soci-a_ (yes, ma Esperanto devet poy adopter nov radicas: social/ist,
+social/ism!), _dub-a_ (Esque *dubitativ* es li sam quam
 *problematic*?)
 
 Usante li sam argumentation noi vell posser dir que Esperanto es un
-lingue tre *complicat* por li non-Europanes, pro que in it -u
-significa un pronómine (kiu), un imperative (venu), un numerale (unu),
-un conjuntion (ĉu)!!! Li líttere -i have anc plur significationes in
+lingue tre *complicat* por li non-Europanes, pro que in it «-u»
+significa un pronómine (_kiu_), un imperative (_venu_), un numerale (_unu_),
+un conjuntion (_ĉu_)!!! Li líttere «-i» have anc plur significationes in
 Esperanto, queles fa ti lingue ínapt por li cerebres del povri Chineses o
 savages del insules polinesian: it posse significar successivmen un
-infinitive (vidi), un pronómine personal (mi), un preposition (pri), un
-adverbie (ĉi), un numerale (tri). To es íntolerabil in un lingue international bon
+infinitive (_vidi_), un pronómine personal (_mi_), un preposition (_pri_), un
+adverbie (_ĉi_), un numerale (_tri_). To es íntolerabil in un lingue international bon
 pensat e noi espera que li Esperantistes ne va obstinar plu long in tal
 erras!
 

@@ -1,5 +1,5 @@
 = Cosmoglotta 1948
-:revdate: 2023-04-11
+:revdate: 2024-11-11
 :docdescription: Omni numerós publicat in 1948 \
 del oficial organe del lingue international Occidental/Interlingue.
 include::common_attributes.adoc[]
@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified 20230411T1534+0200.
+// Last modified 20241111T1555+0100.
 
 include::about_this_book.adoc[]
 
@@ -9514,7 +9514,7 @@ de quelc rari paroles ne-germanic quam *it, stul, old*, e «alcun
 tracies» de Esperanto in Occidental, noi imagina le posiente li plum
 pos har signat ti indignat conclusion, e prendente su «surtuto» por
 ear docer al candid Baselanes que on deve scrir, in «la plej bona
-lingvo de l' mondo»: bedauri, hundo sxajni, ajn, blinda, e «tutti
+lingvo de l' mondo»: _bedaŭri_, _hundo_, _ŝajni_, _ajn_, _blinda_, e «tutti
 quanti», e ne regretar, cane, semblar, quancunc, ciec, etc., quam fa ti
 stupid Occidental. Mey tui dextri manu ne saver quo fa tui levul manu!
 

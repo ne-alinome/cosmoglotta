@@ -1,5 +1,5 @@
 = Cosmoglotta 1929
-:revdate: 2023-04-28
+:revdate: 2024-11-11
 :docdescription: Omni numerós publicat in 1929 \
 del oficial organe del lingue international Occidental/Interlingue.
 include::common_attributes.adoc[]
@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified: 20230428T0748+0200.
+// Last modified: 20241111T1542+0100.
 
 include::about_this_book.adoc[]
 
@@ -1097,15 +1097,15 @@ deve sequer li leges fonetic del tresor lingual dat in ante. Intra ti
 límites on posse e deve introducter in li international lingue paroles
 generalmen conosset, sive de origine german, slav o altri. Talmen in
 Occidental mem germanic paroles con romanic sufixes es acceptabil, quam
-trincard (angles drunkard, german Trinker, Säufer), trincabil (angles
-drinkable), mannic (angles manly german männlich), queles inrangea se
+trincard (angles _drunkard_, german _Trinker_, _Säufer_), trincabil (angles
+_drinkable_), mannic (angles _manly_, german _männlich_), queles inrangea se
 conform al stil del sistema secun li fonetica; ili ne posse esser sentit
-quam bastardes e foren córpores in tant gradu, quam por exemple knabino
-e bedaurinde de Esperanto, tam minu quam tal derivates trova se
+quam bastardes e foren córpores in tant gradu, quam por exemple _knabino_
+e _bedaŭrinde_ de Esperanto, tam minu quam tal derivates trova se
 frequentmen in un lingue natural quam in angles, por exemple ultra
-drunkard (trincard), drinkable (trincabil), anc eatable (manjabil),
-talkative (parlaci, loquaci), free-lovism (doctrina de líber amore),
-backwardation (restitution), womanize (afeminar).
+_drunkard_ (trincard), _drinkable_ (trincabil), anc _eatable_ (manjabil),
+_talkative_ (parlaci, loquaci), _free-lovism_ (doctrina de líber amore),
+_backwardation_ (restitution), _womanize_ (afeminar).
 
 // Homogenitá ne es purisme {{{3
 ==== Homogenitá ne es purisme

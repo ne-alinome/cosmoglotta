@@ -1,5 +1,5 @@
 = Cosmoglotta 1927
-:revdate: 2023-05-24
+:revdate: 2024-11-11
 :docdescription: Omni numerós publicat in 1927 \
 del oficial organe del lingue international Occidental/Interlingue.
 include::common_attributes.adoc[]
@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified: 20230524T1201+0200.
+// Last modified: 20241111T1554+0100.
 
 include::about_this_book.adoc[]
 
@@ -4199,6 +4199,9 @@ Continuation seque.
 // Li ovre de Edgar de Wahl {{{2
 === Li ovre de Edgar de Wahl
 
+// XXX TODO completar li marcation del paroles in altri lingues per
+// cursiv; e paroles in interlingue per signes de citation
+
 Pro quo Occidental es vocat li max apt sistema de Lingue International?
 Quo es lu nov e distintiv de Occidental in comparation a su precursores
 Esperanto, Ido, Neutral, Universal etc? A ti questiones noi prova
@@ -4510,8 +4513,8 @@ five-o'clocker (scrit A, pron. F).
 
 Occidental es in alt gradu plu comprensibil pro mantener li duplic consonantes
 pro indicar curt vocal precedent, o discerner divers paroles
-international e indicar s fort, p. ex.: casse (Esperanto: kaso), casu (kazo),
-carr (charo), car (kara).
+international e indicar s fort, p. ex.: casse (Esperanto: _kaso_), casu (_kazo_),
+carr (_charo_), car (_kara_).
 
 Li lingue international (anc Esperanto) es un idioma con essentialmen latin parolmateriale. E un
 lingue quasi latinid on ne posse scrir per ortografie polones, si on ne
@@ -4519,7 +4522,7 @@ vole reciver grimasse-charades.
 
 Li regul de accentuation in Occidental, que on posi li accentu sur li vocale
 ante li ultim consonante, desembarassa nos de ínnatural sones del
-Esperanto-paroles: radio (radio), firmao (firma), statuo (statue), familio
+Esperanto-paroles: _radio_ (radio), _firmao_ (firma), _statuo_ (statue), _familio_
 (familie).
 
 // XXX FIXED: «li evolution in» -> «li evolution in li»:
@@ -4530,8 +4533,8 @@ nequande realisabil. Ti san constatation on hodie fortunosimen ja posse
 leer anc in li presse esperantistic. Li redactor de «Heroldo de
 Esperanto» scri in nr 3, 1927: «Regretabilmen li principie «Un parol, un
 signification» es ruptet plu quam un vez, anc in Esperanto. Cause es,
-que Esperanto (til cert gradu) es lingue natural. Li afere támen ne es
-dangeros, nam presc sempre li contextu escarta omni dubita.
+que Esperanto (til cert gradu) es un lingue natural. Li afere támen ne es
+dangerosi, nam presc sempre li contextu escarta omni dúbita.
 Comprensibilmen apartene a Vos, o usar o ne usar alcun expression con
 essentie dubitativ.»
 
@@ -4540,32 +4543,32 @@ per international derivates: solitá, solitari, solo, solist, isolat,
 desolat. Ma noi have anc un serie de conosset scientic términos: solari
 constante, insolation, solsticie, parasol. Ci li radica representa nor
 stelle dial, Occidental: sole. It vell esser un barbarism exterminar ti parol
-existent per su derivates e introducter p. ex. quam Esperanto e Ido: suno. To
+existent per su derivates e introducter p. ex. quam Esperanto e Ido: _suno_. To
 es ínpossibil. Li lingues in veritá have tendentie a multisensitá. Un
 lingue quel ha realisat li principie de absolut unisensitá, vell
 posseder milliones de paroles, do vell esser ínparlabil. Anc Esperanto
-nequande posse abolir omni homonimes, vide p. ex. su radica bor',
-significant «forar» e li chimic element «bor», o su nov parol Paneŭropo,
-quel ne es D Broteuropa, ma «Tuteŭropo».
+nequande posse abolir omni homonimes, vide p. ex. su radica _bor'_,
+significant «forar» e li chimic element «bor», o su nov parol _Paneŭropo_,
+quel ne es german _Broteuropa_, ma _Tuteŭropo_.
 
 Comprensibilmen un lingue international deve haver alcun precision e on deve evitar
 homonimes, u possibil. Ma Esperanto e Ido dis-hacca li gordian node per
-deformationes: plateno (platin), faruno (farine), pordo (porta) etc.
+deformationes: _plateno_ (platin), _faruno_ (farine), _pordo_ (porta) etc.
 
 Un del max fatal consequenties in Esperanto e Ido ha causat li ínnatural
 curasse de obligativ finales -o, -a, -e etc. por substantives,
 adjectives, adverbies etc. un metode incontrat in null lingue. Ergo un
 eclatant pruva que it es ínutil. Just li substantive, quel es haustet de
 omni lingues del terre, ne posse suportar un tal restriction e
-etiquettation abominabil quam emúo emu (nov-seland), kanguruo cangurú
-(austral), kolibro colibrí (caraíb), kvago quagga (hottentot), nadiro
-nadir (arab), husaro husar (hungar), gejsho geisha (japan), nirvano
-nirvana (indic), edelvejso edelweiss (germ).
+etiquettation abominabil quam _emuo_ (emu, nov-seland), _kanguruo_ (cangurú,
+austral), _kolibro_ (colibrí, caraíb), _kvago_ (quagga, hottentot), _nadiro_
+(nadir, arab), _husaro_ (husar, hungar), _gejŝo_ (geisha, japan), _nirvano_
+(nirvana, indic), _edelvejso_ (edelweiss, german).
 
 Li conservation de divers finales in maniere de Occidental have practical
 valore por discerner simil paroles: sol, sole; portu, porta, porte
-(Esperanto: haveno, pordo, sendkostoj); monstru, (de)monstra(tion) (Esperanto:
-monstro, (el)montr(ado)).
+(Esperanto: _haveno_, _pordo_, _sendkostoj_); monstru, (de)monstra(tion) (Esperanto:
+_monstro_, _(el)montr(ado)_).
 
 // XXX NOTE: li marca original de págine -70- esset in li sequent
 // paragraf:
@@ -4596,17 +4599,17 @@ Esperanto-corsette del gramatical parolmarcas e misinterpretat suffixes,
 conservat in Ido.
 
 Dr. Zamenhof ha selectet li paroles de Esperanto ex li cardinal lingues de
-Europa, frances, german, angles, anc polones, russ, p.e. nepre (amputat
-R neprenemo, Occidental absolut). Do anc Esperanto es quasi solmen un europan lingue
+Europa, frances, german, angles, anc polones, russ, p.e. _nepre_ (amputat
+russ _neprenemo_, Occidental absolut). Do anc Esperanto es quasi solmen un europan lingue
 e ne mundo-lingue, quam on sin jure ama asserter contra Occidental. Esperanto have
-anc latin radicas quel hodie es totalmen mort p. ex. ansero (Occidental gans, D
-Gans, S ganso, P ganso, A goose, Sv gas), sed (Occidental ma, I ma, S mas, P
-mas, F mais, Ho maar, Sv men), anc grec kaj por Occidental e(t), international
+anc latin radicas quel hodie es totalmen mort p. ex. _ansero_ (Occidental «gans», german
+_Gans_, hispan _ganso_, portugales _ganso_, anglesi _goose_, sved _gas_), _sed_ (Occidental «ma», italian _ma_, hispan _mas_, portugales
+_mas_, frances _mais_, holandes _maar_, sved _men_), anc grec _kaj_ por Occidental «e(t)», international
 per «etc.»
 
 Pri adoption de paroles ex angles on deve esser apartmen caut pro li
-grand diferenties inter scrition e pronunciation. Esperanto-paroles najtingalo
-(A nightingale) e birdo (A bird) monstra manca de unitá in li metode de
+grand diferenties inter scrition e pronunciation. Esperanto-paroles _najtingalo_
+(angles _nightingale_) e _birdo_ (angles _bird_) monstra manca de unitá in li metode de
 adaptation.
 
 Ido ha electet su paroles secun li principie de prof. Jespersen: «Max
@@ -4619,16 +4622,16 @@ occidental e li civilisation mundan hodie es ancor occidental. Un lingue
 totmundan, i. e. quel egarda omni lingues, chines, japanes, arab, es un
 utopie. Noi ja mentionat, anc Esperanto ha haustet solmen ex europan fontes. E
 it es ne-ver que it oferta al ne-europan plu mult quam Occidental. In contrari.
-Per su parolduplettes por un e sam sense (aviadisto e aerflugisto,
-delegacio e delegitaro, direkcio e direktoraro, garnituro e garnaĵo) it
+Per su parolduplettes por un e sam sense (_aviadisto_ e _aerflugisto_,
+_delegacio_ e _delegitaro_, _direkcio_ e _direktoraro_, _garnituro_ e _garnaĵo_) it
 solmen confuse li esperantistes ne-conossent un europan lingue. E to quo
 in Esperanto ne es europan, to anc ne es asian, ma artificial, inventet.
 
 Un cardinal factor estetic e practic in un lingue es su stil, quel in li
 lingue international ja es dat per li latin orígine del preponderant majorité del
 international paroles. Pro to li íncuidat inplantation de german paroles
-ne-international quam in Esperanto: hundeca (canin), knabino (puella, flicca),
-anstatau (vice), bedaurinde (regretabil), es grav misprenses e deve
+ne-international quam in Esperanto: _hundeca_ (canin), _knabino_ (puella, flicca),
+_anstataŭ_ (vice), _bedaŭrinde_ (regretabilmen), es grav misprenses e deve
 repugnar omni persones con natural instincte.
 
 // XXX NOTE: li marca original de págine -71- esset in li sequent
@@ -4660,20 +4663,20 @@ significa pezze de minerale in form de polyedre regulari o simetric.
 Lingues evolue. E li sense del paroles changea. Ples memorar quo ha
 significat li parol «sanction» ante li guerre e quo it es hodie! Un
 parol ne explica li notion representat, ma es solmen un etiquette
-traditional sur it. D Dampfer es vapor-nave e ne locomotive, quáncam ti
+traditional sur it. Li german _Dampfer_ es vapor-nave e ne locomotive, quáncam ti
 ci sense forsan vell esser plu proxim. Anc in Esperanto it es tradition que
-vagonaro es D Zug e ne Wagenpark (ĉiuj vagonoj), logicalmen justificat
-per homaro (ĉiuj homoj).
+_vagonaro_ es german _Zug_ e ne _Wagenpark_ (_ĉiuj vagonoj_), logicalmen justificat
+per _homaro_ (_ĉiuj homoj_).
 
 Angles, essent un lingue quasi mixtet, have li max mult paroles
-hibridic, p. ex. germanic radicas con romanic suffixes: druncard,
-drinkable, eatable, talkative, free-lovism, backwardation, womanize etc.
+hibridic, p. ex. germanic radicas con romanic suffixes: _druncard_,
+_drinkable_, _eatable_, _talkative_, _free-lovism_, _backwardation_, _womanize_ etc.
 It do nu va dever tro chocar si Occidental have analog: mannic, trincabil.
 
 Latino sine Flexione prende li latin vocabul bello por Occidental «guerre», trovant se in li
-romanic lingues e essent afin a A war. Bell(um) vive in belligerante e
-bellicoso. Ma it ne posse esser adoptet in li lingue international, pro su confusion con
-li adjectiv «bell» (F beau, belle, D schön), quel es international mult
+romanic lingues e essent afin a angles _war_. _Bell(um)_ vive in «belligerante» e
+«bellicoso». Ma it ne posse esser adoptet in li lingue international, pro su confusion con
+li adjectiv «bell» (frances _beau_, _belle_, german _schön_), quel es international mult
 plu conosset quam li purmen scientic belligerante e bellicoso.
 
 Li internationalitá del paroles deve esser direct, ínmediat, sensibil ne
@@ -4870,7 +4873,7 @@ representa un monstruosi artificiallia. Arbitrarimen, sin regul e sin
 intim sentiment natural, il prendet li paroles de lingues vivent e mort
 e pro to ili es tre desfacil a memorar.
 
-Precipue li preferentie del german (tago, nur, bedauri, shajni), etsi to
+Precipue li preferentie del german (_tago_, _nur_, _bedaŭri_, _ŝajni_), etsi to
 es honorant por noi, ha esset un grand misprense, quel demolit li
 necessi uniformitá. It esset certmen un erra utilisar anc mort lingues.
 

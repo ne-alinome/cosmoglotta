@@ -1,5 +1,5 @@
 = Cosmoglotta 1935
-:revdate: 2023-04-11
+:revdate: 2024-11-11
 :docdescription: Omni numerós publicat in 1935 \
 del oficial organe del lingue international Occidental/Interlingue.
 include::common_attributes.adoc[]
@@ -9,7 +9,7 @@ include::common_attributes.adoc[]
 //
 // This file is in AsciiDoc format (http//asciidoctor.org).
 //
-// Last modified: 20230411T1613+0200.
+// Last modified: 20241111T2200+0100.
 
 include::about_this_book.adoc[]
 
@@ -3176,7 +3176,7 @@ poliglottes on va trovar con li max bon resultate ti rar homes inclinat
 a aprender Occidental! Forsan on va objecter me que to es un paradox,
 pro que on supposi que li poliglottes senti minu fortmen li beson de un
 mundlingue quam li
-monoglottes. Ma 1) just li polyglottes save que mem li apprension de 3
+monoglottes. Ma 1) just li poliglottes save que mem li apprension de 3
 o 4 foren lingues ne posse soluer li problema del international lingue,
 e 2) ci it es por nos principalmen ne li tache satisfar un beson ma
 trovar homes inclinat ocupar se ye su plesur pri li cose! Adver forsan
